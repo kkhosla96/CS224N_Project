@@ -27,19 +27,19 @@ class CotrainingPipeline:
 	"""
 	@param num_iterations: for how many iterations we should train the models
 	"""
-	def train(self, num_iterations=500: int):
+	def train(self, num_iterations=500):
 		self.U_prime = self.U[:p]
 		self.U = self.U[p:]
 		for iteration in range(num_iterations):
-			for model in models:
-				model.train(L)
-			for model in models:
+			for model in self.models:
+				model.train(self.L)
+			for model in self.models:
 				predictions = model.predict(self.U_prime)
 				sorted_predictions = sorted(predictions, key=lambda tup: tup[1], reverse=True)
 				top_g = [t[0] for t in sorted_predictions[:g]]
 				self.L.update(set(top_g))
-			self.U_prime += self.U[:len(models) * g]
-			self.U = self.U[len(models) * g:]
+			self.U_prime += self.U[:len(self.models) * g]
+			self.U = self.U[len(self.models) * g:]
 
 
 
