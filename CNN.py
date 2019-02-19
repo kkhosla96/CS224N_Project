@@ -1,8 +1,6 @@
 import torch.nn as nn
 import torch.nn.functional as F
 
-from Model import Model
-
 class CNN(nn.Module):
 	"""
 	A simple CNN network to determine if a term is a glossary term.
