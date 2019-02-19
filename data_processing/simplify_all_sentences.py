@@ -1,7 +1,7 @@
 import re
 
-dataFile = "data/textbook-sentences.txt"
-outputFile = "data/simple-textbook-sentences.txt"
+dataFile = "../data/textbook-sentences.txt"
+outputFile = "../data/simple-textbook-sentences.txt"
 
 # the following function is from
 # https://www.kaggle.com/mschumacher/using-fasttext-models-for-robust-embeddings
