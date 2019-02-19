@@ -3,9 +3,9 @@ import pickle
 
 
 
-data = "data/textbook-sentences.txt"
-outputPickle = "data/candidates.pickle"
-outputFile = "data/candidates.txt"
+data = "../data/textbook-sentences.txt"
+outputPickle = "../data/candidates.pickle"
+outputFile = "../data/candidates.txt"
 
 grammar = "Candidate: {<JJ.*>*<NN.*>+}"
 cp = RegexpParser(grammar)
