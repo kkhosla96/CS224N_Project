@@ -1,5 +1,7 @@
+import sys
 import torch
-import torch.nn as nn
+
+sys.path.append("..")
 
 from CNN import CNN
 
