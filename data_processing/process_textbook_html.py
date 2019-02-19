@@ -3,16 +3,16 @@ from html.parser import HTMLParser
 from bs4 import BeautifulSoup
 import pickle
 
-html_path = "data/glossary_html/openstax_apbiology_allchapters.html"
-outputFile = "data/gold/openstax_apbiology_gold.txt"
-outputPickle = "data/gold/openstax_apbiology_gold.pkl"
+html_path = "../data/glossary_html/openstax_microbiology_allchapters.html"
+outputFile = "../data/gold/openstax_microbiology_gold.txt"
+outputPickle = "../data/gold/openstax_microbiology_gold.pkl"
 
 with open(html_path) as f:
 	soup = BeautifulSoup(f, features="html.parser")
 	#class value must change for different PDFs
 	#AP Biology = h4
-	#Concepts Biology = s27
 	testList = soup.findAll("h4")
+	#testList = soup.findAll("span", {"class":"cls_002"})
 	# print([str(x.contents[0]).strip().lower() for x in testList])
 	# testList = soup.findAll("p", {"class":"s28"})
 	candidateTerms = [x.contents[0] for x in testList]
