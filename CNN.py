@@ -38,7 +38,7 @@ class CNN(nn.Module):
 		flat = pooled.view(pooled.size()[0], -1)
 		out = self.linear(flat)
 		prob = F.sigmoid(out)
-		return prob
+		return prob.squeeze()
 
 	def train(self, X_train, y_train):
 		self.X_train = X_train
