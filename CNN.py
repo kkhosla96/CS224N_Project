@@ -7,13 +7,11 @@ class CNN(nn.Module):
 	A simple CNN network to determine if a term is a glossary term.
 	"""
 
-	def __init__(self, vocab, length_of_term, word_embed_size, out_channels, kernel_sizes=None):
+	def __init__(self, vocab, word_embed_size, out_channels, kernel_sizes=None):
 		'''
 		Need to supply the hyper-parameters that define the CNN network architecture.
 		
 		@param vocab (Vocab): a class to help get embeddings from words
-		@param length_of_term (int): corresponds to l in the original paper, how many words the input term is. 
-		It's possible will need to pad input to make them the correct size.
 		@param word_embed_size (int): the length of the embedding for a word. corresponds to d in the original paper.
 		@param out_channels (int): how many filters to have for the convolution of each size. corresponds to n in the original paper.
 		@param kernel_size (List[int]): list of the sizes for the convolutions (for example, look at bigrams, trigrams, quadgrams etc.).
@@ -21,7 +19,8 @@ class CNN(nn.Module):
 		'''
 		super(CNN, self).__init__()
 		self.vocab = vocab
-		self.length_of_term = length_of_term
+		# self.length_of_term corresponds to l in the original paper
+		self.length_of_term = vocab.getTermLength()
 		self.word_embed_size = word_embed_size
 		self.out_channels = out_channels
 		self.in_channels = 1
@@ -33,11 +32,13 @@ class CNN(nn.Module):
 		self.convs = [nn.Conv2d(self.in_channels, self.out_channels, (kernel_size, self.word_embed_size)) for kernel_size in self.kernel_sizes]
 		self.linear = nn.Linear(len(self.kernel_size) * self.out_channels, 1)
 
-	'''	
-	@param terms (List[List[str]]): a list of terms to evaluate, each of which are a list of strings. 
-	@returns probabilities (Tensor): a tensor of shape (len(terms),) that represents the probability each term is a key-phrase.
-	'''
+	
 	def forward(self, terms):
+		'''	
+		@param terms (List[List[str]]): a list of terms to evaluate, each of which are a list of strings. 
+		@returns probabilities (Tensor): a tensor of shape (len(terms),) that represents the probability each term is a key-phrase.
+		'''
+
 		# TODO: figure out how to get from terms to embeddings of shape (batch_size, self.in_channels, self.length_of_term, self.word_embed_size)
 		# for now, assume that there is a variable called embeddings that is just that.
 
