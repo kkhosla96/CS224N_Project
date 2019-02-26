@@ -1,7 +1,7 @@
 import torch
 from torch import nn
 import torch.nn.functional as F
-from typing import List, Tuple
+from typing import List
 
 
 HIDDEN_SIZE = 256
@@ -9,12 +9,21 @@ EMBED_SIZE = 256
 
 class LSTM(nn.Module):
     def __init__(self, hidden_size=HIDDEN_SIZE, bidirectional=False, vocab=None, embeddings=None):
+        """ Init NMT Model.
+
+        @param hidden_size (int): Hidden Size (dimensionality)
+        @param bidirectional (bool): Indicates whether the LSTM is bidirectional
+        @param vocab (Vocab): Vocabulary object. See Vocab.py for documentation.
+        @param embeddings (Embedding): Embedding object storing the word embedings
+        """
+        
         super(LSTM, self).__init__()
         self.embeddings = embeddings
         self.embed_size = embeddings.embedding_dim
         self.LSTM = nn.LSTM(self.embed_size, hidden_size, bidirectional=bidirectional)
         self.vocab = vocab
         self.linear = nn.Linear(hidden_size * (2 if bidirectional else 1), 1)
+
     
     def forward(self, candidates: List[List[str]]) -> torch.Tensor:
         """ Takes a mini-batch of candidates and computes the log-likelihood that
@@ -35,7 +44,7 @@ class LSTM(nn.Module):
         idx = (torch.LongTensor(candidate_lengths) - 1).view(-1, 1).expand(len(candidate_lengths), enc_hiddens.size(2))
         idx = idx.unsqueeze(1)
         last_hiddens = enc_hiddens.gather(1, idx).squeeze(1)
-        probs = torch.sigmoid(self.linear(last_hiddens))
+        probs = torch.sigmoid(self.linear(last_hiddens).squeeze(-1))
         return probs
 
     def encode(self, candidates_padded: torch.Tensor, candidate_lengths: List[int]) -> torch.Tensor:
