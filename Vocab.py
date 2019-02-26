@@ -15,19 +15,12 @@ class Vocab(object):
 		self.word2id = dict()
 		self.id2word = dict()
 		self.max_term_length = max_term_length
-		# if you need to add more special characters,
-		# do it before unk since we use that as the last
-		# special character before we use actual word
-		# embeddings
 		self.word2id['<pad>'] = 0
-		self.word2id['<unk>'] = 1
 		self.pad_id = self.word2id['<pad>']
-		self.unk_id = self.word2id['<unk>']
 		self.id2word[self.pad_id] = '<pad>'
-		self.id2word[self.unk_id] = '<unk>'
 		with open(vocabFile) as f:	
 			line = f.readline()
-			count = self.unk_id + 1
+			count = self.pad_id + 1
 			while line:
 				without_newline = line[:-1]
 				self.word2id[without_newline] = count
