@@ -15,13 +15,13 @@ class CNN(nn.Module):
 		@param out_channels (int): how many filters to have for the convolution of each size. corresponds to n in the original paper.
 		@param kernel_size (List[int]): list of the sizes for the convolutions (for example, look at bigrams, trigrams, quadgrams etc.).
 		the length of this list corresponds to r in the original paper.
-		@param embeddings (Tensor): a tensor of (num_words, embedding_size) that contains the word embeddings we are going to use.
+		@param embeddings (nn.Embedding): pass in the embeddings for our vocabulary
 		'''
 		super(CNN, self).__init__()
 		self.vocab = vocab
 		self.length_of_term = vocab.get_term_length()
 		self.out_channels = out_channels
-		self.word_embed_size = len(embeddings[0])
+		self.word_embed_size = embeddings.embedding_dim
 		self.in_channels = self.word_embed_size
 
 		if kernel_sizes is None:
@@ -31,7 +31,7 @@ class CNN(nn.Module):
 		
 		self.convs = [nn.Conv1d(self.in_channels, self.out_channels, kernel_size) for kernel_size in self.kernel_sizes]
 		self.linear = nn.Linear(len(self.kernel_sizes) * self.out_channels, 1)
-		self.embeddings = nn.Embedding.from_pretrained(embeddings)
+		self.embeddings = embeddings
 
 	def forward(self, terms):
 		'''	
@@ -54,7 +54,7 @@ class CNN(nn.Module):
 		# concat all of them to send to the final layer, should have size (batch_size, len(self.kernel_size) * self.out_channels)
 		cat = torch.cat(maxes, dim=1)
 		# multiply by linear layer and put through sigmoid. vals, since we squeeze, should have shape (batch_size) 
-		vals = torch.squeeze(self.linear(cat))
+		vals = torch.squeeze(self.linear(cat), dim=-1)
 		# finally, we pass it through a sigmoid to get a probability. prob should also have shape (batch_size)
 		probs = torch.sigmoid(vals)
 		return probs
