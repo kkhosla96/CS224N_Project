@@ -12,7 +12,7 @@ def pad_terms(terms, pad_token, max_term_length):
     terms_padded = []
 
     for term in terms:
-        diff = max_term_length - len(sentence)
+        diff = max_term_length - len(term)
         terms_padded.append((term + [pad_token] * diff)[:max_term_length])
 
     return terms_padded
