@@ -1,6 +1,8 @@
 import torch
 from utils import pad_terms
 
+from typing import List
+
 class Vocab(object):
 	"""
 	Allows us to turn words into vectors to input them into our networks.
@@ -29,7 +31,7 @@ class Vocab(object):
 				count += 1
 
 	def __getitem__(self, word):
-		return self.word2id.get(word, self.unk_id)
+		return self.word2id[word]
 
 	def __contains__(self, word):
 		return word in self.word2id
@@ -71,17 +73,17 @@ class Vocab(object):
 		'''
 		return [self.id2word[word_id] for word_id in word_ids]
 	
-	def to_input_tensor(self, terms: List[List[str]], device: torch.device) -> torch.Tensor:
+	def to_input_tensor(self, terms: List[List[str]]) -> torch.Tensor:
 		'''
 		Convert a list of terms into a tensor with shape (batch_size, self.max_term_length)
 		@param terms (List[List[str]]) a batch of terms each of which we have to get their
 		index representations for their words
-		@param device: device on which to load the tensor
+		# @param device: device on which to load the tensor
 		@returns terms_as_ints (tensor): tensor of size (batch_size, self.max_term_length)
 		'''
 		word_ids = self.words2indices(terms)
 		terms_padded = pad_terms(word_ids, self['<pad>'], self.max_term_length)
-		tens = torch.tensor(terms_padded, dtype=torch.long, device=device)
+		tens = torch.tensor(terms_padded, dtype=torch.long)
 		return tens
 
 

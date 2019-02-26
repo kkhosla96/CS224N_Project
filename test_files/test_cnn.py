@@ -4,20 +4,16 @@ import torch
 sys.path.append("..")
 
 from CNN import CNN
+from Vocab import Vocab
 
-batch_size = 32
-in_channels = 1
 height = 4
 embed_size = 50
+number_words = 1000
 
-'''
-can't test this until write the vocab class, since
-the CNN will take in a list of list of strings. see
-the CNN file for more details.
-
-x = torch.zeros([batch_size, in_channels, height, embed_size])
-cnn = CNN(height, embed_size)
-f = cnn.forward(x)
+embeddings = torch.ones((number_words, embed_size))
+vocab = Vocab("sample_vocabulary.txt", 3)
+cnn = CNN(vocab, 3, embeddings)
+terms = [["this", "vocabulary"], ["it", "bitch"], ["hello"]]
+f = cnn.forward(terms)
 print(f)
 print(f.size())
-'''
