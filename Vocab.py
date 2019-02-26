@@ -42,7 +42,7 @@ class Vocab(object):
 	def __len__(self):
 		return len(self.word2id)
 
-	def getTermLength(self):
+	def get_term_length(self):
 		return self.max_term_length
 
 	def id2word(self, id):
