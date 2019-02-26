@@ -19,7 +19,7 @@ class CNN(nn.Module):
 		'''
 		super(CNN, self).__init__()
 		self.vocab = vocab
-		self.length_of_term = vocab.getTermLength()
+		self.length_of_term = vocab.get_term_length()
 		self.out_channels = out_channels
 		self.word_embed_size = len(embeddings[0])
 		self.in_channels = self.word_embed_size
