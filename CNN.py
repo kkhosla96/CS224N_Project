@@ -82,6 +82,7 @@ class CNN(nn.Module):
 		batch_starting_index = 0
 		number_examples = len(self.X_train)
 		num_iterations = math.ceil(number_examples / batch_size)
+		losses = []
 		for epoch in range(num_epochs):
 			running_loss = 0.0
 			for iteration in range(num_iterations):
@@ -96,22 +97,13 @@ class CNN(nn.Module):
 				optimizer.step()
 				running_loss += loss.item()
 
-				if verbose and iteration % 10 == 0:
-					print('[%d, %5d] loss: %.3f' % (epoch + 1, iteration + 1, running_loss / 10))
-					running_loss = 0.0
-
 				batch_starting_index = (batch_starting_index + batch_size) % number_examples
-			print('Finished epoch %d' % (epoch + 1))
+
+			losses.append(float(running_loss))
+			
+			if verbose: print('Finished epoch %d' % (epoch + 1))
 		
 		print('Finished training')
-
-
-
-
-
-
-
-
-
+		return losses
 
 
