@@ -40,7 +40,9 @@ class WordVectorParser(object):
 					vecs.append(vec)
 				line = f.readline()
 		vecs = np.array(vecs)
-		self.embeddings = torch.from_numpy(vecs)
+		# convert to FloatTensor because by default is type DoubleTensor.
+		# need it to be FloatTensor for training a model.
+		self.embeddings = torch.from_numpy(vecs).type(torch.FloatTensor)
 		self.embedding_layer = nn.Embedding.from_pretrained(self.embeddings)
 		self.embedding_layer.weight.requires_grad = False
 
@@ -62,6 +64,7 @@ class WordVectorParser(object):
 		'''
 		@return embedding_layer (nn.Embedding): the nn.Embedding layer created in this class
 		'''
+		
 		return self.embedding_layer
 
 
