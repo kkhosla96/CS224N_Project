@@ -42,6 +42,7 @@ class WordVectorParser(object):
 		vecs = np.array(vecs)
 		self.embeddings = torch.from_numpy(vecs)
 		self.embedding_layer = nn.Embedding.from_pretrained(self.embeddings)
+		self.embedding_layer.weight.requires_grad = False
 
 	def get_vocab(self):
 		'''
