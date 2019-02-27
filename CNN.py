@@ -1,5 +1,7 @@
+import math
 import torch
 import torch.nn as nn
+import torch.optim as optim
 import torch.nn.functional as F
 
 class CNN(nn.Module):
@@ -7,7 +9,7 @@ class CNN(nn.Module):
 	A simple CNN network to determine if a term is a glossary term.
 	"""
 
-	def __init__(self, vocab, out_channels, embeddings, kernel_sizes=None):
+	def __init__(self, vocab, out_channels, embedding_layer, kernel_sizes=None):
 		'''
 		Need to supply the hyper-parameters that define the CNN network architecture.
 		
@@ -15,13 +17,13 @@ class CNN(nn.Module):
 		@param out_channels (int): how many filters to have for the convolution of each size. corresponds to n in the original paper.
 		@param kernel_size (List[int]): list of the sizes for the convolutions (for example, look at bigrams, trigrams, quadgrams etc.).
 		the length of this list corresponds to r in the original paper.
-		@param embeddings (nn.Embedding): pass in the embeddings for our vocabulary
+		@param embedding_layer (nn.Embedding): pass in the embedding layer for our vocabulary
 		'''
 		super(CNN, self).__init__()
 		self.vocab = vocab
 		self.length_of_term = vocab.get_term_length()
 		self.out_channels = out_channels
-		self.word_embed_size = embeddings.embedding_dim
+		self.word_embed_size = embedding_layer.weight.size()[1]
 		self.in_channels = self.word_embed_size
 
 		if kernel_sizes is None:
@@ -31,24 +33,25 @@ class CNN(nn.Module):
 		
 		self.convs = [nn.Conv1d(self.in_channels, self.out_channels, kernel_size) for kernel_size in self.kernel_sizes]
 		self.linear = nn.Linear(len(self.kernel_sizes) * self.out_channels, 1)
-		self.embeddings = embeddings
+		self.embedding_layer = embedding_layer
 
 	def forward(self, terms):
 		'''	
 		@param terms (List[List[str]]): a list of terms to evaluate, each of which are a list of strings. 
-		@returns probabilities (Tensor): a tensor of shape (len(terms),) that represents the probability each term is a key-phrase.
+		@returns probabilities (Tensor): a tensor of shape (len(terms), 2). column 0 represents the probability it is not a key-term, and column 1 represents
+		the probability it is a key-term (it has to return both because cross-entropy loss expects a tensor of size (batch_size, num_classes))
 		'''
 
 		# indices is of size (batch_size, self.max_term_length)
 		indices = self.vocab.to_input_tensor(terms)
 		# embeddings is of size (batch_size, self.max_term_length, self.word_embed_size)
-		embeddings = self.embeddings(indices)
+		embeddings = self.embedding_layer(indices)
 		# we transpose the two dimensions because the convolution networks expect an input
 		# of size (batch_size, self.word_embed_size, self.max_term_length)
 		embeddings = torch.transpose(embeddings, 1, 2)
 		# each thing in feature_maps is of size (batch_size, self.out_channels, h_out), where the last two terms are computed
 		# using the formula here: https://pytorch.org/docs/stable/nn.html#torch.nn.Conv1d.
-		feature_maps = [conv(embeddings) for conv in self.convs]
+		feature_maps = [conv.forward(embeddings) for conv in self.convs]
 		# we take the maximum for each fm, each element in maxes has shape (batch_size, self.out_channels)
 		maxes = [torch.max(fm, dim=2)[0] for fm in feature_maps]
 		# concat all of them to send to the final layer, should have size (batch_size, len(self.kernel_size) * self.out_channels)
@@ -57,8 +60,58 @@ class CNN(nn.Module):
 		vals = torch.squeeze(self.linear(cat), dim=-1)
 		# finally, we pass it through a sigmoid to get a probability. prob should also have shape (batch_size)
 		probs = torch.sigmoid(vals)
-		return probs
+		# we need the output to be of shape (batch_size, 2) where the first column represents the probability that it is
+		# not a key term, and the second column is the probability it is a key-term
+		# we have to do this since the cross-entropy loss function expects an input of (batch_size, C) where C is the number of classes.
+		# unsqueezed has size (batch_size, 1)
+		unsqueezed = probs.unsqueeze(dim=1)
+		# probabilities_for_both_classes has size (batch_size, 2), where the two columns are equal
+		probabilities_for_both_classes = unsqueezed.repeat(1, 2)
+		# probabilities_for_both_classes will still has shape (batch_size, 2), but column 0 represents the probability each term is not a key-term
+		# and column 1 represents the probability each term is a key-term. note the two columns sum to a column of 1.
+		probabilities_for_both_classes[:, 0] = 1 - probabilities_for_both_classes[:, 0]
+		return probabilities_for_both_classes
 
-	def train(self, X_train, y_train):
+	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.001, momentum=.9, batch_size=32, verbose=False):
 		self.X_train = X_train
-		self.y_train = y_train
+		self.y_train = torch.tensor(y_train)
+
+		loss_function = nn.CrossEntropyLoss()
+		optimizer = optim.SGD(self.parameters(), lr, momentum)
+
+		batch_starting_index = 0
+		number_examples = len(self.X_train)
+		num_iterations = math.ceil(number_examples / batch_size)
+		for epoch in range(num_epochs):
+			running_loss = 0.0
+			for iteration in range(num_iterations):
+				inputs = self.X_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
+				labels = self.y_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
+
+				optimizer.zero_grad()
+
+				outputs = self.forward(inputs)
+				loss = loss_function(outputs, labels)
+				loss.backward()
+				optimizer.step()
+				running_loss += loss.item()
+
+				if verbose and iteration % 10 == 0:
+					print('[%d, %5d] loss: %.3f' % (epoch + 1, iteration + 1, running_loss / 10))
+					running_loss = 0.0
+
+				batch_starting_index = (batch_starting_index + batch_size) % number_examples
+			print('Finished epoch %d' % (epoch + 1))
+		
+		print('Finished training')
+
+
+
+
+
+
+
+
+
+
+
