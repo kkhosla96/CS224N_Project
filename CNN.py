@@ -4,6 +4,36 @@ import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
 
+class ListModule(nn.Module):
+	"""
+	Was running into issues overfitting on small training-data. turns out the convolution layers were not training
+	because they were in a list. to overcome this, use this small module in order to actually make the convolutional
+	layers trainable. can't link source right now, but this is ripped from Pytorch boards.
+	"""
+
+	def __init__(self, *args):
+		super(ListModule, self).__init__()
+		idx = 0
+		for module in args:
+			self.add_module(str(idx), module)
+			idx += 1
+
+	def __getitem__(self, idx):
+		if idx < 0 or idx >= len(self._modules):
+			raise IndexError('index %s is out of range' % idx)
+		it = iter(self._modules.values())
+		for i in range(idx):
+			next(it)
+		return next(it)
+
+	def __iter__(self):
+		return iter(self._modules.values())
+
+	def __len__(self):
+		return len(self._modules)
+
+
+
 class CNN(nn.Module):
 	"""
 	A simple CNN network to determine if a term is a glossary term.
@@ -31,7 +61,8 @@ class CNN(nn.Module):
 		else:
 			self.kernel_sizes = kernel_sizes
 		
-		self.convs = [nn.Conv1d(self.in_channels, self.out_channels, kernel_size) for kernel_size in self.kernel_sizes]
+		convs = [nn.Conv1d(self.in_channels, self.out_channels, kernel_size) for kernel_size in self.kernel_sizes]
+		self.convs = ListModule(*convs)
 		self.linear = nn.Linear(len(self.kernel_sizes) * self.out_channels, 1)
 		self.embedding_layer = embedding_layer
 
@@ -51,7 +82,7 @@ class CNN(nn.Module):
 		embeddings = torch.transpose(embeddings, 1, 2)
 		# each thing in feature_maps is of size (batch_size, self.out_channels, h_out), where the last two terms are computed
 		# using the formula here: https://pytorch.org/docs/stable/nn.html#torch.nn.Conv1d.
-		feature_maps = [conv.forward(embeddings) for conv in self.convs]
+		feature_maps = [self.convs[idx].forward(embeddings) for idx in range(len(self.convs))]
 		# we take the maximum for each fm, each element in maxes has shape (batch_size, self.out_channels)
 		maxes = [torch.max(fm, dim=2)[0] for fm in feature_maps]
 		# concat all of them to send to the final layer, should have size (batch_size, len(self.kernel_size) * self.out_channels)
