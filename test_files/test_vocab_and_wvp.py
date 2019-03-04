@@ -8,7 +8,7 @@ wvp = WordVectorParser(test_file)
 vocab = wvp.get_vocab()
 embeddings = wvp.get_embeddings()
 
-my_word = "excessive"
+my_word = "carbohydrate"
 word_id = vocab[my_word]
 embedding_for_word = embeddings[word_id]
 
