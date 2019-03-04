@@ -8,10 +8,10 @@ class Vocab(object):
 	Allows us to turn words into vectors to input them into our networks.
 	"""
 
-	def __init__(self, vocabFile, max_term_length=4):
+	def __init__(self, vocab_file, max_term_length=4):
 		'''
 		Initializes the Vocab object by creating a map from words to indices.
-		@param vocabFile (str): location of a file from which to read words.
+		@param vocab_file (str): location of a file from which to read words.
 		this file should have one word per line.
 		'''
 		self.word2id = dict()
@@ -20,15 +20,16 @@ class Vocab(object):
 		self.word2id['<pad>'] = 0
 		self.pad_id = self.word2id['<pad>']
 		self.id2word[self.pad_id] = '<pad>'
-		with open(vocabFile) as f:	
-			line = f.readline()
-			count = self.pad_id + 1
-			while line:
-				without_newline = line[:-1]
-				self.word2id[without_newline] = count
-				self.id2word[count] = without_newline
+		if vocab_file is not None:
+			with open(vocab_file) as f:	
 				line = f.readline()
-				count += 1
+				count = self.pad_id + 1
+				while line:
+					without_newline = line[:-1]
+					self.word2id[without_newline] = count
+					self.id2word[count] = without_newline
+					line = f.readline()
+					count += 1
 
 	def __getitem__(self, word):
 		return self.word2id[word]
@@ -41,6 +42,21 @@ class Vocab(object):
 
 	def __len__(self):
 		return len(self.word2id)
+
+	def add(self, word):
+		'''
+		Adds a word to our vocabulary, if it has not seen before.
+		@param word (str): a word to add to our vocab.
+		@return word_d (int): the index the word has been assigned
+		'''
+
+		if word not in self:
+			word_id = len(self)
+			self.word2id[word] = word_id
+			self.id2word[word_id] = word
+			return word_id
+		else:
+			return self[word]
 
 	def get_term_length(self):
 		return self.max_term_length
