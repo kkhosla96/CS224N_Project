@@ -25,23 +25,25 @@ def precision(predicted_terms, gold):
 def recall(predicted_terms, gold):
 	return len(predicted_terms & gold) / len(gold)
 
-def calculate_precision_and_recall(predicted_file, label_file, gold_file):
-	with open(predicted_file, 'rb') as f:
-		predictions = pickle.load(f)
-	with open(label_file, 'rb') as f:
-		labels = pickle.load(f)
-	with open(gold_file, 'rb') as f:
-		golds = pickle.load(f)
-	predicted_positive = set([' '.join(predictions[i]) for i in range(len(labels)) if labels[i] == 1])
+def calculate_precision_and_recall(labeled_file, label_file, gold_file):
+	labeled, labels = get_labeled_and_labels(labeled_file, label_file)
+	golds = get_gold_terms(gold_file)
+	predicted_positive = set([' '.join(labeled[i]) for i in range(len(labels)) if labels[i]])
 	golds = set(golds)
 	p = precision(predicted_positive, golds)
 	r = recall(predicted_positive, golds)
 	return (p, r)
 
-def get_positive_predictions(predicted_file, label_file):
-	with open(predicted_file, 'rb') as f:
-		predictions = pickle.load(f)
+def get_labeled_and_labels(labeled_file, label_file):
+	with open(labeled_file, 'rb') as f:
+		labeled = pickle.load(f)
 	with open(label_file, 'rb') as f:
 		labels = pickle.load(f)
-	predicted_positive = set([' '.join(predictions[i]) for i in range(len(labels)) if labels[i] == 1])
-	return predicted_positive
+	return labeled, labels
+
+def get_gold_terms(gold_file):
+	with open(gold_file, 'rb') as f:
+		return set(pickle.load(f))
+
+
+
