@@ -103,6 +103,12 @@ class CNN(nn.Module):
 		probabilities_for_both_classes[:, 0] = 1 - probabilities_for_both_classes[:, 0]
 		return probabilities_for_both_classes
 
+	def predict(self, terms):
+		probs = self.forward(terms)
+		max_probs, labels = torch.max(probs, dim=1)
+		ret = [(terms[index], max_probs[index].item(), labels[index].item()) for index in range(len(terms))]
+		return ret
+
 	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.001, momentum=.9, batch_size=32, verbose=False):
 		self.X_train = X_train
 		self.y_train = torch.tensor(y_train)
