@@ -3,9 +3,9 @@ import pickle
 
 
 
-data = "../data/textbook-sentences.txt"
-outputPickle = "../data/candidates.pickle"
-outputFile = "../data/candidates.txt"
+data = "../data/textbook_sentences/openstax_biology_sentences.txt"
+outputPickle = "../data/candidates/openstax_biology_candidates.pickle"
+outputFile = "../data/candidates/openstax_biology_candidates.txt"
 
 grammar = "Candidate: {<JJ.*>*<NN.*>+}"
 cp = RegexpParser(grammar)
@@ -15,7 +15,7 @@ with open(data) as f:
 	line = f.readline()
 	count = 0
 	while line:
-		sentence = line.split("\t")[1].lower()
+		sentence = line.lower()
 		tokens = word_tokenize(sentence)
 		pos = pos_tag(tokens)
 		tree = cp.parse(pos)
