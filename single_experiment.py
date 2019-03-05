@@ -32,13 +32,13 @@ embedding_layer = wvp.get_embedding_layer()
 cnn = CNN(vocab, out_channels, embedding_layer)
 
 # create cotrainer
-g = 20
+g = 5
 p = 500
 cotrainer = CotrainingPipeline(seed_terms, seed_labels, unlabelled, [cnn], g, p)
 
 # train the models
-num_iterations = 2
-num_epochs = 20
+num_iterations = 150
+num_epochs = 50
 now = time.time()
 cotrainer.train(num_iterations, num_epochs)
 print("it took %f seconds to train for %d iterations." % (time.time() - now, num_iterations))
