@@ -45,7 +45,7 @@ class CotrainingPipeline:
                                         self.labels[i - 1].append(term[2])
                                         terms_to_remove.add(term[0])
                         update_Uprime(U_prime, terms_to_remove)
-			U_prime += self.U[:len(terms_to_remove)])
+			U_prime += self.U[:len(terms_to_remove)]
 			self.U = self.U[len(terms_to_remove):]
 
         def update_Uprime(self, U_prime, terms_to_remove):
