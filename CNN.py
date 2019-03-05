@@ -140,7 +140,7 @@ class CNN(nn.Module):
 			
 			if verbose: print('Finished epoch %d' % (epoch + 1))
 		
-		print('Finished training')
+		if verbose: print('Finished training')
 		return losses
 
 
