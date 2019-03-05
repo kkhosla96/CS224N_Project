@@ -113,7 +113,7 @@ class CNN(nn.Module):
 		self.X_train = X_train
 		self.y_train = torch.tensor(y_train)
 
-		loss_function = nn.CrossEntropyLoss()
+		loss_function = nn.BCELoss()
 		optimizer = optim.SGD(self.parameters(), lr, momentum)
 
 		batch_starting_index = 0
