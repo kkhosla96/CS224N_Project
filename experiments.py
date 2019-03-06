@@ -2,11 +2,13 @@
 # -*- coding: utf-8 -*-
 
 import utils
+import pickle
 import json
 import experiments
 import matplotlib.pyplot as plt
-from tqdm import tqdm
 import json
+from tqdm import tqdm
+from CotrainingPipeline import CotrainingPipeline
 
 def run_experiment(experiment_name, args):
 	experiment_function = eval(experiment_name)
