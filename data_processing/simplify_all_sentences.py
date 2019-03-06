@@ -1,7 +1,7 @@
 import re
 
-dataFile = "../data/textbook-sentences.txt"
-outputFile = "../data/simple-textbook-sentences.txt"
+dataFile = "../data/textbook_sentences/openstax_biology_chapters_123_sentences.txt"
+outputFile = "../data/textbook_sentences/openstax_biology_chapters_123_sentences_simple.txt"
 
 # the following function is from
 # https://www.kaggle.com/mschumacher/using-fasttext-models-for-robust-embeddings
@@ -36,7 +36,8 @@ out = open(outputFile, 'w')
 with open(dataFile) as f:
 	line = f.readline()
 	while line:
-		sentence = line.split("\t")[1]
+		#sentence = line.split("\t")[1]
+		sentence = line.strip()
 		cleaned = normalize(sentence)
 		out.write(cleaned + "\n")
 		line = f.readline()
