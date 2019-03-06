@@ -49,6 +49,8 @@ def sanity_check(args):
     '''
     Runs through a short test suite, running each test or not depending
     on the arguments specified in the command line (or through defaults!)
+
+    Note to selves: Add any sanity check testing we want here.
     '''
     print("doing the sanity check thing")
 
