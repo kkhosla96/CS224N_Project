@@ -1,0 +1,1272 @@
+this nasa image is a composite of several satellite  -  based view of earth  .
+to make the whole  -  earth image  ,  nasa scientist combine observation of different part of the planet  .
+viewed from space  ,  earth offer no clue about the diversity of life form that reside there  .
+the first form of life on earth are thought to have been microorganism that existed for billion of year in the ocean before plant and animal appeared  .
+the mammal  ,  bird  ,  and flower so familiar to u are all relatively recent  ,  originating  one  three  zero  to  two  zero  zero  million year ago  .
+human have inhabited this planet for only the last  two   .   five  million year  ,  and only in the last  two  zero  zero   ,   zero  zero  zero  year have human started looking like we do today  .
+figure  one   .   two  formerly called blue  -  green algae  ,  these  (  a  )  cyanobacteria  ,  shown here at  three  zero  zero x magnification under a light microscope  ,  are some of earth ’ s oldest life form  .
+these  (  b  )  stromatolites along the shore of lake thetis in western australia are ancient structure formed by the layering of cyanobacteria in shallow water  .
+(  credit a   modification of work by nasa   credit b   modification of work by ruth ellison   scale  -  bar data from matt russell  )  what is biology  ?
+in simple term  ,  biology is the study of living organism and their interaction with one another and their environment  .
+this is a very broad definition because the scope of biology is vast  .
+biologist may study anything from the microscopic or submicroscopic view of a cell to ecosystem and the whole living planet  (  figure  one   .   two   )   .  listening to the daily news  ,  you will quickly realize how many aspect of biology are discussed every day  .
+for example  ,  recent news topic include escherichia coli  (  figure  one   .   three   )  outbreak in spinach and salmonella contamination in peanut butter  .
+other subject include effort toward finding a cure for aid  ,  alzheimer ’ s disease  ,  and cancer  .
+on a global scale  ,  many researcher are committed to finding way to protect the planet  ,  solve environmental issue  ,  and reduce the effect of climate change  .
+all of these diverse endeavor are related to different facet of the discipline of biology  .
+figure  one   .   three  escherichia coli  (  e  .  coli  )  bacteria  ,  seen in this scanning electron micrograph  ,  are normal resident of our digestive tract that aid in the absorption of vitamin k and other nutrient  .
+however  ,  virulent strain are sometimes responsible for disease outbreak  .   (  credit   eric erbe  ,  digital colorization by christopher pooley  ,  both of usda  ,  ar  ,  emu  )  the process of science biology is a science  ,  but what exactly is science  ?
+what doe the study of biology share with other scientific discipline  ?
+science  (  from the latin scientia  ,  meaning “ knowledge ”  )  can be defined a knowledge that cover general truth or the operation of general law  ,  especially when acquired and tested by the scientific method  .
+it becomes clear from this definition that the application of the scientific method play a major role in science  .
+the scientific method is a method of research with defined step that include experiment and careful observation  .
+the step of the scientific method will be examined in detail later  ,  but one of the most important aspect of this method is the testing of hypothesis by mean of repeatable experiment  .
+a hypothesis is a suggested explanation for an event  ,  which can be tested  .
+although using the scientific method is inherent to science  ,  it is inadequate in determining what science is  .
+this is because it is relatively easy to apply the scientific method to discipline such a physic and chemistry  ,  but when it come to discipline like archaeology  ,  psychology  ,  and geology  ,  the scientific method becomes le applicable a it becomes more difficult to repeat experiment  .
+these area of study are still science  ,  however  .
+consider archeology — even though one cannot perform repeatable experiment  ,  hypothesis may still be supported  .
+for instance  ,  an archeologist can hypothesize that an ancient culture existed based on finding a piece of pottery  .
+further hypothesis could be made about various characteristic of this culture  ,  and these hypothesis may be found to be correct or false through continued support or contradiction from other finding  .
+a hypothesis may become a verified theory  .
+a theory is a tested and confirmed explanation for observation or phenomenon  .
+science may be better defined a field of study that attempt to comprehend the nature of the universe  .
+what would you expect to see in a museum of natural science  ?
+frog  ?
+plant  ?
+dinosaur skeleton  ?
+exhibit about how the brain function  ?
+a planetarium  ?
+gem and mineral  ?
+or  ,  maybe all of the above  ?
+science includes such diverse field a astronomy  ,  biology  ,  computer science  ,  geology  ,  logic  ,  physic  ,  chemistry  ,  and mathematics  (  figure  one   .   four   )   .  however  ,  those field of science related to the physical world and it phenomenon and process are considered natural science  .
+thus  ,  a museum of natural science might contain any of the item listed above  .
+figure  one   .   four  the diversity of scientific field includes astronomy  ,  biology  ,  computer science  ,  geology  ,  logic  ,  physic  ,  chemistry  ,  mathematics  ,  and many other field  .   (  credit   “ image editor ”  /  flickr  )  there is no complete agreement when it come to defining what the natural science include  ,  however  .
+for some expert  ,  the natural science are astronomy  ,  biology  ,  chemistry  ,  earth science  ,  and physic  .
+other scholar choose to divide natural science into life science  ,  which study living thing and include biology  ,  and physical science  ,  which study nonliving matter and include astronomy  ,  geology  ,  physic  ,  and chemistry  .
+some discipline such a biophysics and biochemistry build on both life and physical science and are interdisciplinary  .
+natural science are sometimes referred to a “ hard science ” because they rely on the use of quantitative data   social science that study society and human behavior are more likely to use qualitative assessment to drive investigation and finding  .
+not surprisingly  ,  the natural science of biology ha many branch or subdisciplines  .
+cell biologist study cell structure and function  ,  while biologist who study anatomy investigate the structure of an entire organism  .
+those biologist studying physiology  ,  however  ,  focus on the internal functioning of an organism  .
+some area of biology focus on only particular type of living thing  .
+for example  ,  botanist explore plant  ,  while zoologist specialize in animal  .
+scientific reasoning one thing is common to all form of science   an ultimate goal “ to know  .
+” curiosity and inquiry are the driving force for the development of science  .
+scientist seek to understand the world and the way it operates  .
+to do this  ,  they use two method of logical thinking   inductive reasoning and deductive reasoning  .
+inductive reasoning is a form of logical thinking that us related observation to arrive at a general conclusion  .
+this type of reasoning is common in descriptive science  .
+a life scientist such a a biologist make observation and record them  .
+these data can be qualitative or quantitative  ,  and the raw data can be supplemented with drawing  ,  picture  ,  photo  ,  or video  .
+from many observation  ,  the scientist can infer conclusion  (  induction  )  based on evidence  .
+inductive reasoning involves formulating generalization inferred from careful observation and the analysis of a large amount of data  .
+brain study provide an example  .
+in this type of research  ,  many live brain are observed while people are doing a specific activity  ,  such a viewing image of food  .
+the part of the brain that “ light up ” during this activity is then predicted to be the part controlling the response to the selected stimulus  ,  in this case  ,  image of food  .
+the “ lighting up ” of the various area of the brain is caused by excess absorption of radioactive sugar derivative by active area of the brain  .
+the resultant increase in radioactivity is observed by a scanner  .
+then  ,  researcher can stimulate that part of the brain to see if similar response result  .
+deductive reasoning or deduction is the type of logic used in hypothesis  -  based science  .
+in deductive reason  ,  the pattern of thinking move in the opposite direction a compared to inductive reasoning  .
+deductive reasoning is a form of logical thinking that us a general principle or law to forecast specific result  .
+from those general principle  ,  a scientist can extrapolate and predict the specific result that would be valid a long a the general principle are valid  .
+study in climate change can illustrate this type of reasoning  .
+for example  ,  scientist may predict that if the climate becomes warmer in a particular region  ,  then the distribution of plant and animal should change  .
+these prediction have been made and tested  ,  and many such change have been found  ,  such a the modification of arable area for agriculture  ,  with change based on temperature average  .
+both type of logical thinking are related to the two main pathway of scientific study   descriptive science and hypothesisbased science  .
+descriptive  (  or discovery  )  science  ,  which is usually inductive  ,  aim to observe  ,  explore  ,  and discover  ,  while hypothesis  -  based science  ,  which is usually deductive  ,  begin with a specific question or problem and a potential answer or solution that can be tested  .
+the boundary between these two form of study is often blurred  ,  and most scientific endeavor combine both approach  .
+the fuzzy boundary becomes apparent when thinking about how easily observation can lead to specific question  .
+for example  ,  a gentleman in the  one  nine  four  zero s observed that the burr seed that stuck to his clothes and his dog ’ s fur had a tiny hook structure  .
+on closer inspection  ,  he discovered that the burr ’ gripping device wa more reliable than a zipper  .
+he eventually developed a company and produced the hook  -  and  -  loop fastener popularly known today a velcro  .
+descriptive science and hypothesis  -  based science are in continuous dialogue  .
+the scientific method biologist study the living world by posing question about it and seeking science  -  based response  .
+this approach is common to other science a well and is often referred to a the scientific method  .
+the scientific method wa used even in ancient time  ,  but it wa first documented by england ’ s sir francis bacon  (   one  five  six  one  –  one  six  two  six   )   (  figure  one   .   five   )   ,  who set up inductive method for scientific inquiry  .
+the scientific method is not exclusively used by biologist but can be applied to almost all field of study a a logical  ,  rational problem  -  solving method  .
+sir francis bacon  (   one  five  six  one  –  one  six  two  six   )  is credited with being the first to define the scientific method  .   (  credit   paul van somer  )  the scientific process typically start with an observation  (  often a problem to be solved  )  that lead to a question  .
+let ’ s think about a simple problem that start with an observation and apply the scientific method to solve the problem  .
+one monday morning  ,  a student arrives at class and quickly discovers that the classroom is too warm  .
+that is an observation that also describes a problem   the classroom is too warm  .
+the student then asks a question   “ why is the classroom so warm  ?
+” proposing a hypothesis recall that a hypothesis is a suggested explanation that can be tested  .
+to solve a problem  ,  several hypothesis may be proposed  .
+for example  ,  one hypothesis might be  ,  “ the classroom is warm because no one turned on the air conditioning  .  ” but there could be other response to the question  ,  and therefore other hypothesis may be proposed  .
+a second hypothesis might be  ,  “ the classroom is warm because there is a power failure  ,  and so the air conditioning doesn ’ t work  .
+” once a hypothesis ha been selected  ,  the student can make a prediction  .
+a prediction is similar to a hypothesis but it typically ha the format “ if  .   .   .  then  .
+.   .   .  ” for example  ,  the prediction for the first hypothesis might be  ,  “ if the student turn on the air conditioning  ,  then the classroom will no longer be too warm  .  ” testing a hypothesis a valid hypothesis must be testable  .
+it should also be falsifiable  ,  meaning that it can be disproven by experimental result  .
+importantly  ,  science doe not claim to “ prove ” anything because scientific understanding are always subject to modification with further information  .
+this step — openness to disproving idea — is what distinguishes science from nonsciences  .
+the presence of the supernatural  ,  for instance  ,  is neither testable nor falsifiable  .
+to test a hypothesis  ,  a researcher will conduct one or more experiment designed to eliminate one or more of the hypothesis  .
+each experiment will have one or more variable and one or more control  .
+a variable is any part of the experiment that can vary or change during the experiment  .
+the control group contains every feature of the experimental group except it is not given the manipulation that is hypothesized about  .
+therefore  ,  if the result of the experimental group differ from the control group  ,  the difference must be due to the hypothesized manipulation  ,  rather than some outside factor  .
+look for the variable and control in the example that follow  .
+to test the first hypothesis  ,  the student would find out if the air conditioning is on  .
+if the air conditioning is turned on but doe not work  ,  there should be another reason  ,  and this hypothesis should be rejected  .
+to test the second hypothesis  ,  the student could check if the light in the classroom are functional  .
+if so  ,  there is no power failure and this hypothesis should be rejected  .
+each hypothesis should be tested by carrying out appropriate experiment  .
+be aware that rejecting one hypothesis doe not determine whether or not the other hypothesis can be accepted   it simply eliminates one hypothesis that is not valid  (  figure  one   .   six   )   .  using the scientific method  ,  the hypothesis that are inconsistent with experimental data are rejected  .
+while this “ warm classroom ” example is based on observational result  ,  other hypothesis and experiment might have clearer control  .
+for instance  ,  a student might attend class on monday and realize she had difficulty concentrating on the lecture  .
+one observation to explain this occurrence might be  ,  “ when i eat breakfast before class  ,  i am better able to pay attention  .  ” the student could then design an experiment with a control to test this hypothesis  .
+in hypothesis  -  based science  ,  specific result are predicted from a general premise  .
+this type of reasoning is called deductive reasoning   deduction proceeds from the general to the particular  .
+but the reverse of the process is also possible   sometimes  ,  scientist reach a general conclusion from a number of specific observation  .
+this type of reasoning is called inductive reasoning  ,  and it proceeds from the particular to the general  .
+inductive and deductive reasoning are often used in tandem to advance scientific knowledge  (  figure  one   .   seven   )   .  the scientific method may seem too rigid and structured  .
+it is important to keep in mind that  ,  although scientist often follow this sequence  ,  there is flexibility  .
+sometimes an experiment lead to conclusion that favor a change in approach   often  ,  an experiment brings entirely new scientific question to the puzzle  .
+many time  ,  science doe not operate in a linear fashion   instead  ,  scientist continually draw inference and make generalization  ,  finding pattern a their research proceeds  .
+scientific reasoning is more complex than the scientific method alone suggests  .
+notice  ,  too  ,  that the scientific method can be applied to solving problem that aren ’ t necessarily scientific in nature  .
+two type of science   basic science and applied science the scientific community ha been debating for the last few decade about the value of different type of science  .
+is it valuable to pursue science for the sake of simply gaining knowledge  ,  or doe scientific knowledge only have worth if we can apply it to solving a specific problem or to bettering our life  ?
+this question focus on the difference between two type of science   basic science and applied science  .
+basic science or “ pure ” science seek to expand knowledge regardless of the short  -  term application of that knowledge  .
+it is not focused on developing a product or a service of immediate public or commercial value  .
+the immediate goal of basic science is knowledge for knowledge ’ s sake  ,  though this doe not mean that  ,  in the end  ,  it may not result in a practical application  .
+in contrast  ,  applied science or “ technology  ,  ” aim to use science to solve real  -  world problem  ,  making it possible  ,  for example  ,  to improve a crop yield  ,  find a cure for a particular disease  ,  or save animal threatened by a natural disaster  (  figure  one   .   eight   )   .  in applied science  ,  the problem is usually defined for the researcher  .
+figure  one   .   eight  after hurricane ike struck the gulf coast in  two  zero  zero  eight   ,  the u  .  s  .  fish and wildlife service rescued this brown pelican  .
+thanks to applied science  ,  scientist knew how to rehabilitate the bird  .   (  credit   fema  )  some individual may perceive applied science a “ useful ” and basic science a “ useless  .  ” a question these people might pose to a scientist advocating knowledge acquisition would be  ,  “ what for  ?
+” a careful look at the history of science  ,  however  ,  reveals that basic knowledge ha resulted in many remarkable application of great value  .
+many scientist think that a basic understanding of science is necessary before an application is developed   therefore  ,  applied science relies on the result generated through basic science  .
+other scientist think that it is time to move on from basic science and instead to find solution to actual problem  .
+both approach are valid  .
+it is true that there are problem that demand immediate attention   however  ,  few solution would be found without the help of the wide knowledge foundation generated through basic science  .
+one example of how basic and applied science can work together to solve practical problem occurred after the discovery of dna structure led to an understanding of the molecular mechanism governing dna replication  .
+strand of dna  ,  unique in every human  ,  are found in our cell  ,  where they provide the instruction necessary for life  .
+during dna replication  ,  dna make new copy of itself  ,  shortly before a cell divide  .
+understanding the mechanism of dna replication enabled scientist to develop laboratory technique that are now used to identify genetic disease  ,  pinpoint individual who were at a crime scene  ,  and determine paternity  .
+without basic science  ,  it is unlikely that applied science would exist  .
+another example of the link between basic and applied research is the human genome project  ,  a study in which each human chromosome wa analyzed and mapped to determine the precise sequence of dna subunit and the exact location of each gene  .   (  the gene is the basic unit of heredity   an individual ’ s complete collection of gene is his or her genome  .   )  other le complex organism have also been studied a part of this project in order to gain a better understanding of human chromosome  .
+the human genome project  (  figure  one   .   nine   )  relied on basic research carried out with simple organism and  ,  later  ,  with the human genome  .
+an important end goal eventually became using the data for applied research  ,  seeking cure and early diagnosis for genetically related disease  .
+figure  one   .   nine  the human genome project wa a  one  three   -  year collaborative effort among researcher working in several different field of science  .
+the project  ,  which sequenced the entire human genome  ,  wa completed in  two  zero  zero  three   .   (  credit   the u  .  s  .  department of energy genome program  (  http    /   /  genomics  .  energy  .  gov  )   )  while research effort in both basic science and applied science are usually carefully planned  ,  it is important to note that some discovery are made by serendipity  ,  that is  ,  by mean of a fortunate accident or a lucky surprise  .
+penicillin wa discovered when biologist alexander fleming accidentally left a petri dish of staphylococcus bacteria open  .
+an unwanted mold grew on the dish  ,  killing the bacteria  .
+the mold turned out to be penicillium  ,  and a new antibiotic wa discovered  .
+even in the highly organized world of science  ,  luck — when combined with an observant  ,  curious mind — can lead to unexpected breakthrough  .
+reporting scientific work whether scientific research is basic science or applied science  ,  scientist must share their finding in order for other researcher to expand and build upon their discovery  .
+collaboration with other scientist — when planning  ,  conducting  ,  and analyzing result — are all important for scientific research  .
+for this reason  ,  important aspect of a scientist ’ s work are communicating with peer and disseminating result to peer  .
+scientist can share result by presenting them at a scientific meeting or conference  ,  but this approach can reach only the select few who are present  .
+instead  ,  most scientist present their result in peer  -  reviewed manuscript that are published in scientific journal  .
+peer  -  reviewed manuscript are scientific paper that are reviewed by a scientist ’ s colleague  ,  or peer  .
+these colleague are qualified individual  ,  often expert in the same research area  ,  who judge whether or not the scientist ’ s work is suitable for publication  .
+the process of peer review help to ensure that the research described in a scientific paper or grant proposal is original  ,  significant  ,  logical  ,  and thorough  .
+grant proposal  ,  which are request for research funding  ,  are also subject to peer review  .
+scientist publish their work so other scientist can reproduce their experiment under similar or different condition to expand on the finding  .
+the experimental result must be consistent with the finding of other scientist  .
+a scientific paper is very different from creative writing  .
+although creativity is required to design experiment  ,  there are fixed guideline when it come to presenting scientific result  .
+first  ,  scientific writing must be brief  ,  concise  ,  and accurate  .
+a scientific paper need to be succinct but detailed enough to allow peer to reproduce the experiment  .
+the scientific paper consists of several specific section — introduction  ,  material and method  ,  result  ,  and discussion  .
+this structure is sometimes called the “ imrad ” format  .
+there are usually acknowledgment and reference section a well a an abstract  (  a concise summary  )  at the beginning of the paper  .
+there might be additional section depending on the type of paper and the journal where it will be published   for example  ,  some review paper require an outline  .
+the introduction start with brief  ,  but broad  ,  background information about what is known in the field  .
+a good introduction also give the rationale of the work   it justifies the work carried out and also briefly mention the end of the paper  ,  where the hypothesis or research question driving the research will be presented  .
+the introduction refers to the published scientific work of others and therefore requires citation following the style of the journal  .
+using the work or idea of others without proper citation is considered plagiarism  .
+the material and method section includes a complete and accurate description of the substance used  ,  and the method and technique used by the researcher to gather data  .
+the description should be thorough enough to allow another researcher to repeat the experiment and obtain similar result  ,  but it doe not have to be verbose  .
+this section will also include information on how measurement were made and what type of calculation and statistical analysis were used to examine raw data  .
+although the material and method section give an accurate description of the experiment  ,  it doe not discus them  .
+some journal require a result section followed by a discussion section  ,  but it is more common to combine both  .
+if the journal doe not allow the combination of both section  ,  the result section simply narrates the finding without any further interpretation  .
+the result are presented by mean of table or graph  ,  but no duplicate information should be presented  .
+in the discussion section  ,  the researcher will interpret the result  ,  describe how variable may be related  ,  and attempt to explain the observation  .
+it is indispensable to conduct an extensive literature search to put the result in the context of previously published scientific research  .
+therefore  ,  proper citation are included in this section a well  .
+finally  ,  the conclusion section summarizes the importance of the experimental finding  .
+while the scientific paper almost certainly answered one or more scientific question that were stated  ,  any good research should lead to more question  .
+therefore  ,  a well  -  done scientific paper leaf door open for the researcher and others to continue and expand on the finding  .
+review article do not follow the imrad format because they do not present original scientific finding  ,  or primary literature   instead  ,  they summarize and comment on finding that were published a primary literature and typically include extensive reference section  .  response  ,  but it is not always easy to define life  .
+for example  ,  a branch of biology called virology study virus  ,  which exhibit some of the characteristic of living entity but lack others  .
+it turn out that although virus can attack living organism  ,  cause disease  ,  and even reproduce  ,  they do not meet the criterion that biologist use to define life  .
+consequently  ,  virologist are not biologist  ,  strictly speaking  .
+similarly  ,  some biologist study the early molecular evolution that gave rise to life   since the event that preceded life are not biological event  ,  these scientist are also excluded from biology in the strict sense of the term  .
+from it earliest beginning  ,  biology ha wrestled with three question   what are the shared property that make something “ alive ”  ?
+and once we know something is alive  ,  how do we find meaningful level of organization in it structure  ?
+and  ,  finally  ,  when faced with the remarkable diversity of life  ,  how do we organize the different kind of organism so that we can better understand them  ?
+a new organism are discovered every day  ,  biologist continue to seek answer to these and other question  .
+property of life all living organism share several key characteristic or function   order  ,  sensitivity or response to the environment  ,  reproduction  ,  adaptation  ,  growth and development  ,  regulation  ,  homeostasis  ,  energy processing  ,  and evolution  .
+when viewed together  ,  these nine characteristic serve to define life  .
+organism are highly organized  ,  coordinated structure that consist of one or more cell  .
+even very simple  ,  single  -  celled organism are remarkably complex   inside each cell  ,  atom make up molecule   these in turn make up cell organelle and other cellular inclusion  .
+in multicellular organism  (  figure  one   .   one  zero   )   ,  similar cell form tissue  .
+tissue  ,  in turn  ,  collaborate to create organ  (  body structure with a distinct function  )   .  organ work together to form organ system  .
+figure  one   .   one  one  the leaf of this sensitive plant  (  mimosa pudica  )  will instantly droop and fold when touched  .
+after a few minute  ,  the plant return to normal  .   (  credit   alex lomas  )  organism respond to diverse stimulus  .
+for example  ,  plant can bend toward a source of light  ,  climb on fence and wall  ,  or respond to touch  (  figure  one   .   one  one   )   .  even tiny bacteria can move toward or away from chemical  (  a process called chemotaxis  )  or light  (  phototaxis  )   .  movement toward a stimulus is considered a positive response  ,  while movement away from a stimulus is considered a negative response  .
+reproduction single  -  celled organism reproduce by first duplicating their dna  ,  and then dividing it equally a the cell prepares to divide to form two new cell  .
+multicellular organism often produce specialized reproductive germline cell that will form new individual  .
+when reproduction occurs  ,  gene containing dna are passed along to an organism ’ s offspring  .
+these gene ensure that the offspring will belong to the same specie and will have similar characteristic  ,  such a size and shape  .
+growth and development organism grow and develop following specific instruction coded for by their gene  .
+these gene provide instruction that will direct cellular growth and development  ,  ensuring that a specie ’ young  (  figure  one   .   one  two   )  will grow up to exhibit many of the same characteristic a it parent  .
+figure  one   .   one  two  although no two look alike  ,  these kitten have inherited gene from both parent and share many of the same characteristic  .   (  credit   rocky mountain feline rescue  )  regulation even the smallest organism are complex and require multiple regulatory mechanism to coordinate internal function  ,  respond to stimulus  ,  and cope with environmental stress  .
+two example of internal function regulated in an organism are nutrient transport and blood flow  .
+organ  (  group of tissue working together  )  perform specific function  ,  such a carrying oxygen throughout the body  ,  removing waste  ,  delivering nutrient to every cell  ,  and cooling the body  .
+figure  one   .   one  three  polar bear  (  ursus maritimus  )  and other mammal living in ice  -  covered region maintain their body temperature by generating heat and reducing heat loss through thick fur and a dense layer of fat under their skin  .   (  credit   “ longhorndave ”  /  flickr  )  in order to function properly  ,  cell need to have appropriate condition such a proper temperature  ,  ph  ,  and appropriate concentration of diverse chemical  .
+these condition may  ,  however  ,  change from one moment to the next  .
+organism are able to maintain internal condition within a narrow range almost constantly  ,  despite environmental change  ,  through homeostasis  (  literally  ,  “ steady state ”  )  — the ability of an organism to maintain constant internal condition  .
+for example  ,  an organism need to regulate body temperature through a process known a thermoregulation  .
+organism that live in cold climate  ,  such a the polar bear  (  figure  one   .   one  three   )   ,  have body structure that help them withstand low temperature and conserve body heat  .
+structure that aid in this type of insulation include fur  ,  feather  ,  blubber  ,  and fat  .
+in hot climate  ,  figure  one   .   one  four  the california condor  (  gymnogyps californianus  )  us chemical energy derived from food to power flight  .
+california condor are an endangered specie   this bird ha a wing tag that help biologist identify the individual  .   (  credit   pacific southwest region u  .  s  .  fish and wildlife service  )  all organism use a source of energy for their metabolic activity  .
+some organism capture energy from the sun and convert it into chemical energy in food   others use chemical energy in molecule they take in a food  (  figure  one   .   one  four   )   .  level of organization of living thing living thing are highly organized and structured  ,  following a hierarchy that can be examined on a scale from small to large  .
+the atom is the smallest and most fundamental unit of matter  .
+it consists of a nucleus surrounded by electron  .
+atom form molecule  .
+a molecule is a chemical structure consisting of at least two atom held together by one or more chemical bond  .
+many molecule that are biologically important are macromolecule  ,  large molecule that are typically formed by polymerization  (  a polymer is a large molecule that is made by combining smaller unit called monomer  ,  which are simpler than macromolecule  )   .  an example of a macromolecule is deoxyribonucleic acid  (  dna  )   (  figure  one   .   one  five   )   ,  which contains the instruction for the structure and functioning of all living organism  .
+some cell contain aggregate of macromolecule surrounded by membrane   these are called organelle  .
+organelle are small structure that exist within cell  .
+example of organelle include mitochondrion and chloroplast  ,  which carry out indispensable function   mitochondrion produce energy to power the cell  ,  while chloroplast enable green plant to utilize the energy in sunlight to make sugar  .
+all living thing are made of cell   the cell itself is the smallest fundamental unit of structure and function in living organism  .   (  this requirement is why virus are not considered living   they are not made of cell  .
+to make new virus  ,  they have to invade and hijack the reproductive mechanism of a living cell   only then can they obtain the material they need to reproduce  .   )  some organism consist of a single cell and others are multicellular  .
+cell are classified a prokaryotic or eukaryotic  .
+prokaryote are single  -  celled or colonial organism that do not have membranebound nucleus   in contrast  ,  the cell of eukaryote do have membrane  -  bound organelle and a membrane  -  bound nucleus  .
+in larger organism  ,  cell combine to make tissue  ,  which are group of similar cell carrying out similar or related function  .
+organ are collection of tissue grouped together performing a common function  .
+organ are present not only in animal but also in plant  .
+an organ system is a higher level of organization that consists of functionally related organ  .
+mammal have many organ system  .
+for instance  ,  the circulatory system transport blood through the body and to and from the lung   it includes organ such a the heart and blood vessel  .
+organism are individual living entity  .
+for example  ,  each tree in a forest is an organism  .
+single  -  celled prokaryote and single  -  celled eukaryote are also considered organism and are typically referred to a microorganism  .
+all the individual of a specie living within a specific area are collectively called a population  .
+for example  ,  a forest may include many pine tree  .
+all of these pine tree represent the population of pine tree in this forest  .
+different population may live in the same specific area  .
+for example  ,  the forest with the pine tree includes population of flowering plant and also insect and microbial population  .
+a community is the sum of population inhabiting a particular area  .
+for instance  ,  all of the tree  ,  flower  ,  insect  ,  and other population in a forest form the forest ’ s community  .
+the forest itself is an ecosystem  .
+an ecosystem consists of all the living thing in a particular area together with the abiotic  ,  non  -  living part of that environment such a nitrogen in the soil or rain water  .
+at the highest level of organization  (  figure  one   .   one  six   )   ,  the biosphere is the collection of all ecosystem  ,  and it represents the zone of life on earth  .
+it includes land  ,  water  ,  and even the atmosphere to a certain extent  .
+the biological level of organization of living thing are shown  .
+from a single organelle to the entire biosphere  ,  living organism are part of a highly structured hierarchy  .   (  credit “ organelle ”   modification of work by umberto salvagnin   credit “ cell ”   modification of work by bruce wetzel  ,  harry schaefer  /  national cancer institute   credit “ tissue ”   modification of work by kilbad   fama clamosa   mikael häggström   credit “ organ ”   modification of work by mariana ruiz villareal   credit “ organism ”   modification of work by  "  crystal  "   /  flickr   credit “ ecosystem ”   modification of work by u fish and wildlife service headquarters   credit “ biosphere ”   modification of work by the fact that biology  ,  a a science  ,  ha such a broad scope ha to do with the tremendous diversity of life on earth  .
+the source of this diversity is evolution  ,  the process of gradual change during which new specie arise from older specie  .
+evolutionary biologist study the evolution of living thing in everything from the microscopic world to ecosystem  .
+the evolution of various life form on earth can be summarized in a phylogenetic tree  (  figure  one   .   one  seven   )   .  a phylogenetic tree is a diagram showing the evolutionary relationship among biological specie based on similarity and difference in genetic or physical trait or both  .
+a phylogenetic tree is composed of node and branch  .
+the internal node represent ancestor and are point in evolution when  ,  based on scientific evidence  ,  an ancestor is thought to have diverged to form two new specie  .
+the length of each branch is proportional to the time elapsed since the split  .
+this phylogenetic tree wa constructed by microbiologist carl woese using data obtained from sequencing ribosomal rna gene  .
+the tree show the separation of living organism into three domain   bacteria  ,  archaea  ,  and eukarya  .
+bacteria and archaea are prokaryote  ,  single  -  celled organism lacking intracellular organelle  .   (  credit   eric gaba   nasa astrobiology institute  )  carl woese and the phylogenetic tree in the past  ,  biologist grouped living organism into five kingdom   animal  ,  plant  ,  fungi  ,  protist  ,  and bacteria  .
+the organizational scheme wa based mainly on physical feature  ,  a opposed to physiology  ,  biochemistry  ,  or molecular biology  ,  all of which are used by modern systematics  .
+the pioneering work of american microbiologist carl woese in the early  one  nine  seven  zero s ha shown  ,  however  ,  that life on earth ha evolved along three lineage  ,  now called domain — bacteria  ,  archaea  ,  and eukarya  .
+the first two are prokaryotic cell with microbe that lack membrane  -  enclosed nucleus and organelle  .
+the third domain contains the eukaryote and includes unicellular microorganism together with the four original kingdom  (  excluding bacteria  )   .  woese defined archaea a a new domain  ,  and this resulted in a new taxonomic tree  (  figure  one   .   one  seven   )   .  many organism belonging to the archaea domain live under extreme condition and are called extremophiles  .
+to construct his tree  ,  woese used genetic relationship rather than similarity based on morphology  (  shape  )   .  woese ’ s tree wa constructed from comparative sequencing of the gene that are universally distributed  ,  present in every organism  ,  and conserved  (  meaning that these gene have remained essentially unchanged throughout evolution  )   .  woese ’ s approach wa revolutionary because comparison of physical feature are insufficient to differentiate between the prokaryote that appear fairly similar in spite of their tremendous biochemical diversity and genetic variability  (  figure  one   .   one  eight   )   .  the comparison of homologous dna and rna sequence provided woese with a sensitive device that revealed the extensive variability of prokaryote  ,  and which justified the separation of the prokaryote into two domain   bacteria and archaea  .
+these image represent different domain  .
+the  (  a  )  bacteria in this micrograph belong to domain bacteria  ,  while the  (  b  )  extremophiles  (  not visible  )  living in this hot vent belong to domain archaea  .
+both the  (  c  )  sunflower and  (  d  )  lion are part of domain eukarya  .   (  credit a   modification of work by drew march   credit b   modification of work by steve jurvetson   credit c   modification of work by michael arrighi   credit d   modification of work by leszek leszcynski  )  branch of biological study the scope of biology is broad and therefore contains many branch and subdisciplines  .
+biologist may pursue one of those subdisciplines and work in a more focused field  .
+for instance  ,  molecular biology and biochemistry study biological process at the molecular and chemical level  ,  including interaction among molecule such a dna  ,  rna  ,  and protein  ,  a well a the way they are regulated  .
+microbiology  ,  the study of microorganism  ,  is the study of the structure and function of single  -  celled organism  .
+it is quite a broad branch itself  ,  and depending on the subject of study  ,  there are also microbial physiologist  ,  ecologist  ,  and geneticist  ,  among others  .
+forensic science is the application of science to answer question related to the law  .
+biologist a well a chemist and biochemist can be forensic scientist  .
+forensic scientist provide scientific evidence for use in court  ,  and their job involves examining trace material associated with crime  .
+interest in forensic science ha increased in the last few year  ,  possibly because of popular television show that feature forensic scientist on the job  .
+also  ,  the development of molecular technique and the establishment of dna database have expanded the type of work that forensic scientist can do  .
+their job activity are primarily related to crime against people such a murder  ,  rape  ,  and assault  .
+their work involves analyzing sample such a hair  ,  blood  ,  and other body fluid and also processing dna  (  figure  one   .   one  nine   )  found in many different environment and material  .
+forensic scientist also analyze other biological evidence left at crime scene  ,  such a insect larva or pollen grain  .
+student who want to pursue career in forensic science will most likely be required to take chemistry and biology course a well a some intensive math course  .
+another field of biological study  ,  neurobiology  ,  study the biology of the nervous system  ,  and although it is considered a branch of biology  ,  it is also recognized a an interdisciplinary field of study known a neuroscience  .
+because of it interdisciplinary nature  ,  this subdiscipline study different function of the nervous system using molecular  ,  cellular  ,  developmental  ,  medical  ,  and computational approach  .
+paleontology  ,  another branch of biology  ,  us fossil to study life ’ s history  (  figure  one   .   two  zero   )   .  zoology and botany are the study of animal and plant  ,  respectively  .
+biologist can also specialize a biotechnologists  ,  ecologist  ,  or physiologist  ,  to name just a few area  .
+this is just a small sample of the many field that biologist can pursue  .
+biology is the culmination of the achievement of the natural science from their inception to today  .
+excitingly  ,  it is the cradle of emerging science  ,  such a the biology of brain activity  ,  genetic engineering of custom organism  ,  and the biology of evolution that us the laboratory tool of molecular biology to retrace the earliest stage of life on earth  .
+a scan of news headline — whether reporting on immunization  ,  a newly discovered specie  ,  sport doping  ,  or a genetically  -  modified food — demonstrates the way biology is active in and important to our everyday world  .
+atom are the building block of molecule found in the universe — air  ,  soil  ,  water  ,  rock  .   .   .  and also the cell of all living organism  .
+in this model of an organic molecule  ,  the atom of carbon  (  black  )   ,  hydrogen  (  white  )   ,  nitrogen  (  blue  )   ,  oxygen  (  red  )   ,  and sulfur  (  yellow  )  are shown in proportional atomic size  .
+the silver rod indicate chemical bond  .
+element in various combination comprise all matter  ,  including living thing  .
+some of the most abundant element in living organism include carbon  ,  hydrogen  ,  nitrogen  ,  oxygen  ,  sulfur  ,  and phosphorus  .
+these form the nucleic acid  ,  protein  ,  carbohydrate  ,  and lipid that are the fundamental component of living matter  .
+biologist must understand these important building block and the unique structure of the atom that make up molecule  ,  allowing for the formation of cell  ,  tissue  ,  organ system  ,  and entire organism  .
+all biological process follow the law of physic and chemistry  ,  so in order to understand how biological system work  ,  it is important to understand the underlying physic and chemistry  .
+for example  ,  the flow of blood within the circulatory system follows the law of physic that regulate the mode of fluid flow  .
+the breakdown of the large  ,  complex molecule of food into smaller molecule — and the conversion of these to release energy to be stored in adenosine triphosphate  (  atp  )  — is a series of chemical reaction that follow chemical law  .
+the property of water and the formation of hydrogen bond are key to understanding living process  .
+recognizing the property of acid and base is important  ,  for example  ,  to our understanding of the digestive process  .
+therefore  ,  the fundamental of physic and chemistry are important for gaining insight into biological process  .
+at it most fundamental level  ,  life is made up of matter  .
+matter is any substance that occupies space and ha mass  .
+element are unique form of matter with specific chemical and physical property that cannot be broken down into smaller substance by ordinary chemical reaction  .
+there are  one  one  eight  element  ,  but only  nine  two  occur naturally  .
+the remaining element are synthesized in laboratory and are unstable  .
+each element is designated by it chemical symbol  ,  which is a single capital letter or  ,  when the first letter is already “ taken ” by another element  ,  a combination of two letter  .
+some element follow the english term for the element  ,  such a c for carbon and ca for calcium  .
+other element ’ chemical symbol derive from their latin name   for example  ,  the symbol for sodium is na  ,  referring to natrium  ,  the latin word for sodium  .
+the four element common to all living organism are oxygen  (  o  )   ,  carbon  (  c  )   ,  hydrogen  (  h  )   ,  and nitrogen  (  n  )   .  in the nonliving world  ,  element are found in different proportion  ,  and some element common to living organism are relatively rare on the earth a a whole  ,  a shown in table  two   .   one   .  for example  ,  the atmosphere is rich in nitrogen and oxygen but contains little carbon and hydrogen  ,  while the earth ’ s crust  ,  although it contains oxygen and a small amount of hydrogen  ,  ha little nitrogen and carbon  .
+in spite of their difference in abundance  ,  all element and the chemical reaction between them obey the same chemical and physical law regardless of whether they are a part of the living or non  -  living world  .
+to understand how element come together  ,  we must first discus the smallest component or building block of an element  ,  the atom  .
+an atom is the smallest unit of matter that retains all of the chemical property of an element  .
+for example  ,  one gold atom ha all of the property of gold in that it is a solid metal at room temperature  .
+a gold coin is simply a very large number of gold atom molded into the shape of a coin and containing small amount of other element known a impurity  .
+gold atom cannot be broken down into anything smaller while still retaining the property of gold  .
+an atom is composed of two region   the nucleus  ,  which is in the center of the atom and contains proton and neutron  ,  and the outermost region of the atom which hold it electron in orbit around the nucleus  ,  a illustrated in figure  two   .   two   .  atom contain proton  ,  electron  ,  and neutron  ,  among other subatomic particle  .
+the only exception is hydrogen  (  h  )   ,  which is made of one proton and one electron with no neutron  .
+element  ,  such a helium  ,  depicted here  ,  are made up of atom  .
+atom are made up of proton and neutron located within the nucleus  ,  with electron in orbitals surrounding the nucleus  .
+proton and neutron have approximately the same mass  ,  about  one   .   six  seven  å ~  one  zero   -   two  four  gram  .
+scientist arbitrarily define this amount of mass a one atomic mass unit  (  amu  )  or one dalton  ,  a shown in table  two   .   two   .  although similar in mass  ,  proton and neutron differ in their electric charge  .
+a proton is positively charged whereas a neutron is uncharged  .
+therefore  ,  the number of neutron in an atom contributes significantly to it mass  ,  but not to it charge  .
+electron are much smaller in mass than proton  ,  weighing only  nine   .   one  one  å ~  one  zero   -   two  eight  gram  ,  or about  one   /   one  eight  zero  zero  of an atomic mass unit  .
+hence  ,  they do not contribute much to an element ’ s overall atomic mass  .
+therefore  ,  when considering atomic mass  ,  it is customary to ignore the mass of any electron and calculate the atom ’ s mass based on the number of proton and neutron alone  .
+although not significant contributor to mass  ,  electron do contribute greatly to the atom ’ s charge  ,  a each electron ha a negative charge equal to the positive charge of a proton  .
+in uncharged  ,  neutral atom  ,  the number of electron orbiting the nucleus is equal to the number of proton inside the nucleus  .
+in these atom  ,  the positive and negative charge cancel each other out  ,  leading to an atom with no net charge  .
+accounting for the size of proton  ,  neutron  ,  and electron  ,  most of the volume of an atom — greater than  nine  nine  percent — is  ,  in fact  ,  empty space  .
+with all this empty space  ,  one might ask why so  -  called solid object do not just pas through one another  .
+the reason they do not is that the electron that surround all atom are negatively charged and negative charge repel each other  .
+atom of each element contain a characteristic number of proton and electron  .
+the number of proton determines an element ’ s atomic number and is used to distinguish one element from another  .
+the number of neutron is variable  ,  resulting in isotope  ,  which are different form of the same atom that vary only in the number of neutron they posse  .
+together  ,  the number of proton and the number of neutron determine an element ’ s mass number  ,  a illustrated in figure  two   .   three   .  note that the small contribution of mass from electron is disregarded in calculating the mass number  .
+this approximation of mass can be used to easily calculate how many neutron an element ha by simply subtracting the number of proton from the mass number  .
+since an element ’ s isotope will have slightly different mass number  ,  scientist also determine the atomic mass  ,  which is the calculated mean of the mass number for it naturally occurring isotope  .
+often  ,  the resulting number contains a fraction  .
+for example  ,  the atomic mass of chlorine  (  cl  )  is  three  five   .   four  five  because chlorine is composed of several isotope  ,  some  (  the majority  )  with atomic mass  three  five   (   one  seven  proton and  one  eight  neutron  )  and some with atomic mass  three  seven   (   one  seven  proton and  two  zero  neutron  )   .  isotope are different form of an element that have the same number of proton but a different number of neutron  .
+some element — such a carbon  ,  potassium  ,  and uranium — have naturally occurring isotope  .
+carbon  -   one  two  contains six proton  ,  six neutron  ,  and six electron   therefore  ,  it ha a mass number of  one  two   (  six proton and six neutron  )   .  carbon  -   one  four  contains six proton  ,  eight neutron  ,  and six electron   it atomic mass is  one  four   (  six proton and eight neutron  )   .  these two alternate form of carbon are isotope  .
+some isotope may emit neutron  ,  proton  ,  and electron  ,  and attain a more stable atomic configuration  (  lower level of potential energy  )    these are radioactive isotope  ,  or radioisotope  .
+radioactive decay  (  carbon  -   one  four  losing neutron to eventually become carbon  -   one  two   )  describes the energy loss that occurs when an unstable atom ’ s nucleus release radiation  .
+carbon is normally present in the atmosphere in the form of gaseous compound like carbon dioxide and methane  .
+carbon  -   one  four   (   one  four c  )  is a naturally occurring radioisotope that is created in the atmosphere from atmospheric  one  four n  (  nitrogen  )  by the addition of a neutron and the loss of a proton because of cosmic ray  .
+this is a continuous process  ,  so more  one  four c is always being created  .
+a a living organism incorporates  one  four c initially a carbon dioxide fixed in the process of photosynthesis  ,  the relative amount of  one  four c in it body is equal to the concentration of  one  four c in the atmosphere  .
+when an organism dy  ,  it is no longer ingesting  one  four c  ,  so the ratio between  one  four c and  one  two c will decline a  one  four c decay gradually to  one  four n by a process called beta decay — the emission of electron or positron  .
+this decay give off energy in a slow process  .
+after approximately  five   ,   seven  three  zero  year  ,  half of the starting concentration of  one  four c will have been converted back to  one  four n  .
+the time it take for half of the original concentration of an isotope to decay back to it more stable form is called it half  -  life  .
+because the half  -  life of  one  four c is long  ,  it is used to date formerly living object such a old bone or wood  .
+comparing the ratio of the  one  four c concentration found in an object to the amount of  one  four c detected in the atmosphere  ,  the amount of the isotope that ha not yet decayed can be determined  .
+on the basis of this amount  ,  the age of the material  ,  such a the pygmy mammoth shown in figure  two   .   four   ,  can be calculated with accuracy if it is not much older than about  five  zero   ,   zero  zero  zero  year  .
+other element have isotope with different half life  .
+for example  ,   four  zero k  (  potassium  -   four  zero   )  ha a half  -  life of  one   .   two  five  billion year  ,  and  two  three  five u  (  uranium  two  three  five   )  ha a half  -  life of about  seven  zero  zero  million year  .
+through the use of radiometric dating  ,  scientist can study the age of fossil or other remains of extinct organism to understand how organism have evolved from earlier specie  .
+the age of carbon  -  containing remains le than about  five  zero   ,   zero  zero  zero  year old  ,  such a this pygmy mammoth  ,  can be determined using carbon dating  .
+the different element are organized and displayed in the periodic table  .
+devised by russian chemist dmitri mendeleev  (   one  eight  three  four  –  one  nine  zero  seven   )  in  one  eight  six  nine   ,  the table group element that  ,  although unique  ,  share certain chemical property with other element  .
+the property of element are responsible for their physical state at room temperature   they may be gas  ,  solid  ,  or liquid  .
+element also have specific chemical reactivity  ,  the ability to combine and to chemically bond with each other  .
+in the periodic table  ,  shown in figure  two   .   five   ,  the element are organized and displayed according to their atomic number and are arranged in a series of row and column based on shared chemical and physical property  .
+in addition to providing the atomic number for each element  ,  the periodic table also display the element ’ s atomic mass  .
+looking at carbon  ,  for example  ,  it symbol  (  c  )  and name appear  ,  a well a it atomic number of six  (  in the upper left  -  hand corner  )  and it atomic mass of  one  two   .   one  one   .  the periodic table show the atomic mass and atomic number of each element  .
+the atomic number appears above the symbol for the element and the approximate atomic mass appears below it  .
+the periodic table group element according to chemical property  .
+the difference in chemical reactivity between the element are based on the number and spatial distribution of an atom ’ s electron  .
+atom that chemically react and bond to each other form molecule  .
+molecule are simply two or more atom chemically bonded together  .
+logically  ,  when two atom chemically bond to form a molecule  ,  their electron  ,  which form the outermost region of each atom  ,  come together first a the atom form a chemical bond  .
+it should be stressed that there is a connection between the number of proton in an element  ,  the atomic number that distinguishes one element from another  ,  and the number of electron it ha  .
+in all electrically neutral atom  ,  the number of electron is the same a the number of proton  .
+thus  ,  each element  ,  at least when electrically neutral  ,  ha a characteristic number of electron equal to it atomic number  .
+an early model of the atom wa developed in  one  nine  one  three  by danish scientist niels bohr  (   one  eight  eight  five  –  one  nine  six  two   )   .  the bohr model show the atom a a central nucleus containing proton and neutron  ,  with the electron in circular orbitals at specific distance from the nucleus  ,  a illustrated in figure  two   .   six   .  these orbit form electron shell or energy level  ,  which are a way of visualizing the number of electron in the outermost shell  .
+these energy level are designated by a number and the symbol “ n  .  ” for example  ,   one n represents the first energy level located closest to the nucleus  .
+the bohr model wa developed by niels bohr in  one  nine  one  three   .
+in this model  ,  electron exist within principal shell  .
+an electron normally exists in the lowest energy shell available  ,  which is the one closest to the nucleus  .
+energy from a photon of light can bump it up to a higher energy shell  ,  but this situation is unstable  ,  and the electron quickly decay back to the ground state  .
+in the process  ,  a photon of light is released  .
+electron fill orbitals in a consistent order   they first fill the orbitals closest to the nucleus  ,  then they continue to fill orbitals of increasing energy further from the nucleus  .
+if there are multiple orbitals of equal energy  ,  they will be filled with one electron in each energy level before a second electron is added  .
+the electron of the outermost energy level determine the energetic stability of the atom and it tendency to form chemical bond with other atom to form molecule  .
+under standard condition  ,  atom fill the inner shell first  ,  often resulting in a variable number of electron in the outermost shell  .
+the innermost shell ha a maximum of two electron but the next two electron shell can each have a maximum of eight electron  .
+this is known a the octet rule  ,  which state  ,  with the exception of the innermost shell  ,  that atom are more stable energetically when they have eight electron in their valence shell  ,  the outermost electron shell  .
+example of some neutral atom and their electron configuration are shown in figure  two   .   seven   .  notice that in this figure  two   .   seven   ,  helium ha a complete outer electron shell  ,  with two electron filling it first and only shell  .
+similarly  ,  neon ha a complete outer  two n shell containing eight electron  .
+in contrast  ,  chlorine and sodium have seven and one in their outer shell  ,  respectively  ,  but theoretically they would be more energetically stable if they followed the octet rule and had eight  .
+bohr diagram indicate how many electron fill each principal shell  .
+group  one  eight  element  (  helium  ,  neon  ,  and argon are shown  )  have a full outer  ,  or valence  ,  shell  .
+a full valence shell is the most stable electron configuration  .
+element in other group have partially filled valence shell and gain or lose electron to achieve a stable electron configuration  .
+an atom may give  ,  take  ,  or share electron with another atom to achieve a full valence shell  ,  the most stable electron configuration  .
+looking at this figure  ,  how many electron do element in group  one  need to lose in order to achieve a stable electron configuration  ?
+how many electron do element in group  one  four  and  one  seven  need to gain to achieve a stable configuration  ?
+understanding that the organization of the periodic table is based on the total number of proton  (  and electron  )  help u know how electron are distributed among the outer shell  .
+the periodic table is arranged in column and row based on the number of electron and where these electron are located  .
+take a closer look at the some of the element in the table ’ s far right column in figure  two   .   five   .  the group  one  eight  atom helium  (  he  )   ,  neon  (  ne  )   ,  and argon  (  ar  )  all have filled outer electron shell  ,  making it unnecessary for them to share electron with other atom to attain stability   they are highly stable a single atom  .
+their non  -  reactivity ha resulted in their being named the inert gas  (  or noble gas  )   .  compare this to the group  one  element in the left  -  hand column  .
+these element  ,  including hydrogen  (  h  )   ,  lithium  (  li  )   ,  and sodium  (  na  )   ,  all have one electron in their outermost shell  .
+that mean that they can achieve a stable configuration and a filled outer shell by donating or sharing one electron with another atom or a molecule such a water  .
+hydrogen will donate or share it electron to achieve this configuration  ,  while lithium and sodium will donate their electron to become stable  .
+a a result of losing a negatively charged electron  ,  they become positively charged ion  .
+group  one  seven  element  ,  including fluorine and chlorine  ,  have seven electron in their outmost shell  ,  so they tend to fill this shell with an electron from other atom or molecule  ,  making them negatively charged ion  .
+group  one  four  element  ,  of which carbon is the most important to living system  ,  have four electron in their outer shell allowing them to make several covalent bond  (  discussed below  )  with other atom  .
+thus  ,  the column of the periodic table represent the potential shared state of these element ’ outer electron shell that is responsible for their similar chemical characteristic  .
+although useful to explain the reactivity and chemical bonding of certain element  ,  the bohr model of the atom doe not accurately reflect how electron are spatially distributed surrounding the nucleus  .
+they do not circle the nucleus like the earth orbit the sun  ,  but are found in electron orbitals  .
+these relatively complex shape result from the fact that electron behave not just like particle  ,  but also like wave  .
+mathematical equation from quantum mechanic known a wave function can predict within a certain level of probability where an electron might be at any given time  .
+the area where an electron is most likely to be found is called it orbital  .
+recall that the bohr model depicts an atom ’ s electron shell configuration  .
+within each electron shell are subshells  ,  and each subshell ha a specified number of orbitals containing electron  .
+while it is impossible to calculate exactly where an electron is located  ,  scientist know that it is most probably located within it orbital path  .
+subshells are designated by the letter s  ,  p  ,  d  ,  and f  .  the s subshell is spherical in shape and ha one orbital  .
+principal shell  one n ha only a single s orbital  ,  which can hold two electron  .
+principal shell  two n ha one s and one p subshell  ,  and can hold a total of eight electron  .
+the p subshell ha three dumbbell  -  shaped orbitals  ,  a illustrated in figure  two   .   eight   .  subshells d and f have more complex shape and contain five and seven orbitals  ,  respectively  .
+these are not shown in the illustration  .
+principal shell  three n ha s  ,  p  ,  and d subshells and can hold  one  eight  electron  .
+principal shell  four n ha s  ,  p  ,  d and f orbitals and can hold  three  two  electron  .
+moving away from the nucleus  ,  the number of electron and orbitals found in the energy level increase  .
+progressing from one atom to the next in the periodic table  ,  the electron structure can be worked out by fitting an extra electron into the next available orbital  .
+the s subshells are shaped like sphere  .
+both the  one n and  two n principal shell have an s orbital  ,  but the size of the sphere is larger in the  two n orbital  .
+each sphere is a single orbital  .  p subshells are made up of three dumbbellshaped orbitals  .
+principal shell  two n ha a p subshell  ,  but shell  one  doe not  .
+the closest orbital to the nucleus  ,  called the  one s orbital  ,  can hold up to two electron  .
+this orbital is equivalent to the innermost electron shell of the bohr model of the atom  .
+it is called the  one s orbital because it is spherical around the nucleus  .
+the  one s orbital is the closest orbital to the nucleus  ,  and it is always filled first  ,  before any other orbital can be filled  .
+hydrogen ha one electron   therefore  ,  it ha only one spot within the  one s orbital occupied  .
+this is designated a  one s one   ,  where the superscripted  one  refers to the one electron within the  one s orbital  .
+helium ha two electron   therefore  ,  it can completely fill the  one s orbital with it two electron  .
+this is designated a  one s two   ,  referring to the two electron of helium in the  one s orbital  .
+on the periodic table figure  two   .   five   ,  hydrogen and helium are the only two element in the first row  (  period  )    this is because they only have electron in their first shell  ,  the  one s orbital  .
+hydrogen and helium are the only two element that have the  one s and no other electron orbitals in the electrically neutral state  .
+the second electron shell may contain eight electron  .
+this shell contains another spherical s orbital and three “ dumbbell ” shaped p orbitals  ,  each of which can hold two electron  ,  a shown in figure  two   .   eight   .  after the  one s orbital is filled  ,  the second electron shell is filled  ,  first filling it  two s orbital and then it three p orbitals  .
+when filling the p orbitals  ,  each take a single electron   once each p orbital ha an electron  ,  a second may be added  .
+lithium  (  li  )  contains three electron that occupy the first and second shell  .
+two electron fill the  one s orbital  ,  and the third electron then fill the  two s orbital  .
+it electron configuration is  one s two  two s one   .
+neon  (  ne  )   ,  on the other hand  ,  ha a total of ten electron   two are in it innermost  one s orbital and eight fill it second shell  (  two each in the  two s and three p orbitals  )    thus  ,  it is an inert gas and energetically stable a a single atom that will rarely form a chemical bond with other atom  .
+larger element have additional orbitals  ,  making up the third electron shell  .
+while the concept of electron shell and orbitals are closely related  ,  orbitals provide a more accurate depiction of the electron configuration of an atom because the orbital model specifies the different shape and special orientation of all the place that electron may occupy  .
+all element are most stable when their outermost shell is filled with electron according to the octet rule  .
+this is because it is energetically favorable for atom to be in that configuration and it make them stable  .
+however  ,  since not all element have enough electron to fill their outermost shell  ,  atom form chemical bond with other atom thereby obtaining the electron they need to attain a stable electron configuration  .
+when two or more atom chemically bond with each other  ,  the resultant chemical structure is a molecule  .
+the familiar water molecule  ,  h two o  ,  consists of two hydrogen atom and one oxygen atom   these bond together to form water  ,  a illustrated in figure  two   .   nine   .  atom can form molecule by donating  ,  accepting  ,  or sharing electron to fill their outer shell  .
+two or more atom may bond with each other to form a molecule  .
+when two hydrogen and an oxygen share electron via covalent bond  ,  a water molecule is formed  .
+chemical reaction occur when two or more atom bond together to form molecule or when bonded atom are broken apart  .
+the substance used in the beginning of a chemical reaction are called the reactant  (  usually found on the left side of a chemical equation  )   ,  and the substance found at the end of the reaction are known a the product  (  usually found on the right side of a chemical equation  )   .  an arrow is typically drawn between the reactant and product to indicate the direction of the chemical reaction   this direction is not always a “ one  -  way street  .
+” for the creation of the water molecule shown above  ,  the chemical equation would be   an example of a simple chemical reaction is the breaking down of hydrogen peroxide molecule  ,  each of which consists of two hydrogen atom bonded to two oxygen atom  (  h two o two   )   .  the reactant hydrogen peroxide is broken down into water  ,  containing one oxygen atom bound to two hydrogen atom  (  h two o  )   ,  and oxygen  ,  which consists of two bonded oxygen atom  (  o two   )   .  in the equation below  ,  the reaction includes two hydrogen peroxide molecule and two water molecule  .
+this is an example of a balanced chemical equation  ,  wherein the number of atom of each element is the same on each side of the equation  .
+according to the law of conservation of matter  ,  the number of atom before and after a chemical reaction should be equal  ,  such that no atom are  ,  under normal circumstance  ,  created or destroyed  .
+even though all of the reactant and product of this reaction are molecule  (  each atom remains bonded to at least one other atom  )   ,  in this reaction only hydrogen peroxide and water are representative of compound   they contain atom of more than one type of element  .
+molecular oxygen  ,  on the other hand  ,  a shown in figure  two   .   one  zero   ,  consists of two doubly bonded oxygen atom and is not classified a a compound but a a mononuclear molecule  .
+the oxygen atom in an o two  molecule are joined by a double bond  .
+some chemical reaction  ,  such a the one shown above  ,  can proceed in one direction until the reactant are all used up  .
+the equation that describe these reaction contain a unidirectional arrow and are irreversible  .
+reversible reaction are those that can go in either direction  .
+in reversible reaction  ,  reactant are turned into product  ,  but when the concentration of product go beyond a certain threshold  (  characteristic of the particular reaction  )   ,  some of these product will be converted back into reactant   at this point  ,  the designation of product and reactant are reversed  .
+this back and forth continues until a certain relative balance between reactant and product occurs — a state called equilibrium  .
+these situation of reversible reaction are often denoted by a chemical equation with a double headed arrow pointing towards both the reactant and product  .
+for example  ,  in human blood  ,  excess hydrogen ion  (  h +  )  bind to bicarbonate ion  (  hco three   -   )  forming an equilibrium state with carbonic acid  (  h two co three   )   .  if carbonic acid were added to this system  ,  some of it would be converted to bicarbonate and hydrogen ion  .
+in biological reaction  ,  however  ,  equilibrium is rarely obtained because the concentration of the reactant or product or both are constantly changing  ,  often with a product of one reaction being a reactant for another  .
+to return to the example of excess hydrogen ion in the blood  ,  the formation of carbonic acid will be the major direction of the reaction  .
+however  ,  the carbonic acid can also leave the body a carbon dioxide gas  (  via exhalation  )  instead of being converted back to bicarbonate ion  ,  thus driving the reaction to the right by the chemical law known a law of mass action  .
+these reaction are important for maintaining the homeostasis of our blood  .
+some atom are more stable when they gain or lose an electron  (  or possibly two  )  and form ion  .
+this fill their outermost electron shell and make them energetically more stable  .
+because the number of electron doe not equal the number of proton  ,  each ion ha a net charge  .
+cation are positive ion that are formed by losing electron  .
+negative ion are formed by gaining electron and are called anion  .
+anion are designated by their elemental name being altered to end in “  -  ide ”   the anion of chlorine is called chloride  ,  and the anion of sulfur is called sulfide  ,  for example  .
+this movement of electron from one element to another is referred to a electron transfer  .
+a figure  two   .   one  one  illustrates  ,  sodium  (  na  )  only ha one electron in it outer electron shell  .
+it take le energy for sodium to donate that one electron than it doe to accept seven more electron to fill the outer shell  .
+if sodium loses an electron  ,  it now ha  one  one  proton  ,   one  one  neutron  ,  and only  one  zero  electron  ,  leaving it with an overall charge of +  one   .  it is now referred to a a sodium ion  .
+chlorine  (  cl  )  in it lowest energy state  (  called the ground state  )  ha seven electron in it outer shell  .
+again  ,  it is more energy  -  efficient for chlorine to gain one electron than to lose seven  .
+therefore  ,  it tends to gain an electron to create an ion with  one  seven  proton  ,   one  seven  neutron  ,  and  one  eight  electron  ,  giving it a net negative  (  –  one   )  charge  .
+it is now referred to a a chloride ion  .
+in this example  ,  sodium will donate it one electron to empty it shell  ,  and chlorine will accept that electron to fill it shell  .
+both ion now satisfy the octet rule and have complete outermost shell  .
+because the number of electron is no longer equal to the number of proton  ,  each is now an ion and ha a +  one   (  sodium cation  )  or –  one   (  chloride anion  )  charge  .
+note that these transaction can normally only take place simultaneously   in order for a sodium atom to lose an electron  ,  it must be in the presence of a suitable recipient like a chlorine atom  .
+in the formation of an ionic compound  ,  metal lose electron and nonmetal gain electron to achieve an octet  .
+ionic bond are formed between ion with opposite charge  .
+for instance  ,  positively charged sodium ion and negatively charged chloride ion bond together to make crystal of sodium chloride  ,  or table salt  ,  creating a crystalline molecule with zero net charge  .
+certain salt are referred to in physiology a electrolyte  (  including sodium  ,  potassium  ,  and calcium  )   ,  ion necessary for nerve impulse conduction  ,  muscle contraction and water balance  .
+many sport drink and dietary supplement provide these ion to replace those lost from the body via sweating during exercise  .
+another way the octet rule can be satisfied is by the sharing of electron between atom to form covalent bond  .
+these bond are stronger and much more common than ionic bond in the molecule of living organism  .
+covalent bond are commonly found in carbon  -  based organic molecule  ,  such a our dna and protein  .
+covalent bond are also found in inorganic molecule like h two o  ,  co two   ,  and o two   .
+one  ,  two  ,  or three pair of electron may be shared  ,  making single  ,  double  ,  and triple bond  ,  respectively  .
+the more covalent bond between two atom  ,  the stronger their connection  .
+thus  ,  triple bond are the strongest  .
+the strength of different level of covalent bonding is one of the main reason living organism have a difficult time in acquiring nitrogen for use in constructing their molecule  ,  even though molecular nitrogen  ,  n two   ,  is the most abundant gas in the atmosphere  .
+molecular nitrogen consists of two nitrogen atom triple bonded to each other and  ,  a with all molecule  ,  the sharing of these three pair of electron between the two nitrogen atom allows for the filling of their outer electron shell  ,  making the molecule more stable than the individual nitrogen atom  .
+this strong triple bond make it difficult for living system to break apart this nitrogen in order to use it a constituent of protein and dna  .
+the formation of water molecule provides an example of covalent bonding  .
+the hydrogen and oxygen atom that combine to form water molecule are bound together by covalent bond  ,  a shown in figure  two   .   nine   .  the electron from the hydrogen split it time between the incomplete outer shell of the hydrogen atom and the incomplete outer shell of the oxygen atom  .
+to completely fill the outer shell of oxygen  ,  which ha six electron in it outer shell but which would be more stable with eight  ,  two electron  (  one from each hydrogen atom  )  are needed   hence the well  -  known formula h two o  .
+the electron are shared between the two element to fill the outer shell of each  ,  making both element more stable  .
+there are two type of covalent bond   polar and nonpolar  .
+in a polar covalent bond  ,  shown in figure  two   .   one  two   ,  the electron are unequally shared by the atom and are attracted more to one nucleus than the other  .
+because of the unequal distribution of electron between the atom of different element  ,  a slightly positive  (  δ +  )  or slightly negative  (  δ –  )  charge develops  .
+this partial charge is an important property of water and account for many of it characteristic  .
+water is a polar molecule  ,  with the hydrogen atom acquiring a partial positive charge and the oxygen a partial negative charge  .
+this occurs because the nucleus of the oxygen atom is more attractive to the electron of the hydrogen atom than the hydrogen nucleus is to the oxygen ’ s electron  .
+thus oxygen ha a higher electronegativity than hydrogen and the shared electron spend more time in the vicinity of the oxygen nucleus than they do near the nucleus of the hydrogen atom  ,  giving the atom of oxygen and hydrogen slightly negative and positive charge  ,  respectively  .
+another way of stating this is that the probability of finding a shared electron near an oxygen nucleus is more likely than finding it near a hydrogen nucleus  .
+either way  ,  the atom ’ s relative electronegativity contributes to the development of partial charge whenever one element is significantly more electronegative than the other  ,  and the charge generated by these polar bond may then be used for the formation of hydrogen bond based on the attraction of opposite partial charge  .
+(  hydrogen bond  ,  which are discussed in detail below  ,  are weak bond between slightly positively charged hydrogen atom to slightly negatively charged atom in other molecule  .   )  since macromolecule often have atom within them that differ in electronegativity  ,  polar bond are often present in organic molecule  .
+nonpolar covalent bond form between two atom of the same element or between different element that share electron equally  .
+for example  ,  molecular oxygen  (  o two   )  is nonpolar because the electron will be equally distributed between the two oxygen atom  .
+another example of a nonpolar covalent bond is methane  (  ch four   )   ,  also shown in figure  two   .   one  two   .  carbon ha four electron in it outermost shell and need four more to fill it  .
+it get these four from four hydrogen atom  ,  each atom providing one  ,  making a stable outer shell of eight electron  .
+carbon and hydrogen do not have the same electronegativity but are similar   thus  ,  nonpolar bond form  .
+the hydrogen atom each need one electron for their outermost shell  ,  which is filled when it contains two electron  .
+these element share the electron equally among the carbon and the hydrogen atom  ,  creating a nonpolar covalent molecule  .
+whether a molecule is polar or nonpolar depends both on bond type and molecular shape  .
+both water and carbon dioxide have polar covalent bond  ,  but carbon dioxide is linear  ,  so the partial charge on the molecule cancel each other out  .
+ionic and covalent bond between element require energy to break  .
+ionic bond are not a strong a covalent  ,  which determines their behavior in biological system  .
+however  ,  not all bond are ionic or covalent bond  .
+weaker bond can also form between molecule  .
+two weak bond that occur frequently are hydrogen bond and van der waals interaction  .
+without these two type of bond  ,  life a we know it would not exist  .
+hydrogen bond provide many of the critical  ,  lifesustaining property of water and also stabilize the structure of protein and dna  ,  the building block of cell  .
+when polar covalent bond containing hydrogen form  ,  the hydrogen in that bond ha a slightly positive charge because hydrogen ’ s electron is pulled more strongly toward the other element and away from the hydrogen  .
+because the hydrogen is slightly positive  ,  it will be attracted to neighboring negative charge  .
+when this happens  ,  a weak interaction occurs between the δ + of the hydrogen from one molecule and the δ – charge on the more electronegative atom of another molecule  ,  usually oxygen or nitrogen  ,  or within the same molecule  .
+this interaction is called a hydrogen bond  .
+this type of bond is common and occurs regularly between water molecule  .
+individual hydrogen bond are weak and easily broken   however  ,  they occur in very large number in water and in organic polymer  ,  creating a major force in combination  .
+hydrogen bond are also responsible for zipping together the dna double helix  .
+like hydrogen bond  ,  van der waals interaction are weak attraction or interaction between molecule  .
+van der waals attraction can occur between any two or more molecule and are dependent on slight fluctuation of the electron density  ,  which are not always symmetrical around an atom  .
+for these attraction to happen  ,  the molecule need to be very close to one another  .
+these bond — along with ionic  ,  covalent  ,  and hydrogen bond — contribute to the three  -  dimensional structure of the protein in our cell that is necessary for their proper function  .
+pharmaceutical chemist are responsible for the development of new drug and trying to determine the mode of action of both old and new drug  .
+they are involved in every step of the drug development process  .
+drug can be found in the natural environment or can be synthesized in the laboratory  .
+in many case  ,  potential drug found in nature are changed chemically in the laboratory to make them safer and more effective  ,  and sometimes synthetic version of drug substitute for the version found in nature  .
+after the initial discovery or synthesis of a drug  ,  the chemist then develops the drug  ,  perhaps chemically altering it  ,  testing it to see if the drug is toxic  ,  and then designing method for efficient large  -  scale production  .
+then  ,  the process of getting the drug approved for human use begin  .
+in the united state  ,  drug approval is handled by the food and drug administration  (  fda  )  and involves a series of large  -  scale experiment using human subject to make sure the drug is not harmful and effectively treat the condition it aim to treat  .
+this process often take several year and requires the participation of physician and scientist  ,  in addition to chemist  ,  to complete testing and gain approval  .
+an example of a drug that wa originally discovered in a living organism is paclitaxel  (  taxol  )   ,  an anti  -  cancer drug used to treat breast cancer  .
+this drug wa discovered in the bark of the pacific yew tree  .
+another example is aspirin  ,  originally isolated from willow tree bark  .
+finding drug often mean testing hundred of sample of plant  ,  fungi  ,  and other form of life to see if any biologically active compound are found within them  .
+sometimes  ,  traditional medicine can give modern medicine clue to where an active compound can be found  .
+for example  ,  the use of willow bark to make medicine ha been known for thousand of year  ,  dating back to ancient egypt  .
+it wa not until the late  one  eight  zero  zero s  ,  however  ,  that the aspirin molecule  ,  known a acetylsalicylic acid  ,  wa purified and marketed for human use  .
+occasionally  ,  drug developed for one use are found to have unforeseen effect that allow these drug to be used in other  ,  unrelated way  .
+for example  ,  the drug minoxidil  (  rogaine  )  wa originally developed to treat high blood pressure  .
+when tested on human  ,  it wa noticed that individual taking the drug would grow new hair  .
+eventually the drug wa marketed to men and woman with baldness to restore lost hair  .
+the career of the pharmaceutical chemist may involve detective work  ,  experimentation  ,  and drug development  ,  all with the goal of making human being healthier  .
+why do scientist spend time looking for water on other planet  ?
+why is water so important  ?
+it is because water is essential to life a we know it  .
+water is one of the more abundant molecule and the one most critical to life on earth  .
+approximately  six  zero  –  seven  zero  percent of the human body is made up of water  .
+without it  ,  life a we know it simply would not exist  .
+the polarity of the water molecule and it resulting hydrogen bonding make water a unique substance with special property that are intimately tied to the process of life  .
+life originally evolved in a watery environment  ,  and most of an organism ’ s cellular chemistry and metabolism occur inside the watery content of the cell ’ s cytoplasm  .
+special property of water are it high heat capacity and heat of vaporization  ,  it ability to dissolve polar molecule  ,  it cohesive and adhesive property  ,  and it dissociation into ion that lead to the generation of ph  .
+understanding these characteristic of water help to elucidate it importance in maintaining life  .
+one of water ’ s important property is that it is composed of polar molecule   the hydrogen and oxygen within water molecule  (  h two o  )  form polar covalent bond  .
+while there is no net charge to a water molecule  ,  the polarity of water creates a slightly positive charge on hydrogen and a slightly negative charge on oxygen  ,  contributing to water ’ s property of attraction  .
+water ’ s charge are generated because oxygen is more electronegative than hydrogen  ,  making it more likely that a shared electron would be found near the oxygen nucleus than the hydrogen nucleus  ,  thus generating the partial negative charge near the oxygen  .
+a a result of water ’ s polarity  ,  each water molecule attracts other water molecule because of the opposite charge between water molecule  ,  forming hydrogen bond  .
+water also attracts or is attracted to other polar molecule and ion  .
+a polar substance that interacts readily with or dissolve in water is referred to a hydrophilic  (  hydro  -  = “ water ”    -  philic = “ loving ”  )   .  in contrast  ,  non  -  polar molecule such a oil and fat do not interact well with water  ,  a shown in figure  two   .   one  three  and separate from it rather than dissolve in it  ,  a we see in salad dressing containing oil and vinegar  (  an acidic water solution  )   .  these nonpolar compound are called hydrophobic  (  hydro  -  = “ water ”    -  phobic = “ fearing ”  )   .  the formation of hydrogen bond is an important quality of the liquid water that is crucial to life a we know it  .
+a water molecule make hydrogen bond with each other  ,  water take on some unique chemical characteristic compared to other liquid and  ,  since living thing have a high water content  ,  understanding these chemical feature is key to understanding life  .
+in liquid water  ,  hydrogen bond are constantly formed and broken a the water molecule slide past each other  .
+the breaking of these bond is caused by the motion  (  kinetic energy  )  of the water molecule due to the heat contained in the system  .
+when the heat is raised a water is boiled  ,  the higher kinetic energy of the water molecule cause the hydrogen bond to break completely and allows water molecule to escape into the air a gas  (  steam or water vapor  )   .  on the other hand  ,  when the temperature of water is reduced and water freeze  ,  the water molecule form a crystalline structure maintained by hydrogen bonding  (  there is not enough energy to break the hydrogen bond  )  that make ice le dense than liquid water  ,  a phenomenon not seen in the solidification of other liquid  .
+oil and water do not mix  .
+a this macro image of oil and water show  ,  oil doe not dissolve in water but form droplet instead  .
+this is due to it being a nonpolar compound  .   (  credit   gautam dogra  )   .  the formation of hydrogen bond is an important quality of the liquid water that is crucial to life a we know it  .
+a water molecule make hydrogen bond with each other  ,  water take on some unique chemical characteristic compared to other liquid and  ,  since living thing have a high water content  ,  understanding these chemical feature is key to understanding life  .
+in liquid water  ,  hydrogen bond are constantly formed and broken a the water molecule slide past each other  .
+the breaking of these bond is caused by the motion  (  kinetic energy  )  of the water molecule due to the heat contained in the system  .
+when the heat is raised a water is boiled  ,  the higher kinetic energy of the water molecule cause the hydrogen bond to break completely and allows water molecule to escape into the air a gas  (  steam or water vapor  )   .  on the other hand  ,  when the temperature of water is reduced and water freeze  ,  the water molecule form a crystalline structure maintained by hydrogen bonding  (  there is not enough energy to break the hydrogen bond  )  that make ice le dense than liquid water  ,  a phenomenon not seen in the solidification of other liquid  .
+water ’ s lower density in it solid form is due to the way hydrogen bond are oriented a it freeze   the water molecule are pushed farther apart compared to liquid water  .
+with most other liquid  ,  solidification when the temperature drop includes the lowering of kinetic energy between molecule  ,  allowing them to pack even more tightly than in liquid form and giving the solid a greater density than the liquid  .
+the lower density of ice  ,  illustrated and pictured in figure  two   .   one  four   ,  an anomaly  ,  cause it to float at the surface of liquid water  ,  such a in an iceberg or in the ice cube in a glass of ice water  .
+in lake and pond  ,  ice will form on the surface of the water creating an insulating barrier that protects the animal and plant life in the pond from freezing  .
+without this layer of insulating ice  ,  plant and animal living in the pond would freeze in the solid block of ice and could not survive  .
+the detrimental effect of freezing on living organism is caused by the expansion of ice relative to liquid water  .
+the ice crystal that form upon freezing rupture the delicate membrane essential for the function of living cell  ,  irreversibly damaging them  .
+cell can only survive freezing if the water in them is temporarily replaced by another liquid like glycerol  .
+hydrogen bonding make ice le dense than liquid water  .
+the  (  a  )  lattice structure of ice make it le dense than the freely flowing molecule of liquid water  ,  enabling it to  (  b  )  float on water  .
+water ’ s high heat capacity is a property caused by hydrogen bonding among water molecule  .
+water ha the highest specific heat capacity of any liquid  .
+specific heat is defined a the amount of heat one gram of a substance must absorb or lose to change it temperature by one degree celsius  .
+for water  ,  this amount is one calorie  .
+it therefore take water a long time to heat and long time to cool  .
+in fact  ,  the specific heat capacity of water is about five time more than that of sand  .
+this explains why the land cool faster than the sea  .
+due to it high heat capacity  ,  water is used by warm blooded animal to more evenly disperse heat in their body   it act in a similar manner to a car ’ s cooling system  ,  transporting heat from warm place to cool place  ,  causing the body to maintain a more even temperature  .
+water also ha a high heat of vaporization  ,  the amount of energy required to change one gram of a liquid substance to a gas  .
+a considerable amount of heat energy  (   five  eight  six  cal  )  is required to accomplish this change in water  .
+this process occurs on the surface of water  .
+a liquid water heat up  ,  hydrogen bonding make it difficult to separate the liquid water molecule from each other  ,  which is required for it to enter it gaseous phase  (  steam  )   .  a a result  ,  water act a a heat sink or heat reservoir and requires much more heat to boil than doe a liquid such a ethanol  (  grain alcohol  )   ,  whose hydrogen bonding with other ethanol molecule is weaker than water ’ s hydrogen bonding  .
+eventually  ,  a water reach it boiling point of  one  zero  zero åã celsius  (   two  one  two åã fahrenheit  )   ,  the heat is able to break the hydrogen bond between the water molecule  ,  and the kinetic energy  (  motion  )  between the water molecule allows them to escape from the liquid a a gas  .
+even when below it boiling point  ,  water ’ s individual molecule acquire enough energy from other water molecule such that some surface water molecule can escape and vaporize   this process is known a evaporation  .
+the fact that hydrogen bond need to be broken for water to evaporate mean that a substantial amount of energy is used in the process  .
+a the water evaporates  ,  energy is taken up by the process  ,  cooling the environment where the evaporation is taking place  .
+in many living organism  ,  including in human  ,  the evaporation of sweat  ,  which is  nine  zero  percent water  ,  allows the organism to cool so that homeostasis of body temperature can be maintained  .
+since water is a polar molecule with slightly positive and slightly negative charge  ,  ion and polar molecule can readily dissolve in it  .
+therefore  ,  water is referred to a a solvent  ,  a substance capable of dissolving other polar molecule and ionic compound  .
+the charge associated with these molecule will form hydrogen bond with water  ,  surrounding the particle with water molecule  .
+this is referred to a a sphere of hydration  ,  or a hydration shell  ,  a illustrated in figure  two   .   one  five  and serf to keep the particle separated or dispersed in the water  .
+when ionic compound are added to water  ,  the individual ion react with the polar region of the water molecule and their ionic bond are disrupted in the process of dissociation  .
+dissociation occurs when atom or group of atom break off from molecule and form ion  .
+consider table salt  (  nacl  ,  or sodium chloride  )    when nacl crystal are added to water  ,  the molecule of nacl dissociate into na + and cl – ion  ,  and sphere of hydration form around the ion  ,  illustrated in figure  two   .   one  five   .
+the positively charged sodium ion is surrounded by the partially negative charge of the water molecule ’ s oxygen  .
+the negatively charged chloride ion is surrounded by the partially positive charge of the hydrogen on the water molecule  .
+have you ever filled a glass of water to the very top and then slowly added a few more drop  ?
+before it overflow  ,  the water form a dome  -  like shape above the rim of the glass  .
+this water can stay above the glass because of the property of cohesion  .
+in cohesion  ,  water molecule are attracted to each other  (  because of hydrogen bonding  )   ,  keeping the molecule together at the liquid  -  gas  (  water  -  air  )  interface  ,  although there is no more room in the glass  .
+cohesion allows for the development of surface tension  ,  the capacity of a substance to withstand being ruptured when placed under tension or stress  .
+this is also why water form droplet when placed on a dry surface rather than being flattened out by gravity  .
+when a small scrap of paper is placed onto the droplet of water  ,  the paper float on top of the water droplet even though paper is denser  (  heavier  )  than the water  .
+cohesion and surface tension keep the hydrogen bond of water molecule intact and support the item floating on the top  .
+it ’ s even possible to “ float ” a needle on top of a glass of water if it is placed gently without breaking the surface tension  ,  a shown in figure  two   .   one  six   .  these cohesive force are related to water ’ s property of adhesion  ,  or the attraction between water molecule and other molecule  .
+this attraction is sometimes stronger than water ’ s cohesive force  ,  especially when the water is exposed to charged surface such a those found on the inside of thin glass tube known a capillary tube  .
+adhesion is observed when water “ climb ” up the tube placed in a glass of water   notice that the water appears to be higher on the side of the tube than in the middle  .
+this is because the water molecule are attracted to the charged glass wall of the capillary more than they are to each other and therefore adhere to it  .
+this type of adhesion is called capillary action  ,  and is illustrated in figure  two   .   one  seven   .
+the weight of the needle is pulling the surface downward   at the same time  ,  the surface tension is pulling it up  ,  suspending it on the surface of the water and keeping it from sinking  .
+notice the indentation in the water around the needle  .
+these cohesive force are related to water ’ s property of adhesion  ,  or the attraction between water molecule and other molecule  .
+this attraction is sometimes stronger than water ’ s cohesive force  ,  especially when the water is exposed to charged surface such a those found on the inside of thin glass tube known a capillary tube  .
+adhesion is observed when water “ climb ” up the tube placed in a glass of water   notice that the water appears to be higher on the side of the tube than in the middle  .
+this is because the water molecule are attracted to the charged glass wall of the capillary more than they are to each other and therefore adhere to it  .
+this type of adhesion is called capillary action  ,  and is illustrated in figure  two   .   one  seven   .
+capillary action in a glass tube is caused by the adhesive force exerted by the internal surface of the glass exceeding the cohesive force between the water molecule themselves  .
+why are cohesive and adhesive force important for life  ?
+cohesive and adhesive force are important for the transport of water from the root to the leaf in plant  .
+these force create a “ pull ” on the water column  .
+this pull result from the tendency of water molecule being evaporated on the surface of the plant to stay connected to water molecule below them  ,  and so they are pulled along  .
+plant use this natural phenomenon to help transport water from their root to their leaf  .
+without these property of water  ,  plant would be unable to receive the water and the dissolved mineral they require  .
+in another example  ,  insect such a the water strider  ,  shown in figure  two   .   one  eight   ,  use the surface tension of water to stay afloat on the surface layer of water and even mate there  .
+the ph of a solution indicates it acidity or alkalinity  .  litmus or ph paper  ,  filter paper that ha been treated with a natural water  -  soluble dye so it can be used a a ph indicator  ,  to test how much acid  (  acidity  )  or base  (  alkalinity  )  exists in a solution  .
+you might have even used some to test whether the water in a swimming pool is properly treated  .
+in both case  ,  the ph test measure the concentration of hydrogen ion in a given solution  .
+hydrogen ion are spontaneously generated in pure water by the dissociation  (  ionization  )  of a small percentage of water molecule into equal number of hydrogen  (  h +  )  ion and hydroxide  (  oh  -   )  ion  .
+while the hydroxide ion are kept in solution by their hydrogen bonding with other water molecule  ,  the hydrogen ion  ,  consisting of naked proton  ,  are immediately attracted to un  -  ionized water molecule  ,  forming hydronium ion  (  h three  zero  +  )   .  still  ,  by convention  ,  scientist refer to hydrogen ion and their concentration a if they were free in this state in liquid water  .
+the concentration of hydrogen ion dissociating from pure water is  one  å ~  one  zero   -   seven  mole h + ion per liter of water  .
+mole  (  mol  )  are a way to express the amount of a substance  (  which can be atom  ,  molecule  ,  ion  ,  etc  )   ,  with one mole being equal to  six   .   zero  two  x  one  zero  two  three  particle of the substance  .
+therefore  ,   one  mole of water is equal to  six   .   zero  two  x  one  zero  two  three  water molecule  .
+the ph is calculated a the negative of the base  one  zero  logarithm of this concentration  .
+the log one  zero  of  one  å ~  one  zero   -   seven  is  -   seven   .   zero   ,  and the negative of this number  (  indicated by the “ p ” of “ ph ”  )  yield a ph of  seven   .   zero   ,  which is also known a neutral ph  .
+the ph inside of human cell and blood are example of two area of the body where near  -  neutral ph is maintained  .
+non  -  neutral ph reading result from dissolving acid or base in water  .
+using the negative logarithm to generate positive integer  ,  high concentration of hydrogen ion yield a low ph number  ,  whereas low level of hydrogen ion result in a high ph  .
+an acid is a substance that increase the concentration of hydrogen ion  (  h +  )  in a solution  ,  usually by having one of it hydrogen atom dissociate  .
+a base provides either hydroxide ion  (  oh –  )  or other negatively charged ion that combine with hydrogen ion  ,  reducing their concentration in the solution and thereby raising the ph  .
+in case where the base release hydroxide ion  ,  these ion bind to free hydrogen ion  ,  generating new water molecule  .
+the stronger the acid  ,  the more readily it donates h +  .  for example  ,  hydrochloric acid  (  hcl  )  completely dissociates into hydrogen and chloride ion and is highly acidic  ,  whereas the acid in tomato juice or vinegar do not completely dissociate and are considered weak acid  .
+conversely  ,  strong base are those substance that readily donate oh – or take up hydrogen ion  .
+sodium hydroxide  (  naoh  )  and many household cleaner are highly alkaline and give up oh – rapidly when placed in water  ,  thereby raising the ph  .
+an example of a weak basic solution is seawater  ,  which ha a ph near  eight   .   zero   ,  close enough to neutral ph that marine organism adapted to this saline environment are able to thrive in it  .
+the ph scale is  ,  a previously mentioned  ,  an inverse logarithm and range from  zero  to  one  four   (  figure  two   .   one  nine   )   .  anything below  seven   .   zero   (  ranging from  zero   .   zero  to  six   .   nine   )  is acidic  ,  and anything above  seven   .   zero   (  from  seven   .   one  to  one  four   .   zero   )  is alkaline  .
+extreme in ph in either direction from  seven   .   zero  are usually considered inhospitable to life  .
+the ph inside cell  (   six   .   eight   )  and the ph in the blood  (   seven   .   four   )  are both very close to neutral  .
+however  ,  the environment in the stomach is highly acidic  ,  with a ph of  one  to  two   .  so how do the cell of the stomach survive in such an acidic environment  ?
+how do they homeostatically maintain the near neutral ph inside them  ?
+the answer is that they cannot do it and are constantly dying  .
+new stomach cell are constantly produced to replace dead one  ,  which are digested by the stomach acid  .
+it is estimated that the lining of the human stomach is completely replaced every seven to ten day  .
+the ph scale measure the concentration of hydrogen ion  (  h +  )  in a solution  .
+so how can organism whose body require a near  -  neutral ph ingest acidic and basic substance  (  a human drinking orange juice  ,  for example  )  and survive  ?
+buffer are the key  .
+buffer readily absorb excess h + or oh –  ,  keeping the ph of the body carefully maintained in the narrow range required for survival  .
+maintaining a constant blood ph is critical to a person ’ s well  -  being  .
+the buffer maintaining the ph of human blood involves carbonic acid  (  h two co three   )   ,  bicarbonate ion  (  hco three  –  )   ,  and carbon dioxide  (  co two   )   .  when bicarbonate ion combine with free hydrogen ion and become carbonic acid  ,  hydrogen ion are removed  ,  moderating ph change  .
+similarly  ,  a shown in figure  two   .   two  zero   ,  excess carbonic acid can be converted to carbon dioxide gas and exhaled through the lung  .
+this prevents too many free hydrogen ion from building up in the blood and dangerously reducing the blood ’ s ph  .
+likewise  ,  if too much oh – is introduced into the system  ,  carbonic acid will combine with it to create bicarbonate  ,  lowering the ph  .
+without this buffer system  ,  the body ’ s ph would fluctuate enough to put survival in jeopardy  .
+this diagram show the body ’ s buffering of blood ph level  .
+the blue arrow show the process of raising ph a more co two  is made  .
+the purple arrow indicate the reverse process   the lowering of ph a more bicarbonate is created  .
+other example of buffer are antacid used to combat excess stomach acid  .
+many of these over  -  the  -  counter medication work in the same way a blood buffer  ,  usually with at least one ion capable of absorbing hydrogen and moderating ph  ,  bringing relief to those that suffer “ heartburn ” after eating  .
+the unique property of water that contribute to this capacity to balance ph — a well a water ’ s other characteristic — are essential to sustaining life on earth  .
+cell are made of many complex molecule called macromolecule  ,  such a protein  ,  nucleic acid  (  rna and dna  )   ,  carbohydrate  ,  and lipid  .
+the macromolecule are a subset of organic molecule  (  any carbon  -  containing liquid  ,  solid  ,  or gas  )  that are especially important for life  .
+the fundamental component for all of these macromolecule is carbon  .
+the carbon atom ha unique property that allow it to form covalent bond to a many a four different atom  ,  making this versatile element ideal to serve a the basic structural component  ,  or “ backbone  ,  ” of the macromolecule  .
+individual carbon atom have an incomplete outermost electron shell  .
+with an atomic number of  six   (  six electron and six proton  )   ,  the first two electron fill the inner shell  ,  leaving four in the second shell  .
+therefore  ,  carbon atom can form up to four covalent bond with other atom to satisfy the octet rule  .
+the methane molecule provides an example   it ha the chemical formula ch four   .
+each of it four hydrogen atom form a single covalent bond with the carbon atom by sharing a pair of electron  .
+this result in a filled outermost shell  .
+hydrocarbon are organic molecule consisting entirely of carbon and hydrogen  ,  such a methane  (  ch four   )  described above  .
+we often use hydrocarbon in our daily life a fuel — like the propane in a gas grill or the butane in a lighter  .
+the many covalent bond between the atom in hydrocarbon store a great amount of energy  ,  which is released when these molecule are burned  (  oxidized  )   .  methane  ,  an excellent fuel  ,  is the simplest hydrocarbon molecule  ,  with a central carbon atom bonded to four different hydrogen atom  ,  a illustrated in figure  two   .   two  one   .
+the geometry of the methane molecule  ,  where the atom reside in three dimension  ,  is determined by the shape of it electron orbitals  .
+the carbon and the four hydrogen atom form a shape known a a tetrahedron  ,  with four triangular face   for this reason  ,  methane is described a having tetrahedral geometry  .
+methane ha a tetrahedral geometry  ,  with each of the four hydrogen atom spaced  one  zero  nine   .   five åã apart  .
+a the backbone of the large molecule of living thing  ,  hydrocarbon may exist a linear carbon chain  ,  carbon ring  ,  or combination of both  .
+furthermore  ,  individual carbon  -  to  -  carbon bond may be single  ,  double  ,  or triple covalent bond  ,  and each type of bond affect the geometry of the molecule in a specific way  .
+this three  -  dimensional shape or conformation of the large molecule of life  (  macromolecule  )  is critical to how they function  .
+hydrocarbon chain are formed by successive bond between carbon atom and may be branched or unbranched  .
+furthermore  ,  the overall geometry of the molecule is altered by the different geometry of single  ,  double  ,  and triple covalent bond  ,  illustrated in figure  two   .   two  two   .
+the hydrocarbon ethane  ,  ethene  ,  and ethyne serve a example of how different carbon  -  to  -  carbon bond affect the geometry of the molecule  .
+the name of all three molecule start with the prefix “ eth  -   ,  ” which is the prefix for two carbon hydrocarbon  .
+the suffix “  -  ane  ,  ” “  -  ene  ,  ” and “  -  yne ” refer to the presence of single  ,  double  ,  or triple carbon  -  carbon bond  ,  respectively  .
+thus  ,  propane  ,  propene  ,  and propyne follow the same pattern with three carbon molecule  ,  butane  ,  butane  ,  and butyne for four carbon molecule  ,  and so on  .
+double and triple bond change the geometry of the molecule   single bond allow rotation along the axis of the bond  ,  whereas double bond lead to a planar configuration and triple bond to a linear one  .
+these geometry have a significant impact on the shape a particular molecule can assume  .
+when carbon form single bond with other atom  ,  the shape is tetrahedral  .
+when two carbon atom form a double bond  ,  the shape is planar  ,  or flat  .
+single bond  ,  like those found in ethane  ,  are able to rotate  .
+double bond  ,  like those found in ethene cannot rotate  ,  so the atom on either side are locked in place  .
+so far  ,  the hydrocarbon we have discussed have been aliphatic hydrocarbon  ,  which consist of linear chain of carbon atom  .
+another type of hydrocarbon  ,  aromatic hydrocarbon  ,  consists of closed ring of carbon atom  .
+ring structure are found in hydrocarbon  ,  sometimes with the presence of double bond  ,  which can be seen by comparing the structure of cyclohexane to benzene in figure  two   .   two  three   .  example of biological molecule that incorporate the benzene ring include some amino acid and cholesterol and it derivative  ,  including the hormone estrogen and testosterone  .
+the benzene ring is also found in the herbicide  two   ,   four   -  d  .  benzene is a natural component of crude oil and ha been classified a a carcinogen  .
+some hydrocarbon have both aliphatic and aromatic portion   beta  -  carotene is an example of such a hydrocarbon  .
+carbon can form five  -  and six membered ring  .
+single or double bond may connect the carbon in the ring  ,  and nitrogen may be substituted for carbon  .
+the three  -  dimensional placement of atom and chemical bond within organic molecule is central to understanding their chemistry  .
+molecule that share the same chemical formula but differ in the placement  (  structure  )  of their atom and  /  or chemical bond are known a isomer  .
+structural isomer  (  like butane and isobutene shown in figure  two   .   two  four a  )  differ in the placement of their covalent bond   both molecule have four carbon and ten hydrogen  (  c four h one  zero   )   ,  but the different arrangement of the atom within the molecule lead to difference in their chemical property  .
+for example  ,  due to their different chemical property  ,  butane is suited for use a a fuel for cigarette lighter and torch  ,  whereas isobutene is suited for use a a refrigerant and a propellant in spray can  .
+geometric isomer  ,  on the other hand  ,  have similar placement of their covalent bond but differ in how these bond are made to the surrounding atom  ,  especially in carbon  -  to  -  carbon double bond  .
+in the simple molecule butene  (  c four h eight   )   ,  the two methyl group  (  ch three   )  can be on either side of the double covalent bond central to the molecule  ,  a illustrated in figure  two   .   two  four b  .
+when the carbon are bound on the same side of the double bond  ,  this is the ci configuration   if they are on opposite side of the double bond  ,  it is a trans configuration  .
+in the trans configuration  ,  the carbon form a more or le linear structure  ,  whereas the carbon in the ci configuration make a bend  (  change in direction  )  of the carbon backbone  .
+in triglyceride  (  fat and oil  )   ,  long carbon chain known a fatty acid may contain double bond  ,  which can be in either the ci or trans configuration  ,  illustrated in figure  two   .   two  five   .  fat with at least one double bond between carbon atom are unsaturated fat  .
+when some of these bond are in the ci configuration  ,  the resulting bend in the carbon backbone of the chain mean that triglyceride molecule cannot pack tightly  ,  so they remain liquid  (  oil  )  at room temperature  .
+on the other hand  ,  triglyceride with trans double bond  (  popularly called trans fat  )   ,  have relatively linear fatty acid that are able to pack tightly together at room temperature and form solid fat  .
+in the human diet  ,  trans fat are linked to an increased risk of cardiovascular disease  ,  so many food manufacturer have reduced or eliminated their use in recent year  .
+in contrast to unsaturated fat  ,  triglyceride without double bond between carbon atom are called saturated fat  ,  meaning that they contain all the hydrogen atom available  .
+saturated fat are a solid at room temperature and usually of animal origin  .
+these space  -  filling model show a ci  (  oleic acid  )  and a trans  (  eliadic acid  )  fatty acid  .
+notice the bend in the molecule cause by the ci configuration  .
+enantiomer are molecule that share the same chemical structure and chemical bond but differ in the three  -  dimensional placement of atom so that they are mirror image  .
+a shown in figure  two   .   two  six   ,  an amino acid alanine example  ,  the two structure are non  -  superimposable  .
+in nature  ,  only the l  -  form of amino acid are used to make protein  .
+some d form of amino acid are seen in the cell wall of bacteria  ,  but never in their protein  .
+similarly  ,  the d  -  form of glucose is the main product of photosynthesis and the l  -  form of the molecule is rarely seen in nature  .
+d  -  alanine and l  -  alanine are example of enantiomer or mirror image  .
+only the l  -  form of amino acid are used to make protein  .
+functional group are group of atom that occur within molecule and confer specific chemical property to those molecule  .
+they are found along the “ carbon backbone ” of macromolecule  .
+this carbon backbone is formed by chain and  /  or ring of carbon atom with the occasional substitution of an element such a nitrogen or oxygen  .
+molecule with other element in their carbon backbone are substituted hydrocarbon  .
+the functional group in a macromolecule are usually attached to the carbon backbone at one or several different place along it chain and  /  or ring structure  .
+each of the four type of macromolecule — protein  ,  lipid  ,  carbohydrate  ,  and nucleic acid — ha it own characteristic set of functional group that contributes greatly to it differing chemical property and it function in living organism  .
+a functional group can participate in specific chemical reaction  .
+some of the important functional group in biological molecule are shown in figure  two   .   two  seven    they include   hydroxyl  ,  methyl  ,  carbonyl  ,  carboxyl  ,  amino  ,  phosphate  ,  and sulfhydryl  .
+these group play an important role in the formation of molecule like dna  ,  protein  ,  carbohydrate  ,  and lipid  .
+functional group are usually classified a hydrophobic or hydrophilic depending on their charge or polarity characteristic  .
+an example of a hydrophobic group is the non  -  polar methane molecule  .
+among the hydrophilic functional group is the carboxyl group found in amino acid  ,  some amino acid side chain  ,  and the fatty acid that form triglyceride and phospholipid  .
+this carboxyl group ionizes to release hydrogen ion  (  h +  )  from the cooh group resulting in the negatively charged coo  -  group   this contributes to the hydrophilic nature of whatever molecule it is found on  .
+other functional group  ,  such a the carbonyl group  ,  have a partially negatively charged oxygen atom that may form hydrogen bond with water molecule  ,  again making the molecule more hydrophilic  .
+the functional group shown here are found in many different biological molecule  .
+hydrogen bond between functional group  (  within the same molecule or between different molecule  )  are important to the function of many macromolecule and help them to fold properly into and maintain the appropriate shape for functioning  .
+hydrogen bond are also involved in various recognition process  ,  such a dna complementary base pairing and the binding of an enzyme to it substrate  ,  a illustrated in figure  two   .   two  eight   .  matter is anything that occupies space and ha mass  .
+it is made up of element  .
+all of the  nine  two  element that occur naturally have unique quality that allow them to combine in various way to create molecule  ,  which in turn combine to form cell  ,  tissue  ,  organ system  ,  and organism  .
+atom  ,  which consist of proton  ,  neutron  ,  and electron  ,  are the smallest unit of an element that retain all of the property of that element  .
+electron can be transferred  ,  shared  ,  or cause charge disparity between atom to create bond  ,  including ionic  ,  covalent  ,  and hydrogen bond  ,  a well a van der waals interaction  .
+water ha many property that are critical to maintaining life  .
+it is a polar molecule  ,  allowing for the formation of hydrogen bond  .
+hydrogen bond allow ion and other polar molecule to dissolve in water  .
+therefore  ,  water is an excellent solvent  .
+the hydrogen bond between water molecule cause the water to have a high heat capacity  ,  meaning it take a lot of added heat to raise it temperature  .
+a the temperature rise  ,  the hydrogen bond between water continually break and form anew  .
+this allows for the overall temperature to remain stable  ,  although energy is added to the system  .
+water also exhibit a high heat of vaporization  ,  which is key to how organism cool themselves by the evaporation of sweat  .
+water ’ s cohesive force allow for the property of surface tension  ,  whereas it adhesive property are seen a water rise inside capillary tube  .
+the ph value is a measure of hydrogen ion concentration in a solution and is one of many chemical characteristic that is highly regulated in living organism through homeostasis  .
+acid and base can change ph value  ,  but buffer tend to moderate the change they cause  .
+these property of water are intimately connected to the biochemical and physical process performed by living organism  ,  and life would be very different if these property were altered  ,  if it could exist at all  .
+the unique property of carbon make it a central part of biological molecule  .
+carbon bind to oxygen  ,  hydrogen  ,  and nitrogen covalently to form the many molecule important for cellular function  .
+carbon ha four electron in it outermost shell and can form four bond  .
+carbon and hydrogen can form hydrocarbon chain or ring  .
+functional group are group of atom that confer specific property to hydrocarbon  (  or substituted hydrocarbon  )  chain or ring that define their overall chemical characteristic and function  .
+food provides the body with the nutrient it need to survive  .
+many of these critical nutrient are biological macromolecule  ,  or large molecule  ,  necessary for life  .
+these macromolecule  (  polymer  )  are built from different combination of smaller organic molecule  (  monomer  )   .  what specific type of biological macromolecule do living thing require  ?
+how are these molecule formed  ?
+what function do they serve  ?
+in this chapter  ,  these question will be explored  .
+a you ’ ve learned  ,  biological macromolecule are large molecule  ,  necessary for life  ,  that are built from smaller organic molecule  .
+there are four major class of biological macromolecule  (  carbohydrate  ,  lipid  ,  protein  ,  and nucleic acid  )    each is an important cell component and performs a wide array of function  .
+combined  ,  these molecule make up the majority of a cell ’ s dry mass  (  recall that water make up the majority of it complete mass  )   .  biological macromolecule are organic  ,  meaning they contain carbon  .
+in addition  ,  they may contain hydrogen  ,  oxygen  ,  nitrogen  ,  and additional minor element  .
+most macromolecule are made from single subunit  ,  or building block  ,  called monomer  .
+the monomer combine with each other using covalent bond to form larger molecule known a polymer  .
+in doing so  ,  monomer release water molecule a byproduct  .
+this type of reaction is known a dehydration synthesis  ,  which mean “ to put together while losing water  .  ” in a dehydration synthesis reaction  (  figure  three   .   two   )   ,  the hydrogen of one monomer combine with the hydroxyl group of another monomer  ,  releasing a molecule of water  .
+at the same time  ,  the monomer share electron and form covalent bond  .
+a additional monomer join  ,  this chain of repeating monomer form a polymer  .
+different type of monomer can combine in many configuration  ,  giving rise to a diverse group of macromolecule  .
+even one kind of monomer can combine in a variety of way to form several different polymer   for example  ,  glucose monomer are the constituent of starch  ,  glycogen  ,  and cellulose  .
+polymer are broken down into monomer in a process known a hydrolysis  ,  which mean “ to split water  ,  ” a reaction in which a water molecule is used during the breakdown  (  figure  three   .   three   )   .  during these reaction  ,  the polymer is broken into two component   one part gain a hydrogen atom  (  h +  )  and the other gain a hydroxyl molecule  (  oh –  )  from a split water molecule  .
+dehydration and hydrolysis reaction are catalyzed  ,  or “ sped up  ,  ” by specific enzyme   dehydration reaction involve the formation of new bond  ,  requiring energy  ,  while hydrolysis reaction break bond and release energy  .
+these reaction are similar for most macromolecule  ,  but each monomer and polymer reaction is specific for it class  .
+for example  ,  in our body  ,  food is hydrolyzed  ,  or broken down  ,  into smaller molecule by catalytic enzyme in the digestive system  .
+this allows for easy absorption of nutrient by cell in the intestine  .
+each macromolecule is broken down by a specific enzyme  .
+for instance  ,  carbohydrate are broken down by amylase  ,  sucrase  ,  lactase  ,  or maltase  .
+protein are broken down by the enzyme pepsin and peptidase  ,  and by hydrochloric acid  .
+lipid are broken down by lipase  .
+breakdown of these macromolecule provides energy for cellular activity  .
+most people are familiar with carbohydrate  ,  one type of macromolecule  ,  especially when it come to what we eat  .
+to lose weight  ,  some individual adhere to “ low  -  carb ” diet  .
+athlete  ,  in contrast  ,  often “ carb  -  load ” before important competition to ensure that they have enough energy to compete at a high level  .
+carbohydrate are  ,  in fact  ,  an essential part of our diet   grain  ,  fruit  ,  and vegetable are all natural source of carbohydrate  .
+carbohydrate provide energy to the body  ,  particularly through glucose  ,  a simple sugar that is a component of starch and an ingredient in many staple food  .
+carbohydrate also have other important function in human  ,  animal  ,  and plant  .
+carbohydrate can be represented by the stoichiometric formula  (  ch two o  )  n  ,  where n is the number of carbon in the molecule  .
+in other word  ,  the ratio of carbon to hydrogen to oxygen is  one     two     one  in carbohydrate molecule  .
+this formula also explains the origin of the term “ carbohydrate ”   the component are carbon  (  “ carbo ”  )  and the component of water  (  hence  ,  “ hydrate ”  )   .  carbohydrate are classified into three subtypes   monosaccharide  ,  disaccharide  ,  and polysaccharide  .
+monosaccharide  (  mono  -  = “ one ”   sacchar  -  = “ sweet ”  )  are simple sugar  ,  the most common of which is glucose  .
+in monosaccharide  ,  the number of carbon usually range from three to seven  .
+most monosaccharide name end with the suffix  -  ose  .
+if the sugar ha an aldehyde group  (  the functional group with the structure r  -  cho  )   ,  it is known a an aldose  ,  and if it ha a ketone group  (  the functional group with the structure rc  (  = o  )  r  '   )   ,  it is known a a ketose  .
+depending on the number of carbon in the sugar  ,  they also may be known a triose  (  three carbon  )   ,  pentose  (  five carbon  )   ,  and or hexose  (  six carbon  )   .  see figure  three   .   four  for an illustration of the monosaccharide  .
+the chemical formula for glucose is c six h one  two o six   .
+in human  ,  glucose is an important source of energy  .
+during cellular respiration  ,  energy is released from glucose  ,  and that energy is used to help make adenosine triphosphate  (  atp  )   .  plant synthesize glucose using carbon dioxide and water  ,  and glucose in turn is used for energy requirement for the plant  .
+excess glucose is often stored a starch that is catabolized  (  the breakdown of larger molecule by cell  )  by human and other animal that feed on plant  .
+galactose  (  part of lactose  ,  or milk sugar  )  and fructose  (  found in sucrose  ,  in fruit  )  are other common monosaccharide  .
+although glucose  ,  galactose  ,  and fructose all have the same chemical formula  (  c six h one  two o six   )   ,  they differ structurally and chemically  (  and are known a isomer  )  because of the different arrangement of functional group around the asymmetric carbon   all of these monosaccharide have more than one asymmetric carbon  (  figure  three   .   five   )   .  monosaccharide can exist a a linear chain or a ring  -  shaped molecule   in aqueous solution they are usually found in ring form  (  figure  three   .   six   )   .  glucose in a ring form can have two different arrangement of the hydroxyl group  (  oh  )  around the anomeric carbon  (  carbon  one  that becomes asymmetric in the process of ring formation  )   .  if the hydroxyl group is below carbon number  one  in the sugar  ,  it is said to be in the alpha  (  α  )  position  ,  and if it is above the plane  ,  it is said to be in the beta  (  β  )  position  .
+disaccharide  (  di  -  = “ two ”  )  form when two monosaccharide undergo a dehydration reaction  (  also known a a condensation reaction or dehydration synthesis  )   .  during this process  ,  the hydroxyl group of one monosaccharide combine with the hydrogen of another monosaccharide  ,  releasing a molecule of water and forming a covalent bond  .
+a covalent bond formed between a carbohydrate molecule and another molecule  (  in this case  ,  between two monosaccharide  )  is known a a glycosidic bond  (  figure  three   .   seven   )   .  glycosidic bond  (  also called glycosidic linkage  )  can be of the alpha or the beta type  .
+common disaccharide include lactose  ,  maltose  ,  and sucrose  (  figure  three   .   eight   )   .  lactose is a disaccharide consisting of the monomer glucose and galactose  .
+it is found naturally in milk  .
+maltose  ,  or malt sugar  ,  is a disaccharide formed by a dehydration reaction between two glucose molecule  .
+the most common disaccharide is sucrose  ,  or table sugar  ,  which is composed of the monomer glucose and fructose  .
+a long chain of monosaccharide linked by glycosidic bond is known a a polysaccharide  (  poly  -  = “ many ”  )   .  the chain may be branched or unbranched  ,  and it may contain different type of monosaccharide  .
+the molecular weight may be  one  zero  zero   ,   zero  zero  zero  dalton or more depending on the number of monomer joined  .
+starch  ,  glycogen  ,  cellulose  ,  and chitin are primary example of polysaccharide  .
+starch is the stored form of sugar in plant and is made up of a mixture of amylose and amylopectin  (  both polymer of glucose  )   .  plant are able to synthesize glucose  ,  and the excess glucose  ,  beyond the plant ’ s immediate energy need  ,  is stored a starch in different plant part  ,  including root and seed  .
+the starch in the seed provides food for the embryo a it germinates and can also act a a source of food for human and animal  .
+the starch that is consumed by human is broken down by enzyme  ,  such a salivary amylase  ,  into smaller molecule  ,  such a maltose and glucose  .
+the cell can then absorb the glucose  .
+starch is made up of glucose monomer that are joined by α  one   -   four  or α  one   -   six  glycosidic bond  .
+the number  one   -   four  and  one   -   six  refer to the carbon number of the two residue that have joined to form the bond  .
+a illustrated in figure  three   .   nine   ,  amylose is starch formed by unbranched chain of glucose monomer  (  only α  one   -   four  linkage  )   ,  whereas amylopectin is a branched polysaccharide  (  α  one   -   six  linkage at the branch point  )   .  glycogen is the storage form of glucose in human and other vertebrate and is made up of monomer of glucose  .
+glycogen is the animal equivalent of starch and is a highly branched molecule usually stored in liver and muscle cell  .
+whenever blood glucose level decrease  ,  glycogen is broken down to release glucose in a process known a glycogenolysis  .
+cellulose is the most abundant natural biopolymer  .
+the cell wall of plant is mostly made of cellulose   this provides structural support to the cell  .
+wood and paper are mostly cellulosic in nature  .
+cellulose is made up of glucose monomer that are linked by β  one   -   four  glycosidic bond  (  figure  three   .   one  zero   )   .  a shown in figure  three   .   one  zero   ,  every other glucose monomer in cellulose is flipped over  ,  and the monomer are packed tightly a extended long chain  .
+this give cellulose it rigidity and high tensile strength — which is so important to plant cell  .
+while the β  one   -   four  linkage cannot be broken down by human digestive enzyme  ,  herbivore such a cow  ,  koala  ,  buffalo  ,  and horse are able  ,  with the help of the specialized flora in their stomach  ,  to digest plant material that is rich in cellulose and use it a a food source  .
+in these animal  ,  certain specie of bacteria and protist reside in the rumen  (  part of the digestive system of herbivore  )  and secrete the enzyme cellulase  .
+the appendix of grazing animal also contains bacteria that digest cellulose  ,  giving it an important role in the digestive system of ruminant  .
+cellulases can break down cellulose into glucose monomer that can be used a an energy source by the animal  .
+termite are also able to break down cellulose because of the presence of other organism in their body that secrete cellulases  .
+carbohydrate serve various function in different animal  .
+arthropod  (  insect  ,  crustacean  ,  and others  )  have an outer skeleton  ,  called the exoskeleton  ,  which protects their internal body part  (  a seen in the bee in figure  three   .   one  one   )   .  this exoskeleton is made of the biological macromolecule chitin  ,  which is a polysaccharide  -  containing nitrogen  .
+it is made of repeating unit of n  -  acetyl  -  β  -  d  -  glucosamine  ,  a modified sugar  .
+chitin is also a major component of fungal cell wall   fungi are neither animal nor plant and form a kingdom of their own in the domain eukarya  .
+are carbohydrate good for you  ?
+people who wish to lose weight are often told that carbohydrate are bad for them and should be avoided  .
+some diet completely forbid carbohydrate consumption  ,  claiming that a low  -  carbohydrate diet help people to lose weight faster  .
+however  ,  carbohydrate have been an important part of the human diet for thousand of year   artifact from ancient civilization show the presence of wheat  ,  rice  ,  and corn in our ancestor ’ storage area  .
+carbohydrate should be supplemented with protein  ,  vitamin  ,  and fat to be part of a well  -  balanced diet  .
+calorie  -  wise  ,  a gram of carbohydrate provides  four   .   three  kcal  .
+for comparison  ,  fat provide  nine  kcal  /  g  ,  a le desirable ratio  .
+carbohydrate contain soluble and insoluble element   the insoluble part is known a fiber  ,  which is mostly cellulose  .
+fiber ha many us   it promotes regular bowel movement by adding bulk  ,  and it regulates the rate of consumption of blood glucose  .
+fiber also help to remove excess cholesterol from the body   fiber bind to the cholesterol in the small intestine  ,  then attache to the cholesterol and prevents the cholesterol particle from entering the bloodstream  ,  and then cholesterol exit the body via the feces  .
+fiber  -  rich diet also have a protective role in reducing the occurrence of colon cancer  .
+in addition  ,  a meal containing whole grain and vegetable give a feeling of fullness  .
+a an immediate source of energy  ,  glucose is broken down during the process of cellular respiration  ,  which produce atp  ,  the energy currency of the cell  .
+without the consumption of carbohydrate  ,  the availability of “ instant energy ” would be reduced  .
+eliminating carbohydrate from the diet is not the best way to lose weight  .
+a low  -  calorie diet that is rich in whole grain  ,  fruit  ,  vegetable  ,  and lean meat  ,  together with plenty of exercise and plenty of water  ,  is the more sensible way to lose weight  .
+lipid include a diverse group of compound that are largely nonpolar in nature  .
+this is because they are hydrocarbon that include mostly nonpolar carbon – carbon or carbon – hydrogen bond  .
+non  -  polar molecule are hydrophobic  (  “ water fearing ”  )   ,  or insoluble in water  .
+lipid perform many different function in a cell  .
+cell store energy for long  -  term use in the form of fat  .
+lipid also provide insulation from the environment for plant and animal  (  figure  three   .   one  two   )   .  for example  ,  they help keep aquatic bird and mammal dry when forming a protective layer over fur or feather because of their water  -  repellant hydrophobic nature  .
+lipid are also the building block of many hormone and are an important constituent of all cellular membrane  .
+lipid include fat  ,  oil  ,  wax  ,  phospholipid  ,  and steroid  .
+a fat molecule consists of two main component — glycerol and fatty acid  .
+glycerol is an organic compound  (  alcohol  )  with three carbon  ,  five hydrogen  ,  and three hydroxyl  (  oh  )  group  .
+fatty acid have a long chain of hydrocarbon to which a carboxyl group is attached  ,  hence the name “ fatty acid  .  ” the number of carbon in the fatty acid may range from  four  to  three  six    most common are those containing  one  two  –  one  eight  carbon  .
+in a fat molecule  ,  the fatty acid are attached to each of the three carbon of the glycerol molecule with an ester bond through an oxygen atom  (  figure  three   .   one  three   )   .  during this ester bond formation  ,  three water molecule are released  .
+the three fatty acid in the triacylglycerol may be similar or dissimilar  .
+fat are also called triacylglycerols or triglyceride because of their chemical structure  .
+some fatty acid have common name that specify their origin  .
+for example  ,  palmitic acid  ,  a saturated fatty acid  ,  is derived from the palm tree  .
+arachidic acid is derived from arachis hypogea  ,  the scientific name for groundnut or peanut  .
+fatty acid may be saturated or unsaturated  .
+in a fatty acid chain  ,  if there are only single bond between neighboring carbon in the hydrocarbon chain  ,  the fatty acid is said to be saturated  .
+saturated fatty acid are saturated with hydrogen   in other word  ,  the number of hydrogen atom attached to the carbon skeleton is maximized  .
+stearic acid is an example of a saturated fatty acid  (  figure  three   .   one  four   )  most unsaturated fat are liquid at room temperature and are called oil  .
+if there is one double bond in the molecule  ,  then it is known a a monounsaturated fat  (  e  .  g  .   ,  olive oil  )   ,  and if there is more than one double bond  ,  then it is known a a polyunsaturated fat  (  e  .  g  .   ,  canola oil  )   .  when a fatty acid ha no double bond  ,  it is known a a saturated fatty acid because no more hydrogen may be added to the carbon atom of the chain  .
+a fat may contain similar or different fatty acid attached to glycerol  .
+long straight fatty acid with single bond tend to get packed tightly and are solid at room temperature  .
+animal fat with stearic acid and palmitic acid  (  common in meat  )  and the fat with butyric acid  (  common in butter  )  are example of saturated fat  .
+mammal store fat in specialized cell called adipocytes  ,  where globule of fat occupy most of the cell ’ s volume  .
+in plant  ,  fat or oil is stored in many seed and is used a a source of energy during seedling development  .
+unsaturated fat or oil are usually of plant origin and contain ci unsaturated fatty acid  .
+ci and trans indicate the configuration of the molecule around the double bond  .
+if hydrogen are present in the same plane  ,  it is referred to a a ci fat   if the hydrogen atom are on two different plane  ,  it is referred to a a trans fat  .
+the ci double bond cause a bend or a “ kink ” that prevents the fatty acid from packing tightly  ,  keeping them liquid at room temperature  (  figure  three   .   one  six   )   .  olive oil  ,  corn oil  ,  canola oil  ,  and cod liver oil are example of unsaturated fat  .
+unsaturated fat help to lower blood cholesterol level whereas saturated fat contribute to plaque formation in the artery  .
+in the food industry  ,  oil are artificially hydrogenated to make them semi  -  solid and of a consistency desirable for many processed food product  .
+simply speaking  ,  hydrogen gas is bubbled through oil to solidify them  .
+during this hydrogenation process  ,  double bond of the ci  -  conformation in the hydrocarbon chain may be converted to double bond in the trans  -  conformation  .
+margarine  ,  some type of peanut butter  ,  and shortening are example of artificially hydrogenated trans fat  .
+recent study have shown that an increase in trans fat in the human diet may lead to an increase in level of low  -  density lipoprotein  (  ldl  )   ,  or “ bad ” cholesterol  ,  which in turn may lead to plaque deposition in the artery  ,  resulting in heart disease  .
+many fast food restaurant have recently banned the use of trans fat  ,  and food label are required to display the trans fat content  .
+essential fatty acid are fatty acid required but not synthesized by the human body  .
+consequently  ,  they have to be supplemented through ingestion via the diet  .
+omega  -   three  fatty acid  (  like that shown in figure  three   .   one  seven   )  fall into this category and are one of only two known for human  (  the other being omega  -   six  fatty acid  )   .  these are polyunsaturated fatty acid and are called omega  -   three  because the third carbon from the end of the hydrocarbon chain is connected to it neighboring carbon by a double bond  .
+the farthest carbon away from the carboxyl group is numbered a the omega  (  ω  )  carbon  ,  and if the double bond is between the third and fourth carbon from that end  ,  it is known a an omega  -   three  fatty acid  .
+nutritionally important because the body doe not make them  ,  omega  -   three  fatty acid include alpha  -  linoleic acid  (  ala  )   ,  eicosapentaenoic acid  (  epa  )   ,  and docosahexaenoic acid  (  dha  )   ,  all of which are polyunsaturated  .
+salmon  ,  trout  ,  and tuna are good source of omega  -   three  fatty acid  .
+research indicates that omega  -   three  fatty acid reduce the risk of sudden death from heart attack  ,  reduce triglyceride in the blood  ,  lower blood pressure  ,  and prevent thrombosis by inhibiting blood clotting  .
+they also reduce inflammation  ,  and may help reduce the risk of some cancer in animal  .
+like carbohydrate  ,  fat have received a lot of bad publicity  .
+it is true that eating an excess of fried food and other “ fatty ” food lead to weight gain  .
+however  ,  fat do have important function  .
+many vitamin are fat soluble  ,  and fat serve a a long  -  term storage form of fatty acid   a source of energy  .
+they also provide insulation for the body  .
+therefore  ,  “ healthy ” fat in moderate amount should be consumed on a regular basis  .
+wax cover the feather of some aquatic bird and the leaf surface of some plant  .
+because of the hydrophobic nature of wax  ,  they prevent water from sticking on the surface  (  figure  three   .   one  eight   )   .  wax are made up of long fatty acid chain esterified to long  -  chain alcohol  .
+phospholipid are major constituent of the plasma membrane  ,  the outermost layer of animal cell  .
+like fat  ,  they are composed of fatty acid chain attached to a glycerol or sphingosine backbone  .
+instead of three fatty acid attached a in triglyceride  ,  however  ,  there are two fatty acid forming diacylglycerol  ,  and the third carbon of the glycerol backbone is occupied by a modified phosphate group  (  figure  three   .   one  nine   )   .  a phosphate group alone attached to a diaglycerol doe not qualify a a phospholipid   it is phosphatidate  (  diacylglycerol  three   -  phosphate  )   ,  the precursor of phospholipid  .
+the phosphate group is modified by an alcohol  .
+phosphatidylcholine and phosphatidylserine are two important phospholipid that are found in plasma membrane  .
+a phospholipid is an amphipathic molecule  ,  meaning it ha a hydrophobic and a hydrophilic part  .
+the fatty acid chain are hydrophobic and cannot interact with water  ,  whereas the phosphate  -  containing group is hydrophilic and interacts with water the head is the hydrophilic part  ,  and the tail contains the hydrophobic fatty acid  .
+in a membrane  ,  a bilayer of phospholipid form the matrix of the structure  ,  the fatty acid tail of phospholipid face inside  ,  away from water  ,  whereas the phosphate group face the outside  ,  aqueous side  (  figure  three   .   two  zero   )   .  phospholipid are responsible for the dynamic nature of the plasma membrane  .
+if a drop of phospholipid is placed in water  ,  it spontaneously form a structure known a a micelle  ,  where the hydrophilic phosphate head face the outside and the fatty acid face the interior of this structure  .
+unlike the phospholipid and fat discussed earlier  ,  steroid have a fused ring structure  .
+although they do not resemble the other lipid  ,  they are grouped with them because they are also hydrophobicand insoluble in water  .
+all steroid have four linked carbon ring and several of them  ,  like cholesterol  ,  have a short tail  (  figure  three   .   two  one   )   .  many steroid also have the – oh functional group  ,  which put them in the alcohol classification  (  sterol  )   .  cholesterol is the most common steroid  .
+cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormone such a testosterone and estradiol  ,  which are secreted by the gonad and endocrine gland  .
+it is also the precursor to vitamin d  .  cholesterol is also the precursor of bile salt  ,  which help in the emulsification of fat and their subsequent absorption by cell  .
+although cholesterol is often spoken of in negative term by lay people  ,  it is necessary for proper functioning of the body  .
+it is a component of the plasma membrane of animal cell and is found within the phospholipid bilayer  .
+being the outermost structure in animal cell  ,  the plasma membrane is responsible for the transport of material and cellular recognition and it is involved in cell  -  to  -  cell communication  .
+protein are one of the most abundant organic molecule in living system and have the most diverse range of function of all macromolecule  .
+protein may be structural  ,  regulatory  ,  contractile  ,  or protective   they may serve in transport  ,  storage  ,  or membrane   or they may be toxin or enzyme  .
+each cell in a living system may contain thousand of protein  ,  each with a unique function  .
+their structure  ,  like their function  ,  vary greatly  .
+they are all  ,  however  ,  polymer of amino acid  ,  arranged in a linear sequence  .
+enzyme  ,  which are produced by living cell  ,  are catalyst in biochemical reaction  (  like digestion  )  and are usually complex or conjugated protein  .
+each enzyme is specific for the substrate  (  a reactant that bind to an enzyme  )  it act on  .
+the enzyme may help in breakdown  ,  rearrangement  ,  or synthesis reaction  .
+enzyme that break down their substrate are called catabolic enzyme  ,  enzyme that build more complex molecule from their substrate are called anabolic enzyme  ,  and enzyme that affect the rate of reaction are called catalytic enzyme  .
+it should be noted that all enzyme increase the rate of reaction and  ,  therefore  ,  are considered to be organic catalyst  .
+an example of an enzyme is salivary amylase  ,  which hydrolyzes it substrate amylose  ,  a component of starch  .
+hormone are chemical  -  signaling molecule  ,  usually small protein or steroid  ,  secreted by endocrine cell that act to control or regulate specific physiological process  ,  including growth  ,  development  ,  metabolism  ,  and reproduction  .
+for example  ,  insulin is a protein hormone that help to regulate the blood glucose level  .
+the primary type and function of protein are listed in table  three   .   one   .  protein have different shape and molecular weight   some protein are globular in shape whereas others are fibrous in nature  .
+for example  ,  hemoglobin is a globular protein  ,  but collagen  ,  found in our skin  ,  is a fibrous protein  .
+protein shape is critical to it function  ,  and this shape is maintained by many different type of chemical bond  .
+change in temperature  ,  ph  ,  and exposure to chemical may lead to permanent change in the shape of the protein  ,  leading to loss of function  ,  known a denaturation  .
+all protein are made up of different arrangement of the same  two  zero  type of amino acid  .
+amino acid are the monomer that make up protein  .
+each amino acid ha the same fundamental structure  ,  which consists of a central carbon atom  ,  also known a the alpha  (  α  )  carbon  ,  bonded to an amino group  (  nh two   )   ,  a carboxyl group  (  cooh  )   ,  and to a hydrogen atom  .
+every amino acid also ha another atom or group of atom bonded to the central atom known a the r group  (  figure  three   .   two  two   )   .  the name  "  amino acid  "  is derived from the fact that they contain both amino group and carboxyl  -  acid  -  group in their basic structure  .
+a mentioned  ,  there are  two  zero  amino acid present in protein  .
+ten of these are considered essential amino acid in human because the human body cannot produce them and they are obtained from the diet  .
+for each amino acid  ,  the r group  (  or side chain  )  is different  (  figure  three   .   two  three   )   .  the chemical nature of the side chain determines the nature of the amino acid  (  that is  ,  whether it is acidic  ,  basic  ,  polar  ,  or nonpolar  )   .  for example  ,  the amino acid glycine ha a hydrogen atom a the r group  .
+amino acid such a valine  ,  methionine  ,  and alanine are nonpolar or hydrophobic in nature  ,  while amino acid such a serine  ,  threonine  ,  and cysteine are polar and have hydrophilic side chain  .
+the side chain of lysine and arginine are positively charged  ,  and therefore these amino acid are also known a basic amino acid  .
+proline ha an r group that is linked to the amino group  ,  forming a ring  -  like structure  .
+proline is an exception to the standard structure of an animo acid since it amino group is not separate from the side chain  (  figure  three   .   two  three   )   .  amino acid are represented by a single upper case letter or a three  -  letter abbreviation  .
+for example  ,  valine is known by the letter v or the three  -  letter symbol val  .
+just a some fatty acid are essential to a diet  ,  some amino acid are necessary a well  .
+they are known a essential amino acid  ,  and in human they include isoleucine  ,  leucine  ,  and cysteine  .
+essential amino acid refer to those necessary for construction of protein in the body  ,  although not produced by the body   which amino acid are essential varies from organism to organism  .
+the sequence and the number of amino acid ultimately determine the protein  '  s shape  ,  size  ,  and function  .
+each amino acid is attached to another amino acid by a covalent bond  ,  known a a peptide bond  ,  which is formed by a dehydration reaction  .
+the carboxyl group of one amino acid and the amino group of the incoming amino acid combine  ,  releasing a molecule of water  .
+the resulting bond is the peptide bond  (  figure  three   .   two  four   )   .  the product formed by such linkage are called peptide  .
+a more amino acid join to this growing chain  ,  the resulting chain is known a a polypeptide  .
+each polypeptide ha a free amino group at one end  .
+this end is called the n terminal  ,  or the amino terminal  ,  and the other end ha a free carboxyl group  ,  also known a the c or carboxyl terminal  .
+while the term polypeptide and protein are sometimes used interchangeably  ,  a polypeptide is technically a polymer of amino acid  ,  whereas the term protein is used for a polypeptide or polypeptide that have combined together  ,  often have bound non  -  peptide prosthetic group  ,  have a distinct shape  ,  and have a unique function  .
+after protein synthesis  (  translation  )   ,  most protein are modified  .
+these are known a post  -  translational modification  .
+they may undergo cleavage  ,  phosphorylation  ,  or may require the addition of other chemical group  .
+only after these modification is the protein completely functional  .
+a discussed earlier  ,  the shape of a protein is critical to it function  .
+for example  ,  an enzyme can bind to a specific substrate at a site known a the active site  .
+if this active site is altered because of local change or change in overall protein structure  ,  the enzyme may be unable to bind to the substrate  .
+to understand how the protein get it final shape or conformation  ,  we need to understand the four level of protein structure   primary  ,  secondary  ,  tertiary  ,  and quaternary  .
+the unique sequence of amino acid in a polypeptide chain is it primary structure  .
+for example  ,  the pancreatic hormone insulin ha two polypeptide chain  ,  a and b  ,  and they are linked together by disulfide bond  .
+the n terminal amino acid of the a chain is glycine  ,  whereas the c terminal amino acid is asparagine  (  figure  three   .   two  five   )   .  the sequence of amino acid in the a and b chain are unique to insulin  .
+the unique sequence for every protein is ultimately determined by the gene encoding the protein  .
+a change in nucleotide sequence of the gene ’ s coding region may lead to a different amino acid being added to the growing polypeptide chain  ,  causing a change in protein structure and function  .
+in sickle cell anemia  ,  the hemoglobin β chain  (  a small portion of which is shown in figure  three   .   two  six   )  ha a single amino acid substitution  ,  causing a change in protein structure and function  .
+specifically  ,  the amino acid glutamic acid is substituted by valine in the β chain  .
+what is most remarkable to consider is that a hemoglobin molecule is made up of two alpha chain and two beta chain that each consist of about  one  five  zero  amino acid  .
+the molecule  ,  therefore  ,  ha about  six  zero  zero  amino acid  .
+the structural difference between a normal hemoglobin molecule and a sickle cell molecule — which dramatically decrease life expectancy — is a single amino acid of the  six  zero  zero   .
+what is even more remarkable is that those  six  zero  zero  amino acid are encoded by three nucleotide each  ,  and the mutation is caused by a single base change  (  point mutation  )   ,   one  in  one  eight  zero  zero  base  .
+because of this change of one amino acid in the chain  ,  hemoglobin molecule form long fiber that distort the biconcave  ,  or disc  -  shaped  ,  red blood cell and assume a crescent or “ sickle ” shape  ,  which clog artery  (  figure  three   .   two  seven   )   .  this can lead to myriad serious health problem such a breathlessness  ,  dizziness  ,  headache  ,  and abdominal pain for those affected by this disease  .
+the local folding of the polypeptide in some region give rise to the secondary structure of the protein  .
+the most common are the α  -  helix and β  -  pleated sheet structure  (  figure  three   .   two  eight   )   .  both structure are the α  -  helix structure — the helix held in shape by hydrogen bond  .
+the hydrogen bond form between the oxygen atom in the carbonyl group in one amino acid and another amino acid that is four amino acid farther along the chain  .
+every helical turn in an alpha helix ha  three   .   six  amino acid residue  .
+the r group  (  the variant group  )  of the polypeptide protrude out from the α  -  helix chain  .
+in the β  -  pleated sheet  ,  the “ pleat ” are formed by hydrogen bonding between atom on the backbone of the polypeptide chain  .
+the r group are attached to the carbon and extend above and below the fold of the pleat  .
+the pleated segment align parallel or antiparallel to each other  ,  and hydrogen bond form between the partially positive nitrogen atom in the amino group and the partially negative oxygen atom in the carbonyl group of the peptide backbone  .
+the α  -  helix and β  -  pleated sheet structure are found in most globular and fibrous protein and they play an important structural role  .
+the unique three  -  dimensional structure of a polypeptide is it tertiary structure  (  figure  three   .   two  nine   )   .  this structure is in part due to chemical interaction at work on the polypeptide chain  .
+primarily  ,  the interaction among r group creates the complex three  -  dimensional tertiary structure of a protein  .
+the nature of the r group found in the amino acid involved can counteract the formation of the hydrogen bond described for standard secondary structure  .
+for example  ,  r group with like charge are repelled by each other and those with unlike charge are attracted to each other  (  ionic bond  )   .  when protein folding take place  ,  the hydrophobic r group of nonpolar amino acid lay in the interior of the protein  ,  whereas the hydrophilic r group lay on the outside  .
+the former type of interaction are also known a hydrophobic interaction  .
+interaction between cysteine side chain form disulfide linkage in the presence of oxygen  ,  the only covalent bond forming during protein folding  .
+all of these interaction  ,  weak and strong  ,  determine the final three  -  dimensional shape of the protein  .
+when a protein loses it three  -  dimensional shape  ,  it may no longer be functional  .
+in nature  ,  some protein are formed from several polypeptide  ,  also known a subunit  ,  and the interaction of these subunit form the quaternary structure  .
+weak interaction between the subunit help to stabilize the overall structure  .
+for example  ,  insulin  (  a globular protein  )  ha a combination of hydrogen bond and disulfide bond that cause it to be mostly clumped into a ball shape  .
+insulin start out a a single polypeptide and loses some internal sequence in the presence of post  -  translational modification after the formation of the disulfide linkage that hold the remaining chain together  .
+silk  (  a fibrous protein  )   ,  however  ,  ha a β  -  pleated sheet structure that is the result of hydrogen bonding between different chain  .
+the four level of protein structure  (  primary  ,  secondary  ,  tertiary  ,  and quaternary  )  are illustrated in figure  three   .   three  zero   .
+each protein ha it own unique sequence and shape that are held together by chemical interaction  .
+if the protein is subject to change in temperature  ,  ph  ,  or exposure to chemical  ,  the protein structure may change  ,  losing it shape without losing it primary sequence in what is known a denaturation  .
+denaturation is often reversible because the primary structure of the polypeptide is conserved in the process if the denaturing agent is removed  ,  allowing the protein to resume it function  .
+sometimes denaturation is irreversible  ,  leading to loss of function  .
+one example of irreversible protein denaturation is when an egg is fried  .
+the albumin protein in the liquid egg white is denatured when placed in a hot pan  .
+not all protein are denatured at high temperature   for instance  ,  bacteria that survive in hot spring have protein that function at temperature close to boiling  .
+the stomach is also very acidic  ,  ha a low ph  ,  and denatures protein a part of the digestion process   however  ,  the digestive enzyme of the stomach retain their activity under these condition  .
+protein folding is critical to it function  .
+it wa originally thought that the protein themselves were responsible for the folding process  .
+only recently wa it found that often they receive assistance in the folding process from protein helper known a chaperone  (  or chaperonins  )  that associate with the target protein during the folding process  .
+they act by preventing aggregation of polypeptide that make up the complete protein structure  ,  and they disassociate from the protein once the target protein is folded  .
+nucleic acid are the most important macromolecule for the continuity of life  .
+they carry the genetic blueprint of a cell and carry instruction for the functioning of the cell  .
+the two main type of nucleic acid are deoxyribonucleic acid  (  dna  )  and ribonucleic acid  (  rna  )   .  dna is the genetic material found in all living organism  ,  ranging from single  -  celled bacteria to multicellular mammal  .
+it is found in the nucleus of eukaryote and in the organelle  ,  chloroplast  ,  and mitochondrion  .
+in prokaryote  ,  the dna is not enclosed in a membranous envelope  .
+the entire genetic content of a cell is known a it genome  ,  and the study of genome is genomics  .
+in eukaryotic cell but not in prokaryote  ,  dna form a complex with histone protein to form chromatin  ,  the substance of eukaryotic chromosome  .
+a chromosome may contain ten of thousand of gene  .
+many gene contain the information to make protein product   other gene code for rna product  .
+dna control all of the cellular activity by turning the gene “ on ” or “ off  .
+” the other type of nucleic acid  ,  rna  ,  is mostly involved in protein synthesis  .
+the dna molecule never leave the nucleus but instead use an intermediary to communicate with the rest of the cell  .
+this intermediary is the messenger rna  (  mrna  )   .  other type of rna — like rrna  ,  trna  ,  and microrna — are involved in protein synthesis and it regulation  .
+dna and rna are made up of monomer known a nucleotide  .
+the nucleotide combine with each other to form a polynucleotide  ,  dna or rna  .
+each nucleotide is made up of three component   a nitrogenous base  ,  a pentose  (  five  -  carbon  )  sugar  ,  and a phosphate group  (  figure  three   .   three  one   )   .  each nitrogenous base in a nucleotide is attached to a sugar molecule  ,  which is attached to one or more phosphate group  .
+the nitrogenous base  ,  important component of nucleotide  ,  are organic molecule and are so named because they contain carbon and nitrogen  .
+they are base because they contain an amino group that ha the potential of binding an extra hydrogen  ,  and thus  ,  decrease the hydrogen ion concentration in it environment  ,  making it more basic  .
+each nucleotide in dna contains one of four possible nitrogenous base   adenine  (  a  )   ,  guanine  (  g  )  cytosine  (  c  )   ,  and thymine  (  t  )   .  adenine and guanine are classified a purine  .
+the primary structure of a purine is two carbon  -  nitrogen ring  .
+cytosine  ,  thymine  ,  and uracil are classified a pyrimidine which have a single carbon  -  nitrogen ring a their primary structure  (  figure  three   .   three  one   )   .  each of these basic carbon  -  nitrogen ring ha different functional group attached to it  .
+in molecular biology shorthand  ,  the nitrogenous base are simply known by their symbol a  ,  t  ,  g  ,  c  ,  and u  .  dna contains a  ,  t  ,  g  ,  and c whereas rna contains a  ,  u  ,  g  ,  and c  .  the pentose sugar in dna is deoxyribose  ,  and in rna  ,  the sugar is ribose  (  figure  three   .   three  one   )   .  the difference between the sugar is the presence of the hydroxyl group on the second carbon of the ribose and hydrogen on the second carbon of the deoxyribose  .
+the carbon atom of the sugar molecule are numbered a  one  ′  ,   two  ′  ,   three  ′  ,   four  ′  ,  and  five  ′  (   one  ′ is read a “ one prime ”  )   .  the phosphate residue is attached to the hydroxyl group of the  five  ′ carbon of one sugar and the hydroxyl group of the  three  ′ carbon of the sugar of the next nucleotide  ,  which form a  five  ′ –  three  ′ phosphodiester linkage  .
+the phosphodiester linkage is not formed by simple dehydration reaction like the other linkage connecting monomer in macromolecule   it formation involves the removal of two phosphate group  .
+a polynucleotide may have thousand of such phosphodiester linkage  .
+dna ha a double  -  helix structure  (  figure  three   .   three  two   )   .  the sugar and phosphate lie on the outside of the helix  ,  forming the backbone of the dna  .
+the nitrogenous base are stacked in the interior  ,  like the step of a staircase  ,  in pair   the pair are bound to each other by hydrogen bond  .
+every base pair in the double helivx is separated from the next base pair by  zero   .   three  four  nm  .
+the two strand of the helix run in opposite direction  ,  meaning that the  five  ′ carbon end of one strand will face the  three  ′ carbon end of it matching strand  .   (  this is referred to a antiparallel orientation and is important to dna replication and in many nucleic acid interaction  .   )  only certain type of base pairing are allowed  .
+for example  ,  a certain purine can only pair with a certain pyrimidine  .
+this mean a can pair with t  ,  and g can pair with c  ,  a shown in figure  three   .   three  three   .
+this is known a the base complementary rule  .
+in other word  ,  the dna strand are complementary to each other  .
+if the sequence of one strand is aattggcc  ,  the complementary strand would have the sequence ttaaccgg  .
+during dna replication  ,  each strand is copied  ,  resulting in a daughter dna double helix containing one parental dna strand and a newly synthesized strand  .
+ribonucleic acid  ,  or rna  ,  is mainly involved in the process of protein synthesis under the direction of dna  .
+rna is usually single  -  stranded and is made of ribonucleotides that are linked by phosphodiester bond  .
+a ribonucleotide in the rna chain contains ribose  (  the pentose sugar  )   ,  one of the four nitrogenous base  (  a  ,  u  ,  g  ,  and c  )   ,  and the phosphate group  .
+there are four major type of rna   messenger rna  (  mrna  )   ,  ribosomal rna  (  rrna  )   ,  transfer rna  (  trna  )   ,  and microrna  (  mirna  )   .  the first  ,  mrna  ,  carry the message from dna  ,  which control all of the cellular activity in a cell  .
+if a cell requires a certain protein to be synthesized  ,  the gene for this product is turned “ on ” and the messenger rna is synthesized in the nucleus  .
+the rna base sequence is complementary to the coding sequence of the dna from which it ha been copied  .
+however  ,  in rna  ,  the base t is absent and u is present instead  .
+if the dna strand ha a sequence aattgcgc  ,  the sequence of the complementary rna is uuaacgcg  .
+in the cytoplasm  ,  the mrna interacts with ribosome and other cellular machinery  (  figure  three   .   three  four   )   .  the mrna is read in set of three base known a codon  .
+each codon code for a single amino acid  .
+in this way  ,  the mrna is read and the protein product is made  .
+ribosomal rna  (  rrna  )  is a major constituent of ribosome on which the mrna bind  .
+the rrna ensures the proper alignment of the mrna and the ribosome   the rrna of the ribosome also ha an enzymatic activity  (  peptidyl transferase  )  and catalyzes the formation of the peptide bond between two aligned amino acid  .
+transfer rna  (  trna  )  is one of the smallest of the four type of rna  ,  usually  seven  zero  –  nine  zero  nucleotide long  .
+it carry the correct amino acid to the site of protein synthesis  .
+it is the base pairing between the trna and mrna that allows for the correct amino acid to be inserted in the polypeptide chain  .  micrornas are the smallest rna molecule and their role involves the regulation of gene expression by interfering with the expression of certain mrna message  .
+table  three   .   two  summarizes feature of dna and rna  .
+even though the rna is single stranded  ,  most rna type show extensive intramolecular base pairing between complementary sequence  ,  creating a predictable three  -  dimensional structure essential for their function  .
+a you have learned  ,  information flow in an organism take place from dna to rna to protein  .
+dna dictate the structure of mrna in a process known a transcription  ,  and rna dictate the structure of protein in a process known a translation  .
+this is known a the central dogma of life  ,  which hold true for all organism   however  ,  exception to the rule occur in connection with viral infection  .
+protein  ,  carbohydrate  ,  nucleic acid  ,  and lipid are the four major class of biological macromolecule — large molecule necessary for life that are built from smaller organic molecule  .
+macromolecule are made up of single unit known a monomer that are joined by covalent bond to form larger polymer  .
+the polymer is more than the sum of it part   it acquires new characteristic  ,  and lead to an osmotic pressure that is much lower than that formed by it ingredient   this is an important advantage in the maintenance of cellular osmotic condition  .
+a monomer join with another monomer with the release of a water molecule  ,  leading to the formation of a covalent bond  .
+these type of reaction are known a dehydration or condensation reaction  .
+when polymer are broken down into smaller unit  (  monomer  )   ,  a molecule of water is used for each bond broken by these reaction   such reaction are known a hydrolysis reaction  .
+dehydration and hydrolysis reaction are similar for all macromolecule  ,  but each monomer and polymer reaction is specific to it class  .
+dehydration reaction typically require an investment of energy for new bond formation  ,  while hydrolysis reaction typically release energy by breaking bond  .
+carbohydrate are a group of macromolecule that are a vital energy source for the cell and provide structural support to plant cell  ,  fungi  ,  and all of the arthropod that include lobster  ,  crab  ,  shrimp  ,  insect  ,  and spider  .
+carbohydrate are classified a monosaccharide  ,  disaccharide  ,  and polysaccharide depending on the number of monomer in the molecule  .
+monosaccharide are linked by glycosidic bond that are formed a a result of dehydration reaction  ,  forming disaccharide and polysaccharide with the elimination of a water molecule for each bond formed  .
+glucose  ,  galactose  ,  and fructose are common monosaccharide  ,  whereas common disaccharide include lactose  ,  maltose  ,  and sucrose  .
+starch and glycogen  ,  example of polysaccharide  ,  are the storage form of glucose in plant and animal  ,  respectively  .
+the long polysaccharide chain may be branched or unbranched  .
+cellulose is an example of an unbranched polysaccharide  ,  whereas amylopectin  ,  a constituent of starch  ,  is a highly branched molecule  .
+storage of glucose  ,  in the form of polymer like starch of glycogen  ,  make it slightly le accessible for metabolism   however  ,  this prevents it from leaking out of the cell or creating a high osmotic pressure that could cause excessive water uptake by the cell  .
+lipid are a class of macromolecule that are nonpolar and hydrophobic in nature  .
+major type include fat and oil  ,  wax  ,  phospholipid  ,  and steroid  .
+fat are a stored form of energy and are also known a triacylglycerols or triglyceride  .
+fat are made up of fatty acid and either glycerol or sphingosine  .
+fatty acid may be unsaturated or saturated  ,  depending on the presence or absence of double bond in the hydrocarbon chain  .
+if only single bond are present  ,  they are known a saturated fatty acid  .
+unsaturated fatty acid may have one or more double bond in the hydrocarbon chain  .
+phospholipid make up the matrix of membrane  .
+they have a glycerol or sphingosine backbone to which two fatty acid chain and a phosphate  -  containing group are attached  .
+steroid are another class of lipid  .
+their basic structure ha four fused carbon ring  .
+cholesterol is a type of steroid and is an important constituent of the plasma membrane  ,  where it help to maintain the fluid nature of the membrane  .
+it is also the precursor of steroid hormone such a testosterone  .
+protein are a class of macromolecule that perform a diverse range of function for the cell  .
+they help in metabolism by providing structural support and by acting a enzyme  ,  carrier  ,  or hormone  .
+the building block of protein  (  monomer  )  are amino acid  .
+each amino acid ha a central carbon that is linked to an amino group  ,  a carboxyl group  ,  a hydrogen atom  ,  and an r group or side chain  .
+there are  two  zero  commonly occurring amino acid  ,  each of which differs in the r group  .
+each amino acid is linked to it neighbor by a peptide bond  .
+a long chain of amino acid is known a a polypeptide  .
+protein are organized at four level   primary  ,  secondary  ,  tertiary  ,  and  (  optional  )  quaternary  .
+the primary structure is the unique sequence of amino acid  .
+the local folding of the polypeptide to form structure such a the α helix and β  -  pleated sheet constitutes the secondary structure  .
+the overall three  -  dimensional structure is the tertiary structure  .
+when two or more polypeptide combine to form the complete protein structure  ,  the configuration is known a the quaternary structure of a protein  .
+protein shape and function are intricately linked   any change in shape caused by change in temperature or ph may lead to protein denaturation and a loss in function  .
+nucleic acid are molecule made up of nucleotide that direct cellular activity such a cell division and protein synthesis  .
+each nucleotide is made up of a pentose sugar  ,  a nitrogenous base  ,  and a phosphate group  .
+there are two type of nucleic acid   dna and rna  .
+dna carry the genetic blueprint of the cell and is passed on from parent to offspring  (  in the form of chromosome  )   .  it ha a double  -  helical structure with the two strand running in opposite direction  ,  connected by hydrogen bond  ,  and complementary to each other  .
+rna is single  -  stranded and is made of a pentose sugar  (  ribose  )   ,  a nitrogenous base  ,  and a phosphate group  .
+rna is involved in protein synthesis and it regulation  .
+messenger rna  (  mrna  )  is copied from the dna  ,  is exported from the nucleus to the cytoplasm  ,  and contains information for the construction of protein  .
+ribosomal rna  (  rrna  )  is a part of the ribosome at the site of protein synthesis  ,  whereas transfer rna  (  trna  )  carry the amino acid to the site of protein synthesis  .  microrna regulates the use of mrna for protein synthesis  .
+figure  three   .   two  in the dehydration synthesis reaction depicted above  ,  two molecule of glucose are linked together to form the disaccharide maltose  .
+in the process  ,  a water molecule is formed  .
+figure  three   .   three  in the hydrolysis reaction shown here  ,  the disaccharide maltose is broken down to form two glucose monomer with the addition of a water molecule  .
+note that this reaction is the reverse of the synthesis reaction shown in figure  three   .   two   .  figure  three   .   four  monosaccharide are classified based on the position of their carbonyl group and the number of carbon in the backbone  .
+aldose have a carbonyl group  (  indicated in green  )  at the end of the carbon chain  ,  and ketose have a carbonyl group in the middle of the carbon chain  .
+triose  ,  pentose  ,  and hexose have three  ,  five  ,  and six carbon backbone  ,  respectively  .
+figure  three   .   six  five and six carbon monosaccharide exist in equilibrium between linear and ring form  .
+when the ring form  ,  the side chain it close on is locked into an α or β position  .
+fructose and ribose also form ring  ,  although they form five  -  membered ring a opposed to the six  -  membered ring of glucose  .
+figure  three   .   seven  sucrose is formed when a monomer of glucose and a monomer of fructose are joined in a dehydration reaction to form a glycosidic bond  .
+in the process  ,  a water molecule is lost  .
+by convention  ,  the carbon atom in a monosaccharide are numbered from the terminal carbon closest to the carbonyl group  .
+in sucrose  ,  a glycosidic linkage is formed between carbon  one  in glucose and carbon  two  in fructose  .
+figure  three   .   eight  common disaccharide include maltose  (  grain sugar  )   ,  lactose  (  milk sugar  )   ,  and sucrose  (  table sugar  )   .  figure  three   .   nine  amylose and amylopectin are two different form of starch  .
+amylose is composed of unbranched chain of glucose monomer connected by α  one   ,   four  glycosidic linkage  .
+amylopectin is composed of branched chain of glucose monomer connected by α  one   ,   four  and α  one   ,   six  glycosidic linkage  .
+because of the way the subunit are joined  ,  the glucose chain have a helical structure  .
+glycogen  (  not shown  )  is similar in structure to amylopectin but more highly branched  .
+figure  three   .   one  zero  in cellulose  ,  glucose monomer are linked in unbranched chain by β  one   -   four  glycosidic linkage  .
+because of the way the glucose subunit are joined  ,  every glucose monomer is flipped relative to the next one resulting in a linear  ,  fibrous structure  .
+figure  three   .   one  one  insect have a hard outer exoskeleton made of chitin  ,  a type of polysaccharide  .   (  credit   louise docker  )  obesity is a worldwide health concern  ,  and many disease such a diabetes and heart disease are becoming more prevalent because of obesity  .
+this is one of the reason why registered dietitian are increasingly sought after for advice  .
+registered dietitian help plan nutrition program for individual in various setting  .
+they often work with patient in health care facility  ,  designing nutrition plan to treat and prevent disease  .
+for example  ,  dietitian may teach a patient with diabetes how to manage blood sugar level by eating the correct type and amount of carbohydrate  .
+dietitian may also work in nursing home  ,  school  ,  and private practice  .
+to become a registered dietitian  ,  one need to earn at least a bachelor ’ s degree in dietetics  ,  nutrition  ,  food technology  ,  or a related field  .
+in addition  ,  registered dietitian must complete a supervised internship program and pas a national exam  .
+those who pursue career in dietetics take course in nutrition  ,  chemistry  ,  biochemistry  ,  biology  ,  microbiology  ,  and human physiology  .
+dietitian must become expert in the chemistry and physiology  (  biological function  )  of food  (  protein  ,  carbohydrate  ,  and fat  )   .  figure  three   .   one  two  hydrophobic lipid in the fur of aquatic mammal  ,  such a this river otter  ,  protect them from the element  .   (  credit   ken bosma  )  figure  three   .   one  three  triacylglycerol is formed by the joining of three fatty acid to a glycerol backbone in a dehydration reaction  .
+three molecule of water are released in the process  .
+figure  three   .   one  four  stearic acid is a common saturated fatty acid  .
+figure  three   .   one  five  oleic acid is a common unsaturated fatty acid  .
+figure  three   .   one  six  saturated fatty acid have hydrocarbon chain connected by single bond only  .
+unsaturated fatty acid have one or more double bond  .
+each double bond may be in a ci or trans configuration  .
+in the ci configuration  ,  both hydrogen are on the same side of the hydrocarbon chain  .
+in the trans configuration  ,  the hydrogen are on opposite side  .
+a ci double bond cause a kink in the chain  .
+figure  three   .   one  seven  alpha  -  linolenic acid is an example of an omega  -   three  fatty acid  .
+it ha three ci double bond and  ,  a a result  ,  a curved shape  .
+for clarity  ,  the carbon are not shown  .
+each singly bonded carbon ha two hydrogen associated with it  ,  also not shown  .
+figure  three   .   one  eight  waxy covering on some leaf are made of lipid  .   (  credit   roger griffith  )  figure  three   .   one  nine  a phospholipid is a molecule with two fatty acid and a modified phosphate group attached to a glycerol backbone  .
+the phosphate may be modified by the addition of charged or polar chemical group  .
+two chemical group that may modify the phosphate  ,  choline and serine  ,  are shown here  .
+both choline and serine attach to the phosphate group at the position labeled r via the hydroxyl group indicated in green  .
+figure  three   .   two  zero  the phospholipid bilayer is the major component of all cellular membrane  .
+the hydrophilic head group of the phospholipid face the aqueous solution  .
+the hydrophobic tail are sequestered in the middle of the bilayer  .
+figure  three   .   two  one  steroid such a cholesterol and cortisol are composed of four fused hydrocarbon ring  .
+figure  three   .   two  two  amino acid have a central asymmetric carbon to which an amino group  ,  a carboxyl group  ,  a hydrogen atom  ,  and a side chain  (  r group  )  are attached  .
+figure  three   .   two  four  peptide bond formation is a dehydration synthesis reaction  .
+the carboxyl group of one amino acid is linked to the amino group of the incoming amino acid  .
+in the process  ,  a molecule of water is released  .
+cytochrome c is an important component of the electron transport chain  ,  a part of cellular respiration  ,  and it is normally found in the cellular organelle  ,  the mitochondrion  .
+this protein ha a heme prosthetic group  ,  and the central ion of the heme get alternately reduced and oxidized during electron transfer  .
+because this essential protein ’ s role in producing cellular energy is crucial  ,  it ha changed very little over million of year  .
+protein sequencing ha shown that there is a considerable amount of cytochrome c amino acid sequence homology among different specie   in other word  ,  evolutionary kinship can be assessed by measuring the similarity or difference among various specie ’ dna or protein sequence  .
+scientist have determined that human cytochrome c contains  one  zero  four  amino acid  .
+for each cytochrome c molecule from different organism that ha been sequenced to date  ,   three  seven  of these amino acid appear in the same position in all sample of cytochrome c  .  this indicates that there may have been a common ancestor  .
+on comparing the human and chimpanzee protein sequence  ,  no sequence difference wa found  .
+when human and rhesus monkey sequence were compared  ,  the single difference found wa in one amino acid  .
+in another comparison  ,  human to yeast sequencing show a difference in the  four  four th position  .
+figure  three   .   two  five  bovine serum insulin is a protein hormone made of two peptide chain  ,  a  (   two  one  amino acid long  )  and b  (   three  zero  amino acid long  )   .  in each chain  ,  primary structure is indicated by three  -  letter abbreviation that represent the name of the amino acid in the order they are present  .
+the amino acid cysteine  (  cys  )  ha a sulfhydryl  (  sh  )  group a a side chain  .
+two sulfhydryl group can react in the presence of oxygen to form a disulfide  (  s  -  s  )  bond  .
+two disulfide bond connect the a and b chain together  ,  and a third help the a chain fold into the correct shape  .
+note that all disulfide bond are the same length  ,  but are drawn different size for clarity  .
+figure  three   .   two  six  the beta chain of hemoglobin is  one  four  seven  residue in length  ,  yet a single amino acid substitution lead to sickle cell anemia  .
+in normal hemoglobin  ,  the amino acid at position seven is glutamate  .
+in sickle cell hemoglobin  ,  this glutamate is replaced by a valine  .
+figure  three   .   two  seven  in this blood smear  ,  visualized at  five  three  five x magnification using bright field microscopy  ,  sickle cell are crescent shaped  ,  while normal cell are disc  -  shaped  .   (  credit   modification of work by ed uthman   scale  -  bar data from matt russell  )  figure  three   .   two  eight  the α  -  helix and β  -  pleated sheet are secondary structure of protein that form because of hydrogen bonding between carbonyl and amino group in the peptide backbone  .
+certain amino acid have a propensity to form an α  -  helix  ,  while others have a propensity to form a β  -  pleated sheet  .
+figure  three   .   two  nine  the tertiary structure of protein is determined by a variety of chemical interaction  .
+these include hydrophobic interaction  ,  ionic bonding  ,  hydrogen bonding and disulfide linkage  .
+figure  three   .   three  zero  the four level of protein structure can be observed in these illustration  .   (  credit   modification of work by national human genome research institute  )  figure  three   .   three  one  a nucleotide is made up of three component   a nitrogenous base  ,  a pentose sugar  ,  and one or more phosphate group  .
+carbon residue in the pentose are numbered  one  ′ through  five  ′  (  the prime distinguishes these residue from those in the base  ,  which are numbered without using a prime notation  )   .  the base is attached to the  one  ′ position of the ribose  ,  and the phosphate is attached to the  five  ′ position  .
+when a polynucleotide is formed  ,  the  five  ′ phosphate of the incoming nucleotide attache to the  three  ′ hydroxyl group at the end of the growing chain  .
+two type of pentose are found in nucleotide  ,  deoxyribose  (  found in dna  )  and ribose  (  found in rna  )   .  deoxyribose is similar in structure to ribose  ,  but it ha an h instead of an oh at the  two  ′ position  .
+base can be divided into two category   purine and pyrimidine  .
+purine have a double ring structure  ,  and pyrimidine have a single ring  .
+figure  three   .   three  two  native dna is an antiparallel double helix  .
+the phosphate backbone  (  indicated by the curvy line  )  is on the outside  ,  and the base are on the inside  .
+each base from one strand interacts via hydrogen bonding with a base from the opposing strand  .   (  credit   jerome walker  /  dennis myts  )  figure  three   .   three  four  a ribosome ha two part   a large subunit and a small subunit  .
+the mrna sits in between the two subunit  .
+a trna molecule recognizes a codon on the mrna  ,  bind to it by complementary base pairing  ,  and add the correct amino acid to the growing peptide chain  .
