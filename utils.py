@@ -25,11 +25,14 @@ def precision(predicted_terms, gold):
 def recall(predicted_terms, gold):
 	return len(predicted_terms & gold) / len(gold)
 
-def calculate_precision_and_recall(labeled_file, label_file, gold_file):
+def calculate_precision_and_recall(labeled_file, label_file, seed_file, gold_file):
 	labeled, labels = get_labeled_and_labels(labeled_file, label_file)
+	positive_seed_set = get_positive_seed_set(seed_file)
 	golds = get_gold_terms(gold_file)
 	predicted_positive = set([' '.join(labeled[i]) for i in range(len(labels)) if labels[i]])
 	golds = set(golds)
+	predicted_positive -= positive_seed_set
+	golds -= positive_seed_set
 	p = precision(predicted_positive, golds)
 	r = recall(predicted_positive, golds)
 	return (p, r)
@@ -40,6 +43,18 @@ def get_labeled_and_labels(labeled_file, label_file):
 	with open(label_file, 'rb') as f:
 		labels = pickle.load(f)
 	return labeled, labels
+
+def get_positive_seed_set(seed_file):
+	ret = set()
+	with open(seed_file) as f:
+		# remove the \n
+		line = f.readline()[:-1]
+		while line:
+			split = line.split()
+			if int(line[-1]) == 1:
+				ret.add(' '.join(split[:-1]))
+			line = f.readline()[:-1]
+	return ret
 
 def get_gold_terms(gold_file):
 	with open(gold_file, 'rb') as f:
