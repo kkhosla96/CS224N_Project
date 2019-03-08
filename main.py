@@ -24,6 +24,7 @@ Options:
     --max-num-trial=<int>                   terminate training after how many trials [default: 5]
     --lr-decay=<float>                      learning rate decay [default: 0.5]
     --beam-size=<int>                       beam size [default: 5]
+    --growth-sizes=<str>                    string of growth sizes, integers separated by semi-colons [default: ""]
     --sample-size=<int>                     sample size [default: 5]
     --lr=<float>                            learning rate [default: 0.001]
     --uniform-init=<float>                  uniformly initialize all parameters [default: 0.1]
