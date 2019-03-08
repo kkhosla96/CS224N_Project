@@ -19,7 +19,7 @@ evolution
 falsifiable
 homeostasis
 hypothesis
-hypothesis-based science
+hypothesis - based science
 inductive reasoning
 introduction
 life science
@@ -35,7 +35,7 @@ organ system
 organelle
 organism
 paleontology
-peer-reviewed manuscript
+peer - reviewed manuscript
 phylogenetic tree
 physical science
 plagiarism
@@ -59,7 +59,7 @@ atom
 atomic mass
 atomic number
 balanced chemical equation
-base 
+base
 buffer
 calorie
 capillary action
@@ -107,8 +107,8 @@ octet rule
 orbital
 organic molecule
 periodic table
-pH paper
-pH scale
+ph paper
+ph scale
 polar covalent bond
 product
 proton
@@ -122,12 +122,12 @@ structural isomers
 substituted hydrocarbon
 surface tension
 valence shell
-van der Waals interaction
-alpha-helix structure
-α-helix
+van der waals interaction
+alpha - helix structure
+α - helix
 amino acid
-beta-pleated sheet
-β-pleated
+beta - pleated sheet
+β - pleated
 biological macromolecule
 carbohydrate
 cellulose
@@ -136,7 +136,7 @@ chitin
 dehydration synthesis
 denaturation
 deoxyribonucleic acid
-DNA
+dna
 disaccharide
 enzyme
 glycogen
@@ -144,8 +144,8 @@ glycosidic bond
 hormone
 hydrolysis
 lipid
-messenger RNA
-mRNA
+messenger rna
+mrna
 monomer
 monosaccharide
 nucleic acid
@@ -164,9 +164,9 @@ purine
 pyrimidine
 quaternary structure
 ribonucleic acid
-RNA
-ribosomal RNA
-rRNA
+rna
+ribosomal rna
+rrna
 saturated fatty acid
 secondary structure
 starch
@@ -174,8 +174,8 @@ steroid
 tertiary structure
 trans fat
 transcription
-transfer RNA
-tRNA
+transfer rna
+trna
 translation
 triacylglycerol
 triglyceride
