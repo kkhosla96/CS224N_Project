@@ -7,9 +7,7 @@ import pdb
 
 DATA_FOLDER = "../data/textbook_sentences"
 CANDIDATES_FOLDER = "../data/candidates"
-data = "../data/textbook_sentences/openstax_biology_sentences.txt"
-outputPickle = "../data/candidates/openstax_biology_candidates.pickle"
-outputFile = "../data/candidates/openstax_biology_candidates.txt"
+
 
 NGRAM_LENGTHS = [1, 2, 3, 4, 5]
 STOP_WORDS = pickle.load(open("stopwords.pkl", 'rb'))
@@ -43,6 +41,8 @@ def should_add(ngram):
 	for gram in ngram:
 		if gram in STOP_WORDS:
 			return False
+	if ngram[0] == "-" or ngram[-1] == "-":
+		return False
 	return True
 
 def is_word(word):

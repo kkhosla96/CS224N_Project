@@ -1,6 +1,6 @@
-candidates_file = "../data/candidates/openstax_biology_candidates.txt"
-gold_file = "../data/gold/openstax_biology_gold.txt"
-combined_file = "../data/candidates_gold_together/openstax_biology_candidates_gold_together.txt"
+candidates_file = "../data/candidates/openstax_biology_chapters_123_sentences_simple_lemmatized_ngram.txt"
+gold_file = "../data/gold/openstax_biology_chapters123_gold_simple_lemmatized.txt"
+combined_file = "../data/candidates_gold_together/openstax_biology_chapters123_simple_lemmatized_candidates_gold_together.txt"
 
 candidates = set(line.strip() for line in open(candidates_file))
 golds = set(line.strip() for line in open(gold_file))
