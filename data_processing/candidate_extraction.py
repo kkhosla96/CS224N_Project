@@ -47,7 +47,7 @@ def should_add(ngram):
 
 def is_word(word):
 	for char in word:
-		if char.isalpha():
+		if char.isalpha() or char == '-':
 			return True
 	return False
 
