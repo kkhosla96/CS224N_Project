@@ -39,7 +39,7 @@ class CNN(nn.Module):
 	A simple CNN network to determine if a term is a glossary term.
 	"""
 
-	def __init__(self, vocab, out_channels, embedding_layer, kernel_sizes=None):
+	def __init__(self, vocab, embedding_layer, out_channels=3, kernel_sizes=None):
 		'''
 		Need to supply the hyper-parameters that define the CNN network architecture.
 		

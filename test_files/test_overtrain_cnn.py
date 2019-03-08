@@ -19,7 +19,7 @@ train_y = [1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
 # train_X = [["carbohydrate"], ["cell", "cycle"], ["primary", "structure"], ["textbooks"], ["groups"]]
 # train_y = [1, 1, 1, 0, 0]
 
-cnn = CNN(vocab, 3, embedding_layer)
+cnn = CNN(vocab, embedding_layer)
 losses = cnn.train_on_data(train_X, train_y, num_epochs=200, lr=.01, momentum=0.99)
 print(cnn.forward(train_X))
 plt.plot(losses)

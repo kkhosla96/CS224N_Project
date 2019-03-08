@@ -29,7 +29,7 @@ out_channels = 3
 wvp = WordVectorParser(word_vector_file)
 vocab = wvp.get_vocab()
 embedding_layer = wvp.get_embedding_layer()
-cnn = CNN(vocab, out_channels, embedding_layer)
+cnn = CNN(vocab, embedding_layer)
 
 # create cotrainer
 g = 5
