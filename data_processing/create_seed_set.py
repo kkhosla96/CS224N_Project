@@ -1,8 +1,8 @@
 import random
 import pickle
 
-num_positive = 20
-num_negative = 1000
+num_positive = 30
+num_negative = 200
 
 gold_set_file = "../data/gold/openstax_biology_chapters123_gold_simple_lemmatized.pkl"
 candidates_set_file = "../data/candidates/openstax_biology_chapters_123_sentences_simple_lemmatized_ngram.pkl"
