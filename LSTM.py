@@ -64,3 +64,47 @@ class LSTM(nn.Module):
         enc_hiddens, _ = self.LSTM(X)
         enc_hiddens, _ = nn.utils.rnn.pad_packed_sequence(enc_hiddens, batch_first=True)
         return enc_hiddens
+
+    # unfortunately, the next two methods are copied exactly from the CNN class. would be better to abstract that. however,
+    # maybe not if they two models have to be trained different.y
+    
+    def predict(self, terms):
+        probs = self.forward(terms)
+        max_probs, labels = torch.max(probs, dim=1)
+        ret = [(terms[index], max_probs[index].item(), labels[index].item()) for index in range(len(terms))]
+        return ret
+
+    def train_on_data(self, X_train, y_train, num_epochs=20, lr=.001, momentum=.9, batch_size=32, verbose=False):
+        self.X_train = X_train
+        self.y_train = torch.tensor(y_train, dtype=torch.float)
+
+        loss_function = nn.BCELoss()
+        optimizer = optim.SGD(self.parameters(), lr, momentum)
+
+        batch_starting_index = 0
+        number_examples = len(self.X_train)
+        num_iterations = math.ceil(number_examples / batch_size)
+        losses = []
+        for epoch in range(num_epochs):
+            running_loss = 0.0
+            for iteration in range(num_iterations):
+                inputs = self.X_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
+                labels = self.y_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
+
+                optimizer.zero_grad()
+
+                outputs = self.forward(inputs)
+                loss = loss_function(outputs, labels)
+                loss.backward()
+                optimizer.step()
+                running_loss += loss.item()
+
+                batch_starting_index = (batch_starting_index + batch_size) % number_examples
+
+            losses.append(float(running_loss))
+            
+            if verbose: print('Finished epoch %d' % (epoch + 1))
+        
+        if verbose: print('Finished training')
+        return losses
+
