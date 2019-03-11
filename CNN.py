@@ -69,8 +69,7 @@ class CNN(nn.Module):
 	def forward(self, terms):
 		'''	
 		@param terms (List[List[str]]): a list of terms to evaluate, each of which are a list of strings. 
-		@returns probabilities (Tensor): a tensor of shape (len(terms), 2). column 0 represents the probability it is not a key-term, and column 1 represents
-		the probability it is a key-term (it has to return both because cross-entropy loss expects a tensor of size (batch_size, num_classes))
+		@returns probabilities (Tensor): a tensor of shape (batch_size). 
 		'''
 
 		# indices is of size (batch_size, self.max_term_length)
@@ -91,17 +90,7 @@ class CNN(nn.Module):
 		vals = torch.squeeze(self.linear(cat), dim=-1)
 		# finally, we pass it through a sigmoid to get a probability. prob should also have shape (batch_size)
 		probs = torch.sigmoid(vals)
-		# we need the output to be of shape (batch_size, 2) where the first column represents the probability that it is
-		# not a key term, and the second column is the probability it is a key-term
-		# we have to do this since the cross-entropy loss function expects an input of (batch_size, C) where C is the number of classes.
-		# unsqueezed has size (batch_size, 1)
-		unsqueezed = probs.unsqueeze(dim=1)
-		# probabilities_for_both_classes has size (batch_size, 2), where the two columns are equal
-		probabilities_for_both_classes = unsqueezed.repeat(1, 2)
-		# probabilities_for_both_classes will still has shape (batch_size, 2), but column 0 represents the probability each term is not a key-term
-		# and column 1 represents the probability each term is a key-term. note the two columns sum to a column of 1.
-		probabilities_for_both_classes[:, 0] = 1 - probabilities_for_both_classes[:, 0]
-		return probabilities_for_both_classes
+		return probs
 
 	def predict(self, terms):
 		probs = self.forward(terms)
@@ -129,7 +118,7 @@ class CNN(nn.Module):
 				optimizer.zero_grad()
 
 				outputs = self.forward(inputs)
-				loss = loss_function(outputs[:, 1], labels)
+				loss = loss_function(outputs, labels)
 				loss.backward()
 				optimizer.step()
 				running_loss += loss.item()
