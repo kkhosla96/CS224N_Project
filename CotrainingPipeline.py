@@ -15,7 +15,7 @@ class CotrainingPipeline:
 		self.g = g
 		self.p = p
 
-	def train(self, num_iterations=500, num_epochs=20):
+	def train(self, num_iterations=200, num_epochs=75):
 		U_prime = self.U[:self.p]
 		self.U = self.U[self.p:]
 		for iteration in range(num_iterations):
@@ -33,6 +33,8 @@ class CotrainingPipeline:
 			self.update_Uprime(U_prime, terms_to_remove)
 			U_prime += self.U[:len(terms_to_remove)]
 			self.U = self.U[len(terms_to_remove):]
+			print("Done with iteration %d" % iteration)
+
 
 	def update_Uprime(self, U_prime, terms_to_remove):
 		for term in terms_to_remove:
