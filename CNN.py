@@ -39,7 +39,7 @@ class CNN(nn.Module):
 	A simple CNN network to determine if a term is a glossary term.
 	"""
 
-	def __init__(self, vocab, embedding_layer, out_channels=3, kernel_sizes=None):
+	def __init__(self, vocab, embedding_layer, out_channels=3, kernel_sizes=None, gpu=False):
 		'''
 		Need to supply the hyper-parameters that define the CNN network architecture.
 		
@@ -60,11 +60,17 @@ class CNN(nn.Module):
 			self.kernel_sizes = [s for s in range(2, self.length_of_term + 1)]
 		else:
 			self.kernel_sizes = kernel_sizes
-		
+
+		self.gpu = gpu	
+
 		convs = [nn.Conv1d(self.in_channels, self.out_channels, kernel_size) for kernel_size in self.kernel_sizes]
 		self.convs = ListModule(*convs)
 		self.linear = nn.Linear(len(self.kernel_sizes) * self.out_channels, 1)
 		self.embedding_layer = embedding_layer
+		if (self.gpu):
+			self.convs.cuda()
+			self.linear.cuda()
+			self.embedding_layer.cuda()
 
 	def forward(self, terms):
 		'''	
@@ -74,6 +80,8 @@ class CNN(nn.Module):
 
 		# indices is of size (batch_size, self.max_term_length)
 		indices = self.vocab.to_input_tensor(terms)
+		if (self.gpu):
+			indices = indices.cuda()
 		# embeddings is of size (batch_size, self.max_term_length, self.word_embed_size)
 		embeddings = self.embedding_layer(indices)
 		# we transpose the two dimensions because the convolution networks expect an input
@@ -101,6 +109,8 @@ class CNN(nn.Module):
 	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.001, momentum=.9, batch_size=32, verbose=False):
 		self.X_train = X_train
 		self.y_train = torch.tensor(y_train, dtype=torch.float)
+		if (self.gpu):
+			self.y_train = self.y_train.cuda()
 
 		loss_function = nn.BCELoss()
 		optimizer = optim.SGD(self.parameters(), lr, momentum)
