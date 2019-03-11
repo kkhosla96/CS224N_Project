@@ -64,8 +64,8 @@ def general_experiment(unlabelled_file, seed_file, output_data_files, output_lab
 	for index in range(number_models):
 		with open(output_data_files[index], 'wb') as f:
 			pickle.dump(cotrainer.labelled_data[index], f)
-		with open(output_labels_files[index], 'wb') as f:
-			pickle.dump(cotrainer.labels[index], 'wb', f)
+		with open(output_label_files[index], 'wb') as f:
+			pickle.dump(cotrainer.labels[index], f)
 
 
 
@@ -89,7 +89,10 @@ def various_gs_with_chapters123(args):
 	for g in growth_sizes:
 		output_data_files = ["./experiment_results/various_gs_with_chapters123/data_files/g_" + str(g)]
 		output_label_files = ["./experiment_results/various_gs_with_chapters123/label_files/g_" + str(g)]
-		models = [CNN(vocab, embedding_layer)]
-		general_experiment(unlabelled_file, seed_file, output_data_files, output_label_files, models, g=g)
+		models = [CNN(vocab, embedding_layer, gpu=args["--cuda"])]
+		if args["--cuda"]:
+			for model in models:
+				model.cuda()
+		general_experiment(unlabelled_file, seed_file, output_data_files, output_label_files, models, g=g, num_iterations=200)
 
 	print("running the first_experiment")

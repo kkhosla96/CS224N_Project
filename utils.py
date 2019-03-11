@@ -20,10 +20,10 @@ def pad_terms(terms, pad_token, max_term_length):
 	return terms_padded
 
 def precision(predicted_terms, gold):
-	return len(predicted_terms & gold) / len(predicted_terms)
+	return len(predicted_terms & gold) / len(predicted_terms) if len(predicted_terms) > 0 else 0
 
 def recall(predicted_terms, gold):
-	return len(predicted_terms & gold) / len(gold)
+	return len(predicted_terms & gold) / len(gold) if len(predicted_terms) > 0 else 0
 
 def calculate_precision_and_recall(labeled_file, label_file, seed_file, gold_file):
 	labeled, labels = get_labeled_and_labels(labeled_file, label_file)
