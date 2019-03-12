@@ -1,17 +1,20 @@
 import spacy
 import sys
+if ".." not in sys.path:
+	sys.path.append('..')
+from utils import normalize
 
 nlp = spacy.load('en_core_web_sm')
 
 #dataFile = "../data/textbook_sentences/openstax_biology_chapters_123_sentences_simple.txt"
 #outputFile = "../data/textbook_sentences/openstax_biology_chapters_123_sentences_simple_lemmatized.txt"
 
-dataFile = "../data/gold/openstax_biology_chapters123_gold_simple.txt"
-outputFile = "../data/gold/openstax_biology_chapters123_gold_simple_lemmatized.txt"
+dataFile = "../data/gold/openstax_biology_chapters123_gold.txt"
+outputFile = "../data/gold/openstax_biology_chapters123_gold_final.txt"
 
 def lemmatize_sentence(sent, nlp):
 	tags = nlp(sent)
-	return ' '.join([word.lemma_ for word in tags])
+	return ' '.join([normalize(word.lemma_).strip() for word in tags])
 
 def lemmatize_file(infile, outfile, nlp):
 	with open(infile, "r") as in_file:

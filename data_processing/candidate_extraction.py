@@ -46,20 +46,40 @@ def noun_phrase_chunk(text_file_name, output_pickle_name, output_file_name):
 	matcher.add('candidate', None, pattern)
 	pattern = [{'POS': 'ADJ', 'OP': '*'}, {'POS': 'PROPN', 'OP': '+'},{'POS': 'PART', 'OP': '?'},{'POS': 'PROPN', 'OP': '*'}]
 	matcher.add('candidate2', None, pattern)
-	doc_text = io.open(text_file_name, "r", encoding='utf-8').read()
+	pattern = [{'POS': 'NOUN'}, {'ORTH': '-'}, {'POS': 'VERB'}, {'POS': 'NOUN', 'OP': '+'}]
+	matcher.add('candidate3', None, pattern)
+	#catches 1, adds 500 (falsifiable)
+	pattern = [{'POS': 'ADJ'}]
+	matcher.add('candidate4', None, pattern)
+	#catches 1, add 50 (ph scale)
+	pattern = [{'POS': 'PROPN'}, {'POS': 'NOUN','OP': '+'}]
+	matcher.add('candidate5', None, pattern)
+	pattern = [{'POS': 'NOUN'}, {'POS': 'PROPN','OP': '+'}]
+	matcher.add('candidate52', None, pattern)
+	pattern = [{'POS':'NOUN'}, {'POS':'ADP'}, {'POS':'ADJ', 'OP': '*'}, {'POS':'NOUN'}]
+	matcher.add('candidate6', None, pattern)
+	pattern = [{'POS':'NOUN'}, {'POS':'CCONJ'}, {'POS':'ADJ', 'OP': '*'}, {'POS':'NOUN'}]
+	matcher.add('candidate7', None, pattern)
+	pattern = [{'POS': 'VERB'}, {'POS': 'NOUN', 'OP': '+'}]
+	matcher.add('candidate8', None, pattern)
+	pattern = [{'POS': 'ADV'}, {'ORTH': '-'}, {'POS':'VERB'}]
+	matcher.add('candidate9', None, pattern)
+	pattern = [{'POS': 'ADV'}, {'ORTH': '-'}, {'POS':'NOUN'}]
+	matcher.add('candidate10', None, pattern)
+	doc_text = io.open(text_file_name, "r", encoding='utf-8').read().replace('\n', ' ')
 	doc = nlp(doc_text)
 
 	matches = matcher(doc)
 	for match_id, start, end in matches:
 		span = doc[start:end]
-		candidates.add(normalize(span.text))
+		candidates.add(span.text)
 
 	new_candidates = set()
 	for candidate in candidates:
 		cand_doc = nlp(candidate)
-		new_cand = " ".join([word.lemma_ for word in cand_doc])
+		new_cand = " ".join([normalize(word.lemma_).strip() for word in cand_doc])
 		if "-PRON-" not in new_cand:
-			new_candidates.add(new_cand.strip())
+			new_candidates.add(new_cand)
 
 
 
