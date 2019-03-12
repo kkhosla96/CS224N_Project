@@ -1,0 +1,42 @@
+active transport
+amphiphilic
+antiporter
+aquaporin
+carrier protein 
+caveolin 
+channel protein
+clathrin
+concentration gradient
+diffusion
+electrochemical gradient
+electrogenic pump
+endocytosis 
+exocytosis
+facilitated transport
+fluid mosaic model
+glycolipid
+glycoprotein
+hydrophilic
+hydrophobic
+hypertonic
+hypotonic
+integral protein
+isotonic
+osmolarity
+osmosis
+passive transport
+peripheral protein
+pinocytosis
+plasmolysis
+potocytosis
+primary active transport
+pump
+receptor-mediated endocytosis
+secondary active transport
+selectively permeable
+solute
+symporter
+tonicity
+transport protein
+transporter
+uniporter
