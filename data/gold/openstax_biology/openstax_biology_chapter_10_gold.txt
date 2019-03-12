@@ -1,0 +1,49 @@
+anaphase
+binary fission
+cell cycle
+cell cycle checkpoint
+cell plate
+centriole
+centromere
+chromatid
+cleavage furrow
+condensin
+cyclin
+cyclin-dependent kinase
+cytokinesis
+diploid
+FtsZ
+G0 phase
+G1 phase
+G2 phase
+gamete
+gene
+genome
+haploid
+histone
+homologous chromosomes
+interphase
+karyokinesis
+kinetochore
+locus
+metaphase
+metaphase plate
+mitosis
+mitotic phase
+mitotic spindle
+nucleosome
+oncogene
+origin
+ORI
+p21
+p53
+prometaphase
+prophase
+proto-oncogene
+quiescent
+retinoblastoma protein
+Rb
+S phase
+septum
+telophase
+tumor suppressor gene
