@@ -1,5 +1,5 @@
 abstract
-applied science
+apply science
 atom
 basic science
 biochemistry
@@ -19,7 +19,7 @@ evolution
 falsifiable
 homeostasis
 hypothesis
-hypothesis - based science
+hypothesis - base science
 inductive reasoning
 introduction
 life science
@@ -35,7 +35,7 @@ organ system
 organelle
 organism
 paleontology
-peer - reviewed manuscript
+peer - review manuscript
 phylogenetic tree
 physical science
 plagiarism
@@ -119,10 +119,10 @@ solvent
 specific heat capacity
 sphere of hydration
 structural isomer
-substituted hydrocarbon
+substitute hydrocarbon
 surface tension
 valence shell
-van der waals interaction
+van der waal interaction
 alpha - helix structure
 α - helix
 amino acid
@@ -167,12 +167,12 @@ ribonucleic acid
 rna
 ribosomal rna
 rrna
-saturated fatty acid
+saturate fatty acid
 secondary structure
 starch
 steroid
 tertiary structure
-trans fat
+tran fat
 transcription
 transfer rna
 trna
