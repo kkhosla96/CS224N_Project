@@ -3,6 +3,10 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
+from sklearn.utils import shuffle
+from numpy.random import permutation
+
+
 
 class ListModule(nn.Module):
 	"""
@@ -121,6 +125,10 @@ class CNN(nn.Module):
 		losses = []
 		for epoch in range(num_epochs):
 			running_loss = 0.0
+			batch_starting_index = 0
+			permu = permutation(number_examples)
+			self.X_train = [self.X_train[permu[i]] for i in range(number_examples)]
+			self.y_train = self.y_train[permu]
 			for iteration in range(num_iterations):
 				inputs = self.X_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
 				labels = self.y_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
