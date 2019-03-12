@@ -6,9 +6,10 @@ from typing import List
 import torch.optim as optim
 import torch.nn.functional as F
 from numpy.random import permutation
+import numpy as np
 
 
-HIDDEN_SIZE = 256
+HIDDEN_SIZE = 16
 
 
 class LSTM(nn.Module):
@@ -75,7 +76,7 @@ class LSTM(nn.Module):
 		X = self.embeddings(candidates_padded)
 		X = nn.utils.rnn.pack_padded_sequence(X, candidate_lengths)
 		enc_hiddens, _ = self.LSTM(X)
-		enc_hiddens, _ = nn.utils.rnn.pad_packed_sequence(enc_hiddens, batch_first=True)
+		enc_hiddens, _ = nn.utils.rnn.pad_packed_sequence(enc_hiddens, batch_first=True) # (b, src_len, h or 2h)
 		return enc_hiddens
 
 	# unfortunately, the next two methods are copied exactly from the CNN class. would be better to abstract that. however,
@@ -104,12 +105,16 @@ class LSTM(nn.Module):
 			running_loss = 0.0
 			batch_starting_index = 0
 			permu = permutation(number_examples)
-			self.X_train = [self.X_train[permu[i]] for i in range(number_examples)]
-			self.y_train = self.y_train[permu]
+			train_examples = [self.X_train[permu[i]] for i in range(number_examples)]
+			train_labels = self.y_train[permu]
+			# train_examples = self.X_train
+			# train_labels = self.y_train
 			for iteration in range(num_iterations):
-				inputs = self.X_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
-				labels = self.y_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
-
+				inputs = train_examples[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
+				labels = train_labels[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
+				sorted_indices = np.argsort(list(map(len, inputs)))[::-1].copy()
+				inputs = [inputs[i] for i in sorted_indices]
+				labels = labels[sorted_indices]
 				optimizer.zero_grad()
 
 				outputs = self.forward(inputs)
