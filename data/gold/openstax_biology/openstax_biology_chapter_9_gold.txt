@@ -1,0 +1,41 @@
+apoptosis
+autocrine signal
+autoinducer
+cell-surface receptor
+chemical synapse
+cyclic AMP
+cyclic AMP-dependent kinase
+diacylglycerol
+(DAG)
+dimer
+dimerization
+endocrine cell
+endocrine signal
+enzyme-linked receptor
+extracellular domain
+G-protein-linked receptor
+growth factor
+inhibitor
+inositol phospholipid
+inositol triphosphate
+intercellular signaling
+internal receptor
+intracellular mediator
+intracellular signaling
+ion channel-linked receptor
+kinase
+ligand
+mating factor
+neurotransmitter
+paracrine signal
+phosphatase
+phosphodiesterase
+quorum sensing
+receptor
+second messenger
+signal integration
+signal transduction
+signaling cell
+signaling pathway
+synaptic signal
+target cell
