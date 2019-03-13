@@ -1,0 +1,45 @@
+adventitious
+antheridium
+archegonium
+capsule
+charophyte
+club mosses
+diplontic
+embryophyte
+extant
+extinct
+fern
+gametangium
+gemma
+haplodiplodontic
+haplontic
+heterosporous
+homosporous
+hornworts
+horsetail
+lignin
+liverworts
+lycophyte
+megaphyll
+megaspore
+microphyll
+microspore
+mosses
+non-vascular plant
+peat moss
+peristome
+phloem
+protonema
+rhizoids
+seedless vascular plant
+seta
+sporocyte
+sporophyll
+sporopollenin
+streptophytes
+strobili
+tracheophyte
+vascular plant
+vein
+whisk fern
+xylem
