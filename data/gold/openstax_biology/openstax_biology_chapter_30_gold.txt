@@ -1,0 +1,92 @@
+abscisic acid
+abscission
+adventitious root
+amyloplast
+apical bud
+apical meristem
+auxin
+axillary bud
+bark
+bulb
+Casparian strip
+chromophore
+collenchyma cell
+companion cell
+compound leaf
+corm
+cortex
+cryptochrome
+cuticle
+cytokinin
+dermal tissue
+endodermis
+epidermis
+ethylene
+fibrous root system
+gibberellin
+ground tissue
+guard cells
+intercalary meristem
+internode
+jasmonates
+lamina
+lateral meristem
+lenticel
+megapascal
+meristem
+meristematic tissue
+negative gravitropism
+node
+oligosaccharin
+palmately compound leaf
+parenchyma cell
+pericycle
+periderm
+permanent tissue
+petiole
+photomorphogenesis
+photoperiodism
+phototropin
+phototropism
+phyllotaxy
+phytochrome
+pinnately compound leaf
+pith
+positive gravitropism
+primary growth
+rhizome
+root cap
+root hair
+root system
+runner
+sclerenchyma cell
+secondary growth
+sessile
+shoot system
+sieve-tube cell
+simple leaf
+sink
+source
+statolith
+stele
+stipule
+stolon
+strigolactone
+tap root system
+tendril
+thigmomorphogenesis
+thigmonastic
+thigmotropism
+thorn
+tracheid
+translocation
+transpiration
+trichome
+tuber
+vascular bundle
+vascular stele
+vascular tissue
+venation
+vessel element
+water potential
+whorled
