@@ -9,8 +9,8 @@ nlp = spacy.load('en_core_web_sm')
 #dataFile = "../data/textbook_sentences/openstax_biology_chapters_123_sentences_simple.txt"
 #outputFile = "../data/textbook_sentences/openstax_biology_chapters_123_sentences_simple_lemmatized.txt"
 
-dataFile = "../data/gold/openstax_biology_chapters123_gold.txt"
-outputFile = "../data/gold/openstax_biology_chapters123_gold_final.txt"
+dataFile = "../data/gold/openstax_biology/openstax_biology_chapters4to11_gold.txt"
+outputFile = "../data/gold/openstax_biology/openstax_biology_chapters4to11_gold_final.txt"
 
 def lemmatize_sentence(sent, nlp):
 	tags = nlp(sent)

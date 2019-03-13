@@ -1,0 +1,291 @@
+cell theory
+cell wall
+central vacuole
+centrosome
+chlorophyll
+chloroplast
+chromatin
+chromosome
+cilium
+cytoplasm
+cytoskeleton
+cytosol
+desmosome
+electron microscope
+endomembrane system
+endoplasmic reticulum
+er
+eukaryotic cell
+extracellular matrix
+flagellum
+gap junction
+golgi apparatus
+intermediate filament
+light microscope
+lysosome
+microfilament
+microscope
+microtubule
+mitochondria
+nuclear envelope
+nucleoid
+nucleolus
+nucleoplasm
+nucleus
+organelle
+peroxisome
+plasma membrane
+plasmodesma
+prokaryote
+ribosome
+rough endoplasmic reticulum
+rer
+smooth endoplasmic reticulum
+ser
+tight junction
+unified cell theory
+vacuole
+vesicle
+active transport
+amphiphilic
+antiporter
+aquaporin
+carrier protein
+caveolin
+channel protein
+clathrin
+concentration gradient
+diffusion
+electrochemical gradient
+electrogenic pump
+endocytosis
+exocytosis
+facilitated transport
+fluid mosaic model
+glycolipid
+glycoprotein
+hydrophilic
+hydrophobic
+hypertonic
+hypotonic
+integral protein
+isotonic
+osmolarity
+osmosis
+passive transport
+peripheral protein
+pinocytosis
+plasmolysis
+potocytosis
+primary active transport
+pump
+receptor - mediate endocytosis
+secondary active transport
+selectively permeable
+solute
+symport
+tonicity
+transport protein
+transporter
+uniporter
+activation energy
+active site
+allosteric inhibition
+anabolic
+anabolism
+atp
+bioenergetic
+catabolic
+catabolism
+chemical energy
+coenzyme
+cofactor
+competitive inhibition
+denature
+endergonic
+enthalpy
+entropy
+exergonic
+feedback inhibition
+free energy
+heat
+heat energy
+induce fit
+kinetic energy
+metabolism
+phosphoanhydride bond
+potential energy
+substrate
+thermodynamic
+transition state
+acetyl coa
+aerobic respiration
+anaerobic
+anaerobic cellular respiration
+atp synthase
+chemiosmosis
+citric acid cycle
+dephosphorylation
+fermentation
+glut protein
+glycolysis
+isomerase
+krebs cycle
+citric acid cycle
+oxidative phosphorylation
+phosphorylation
+prosthetic group
+prosthetic cofactor
+pyruvate
+redox reaction
+substrate - level phosphorylation
+tca cycle
+ubiquinone
+absorption spectrum
+antenna protein
+calvin cycle
+carbon fixation
+carotenoid
+chemoautotroph
+chlorophyll a
+chlorophyll b
+chloroplast
+cytochrome complex
+electromagnetic spectrum
+electron transport chain
+granum
+heterotroph
+light harvesting complex
+light - dependent reaction
+light - independent reaction
+mesophyll
+p six  eight  zero
+p seven  zero  zero
+photoact
+photoautotroph
+photon
+photosystem
+photosystem - pron -
+photosystem ii
+pigment
+primary electron acceptor
+reaction center
+reduction
+spectrophotometer
+stoma
+stroma
+thylakoid
+thylakoid luman
+wavelength
+apoptosis
+autocrine signal
+autoinducer
+cell - surface receptor
+chemical synapse
+cyclic amp
+cyclic amp - dependent kinase
+diacylglycerol
+dag
+dimer
+dimerization
+endocrine cell
+endocrine signal
+enzyme - link receptor
+extracellular domain
+g - protein - link receptor
+growth factor
+inhibitor
+inositol phospholipid
+inositol triphosphate
+intercellular signal
+internal receptor
+intracellular mediator
+intracellular signaling
+ion channel - link receptor
+kinase
+ligand
+mate factor
+neurotransmitter
+paracrine signal
+phosphatase
+phosphodiesterase
+quorum sense
+receptor
+second messenger
+signal integration
+signal transduction
+signal cell
+signal pathway
+synaptic signal
+target cell
+anaphase
+binary fission
+cell cycle
+cell cycle checkpoint
+cell plate
+centriole
+centromere
+chromatid
+cleavage furrow
+condensin
+cyclin
+cyclin - dependent kinase
+cytokinesis
+diploid
+ftsz
+g zero phase
+g one phase
+g two phase
+gamete
+gene
+genome
+haploid
+histone
+homologous chromosome
+interphase
+karyokinesis
+kinetochore
+locus
+metaphase
+metaphase plate
+mitosis
+mitotic phase
+mitotic spindle
+nucleosome
+oncogene
+origin
+ori
+p two  one
+p five  three
+prometaphase
+prophase
+proto - oncogene
+quiescent
+retinoblastoma protein
+rb
+s phase
+septum
+telophase
+tumor suppressor gene
+alternation of generation
+chiasma
+cohesin
+crossover
+diploid - dominant
+fertilization
+gametophyte
+germ cell
+haploid - dominant
+interkinesis
+life cycle
+meiosis
+meiosis - pron -
+meiosis ii
+recombination nodule
+reduction division
+somatic cell
+spore
+sporophyte
+synapsis
+synaptonemal complex
+tetrad

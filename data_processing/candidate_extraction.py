@@ -49,7 +49,7 @@ def noun_phrase_chunk(text_file_name, output_pickle_name, output_file_name):
 	pattern = [{'POS': 'NOUN'}, {'ORTH': '-'}, {'POS': 'VERB'}, {'POS': 'NOUN', 'OP': '+'}]
 	matcher.add('candidate3', None, pattern)
 	#catches 1, adds 500 (falsifiable)
-	pattern = [{'POS': 'ADJ'}]
+	pattern = [{'POS':'ADV', 'OP':'*'},{'POS': 'ADJ'}]
 	matcher.add('candidate4', None, pattern)
 	#catches 1, add 50 (ph scale)
 	pattern = [{'POS': 'PROPN'}, {'POS': 'NOUN','OP': '+'}]
@@ -60,12 +60,20 @@ def noun_phrase_chunk(text_file_name, output_pickle_name, output_file_name):
 	matcher.add('candidate6', None, pattern)
 	pattern = [{'POS':'NOUN'}, {'POS':'CCONJ'}, {'POS':'ADJ', 'OP': '*'}, {'POS':'NOUN'}]
 	matcher.add('candidate7', None, pattern)
-	pattern = [{'POS': 'VERB'}, {'POS': 'NOUN', 'OP': '+'}]
+	pattern = [{'POS': 'VERB'}, {'POS':'NOUN', 'OP':'+'}]
 	matcher.add('candidate8', None, pattern)
-	pattern = [{'POS': 'ADV'}, {'ORTH': '-'}, {'POS':'VERB'}]
+	pattern = [{'POS': 'ADV'}, {'ORTH': '-'}, {'POS':'VERB'}, {'POS':'NOUN', "OP":"*"}]
 	matcher.add('candidate9', None, pattern)
 	pattern = [{'POS': 'ADV'}, {'ORTH': '-'}, {'POS':'NOUN'}]
 	matcher.add('candidate10', None, pattern)
+	pattern = [{'POS': 'ADJ'}, {'ORTH': '-'}, {'POS':'ADJ', 'OP':'*'}, {'POS': 'NOUN', 'OP': '*'}]
+	matcher.add('candidate11', None, pattern)
+	pattern = [{'POS': 'NOUN'}, {'ORTH': '-'}, {'POS':'ADJ'}]
+	matcher.add('candidate12', None, pattern)
+	pattern = [{'POS': 'NOUN','OP':'+'}, {'ORTH': '-'}, {'POS':'VERB'}, {'POS': 'NOUN','OP':'+'}]
+	matcher.add('candidate13', None, pattern)
+	pattern = [{'POS': 'NOUN'}, {'ORTH': '-'}, {'POS':'NOUN'}]
+	matcher.add('candidate14', None, pattern)
 	doc_text = io.open(text_file_name, "r", encoding='utf-8').read().replace('\n', ' ')
 	doc = nlp(doc_text)
 
@@ -78,7 +86,7 @@ def noun_phrase_chunk(text_file_name, output_pickle_name, output_file_name):
 	for candidate in candidates:
 		cand_doc = nlp(candidate)
 		new_cand = " ".join([normalize(word.lemma_).strip() for word in cand_doc])
-		if "-PRON-" not in new_cand:
+		if "- pron -" not in new_cand:
 			new_candidates.add(new_cand)
 
 
