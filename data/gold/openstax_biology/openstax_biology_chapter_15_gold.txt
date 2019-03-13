@@ -1,0 +1,42 @@
+7-methylguanosine cap
+aminoacyl tRNA synthetase
+anticodon
+CAAT box
+Central Dogma
+codon
+colinear
+consensus
+core enzyme
+degeneracy
+downstream
+exon
+FACT
+GC-rich box
+hairpin
+holoenzyme
+initiation site
+initiator tRNA
+intron
+Kozak’s rules
+nonsense codon
+nontemplate strand
+Octamer box
+peptidyl transferase
+plasmid
+poly-A tail
+polysome
+preinitiation complex
+promoter
+reading frame
+Rho-dependent termination
+Rho-independent
+RNA editing
+Shine-Dalgarno sequence
+signal sequence
+small nuclear RNA
+splicing
+start codon
+TATA box
+template strand
+transcription bubble
+upstream

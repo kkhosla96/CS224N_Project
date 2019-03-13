@@ -1,0 +1,69 @@
+antibiotic resistance
+biomarker
+biotechnology
+cDNA library
+cellular cloning
+chain termination method
+clone
+contig
+cytogenetic mapping
+deoxynucleotide
+dideoxynucleotide
+DNA microarray
+expressed sequence tag
+false negative
+foreign DNA
+gel electrophoresis
+gene targeting
+gene therapy
+genetic diagnosis
+genetic engineering
+genetic map
+genetic marker
+genetic recombination
+genetic testing
+genetically modified organism
+genome annotation
+genome mapping
+genomic library
+genomics
+host DNA
+linkage analysis
+lysis buffer
+metabolome
+metabolomics
+metagenomics
+microsatellite polymorphism
+model organism
+molecular cloning
+multiple cloning site (MCS)
+next-generation sequencing
+northern blotting
+pharmacogenomics
+physical map
+polygenic
+polymerase chain reaction (PCR)
+probe
+protease
+protein signature
+proteome
+proteomics
+pure culture
+radiation hybrid mapping
+recombinant DNA
+recombinant protein
+reproductive cloning
+restriction endonuclease
+restriction fragment length polymorphism (RFLP)
+reverse genetics
+reverse transcriptase PCR (RT-PCR)
+ribonuclease
+sequence mapping
+shotgun sequencing
+single nucleotide polymorphism
+Southern blotting
+systems biology
+Ti plasmid
+transgenic
+variable number of tandem repeats
+whole-genome sequencing
