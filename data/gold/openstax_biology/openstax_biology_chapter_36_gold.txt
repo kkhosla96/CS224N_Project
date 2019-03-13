@@ -1,0 +1,69 @@
+audition
+basilar membrane
+bipolar neuron
+candela
+circadian
+cochlea
+cone
+cornea
+fovea
+free nerve ending
+glabrous
+glomerulus
+Golgi tendon organ
+gustation
+hyperopia
+incus
+inner ear
+iris
+kinesthesia
+labyrinth
+lens
+malleus
+mechanoreceptor
+Meissner’s corpuscle
+Merkel's disc
+middle ear
+muscle spindle
+myopia
+nociception
+odorant
+olfaction
+olfactory bulb
+olfactory epithelium
+olfactory receptor
+organ of Corti
+ossicle
+outer ear
+oval window
+Pacinian corpuscle
+papilla
+perception
+pheromone
+pinna
+presbyopia
+proprioception
+pupil
+reception
+receptive field
+receptor potential
+retina
+rhodopsin
+rod
+Ruffini ending
+semicircular canal
+sensory receptor
+sensory transduction
+stapes
+stereocilia
+superior colliculus
+suprachiasmatic nucleus
+tastant
+taste bud
+tectorial membrane
+tonic activity
+tympanum
+ultrasound
+umami
+vestibular sense
+vision

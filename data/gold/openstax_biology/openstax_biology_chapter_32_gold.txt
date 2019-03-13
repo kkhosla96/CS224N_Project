@@ -1,0 +1,58 @@
+accessory fruit
+aggregate fruit
+aleurone
+androecium
+antipodals
+apomixis
+coleoptile
+coleorhiza
+cotyledon
+cross-pollination
+cutting
+dormancy
+double fertilization
+endocarp
+endosperm
+endospermic dicot
+epicotyl
+exine
+exocarp
+gametophyte
+grafting
+gravitropism
+gynoecium
+hypocotyl
+intine
+layering
+megagametogenesis
+megasporangium
+megasporogenesis
+megasporophyll
+mesocarp
+micropropagation
+micropyle
+microsporangium
+microsporophyll
+monocarpic
+multiple fruit
+nectar guide
+non-endospermic dicot
+perianth
+pericarp
+plumule
+polar nuclei
+pollination
+polycarpic
+radicle
+scarification
+scion
+scutellum
+self-pollination
+senescence
+simple fruit
+sporophyte
+suspensor
+synergid
+tegmen
+testa
+vernalization
