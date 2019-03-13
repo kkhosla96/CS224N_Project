@@ -25,3 +25,5 @@ species
 sympatric speciation
 temporal isolation
 variation
+vestigial structure
+vicariance
