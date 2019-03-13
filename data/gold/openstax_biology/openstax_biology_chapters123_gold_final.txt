@@ -70,7 +70,7 @@ chemical reactivity
 cohesion
 compound
 covalent bond
-dislocation
+dissociation
 electrolyte
 electron
 electron configuration
@@ -146,13 +146,13 @@ hydrolysis
 lipid
 messenger rna
 mrna
-monomer
+monom
 monosaccharide
 nucleic acid
 nucleotide
 omega fat
 peptide bond
-phosphodiester
+phosphodiest
 phospholipid
 polymer
 polynucleotide
@@ -179,5 +179,5 @@ trna
 translation
 triacylglycerol
 triglyceride
-unsaturated fatty acid
+unsaturate fatty acid
 wax

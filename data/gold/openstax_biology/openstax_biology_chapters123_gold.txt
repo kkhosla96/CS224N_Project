@@ -70,7 +70,7 @@ chemical reactivity
 cohesion
 compound
 covalent bond
-dislocation
+dissociation
 electrolyte
 electron
 electron configuration
