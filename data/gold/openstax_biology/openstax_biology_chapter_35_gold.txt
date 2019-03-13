@@ -1,0 +1,81 @@
+acetylcholine
+action potentia
+Alzheimer’s disease
+amygdala
+arachnoid mater
+astrocyte
+attention deficit hyperactivity disorder
+ADHD
+autism spectrum disorder
+ASD
+autonomic nervous system
+axon
+axon hillock
+axon terminal
+basal ganglia
+basal nuclei
+brainstem
+cerebellum
+cerebral cortex
+cerebrospinal fluid
+CSF
+choroid plexus
+cingulate gyrus
+corpus callosum
+cranial nerve
+dendrite
+depolarization
+dura mater
+ependymal
+epilepsy
+excitatory postsynaptic potential
+EPSP
+frontal lobe
+glia
+gyrus
+hippocampus
+hyperpolarization
+hypothalamus
+inhibitory postsynaptic potential
+IPSP
+limbic system
+long-term depression
+LTD
+long-term potentiation
+LTP
+major depression
+membrane potential
+meninge
+microglia
+myelin
+neurodegenerative disorder
+neuron
+nodes of Ranvier
+norepinephrine
+occipital lobe
+oligodendrocyte
+parasympathetic nervous system
+parietal lobe
+Parkinson’s disease
+pia mater
+proprioception
+radial glia
+refractory period
+saltatory conduction
+satellite glia
+schizophrenia
+Schwann cell
+sensory-somatic nervous system
+somatosensation
+spinal cord
+spinal nerve
+sulcus
+summation
+sympathetic nervous system
+synapse
+synaptic cleft
+synaptic vesicle
+temporal lobe
+thalamus
+threshold of excitation
+ventricle
