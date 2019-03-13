@@ -1,0 +1,65 @@
+Alveolar PO2
+Alveolar duct
+Alveolar sac
+Alveolar ventilation
+Alveolus
+Anatomical dead space
+Bicarbonate ion
+Bicarbonate buffer system
+Bronchiole
+Bronchus
+carbaminohemoglobin
+carbonic anhydrase
+chloride shift
+Compliance
+Dead space
+Diaphragm
+Elastic recoil
+Elastic work
+Expiator reserve volume
+FEV1 FVC ratio
+Flow-resistive
+Forced expiratory volume
+Functional vital capacity
+Heme group
+Hemoglobin
+Inspiratory capacity
+Inspirator reserve volume
+Intercostal muscle
+Intrapleural space
+Larynx
+Lung capacity
+Lung volume
+Mucin
+Mucus
+Nasal cavity
+Obstructive disease
+Oxygen dissociation cure
+Oxygen-carrying capacity
+Partial pressure
+Particulate matter
+Pharynx
+Physiological dead space
+Pleura
+Pleurisy
+Primary bronchus
+Recruitment
+Residual volume
+Resistance
+Respiratory bronchiole
+Respiratory distress syndrome
+Respiratory quotient
+Respiratory rate
+Restrictive disease
+Sickle cell anemia
+Spirometry
+Surfactant
+Terminal bronchiole
+Thalassemia
+Tidal volume
+Total lung capacity
+Trachea
+Venous pco2
+Venous po2
+Ventilation perfusion mismatch
+Vital capacity
