@@ -23,23 +23,7 @@ NGRAM_LENGTHS = [1, 2, 3, 4, 5]
 STOP_WORDS = pickle.load(open("stopwords.pkl", 'rb'))
 
 def noun_phrase_chunk(text_file_name, output_pickle_name, output_file_name):
-	# grammar = "Candidate: {<JJ.*>*<NN.*>+}"
-	# cp = RegexpParser(grammar)
 	candidates = set()
-
-	# with open(sentence_file_name, 'r') as f:
-	# 	line = f.readline()
-	# 	count = 0
-	# 	while line:
-	# 		sentence = line.lower()
-	# 		tokens = word_tokenize(sentence)
-	# 		pos = pos_tag(tokens)
-	# 		tree = cp.parse(pos)
-	# 		for subtree in tree.subtrees():
-	# 			if subtree.label() == "Candidate":
-	# 				candidates.add(" ".join(map(lambda x: x[0], subtree.leaves())))
-	# 		count += 1
-	# 		line = f.readline()
 	nlp = spacy.load('en')
 	matcher = Matcher(nlp.vocab)
 	pattern = [{'POS': 'ADJ', 'OP': '*'}, {'POS': 'NOUN', 'OP': '+'}]
