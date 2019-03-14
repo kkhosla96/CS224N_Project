@@ -6,8 +6,8 @@ open a Python shell in the same directory as this file, and run from view_result
 then, you can access these variables.
 '''
 
-labeled_file = "./experiment_results/various_gs_with_chapters123/data_files/g_5"
-labels_file = "./experiment_results/various_gs_with_chapters123/label_files/g_5"
+labeled_file = "./experiment_results_local/cotraining_experiment/data_files/lstm.pkl"
+labels_file = "./experiment_results_local/cotraining_experiment/label_files/lstm.pkl"
 seed_file = "./data/seed_sets/openstax_biology_chapters123_seed.txt"
 gold_file = "./data/gold/openstax_biology_chapters123_gold_simple_lemmatized.pkl"
 

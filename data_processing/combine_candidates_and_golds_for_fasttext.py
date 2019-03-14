@@ -1,14 +1,15 @@
-candidates_file = "../data/candidates/openstax_biology_chapters_123_sentences_simple_lemmatized_ngram.txt"
-gold_file = "../data/gold/openstax_biology_chapters123_gold_simple_lemmatized.txt"
-combined_file = "../data/candidates_gold_together/openstax_biology_chapters123_simple_lemmatized_candidates_gold_together.txt"
+candidate_files = ["../data/candidates/openstax_biology/openstax_biology_sentences_part_%s_np.txt" % str(i) for i in range(1, 4)]
+gold_file = "../data/gold/openstax_biology/openstax_biology_gold_lemmatized.txt"
+combined_file = "../data/candidates_gold_together/openstax_biology_candidates_and_gold.txt"
 
-candidates = set(line.strip() for line in open(candidates_file))
-golds = set(line.strip() for line in open(gold_file))
+golds = set([line.strip() for line in open(gold_file).readlines()])
 
 words = set()
-for candidate in candidates:
-	for word in candidate.split():
-		words.add(word)
+for candidate_file in candidate_files:
+	candidates = set([line.strip() for line in open(candidate_file).readlines()])
+	for candidate in candidates:
+		for word in candidate.split():
+			words.add(word)
 for gold in golds:
 	for word in gold.split():
 		words.add(word)
