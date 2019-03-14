@@ -13,6 +13,7 @@ import json
 from tqdm import tqdm
 import time
 from CotrainingPipeline import CotrainingPipeline
+from CNN import CNN
 from CNN import DeepCNN
 from WordVectorParser import WordVectorParser
 
@@ -147,8 +148,8 @@ def supervised_learning(args):
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	save_file_txt = "./experiment_results/supervised_learning/predictions.txt"
-	save_file_pkl = "./experiment_results/supervised_learning/predictions.pkl"
+	save_file_txt = "./experiment_results/supervised_learning_shallow/predictions.txt"
+	save_file_pkl = "./experiment_results/supervised_learning_shallow/predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
 	if not os.path.exists(directory):
 		os.makedirs(directory)
