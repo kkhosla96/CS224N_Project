@@ -1,0 +1,1792 @@
+anaphase
+binary fission
+cell cycle
+cell cycle checkpoint
+cell plate
+centriole
+centromere
+chromatid
+cleavage furrow
+condensin
+cyclin
+cyclin - dependent kinase
+cytokinesis
+diploid
+ftsz
+g0 phase
+g1 phase
+g2 phase
+gamete
+gene
+genome
+haploid
+histone
+homologous chromosome
+interphase
+karyokinesis
+kinetochore
+locus
+metaphase
+metaphase plate
+mitosis
+mitotic phase
+mitotic spindle
+nucleosome
+oncogene
+origin
+ori
+p21
+p53
+prometaphase
+prophase
+proto - oncogene
+quiescent
+retinoblastoma protein
+rb
+s phase
+septum
+telophase
+tumor suppressor genealternation of generation
+chiasma
+cohesin
+crossover
+diploid - dominant
+fertilization
+gametophyte
+germ cell
+haploid - dominant
+interkinesis
+life cycle
+meiosis
+meiosis -PRON-
+meiosis ii
+recombination nodule
+reduction division
+somatic cell
+spore
+sporophyte
+synapsis
+synaptonemal complex
+tetradacidophile
+alkaliphile
+ammonification
+anaerobic
+anoxic
+antibiotic
+biofilm
+biological nitrogen fixation
+bioremediation
+biotechnology
+black death
+botulism
+ca - mrsa
+capsule
+chemotroph
+conjugation
+cyanobacteria
+decomposer
+gentrification
+emerge disease
+endemic disease
+epidemic
+extremophile
+foodborne disease
+gram negative
+gram positive
+halophile
+hydrothermal vent
+hyperthermophile
+microbial mat
+mrsa
+nitrification
+nitrogen fixation
+nodule
+nutrient
+osmophile
+pandemic
+peptidoglycan
+phototroph
+pilus
+pseudopeptidoglycan
+psychrophile
+radioresistant
+resuscitation
+s - layer
+serotype
+stromatolite
+teichoic acid
+thermophile
+transduction
+transformation
+viable - but - non - culturable ( vbnc ) state
+zoonosisbiological carbon pump
+bioluminescence
+contractile vacuole
+cytoplasmic streaming
+endosymbiosis
+endosymbiotic theory
+hydrogenosome
+kinetoplast
+mitosome
+mixotroph
+pellicle
+phagolysosome
+plankton
+plastid
+raphe
+testarbuscular mycorrhiza
+arbuscular mycorrhizae
+ascocarp
+ascomycota
+basidiocarp
+basidiomycota
+basidium
+chytridiomycota
+coenocytic hypha
+commensalism
+deuteromycota
+ectomycorrhiza
+ectomycorrhizae
+faculative anaerobe
+glomeromycota
+haustoria
+heterothallic
+homothallic
+hypha
+karyogamy
+lichen
+mold
+mycelium
+mycetismus
+mycology
+mycorrhiza
+mycorrhizae
+mycosis
+mycotoxicosis
+obligate aerobe
+obligate anaerobe
+parasitism
+plasmogamy
+saprobe
+septa
+soredia
+sporangium
+spore
+thallus
+yeast
+zygomycota
+zygosporeadventitious
+antheridium
+archegonium
+capsule
+charophyte
+club moss
+diplontic
+embryophyte
+extant
+extinct
+fern
+gametangium
+gemma
+haplodiplodontic
+haplontic
+heterosporous
+homosporous
+hornwort
+horsetail
+lignin
+liverwort
+lycophyte
+megaphyll
+megaspore
+microphyll
+microspore
+moss
+non - vascular plant
+peat moss
+peristome
+phloem
+protonema
+rhizoid
+seedless vascular plant
+seta
+sporocyte
+sporophyll
+sporopollenin
+streptophyte
+strobili
+tracheophyte
+vascular plant
+vein
+whisk fern
+xylemanther
+anthophyta
+barcod
+basal angiosperm
+calyx
+carpel
+conifer
+corolla
+cotyledon
+crop
+dyad
+dicot
+dioecious
+filament
+flower
+fruit
+gingkophyte
+gnetophyte
+gymnosperm
+gynoecium
+heirloom seed
+herbaceous
+herbivory
+integument
+megasporocyte
+microsporocyte
+monocot
+monoecious
+nectar
+ovary
+ovulate cone
+ovule
+perianth
+petal
+pistil
+pollen grain
+pollen tube
+pollination
+progymnosperm
+seed
+sepal
+spermatophyte
+staman
+stigma
+strobilus
+styleacoelomate
+bilateral symmetry
+blastopore
+blastula
+body plan
+cambrian explosion
+cleavage
+coelom
+cryogenian period
+determinate cleavage
+deuterostome
+diploblast
+ecdysozoa
+ediacaran period
+enterocoely
+eucoelomate
+eumetazoa
+gastrula
+germ layer
+hox gene
+indeterminate cleavage
+lophotrochozoa
+mass extinction
+metazoa
+organogenesis
+parazoa
+protostome
+pseudocoelomate
+radial cleavage
+radial symmetry
+schizocoely
+spiral cleavage
+triploblastamoebocyte
+annelida
+archenteron
+arthropoda
+biramous
+captacula
+cephalothorax
+chelicera
+choanocyte
+chordata
+clitellum
+cnidaria
+cnidocyte
+conispiral
+corona
+ctenidium
+cuticle
+cypris
+echinodermata
+enterocoelom
+epidermis
+extracellular digestion
+gastrodermis
+gastrovascular cavity
+gemmule
+hemocoel
+hermaphrodite
+invertebrata
+madreporite
+mandle
+mastax
+medusa
+mesoglea
+mesohyl
+metamerism
+mollusca
+nacre
+nauplius
+nematocyst
+nematoda
+nemertea
+osculum
+osmium
+oviger
+parapodium
+pedipalp
+pilidium
+pinacocyte
+planospiral
+planuliform
+polymorphic
+polyp
+porifera
+radula
+rhynchocoel
+schizocoelom
+sclerocyte
+seta
+chaeta
+siphonophore
+spicule
+spongocoel
+trochophore
+uniramous
+veliger
+water vascular system
+zoeaacanthostega
+actinopterygii
+allantois
+amnion
+amniote
+amphibia
+ampulla of lorenzini
+anapsid
+anthropoid
+anura
+apocrine gland
+apoda
+archaeopteryx
+archosaur
+australopithecus
+brachiation
+brumation
+caecilian
+casineria
+catarrhini
+cephalochordata
+chondrichthye
+chordata
+chorion
+contour feather
+craniata
+cranium
+crocodilia
+cutaneous respiration
+denture
+diapsid
+diphyodont
+dorsal hollow nerve cord
+down feather
+eccrine gland
+enantiornithe
+eutherian mammal
+flight feather
+frog
+furcula
+gnathostome
+gorilla
+hagfish
+heterodont tooth
+hominin
+hominoid
+homo
+homo sapiens sapiens
+hylobatidae
+hylonomus
+lamprey
+lancelet
+lateral line
+lepidosaur
+mammal
+mammary gland
+marsupial
+monotreme
+myxini
+neognathae
+neornithe
+notochord
+ornithorhynchidae
+osteichthye
+ostracoderm
+paleognathae
+pan
+petromyzontidae
+pharyngeal slit
+platyrrhini
+plesiadapis
+pneumatic bone
+pongo
+post - anal tail
+primary feather
+primate
+prognathic jaw
+prosimian
+salamander
+sarcopterygii
+sauropsid
+sebaceous gland
+secondary feather
+sphenodontia
+squamata
+stereoscopic vision
+swim bladder
+synapsid
+tachyglossidae
+tadpole
+temporal fenestra
+testudo
+tetrapod
+theropod
+tunicate
+urochordata
+urodela
+vertebral column
+vertebrataabscisic acid
+abscission
+adventitious root
+amyloplast
+apical bud
+apical meristem
+auxin
+axillary bud
+bark
+bulb
+casparian strip
+chromophore
+collenchyma cell
+companion cell
+compound leaf
+corm
+cortex
+cryptochrome
+cuticle
+cytokinin
+dermal tissue
+endodermis
+epidermis
+ethylene
+fibrous root system
+gibberellin
+ground tissue
+guard cell
+intercalary meristem
+internode
+jasmonate
+lamina
+lateral meristem
+lenticel
+megapascal
+meristem
+meristematic tissue
+negative gravitropism
+node
+oligosaccharin
+palmately compound leaf
+parenchyma cell
+pericycle
+periderm
+permanent tissue
+petiole
+photomorphogenesis
+photoperiodism
+phototropin
+phototropism
+phyllotaxy
+phytochrome
+pinnately compound leaf
+pith
+positive gravitropism
+primary growth
+rhizome
+root cap
+root hair
+root system
+runner
+sclerenchyma cell
+secondary growth
+sessile
+shoot system
+sieve - tube cell
+simple leaf
+sink
+source
+statolith
+stele
+stipule
+stolon
+strigolactone
+tap root system
+tendril
+thigmomorphogenesis
+thigmonastic
+thigmotropism
+thorn
+tracheid
+translocation
+transpiration
+trichome
+tuber
+vascular bundle
+vascular stele
+vascular tissue
+venation
+vessel element
+water potential
+whorleda horizon
+b horizon
+bedrock
+c horizon
+clay
+epiphyte
+horizon
+humus
+inorganic compound
+insectivorous plant
+loam
+macronutrient
+micronutrient
+mineral soil
+nitrogenase
+nodule
+o horizon
+organic compound
+organic soil
+parasitic plant
+parent material
+rhizobia
+rhizosphere
+sand
+saprophyte
+silt
+soil
+soil profile
+symbiontaccessory fruit
+aggregate fruit
+aleurone
+androecium
+antipodal
+apomixi
+coleoptile
+coleorhiza
+cotyledon
+cross - pollination
+cut
+dormancy
+double fertilization
+endocarp
+endosperm
+endospermic dicot
+epicotyl
+exine
+exocarp
+gametophyte
+graft
+gravitropism
+gynoecium
+hypocotyl
+intine
+layer
+megagametogenesis
+megasporangium
+megasporogenesis
+megasporophyll
+mesocarp
+micropropagation
+micropyle
+microsporangium
+microsporophyll
+monocarpic
+multiple fruit
+nectar guide
+non - endospermic dicot
+perianth
+pericarp
+plumule
+polar nucleus
+pollination
+polycarpic
+radicle
+scarification
+scion
+scutellum
+self - pollination
+senescence
+simple fruit
+sporophyte
+suspensor
+synergid
+tegman
+testa
+vernalizationacclimatization
+alteration
+apodeme
+asymmetrical
+basal metabolic rate
+bmr
+canaliculus
+cartilage
+chondrocyte
+columnar epithelia
+connective tissue
+cuboidal epithelia
+dorsal cavity
+ectotherm
+endotherm
+epithelial tissue
+estivation
+fibrous connective tissue
+frontal plane
+coronal plane
+fusiform
+hibernation
+homeostasis
+lacuna
+loose connective tissue
+areolar connective tissue
+matrix
+midsagittal plane
+negative feedback loop
+osteon
+positive feedback loop
+pseudostratifi
+sagittal plane
+set point
+simple epithelia
+squamous epithelium
+standard metabolic rate
+smr
+stratify epithelia
+thermoregulation
+torpor
+trabecula
+transitional epithelia
+transverse plane
+horizontal plane
+ventral cavityalimentary canal
+aminopeptidase
+anus
+bile
+bolus
+carboxypeptidase
+carnivore
+cephalic phase
+cholecystokinin
+chylomicron
+chyme
+chymotrypsin
+digestion
+dipeptidase
+duodenum
+elastase
+endocrine system
+esophagus
+essential nutrient
+gallbladder
+gastric inhibitory peptide
+gastric phase
+gastrin
+gastrovascular cavity
+gizzard
+herbivore
+ileum
+ingestion
+intestinal phase
+jejunum
+lactase
+large intestine
+lipase
+liver
+maltase
+mineral
+monogastric
+omnivore
+pancrea
+pepsin
+pepsinogen
+peristalsis
+proventriculus
+rectum
+roughage
+ruminant
+salivary amylase
+secretin
+small intestine
+somatostatin
+sphincter
+stomach
+sucrase
+trypsin
+villi
+vitaminacetylcholine
+action potentia
+alzheimer ’s disease
+amygdala
+arachnoid mater
+astrocyte
+attention deficit hyperactivity disorder
+adhd
+autism spectrum disorder
+asd
+autonomic nervous system
+axon
+axon hillock
+axon terminal
+basal ganglion
+basal nucleus
+brainstem
+cerebellum
+cerebral cortex
+cerebrospinal fluid
+csf
+choroid plexus
+cingulate gyrus
+corpus callosum
+cranial nerve
+dendrite
+depolarization
+dura mater
+ependymal
+epilepsy
+excitatory postsynaptic potential
+epsp
+frontal lobe
+glia
+gyrus
+hippocampus
+hyperpolarization
+hypothalamus
+inhibitory postsynaptic potential
+ipsp
+limbic system
+long - term depression
+ltd
+long - term potentiation
+ltp
+major depression
+membrane potential
+meninge
+microglia
+myelin
+neurodegenerative disorder
+neuron
+node of ranvier
+norepinephrine
+occipital lobe
+oligodendrocyte
+parasympathetic nervous system
+parietal lobe
+parkinson ’s disease
+pia mater
+proprioception
+radial glia
+refractory period
+saltatory conduction
+satellite glia
+schizophrenia
+schwann cell
+sensory - somatic nervous system
+somatosensation
+spinal cord
+spinal nerve
+sulcus
+summation
+sympathetic nervous system
+synapse
+synaptic cleft
+synaptic vesicle
+temporal lobe
+thalamus
+threshold of excitation
+ventricleaudition
+basilar membrane
+bipolar neuron
+candela
+circadian
+cochlea
+cone
+cornea
+fovea
+free nerve ending
+glabrous
+glomerulus
+golgi tendon organ
+gustation
+hyperopia
+incus
+inner ear
+iris
+kinesthesia
+labyrinth
+len
+malleus
+mechanoreceptor
+meissner ’s corpuscle
+merkel 's disc
+middle ear
+muscle spindle
+myopia
+nociception
+odorant
+olfaction
+olfactory bulb
+olfactory epithelium
+olfactory receptor
+organ of corti
+ossicle
+outer ear
+oval window
+pacinian corpuscle
+papilla
+perception
+pheromone
+pinna
+presbyopia
+proprioception
+pupil
+reception
+receptive field
+receptor potential
+retina
+rhodopsin
+rod
+ruffini end
+semicircular canal
+sensory receptor
+sensory transduction
+stape
+stereocilia
+superior colliculus
+suprachiasmatic nucleus
+tastant
+taste bud
+tectorial membrane
+tonic activity
+tympanum
+ultrasound
+umami
+vestibular sense
+visionacromegaly
+addison ’s disease
+adenylate cyclase
+adrenal cortex
+adrenal gland
+adrenal medulla
+adrenocorticotropic hormone
+aldosterone
+alpha cell
+amino acid - derive hormone
+androgen
+anterior pituitary
+antidiuretic hormone
+atrial natriuretic peptide
+beta cell
+calcitonin
+colloid
+corticosteroid
+cortisol
+cushing ’s disease
+diabetes insipidu
+diabetes mellitus
+diabetogenic effect
+down - regulation
+endocrine gland
+epinephrine
+erythropoietin
+estrogen
+first messenger
+follicle - stimulate hormone
+g - protein
+gigantism
+glucagon
+glucocorticoid
+gluconeogenesis
+glucose - spar effect
+glycogenolysis
+goiter
+gonadotropin
+growth hormone
+growth hormone - inhibit hormone
+growth hormone - release hormone
+hormonal stimulus
+hormone receptor
+humoral stimulus
+hyperglycemia
+hyperthyroidism
+hypoglycemia
+hypophyseal portal system
+hypothyroidism
+insulin
+insulin - like growth factor
+intracellular hormone receptor
+islet of langerhans
+isthmus
+leptin
+lipid - derive hormone
+mineralocorticoid
+neural stimulus
+norepinephrine
+osmoreceptor
+oxytocin
+pancrea
+parafollicular cell
+parathyroid gland
+parathyroid hormone
+peptide hormone
+phosphodiesterase
+pituitary dwarfism
+pituitary gland
+pituitary stalk
+plasma membrane hormone receptor
+posterior pituitary
+prolactin
+prolactin - inhibit hormone
+prolactin - release hormone
+renin
+thymus
+thyroglobulin
+thyroid gland
+thyroid - stimulate hormone
+thyroxine
+triiodothyronine
+up - regulation
+
+
+
+abduction
+acetylcholinesterase
+actin
+adduction
+amphiarthrosis
+angular movement
+appendicular skeleton
+appositional growth
+articulation
+auditory ossicle
+axial skeleton
+ball - and - socket joint
+bone
+bone remodeling
+calcification
+cardiac muscle
+carpus
+cartilaginous joint
+circumduction
+clavicle
+compact bone
+condyloid joint
+coxal bone
+cranial bone
+depression
+diaphysis
+diarthrosis
+dorsiflexion
+elevation
+endochondral ossification
+endoskeleton
+epiphyseal plate
+epiphysis
+eversion
+exoskeleton
+extension
+facial bone
+femur
+fibrous joint
+fibula
+flat bone
+flexion
+forearm
+gliding movement
+gomphosis
+haversian canal
+hinge joint
+humerus
+hydrostatic skeleton
+hyoid bone
+hyperextension
+intervertebral disc
+intramembranous ossification
+inversion
+irregular bone
+joint
+lamella
+lateral rotation
+long bone
+low limb
+medial rotation
+metacarpus
+metatarsal
+motor end plate
+myofibril
+myofilament
+myosin
+opposition
+osseous tissue
+ossification
+osteoblast
+osteoclast
+osteocyte
+osteon
+patella
+pectoral girdle
+pelvic girdle
+phalange
+pivot joint
+planar joint
+plantar flexion
+pronation
+protraction
+radius
+resorption
+retraction
+rib
+rotational movement
+saddle joint
+sarcolemma
+sarcomere
+scapula
+sesamoid bone
+short bone
+skeletal muscle tissue
+skull
+smooth muscle
+spongy bone tissue
+sternum
+supination
+suture
+suture bone
+symphysis
+synarthrosis
+synchondrosis
+syndesmosis
+synovial joint
+tarsal
+thick filament
+thin filament
+thoracic cage
+tibia
+trabecular
+tropomyosin
+troponin
+ulna
+vertebral column
+alveolar po2
+alveolar duct
+alveolar sac
+alveolar ventilation
+alveolus
+anatomical dead space
+bicarbonate ion
+bicarbonate buffer system
+bronchiole
+bronchu
+carbaminohemoglobin
+carbonic anhydrase
+chloride shift
+compliance
+dead space
+diaphragm
+elastic recoil
+elastic work
+expiator reserve volume
+fev1 fvc ratio
+flow - resistive
+force expiratory volume
+functional vital capacity
+heme group
+hemoglobin
+inspiratory capacity
+inspirator reserve volume
+intercostal muscle
+intrapleural space
+larynx
+lung capacity
+lung volume
+mucin
+mucus
+nasal cavity
+obstructive disease
+oxygen dissociation cure
+oxygen - carry capacity
+partial pressure
+particulate matter
+pharynx
+physiological dead space
+pleura
+pleurisy
+primary bronchu
+recruitment
+residual volume
+resistance
+respiratory bronchiole
+respiratory distress syndrome
+respiratory quotient
+respiratory rate
+restrictive disease
+sickle cell anemia
+spirometry
+surfactant
+terminal bronchiole
+thalassemia
+tidal volume
+total lung capacity
+trachea
+venous pco2
+venous po2
+ventilation perfusion mismatch
+vital capacityangina
+aorta
+arteriole
+artery
+atherosclerosis
+atrioventricular valve
+atrium
+bicuspid valve
+blood pressure
+capillary
+capillary bed
+cardiac cycle
+cardiac output
+cardiomyocyte
+closed circulatory system
+coronary artery
+coronary vein
+diastole
+double circulation
+electrocardiogram
+endocardium
+epicardium
+gill circulation
+hemocoel
+hemolymph
+inferior vena cava
+interstitial fluid
+lymph node
+myocardial infarction
+myocardium
+open circulatory system
+osmium
+pericardium
+peripheral resistance
+plasma
+platelet
+precapillary sphincter
+pulmocutaneous circulation
+pulmonary circulation
+red blood cell
+semilunar valve
+serum
+sinoatrial node
+stoke volume
+superior vena cava
+systemic circulation
+systole
+tricuspid valve
+unidirectional circulation
+vasoconstriction
+vasodilation
+vein
+vena cava
+ventricle
+venue
+white blood cellafferent arteriole
+ammonia
+ammonotelic
+angiotensin convert enzyme
+angiotensin -PRON-
+angiotensin ii
+anti - diuretic hormone
+antioxidant
+arcuate artery
+ascend limb
+blood urea nitrogen
+bowman 's capsule
+calyx
+cortex
+cortical nephron
+cortical radiate artery
+countercurrent exchanger
+countercurrent multiplier
+descend limb
+distal convoluted tubule
+efferent arteriole
+electrolyte
+flame cell
+glomerular filtration
+glomerular filtration rate
+glomerulus
+renal
+glomerulus
+hilum
+inferior vena cava
+interlobar artery
+juxtaglomerular cell
+juxtamedullary nephron
+kidney
+lobe of the kidney
+loop of henle
+macula densa
+malpighian tubule
+medulla
+microvilli
+molality
+molarity
+mole
+nephridia
+nephridiopore
+nephron
+non - electrolyte
+osmoconformer
+osmoregulation
+osmoregulator
+osmotic balance
+osmotic pressure
+perirenal fat capsule
+peritubular capillary network
+proximal convoluted tubule
+renal artery
+renal capsule
+renal column
+renal corpuscle
+renal fascia
+renal pelvi
+renal pyramid
+renal tubule
+renal vein
+renin - angiotensin - aldosterone
+segmental artery
+semi - permeable membrane
+transport maximum
+tubular reabsorption
+tubular secretion
+urea cycle
+ureotelic
+ureter
+uric acid
+urinary bladder
+urine
+vasa recta
+vasodilator
+vasopressinadaptive immunity
+affinity
+allergy
+antibody
+antigen
+antigen - present cell
+autoantibody
+autoimmune response
+autoimmunity
+avidity
+b cell
+basophil
+cell - mediate immune response
+clonal selection
+complement system
+cross reactivity
+cytokine
+cytotoxic t lymphocyte
+dendritic cell
+effector cell
+eosinophil
+epitope
+granzyme
+helper t lymphocyte
+host
+humoral immune response
+hypersensitivity
+immune tolerance
+immunodeficiency
+inflammation
+innate immunity
+interferon
+lymph
+lymphocyte
+macrophage
+mhc -PRON- molecule
+mhc ii molecule
+mast cell
+memory cell
+monocyte
+mucosa - associate lymphoid tissue
+natural killer cell
+neutrophil
+opsonization
+passive immunity
+pathogen
+pathogen - associate molecular pattern
+pattern recognition receptor
+perforin
+plasma cell
+treg cell
+t cellacrosomal reaction
+asexual reproduction
+blastocyst
+bud
+bulbourethral gland
+clitoris
+cloaca
+contraception
+estrogen
+external fertilization
+fission
+follicle stimulate hormone
+fragmentation
+gastrulation
+gestation
+gonadotropin - release hormone
+hermaphroditism
+holoblastic
+human beta chorionic gonadotropin
+infertility
+inhibit
+inner cell mass
+internal fertilization
+interstitial cell of leydig
+labia majora
+labia minora
+luteiniz hormone
+menopause
+menstrual cycle
+meroblastic
+morning sickness
+neural tube
+oogenesis
+organogenesis
+ovarian cycle
+oviduct
+oviparity
+ovoviparity
+ovulation
+parthenogenesis
+penis
+placenta
+polyspermy
+progesterone
+prostate gland
+scrotum
+seman
+seminal vesicle
+seminiferous tubule
+sertoli cell
+sexual reproduction
+somite
+spermatheca
+spermatogenesis
+testis
+testosterone
+trophoblast
+uterus
+vagina
+viviparity
+zona pellucidaabiotic
+aboveground biomass
+abyssal zone
+algal bloom
+aphotic zone
+benthic realm
+biogeography
+biome
+biotic
+canopy
+channel
+clathrate
+climate
+conspecific
+coral reef
+cryptofauna
+ecology
+ecosystem service
+emergent vegetation
+endemic
+estuary
+fall and spring turnover
+global climate change
+greenhouse effect
+greenhouse gas
+haze - effect cooling
+heterospecific
+intertidal zone
+milankovitch cycle
+neritic zone
+net primary productivity
+ocean upwelling
+oceanic zone
+pelagic realm
+permafrost
+photic zone
+planktivore
+predator
+sargassum
+solar intensity
+source water
+thermocline
+weatherage structure
+aggressive display
+aposematic coloration
+batesian mimicry
+behavior
+behavioral biology
+biotic potential
+birth rate
+camouflage
+carry capacity
+classical conditioning
+climax community
+cognitive learning
+commensalism
+competitive exclusion principle
+condition behavior
+courtship display
+death rate
+demographic - base population model
+demography
+density - dependent regulation
+density - independent regulation
+distraction display
+emsleyan / mertensian mimicry
+energy budget
+environmental disturbance
+ethology
+exponential growth
+fecundity
+fix action pattern
+forage
+foundation specie
+habituation
+host
+imprint
+innate behavior
+intersexual selection
+interspecific competition
+intersexual selection
+intraspecific competition
+island biogeography
+iteroparity
+j - shape growth curve
+k - select specie
+keystone specie
+kin selection
+kinesis
+learn behavior
+life history
+life table
+logistic growth
+mark and recapture
+migration
+monogamy
+mortality rate
+mutualism
+müllerian mimicry
+one - child policy
+operant conditioning
+parasite
+pioneer specie
+polyandry
+polygyny
+population density
+population growth rate
+population size
+primary succesion
+quadratic
+r - select specie
+reflex action
+relative specie abundance
+s - shape growth curve
+secondary succesion
+semelparity
+signal
+speci dispersion pattern
+specie richness
+survivorship curve
+symbiosis
+taxi
+zero population growthacid rain
+analytical model
+apex consumer
+assimilation
+biogeochemical cycle
+biomagnification
+biomass
+chemoautotroph
+conceptual model
+dead zone
+detrital food web
+ecological pyramid
+ecosystem
+ecosystem dynamic
+equilibrium
+eutrophication
+fallout
+food chain
+food web
+graze food web
+gross primary productivity
+holistic ecosystem model
+hydrosphere
+mesocosm
+microcosm
+net consumer productivity
+net primary productivity
+net production efficiency
+non - renewable resource
+primary consumer
+primary producer
+residence time
+resilience
+resistance
+secondary consumer
+stimulation model
+subduction
+tertiary consumer
+trophic level
+trophic level transfer efficiencyadaptive radiation
+biodiversity
+biodiversity hotspot
+bush meat
+chemical diversity
+chytridiomycosis
+dna - barcoding
+ecosystem diversity
+endemic specie
+exotic specie
+extinction
+extinction rate
+genetic diversity
+heterogeneity
+megafauna
+secondary plant compound
+species - area relationship
+tragedy of the common
+white - nose syndromecell theory
+cell wall
+central vacuole
+centrosome
+chlorophyll
+chloroplast
+chromatin
+chromosome
+cilium
+cytoplasm
+cytoskeleton
+cytosol
+desmosome
+electron microscope
+endomembrane system
+endoplasmic reticulum
+er
+eukaryotic cell
+extracellular matrix
+flagellum
+gap junction
+golgi apparatus
+intermediate filament
+light microscope
+lysosome
+microfilament
+microscope
+microtubule
+mitochondrion
+nuclear envelope
+nucleoid
+nucleolus
+nucleoplasm
+nucleus
+organelle
+peroxisome
+plasma membrane
+plasmodesma
+prokaryote
+ribosome
+rough endoplasmic reticulum
+rer
+smooth endoplasmic reticulum
+ser
+tight junction
+unified cell theory
+vacuole
+vesicleactive transport
+amphiphilic
+antiporter
+aquaporin
+carrier protein
+caveolin
+channel protein
+clathrin
+concentration gradient
+diffusion
+electrochemical gradient
+electrogenic pump
+endocytosis
+exocytosis
+facilitate transport
+fluid mosaic model
+glycolipid
+glycoprotein
+hydrophilic
+hydrophobic
+hypertonic
+hypotonic
+integral protein
+isotonic
+osmolarity
+osmosis
+passive transport
+peripheral protein
+pinocytosis
+plasmolysis
+potocytosis
+primary active transport
+pump
+receptor - mediate endocytosis
+secondary active transport
+selectively permeable
+solute
+symporter
+tonicity
+transport protein
+transporter
+uniporteractivation energy
+active site
+allosteric inhibition
+anabolic
+anabolism
+atp
+bioenergetic
+catabolic
+catabolism
+chemical energy
+coenzyme
+cofactor
+competitive inhibition
+denature
+endergonic
+enthalpy
+entropy
+exergonic
+feedback inhibition
+free energy
+heat
+heat energy
+induce fit
+kinetic energy
+metabolism
+phosphoanhydride bond
+potential energy
+substrate
+thermodynamic
+transition stateacetyl coa
+aerobic respiration
+anaerobic
+anaerobic cellular respiration
+atp synthase
+chemiosmosis
+citric acid cycle
+dephosphorylation
+fermentation
+glut protein
+glycolysis
+isomerase
+krebs cycle
+citric acid cycle
+oxidative phosphorylation
+phosphorylation
+prosthetic group
+prosthetic cofactor
+pyruvate
+redox reaction
+substrate - level phosphorylation
+tca cycle
+ubiquinoneabsorption spectrum
+antenna protein
+calvin cycle
+carbon fixation
+carotenoid
+chemoautotroph
+chlorophyll a
+chlorophyll b
+chloroplast
+cytochrome complex
+electromagnetic spectrum
+electron transport chain
+granum
+heterotroph
+light harvesting complex
+light - dependent reaction
+light - independent reaction
+mesophyll
+p680
+p700
+photoact
+photoautotroph
+photon
+photosystem
+photosystem -PRON-
+photosystem ii
+pigment
+primary electron acceptor
+reaction center
+reduction
+spectrophotometer
+stoma
+stroma
+thylakoid
+thylakoid luman
+wavelengthapoptosis
+autocrine signal
+autoinducer
+cell - surface receptor
+chemical synapse
+cyclic amp
+cyclic amp - dependent kinase
+diacylglycerol
+( dag )
+dimer
+dimerization
+endocrine cell
+endocrine signal
+enzyme - link receptor
+extracellular domain
+g - protein - link receptor
+growth factor
+inhibitor
+inositol phospholipid
+inositol triphosphate
+intercellular signaling
+internal receptor
+intracellular mediator
+intracellular signaling
+ion channel - link receptor
+kinase
+ligand
+mating factor
+neurotransmitter
+paracrine signal
+phosphatase
+phosphodiesterase
+quorum sensing
+receptor
+second messenger
+signal integration
+signal transduction
+signal cell
+signal pathway
+synaptic signal
+target cell

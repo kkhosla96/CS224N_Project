@@ -106,8 +106,13 @@ class CNN(nn.Module):
 
 	def predict(self, terms):
 		probs = self.forward(terms)
-		max_probs, labels = torch.max(probs, dim=1)
-		ret = [(terms[index], max_probs[index].item(), labels[index].item()) for index in range(len(terms))]
+		ret = []
+		for index in range(len(probs)):
+			prob = probs[index].item()
+			if prob >= .5:
+				ret.append((terms[index], prob, 1))
+			else:
+				ret.append((terms[index], 1 - prob, 0))
 		return ret
 
 	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.001, momentum=.9, batch_size=32, verbose=False):
@@ -145,7 +150,7 @@ class CNN(nn.Module):
 
 			losses.append(float(running_loss))
 			
-			if verbose: print('Finished epoch %d' % (epoch + 1))
+			if verbose and epoch % 10 == 0: print('Finished epoch %d' % (epoch + 1))
 		
 		if verbose: print('Finished training')
 		return losses
