@@ -82,6 +82,8 @@ def normalize(s):
 	s = re.sub(r'([\'\"\.\(\)\!\?\-\\\/\,])', r' \1 ', s)
 	# Remove some special characters
 	s = re.sub(r'([\;\:\|•«\n])', ' ', s)
+	#squash spaces
+	s = re.sub(' +', ' ', s)
 	# Replace numbers and symbols with language
 	s = s.replace('&', ' and ')
 	s = s.replace('@', ' at ')

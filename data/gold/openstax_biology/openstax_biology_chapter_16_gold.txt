@@ -1,0 +1,42 @@
+3' UTR
+5' cap
+5' UTR
+activator
+catabolite activator protein (CAP)
+cis-acting element
+dicer
+DNA methylation
+enhancer
+epigenetic
+eukaryotic initiation factor-2 (eIF-2)
+gene expression
+guanine diphosphate (GDP)
+guanine triphosphate (GTP)
+histone acetylation
+inducible operon
+initiation complex
+lac operon
+large 60S ribosomal subunit
+microRNA
+miRNA
+myc
+negative regulator
+operator
+operon
+poly-A tail
+positive regulator
+post-transcriptional
+post-translational
+proteasome
+repressor
+RISC
+RNA stability
+RNA-binding protein (RBP)
+small 40S ribosomal subunit
+trans-acting element
+transcription factor
+transcription factor binding site
+transcriptional start site
+trp operon
+tryptophan
+untranslated region

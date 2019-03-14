@@ -1,0 +1,53 @@
+acellular
+acute disease
+asymptomatic disease
+attenuation
+AZT
+back mutation
+bacteriophage
+budding
+capsid
+capsomere
+cell necrosis
+chronic infection
+cytopathic
+envelope
+fusion
+gall
+gene therapy
+group I virus
+group II virus
+group III virus
+group IV virus
+group V virus
+group VI virus
+group VII virus
+horizontal transmission
+hyperplasia
+hypoplasia
+intermittent symptom
+latency
+lysis
+lysogenic cycle
+lytic cycle
+matrix protein
+negative polarity
+oncogenic virus
+oncolytic virus
+pathogen
+permissive
+phage therapy
+positive polarity
+prion
+productive
+prophage
+PrPc
+PrPsc
+replicative intermediate
+reverse transcriptase
+vaccine
+vertical transmission
+viral receptor
+virion
+viroid
+virus core
