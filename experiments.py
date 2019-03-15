@@ -11,9 +11,11 @@ import random
 import matplotlib.pyplot as plt
 import json
 from tqdm import tqdm
+import time
 from CotrainingPipeline import CotrainingPipeline
 from CNN import CNN
 from LSTM import LSTM
+from CNN import DeepCNN
 from WordVectorParser import WordVectorParser
 from pdb import set_trace as debug
 
@@ -142,11 +144,14 @@ def supervised_learning(args):
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
 
-	cnn = CNN(vocab, embedding_layer, gpu=args["--cuda"])
-	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=600, verbose=True)
+	cnn = DeepCNN(vocab, embedding_layer, gpu=args["--cuda"])
+	start = time.time()
+	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=50, verbose=True)
+	end = time.time()
+	print("it took %s seconds to train the data" % str(end - start))
 
-	save_file_txt = "./experiment_results/supervised_learning/predictions.txt"
-	save_file_pkl = "./experiment_results/supervised_learning/predictions.pkl"
+	save_file_txt = "./experiment_results/supervised_learning_shallow/predictions.txt"
+	save_file_pkl = "./experiment_results/supervised_learning_shallow/predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
 	if not os.path.exists(directory):
 		os.makedirs(directory)
