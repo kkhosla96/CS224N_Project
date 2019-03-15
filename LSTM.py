@@ -79,23 +79,25 @@ class LSTM(nn.Module):
 		enc_hiddens, _ = nn.utils.rnn.pad_packed_sequence(enc_hiddens, batch_first=True) # (b, src_len, h or 2h)
 		return enc_hiddens
 
-	# unfortunately, the next two methods are copied exactly from the CNN class. would be better to abstract that. however,
-	# maybe not if they two models have to be trained different.y
-	
 	def predict(self, terms):
 		probs = self.forward(terms)
-		max_probs, labels = torch.max(probs, dim=1)
-		ret = [(terms[index], max_probs[index].item(), labels[index].item()) for index in range(len(terms))]
+		ret = []
+		for index in range(len(probs)):
+			prob = probs[index].item()
+			if prob >= .5:
+				ret.append((terms[index], prob, 1))
+			else:
+				ret.append((terms[index], 1 - prob, 0))
 		return ret
 
-	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.0001, betas=(.9, .999), batch_size=32, verbose=False):
+	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.0001, batch_size=32, verbose=False):
 		self.X_train = X_train
 		self.y_train = torch.tensor(y_train, dtype=torch.float)
 		if (self.gpu):
 			self.y_train = self.y_train.cuda()
 
 		loss_function = nn.BCELoss()
-		optimizer = optim.Adam(self.parameters(), lr, betas)
+		optimizer = optim.Adam(self.parameters(), lr)
 
 		batch_starting_index = 0
 		number_examples = len(self.X_train)
@@ -107,8 +109,6 @@ class LSTM(nn.Module):
 			permu = permutation(number_examples)
 			train_examples = [self.X_train[permu[i]] for i in range(number_examples)]
 			train_labels = self.y_train[permu]
-			# train_examples = self.X_train
-			# train_labels = self.y_train
 			for iteration in range(num_iterations):
 				inputs = train_examples[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
 				labels = train_labels[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
@@ -124,9 +124,6 @@ class LSTM(nn.Module):
 				running_loss += loss.item()
 
 				batch_starting_index = (batch_starting_index + batch_size) % number_examples
-
-				# print(*self.LSTM.parameters())
-				# print(self.linear.weight)
 
 			losses.append(float(running_loss))
 			
