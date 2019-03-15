@@ -76,6 +76,8 @@ def general_experiment(unlabelled_file, seed_file, output_data_files, output_lab
 		with open(output_label_files[index], 'wb') as f:
 			pickle.dump(cotrainer.labels[index], f)
 
+	return cotrainer
+
 
 
 def various_gs_with_chapters123(args):
@@ -105,6 +107,65 @@ def various_gs_with_chapters123(args):
 		general_experiment(unlabelled_file, seed_file, output_data_files, output_label_files, models, g=g, num_iterations=200)
 
 	print("running the first_experiment")
+
+def deepcnn_fullyconnected_cotraining(args):
+	'''
+	see if we can accomplish something by using cotraining with both the fully connected and deep cnn.
+	'''
+
+	unlabelled_file = "./data/candidates/openstax_biology/openstax_biology_sentences_np.txt"
+	seed_file = "./data/seed_sets/openstax_biology_seed_set.txt"
+
+	word_vector_file = "./data/vectors/openstax_biology_vectors.vec"
+	wvp = WordVectorParser(word_vector_file)
+	vocab = wvp.get_vocab()
+	embedding_layer = wvp.get_embedding_layer()
+
+	cnn = DeepCNN(vocab, embedding_layer, gpu=args["--cuda"])
+	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
+	models = [cnn, net]
+
+	file_stem = "./experiment_results/deepcnn_fullyconnected_cotraining/"
+	output_data_files = [file_stem + "cnn/data_files/final_set.txt", file_stem + "fc/data_files/final_set.txt"]
+	output_label_files = [file_stem + "cnn/label_files/final_labels.txt", file_stem + "fc/label_files/final_labels.txt"]
+
+	if args["--cuda"]:
+		for model in models:
+			model.cuda()
+
+	cotrainer = general_experiment(unlabelled_file, seed_file, output_data_files, output_label_files, num_iterations=1)
+
+	torch.save(models[0].save_dict(), file_stem + "cnn/cnn.pt")
+	torch.save(models[1].save_dict(), file_stem + "fc/fc.pt")
+
+	cnn_labeled = cotrainer.labelled_data[0]
+	cnn_labeled = set([' '.join(term) for term in cnn_labeled])
+	net_labeled = cotrainer.labelled_data[1]
+	net_labeled = set([' '.join(term) for term in net_labeled])
+	cotraining_labeled_set = cnn_labeled + net_labeled
+
+	gold_file = "./data/gold/openstax_biology/openstax_biology_gold_lemmatized.txt"
+	seed_set = set([line.strip()[:-1].strip() for line in open(seed_file)])
+
+	positive = set([line.strip() for line in open(gold_file)])
+	negative = set([line.strip() for line in open(candidates)])
+	negative = negative - positive
+
+	negative = negative - seed_set
+	negative = negative - cotraining_labeled_set
+	positive = positive - seed_set
+	positive = positive - cotraining_labeled_set
+
+	positive_set = copy(positive)
+	negative_set = copy(negative)
+
+	negative = list(negative)
+	positive = list(positive)
+
+	print(len(negative))
+	print(len(positive))
+
+	# we are going to evaluate on the rest of the data
 
 
 def supervised_learning(args):

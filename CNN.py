@@ -167,7 +167,7 @@ class DeepCNN(nn.Module):
 		self.length_of_term = vocab.get_term_length()
 		self.word_embed_size = embedding_layer.weight.size()[1]
 		self.in_channels = self.word_embed_size
-		self.initial_out_channels = 32
+		self.initial_out_channels = 64 
 		self.embedding_layer = embedding_layer
 		self.gpu = gpu
 
@@ -175,7 +175,7 @@ class DeepCNN(nn.Module):
 		self.grams = ListModule(*grams)
 		self.max1 = nn.MaxPool2d(kernel_size=2, stride=1)
 		self.relu = nn.ReLU()
-		self.second_out_channels = 32
+		self.second_out_channels = 64
 		self.conv = nn.Conv2d(in_channels=1, out_channels=self.second_out_channels, kernel_size=2)
 		self.max2 = nn.MaxPool2d(kernel_size=2, stride=1)
 		gram_output_dimension_total = sum(range(1, self.length_of_term))
@@ -222,7 +222,7 @@ class DeepCNN(nn.Module):
 				ret.append((terms[index], 1 - prob, 0))
 		return ret
 
-	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.001, momentum=.9, batch_size=32, verbose=False):
+	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.01, momentum=.9, batch_size=32, verbose=False):
 		self.X_train = X_train
 		self.y_train = torch.tensor(y_train, dtype=torch.float)
 		if (self.gpu):
