@@ -5,7 +5,7 @@ num_positive = 30
 num_negative = 200
 
 gold_set_file = "../data/gold/openstax_biology/openstax_biology_gold_lemmatized.pkl"
-candidates_set_file = "../data/candidates/openstax_biology_openstax_biology_sentences_np.pkl"
+candidates_set_file = "../data/candidates/openstax_biology/openstax_biology_sentences_np.pkl"
 seed_set_path = "../data/seed_sets/openstax_biology_seed.txt"
 seed_set_pkl = "../data/seed_sets/openstax_biology_seed.pkl"
 

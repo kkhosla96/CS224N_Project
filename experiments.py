@@ -14,6 +14,7 @@ import matplotlib.pyplot as plt
 import json
 from tqdm import tqdm
 import time
+import torch
 from CotrainingPipeline import CotrainingPipeline
 from CNN import CNN
 from LSTM import LSTM
@@ -114,7 +115,7 @@ def deepcnn_fullyconnected_cotraining(args):
 	'''
 
 	unlabelled_file = "./data/candidates/openstax_biology/openstax_biology_sentences_np.txt"
-	seed_file = "./data/seed_sets/openstax_biology_seed_set.txt"
+	seed_file = "./data/seed_sets/openstax_biology_seed.txt"
 
 	word_vector_file = "./data/vectors/openstax_biology_vectors.vec"
 	wvp = WordVectorParser(word_vector_file)
@@ -126,29 +127,29 @@ def deepcnn_fullyconnected_cotraining(args):
 	models = [cnn, net]
 
 	file_stem = "./experiment_results/deepcnn_fullyconnected_cotraining/"
-	output_data_files = [file_stem + "cnn/data_files/final_set.txt", file_stem + "fc/data_files/final_set.txt"]
-	output_label_files = [file_stem + "cnn/label_files/final_labels.txt", file_stem + "fc/label_files/final_labels.txt"]
+	output_data_files = [file_stem + "cnn/data_files/final_set.pkl", file_stem + "fc/data_files/final_set.pkl"]
+	output_label_files = [file_stem + "cnn/label_files/final_labels.pkl", file_stem + "fc/label_files/final_labels.pkl"]
 
 	if args["--cuda"]:
 		for model in models:
 			model.cuda()
 
-	cotrainer = general_experiment(unlabelled_file, seed_file, output_data_files, output_label_files, num_iterations=1)
+	cotrainer = general_experiment(unlabelled_file, seed_file, output_data_files, output_label_files, models, num_iterations=1)
 
-	torch.save(models[0].save_dict(), file_stem + "cnn/cnn.pt")
-	torch.save(models[1].save_dict(), file_stem + "fc/fc.pt")
+	torch.save(models[0].state_dict(), file_stem + "cnn/cnn.pt")
+	torch.save(models[1].state_dict(), file_stem + "fc/fc.pt")
 
 	cnn_labeled = cotrainer.labelled_data[0]
 	cnn_labeled = set([' '.join(term) for term in cnn_labeled])
 	net_labeled = cotrainer.labelled_data[1]
 	net_labeled = set([' '.join(term) for term in net_labeled])
-	cotraining_labeled_set = cnn_labeled + net_labeled
+	cotraining_labeled_set = cnn_labeled | net_labeled
 
 	gold_file = "./data/gold/openstax_biology/openstax_biology_gold_lemmatized.txt"
 	seed_set = set([line.strip()[:-1].strip() for line in open(seed_file)])
 
 	positive = set([line.strip() for line in open(gold_file)])
-	negative = set([line.strip() for line in open(candidates)])
+	negative = set([line.strip() for line in open(unlabelled_file)])
 	negative = negative - positive
 
 	negative = negative - seed_set
@@ -162,11 +163,62 @@ def deepcnn_fullyconnected_cotraining(args):
 	negative = list(negative)
 	positive = list(positive)
 
-	print(len(negative))
-	print(len(positive))
-
 	# we are going to evaluate on the rest of the data
+	data = positive + negative
+	data = [x.split() for x in data]
+	labels = [1] * len(positive) + [0] * len(negative)
+	all_results = [models[i].predict(data) for i in range(len(models))]
+	cnn_results = all_results[0]
+	fc_results = all_results[1]
 
+	for num_model in range(len(models)):
+		results = all_results[num_model]
+		for i in range(len(results)):
+			t = results[i]
+			is_positive = ' '.join(t[0]) in positive_set
+			results[i] = (*t, 1 if is_positive else 0)
+
+	with open(file_stem + "cnn/cnn_results.txt", 'w') as f:
+		for t in cnn_results:
+			f.write(str(t) + "\n")
+	pickle.dump(cnn_results, open(file_stem + "cnn/cnn_results.pkl", 'wb'))
+
+	with open(file_stem + "fc/fc_results.txt", 'w') as f:
+		for t in fc_results:
+			f.write(str(t) + "\n")
+	pickle.dump(fc_results, open(file_stem + "fc/fc_results.pkl", 'wb'))
+
+	cotraining_results = []
+	for i in range(len(cnn_results)):
+		cnn_confidence = cnn_results[i][2]
+		fc_confidence = fc_results[i][2]
+		if cnn_confidence > fc_confidence:
+			cotraining_results.append(cnn_results[i])
+		else:
+			cotraining_results.append(fc_results[i])
+
+	classes = [t[2] for t in cotraining_results]
+	number_predicted_positive = sum(classes)
+	accuracy_count = 0
+	precision_recall_count = 0
+	for i in range(len(classes)):
+		if classes[i] == labels[i]:
+			accuracy_count += 1
+		if classes[i] == 1 and labels[i] == 1:
+			precision_recall_count += 1
+
+	accuracy = accuracy_count / len(classes)
+	precision = precision_recall_count / number_predicted_positive
+	recall = precision_recall_count / len(positive)
+
+	with open(file_stem + "cotraining_results.txt", 'w') as f:
+		for t in classes:
+			f.write(str(t) + "\n")
+	pickle.dump(cotraining_results, open(file_stem + "cotraining_results.pkl", 'wb'))
+
+	print(accuracy)
+	print(precision)
+	print(recall)
 
 def supervised_learning(args):
 	candidates = "./data/candidates/openstax_biology/openstax_biology_sentences_np.txt"
