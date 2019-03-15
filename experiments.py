@@ -8,6 +8,8 @@ from copy import copy
 import os
 import experiments
 import random
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import json
 from tqdm import tqdm
@@ -313,7 +315,7 @@ def supervised_learning_fullyconnected(args):
 
 	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=20, verbose=True)
+	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=2, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
@@ -349,5 +351,9 @@ def supervised_learning_fullyconnected(args):
 	print(accuracy)
 	print(precision)
 	print(recall)
-	plt.plot(losses)
-	plt.show()
+	save_plot = "./experiment_results/supervised_learning_fullyconnected/training_loss.png"
+	fig, ax  = plt.subplots(nrows=1, ncols=1)
+	ax.plot(losses)
+	fig.savefig(save_plot)
+	# plt.plot()
+	# plt.show()

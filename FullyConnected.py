@@ -36,6 +36,9 @@ class FullyConnected(nn.Module):
 		self.model.add_module("linear3", nn.Linear(third_layer_neurons, fourth_layer_neurons))
 		self.model.add_module("linear4", nn.Linear(fourth_layer_neurons, 1))
 		self.model.add_module("sigmoid", nn.Sigmoid())
+		if self.gpu:
+			self.embedding_layer.cuda()
+			self.model.cuda()
 
 	def forward(self, terms):
 		indices = self.vocab.to_input_tensor(terms)
