@@ -181,6 +181,14 @@ class DeepCNN(nn.Module):
 		gram_output_dimension_total = sum(range(1, self.length_of_term))
 		self.linear = nn.Linear((gram_output_dimension_total - 3) * (self.initial_out_channels - 3) * self.second_out_channels, 1)
 		self.dropout = nn.Dropout(p=.5)
+		if self.gpu:
+			self.grams.cuda()
+			self.max1.cuda()
+			self.relu.cuda()
+			self.conv.cuda()
+			self.max2.cuda()
+			self.linear.cuda()
+			self.dropout.cuda()
 
 	def forward(self, terms):
 		indices = self.vocab.to_input_tensor(terms)

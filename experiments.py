@@ -8,6 +8,8 @@ from copy import copy
 import os
 import experiments
 import random
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import json
 from tqdm import tqdm
@@ -16,6 +18,7 @@ from CotrainingPipeline import CotrainingPipeline
 from CNN import CNN
 from LSTM import LSTM
 from CNN import DeepCNN
+from FullyConnected import FullyConnected
 from WordVectorParser import WordVectorParser
 from pdb import set_trace as debug
 
@@ -270,4 +273,89 @@ def supervised_learning_lstm(args):
 	plt.plot(losses)
 	plt.show()
 
+def supervised_learning_fullyconnected(args):
+	candidates = "./data/candidates/openstax_biology/openstax_biology_sentences_np.txt"
+	gold_file = "./data/gold/openstax_biology/openstax_biology_gold_lemmatized.txt"
 
+	negative = set([line.strip() for line in open(candidates)])
+	positive = set([line.strip() for line in open(gold_file)])
+	negative = negative - positive
+
+	positive_set = copy(positive)
+	negative_set = copy(negative)
+
+	negative = list(negative)
+	positive = list(positive)
+
+	number_positive_in_train = int(.9 * len(positive))
+	number_positive_in_test = len(positive) - number_positive_in_train
+	positive_train = positive[:number_positive_in_train]
+	positive_test = positive[number_positive_in_train:]
+
+	number_negative_in_train = int(.9 * len(negative))
+	number_negative_in_test = len(negative) - number_negative_in_train
+	negative_train = negative[:number_negative_in_train]
+	negative_test = negative[number_negative_in_train : number_negative_in_train + number_negative_in_test]
+
+	positive_train = [x.split() for x in positive_train]
+	positive_test = [x.split() for x in positive_test]
+	negative_train = [x.split() for x in negative_train]
+	negative_test = [x.split() for x in negative_test]
+
+	X_train = positive_train + negative_train
+	y_train = [1] * number_positive_in_train + [0] * number_negative_in_train
+
+	X_test = positive_test + negative_test
+	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
+
+	word_vector_file = "./data/vectors/openstax_biology_vectors.vec"
+	wvp = WordVectorParser(word_vector_file)
+	vocab = wvp.get_vocab()
+	embedding_layer = wvp.get_embedding_layer()
+
+	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
+	start = time.time()
+	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=250, verbose=True)
+	end = time.time()
+	print("it took %s seconds to train the data" % str(end - start))
+
+	save_file_txt = "./experiment_results/supervised_learning_fullyconnected/predictions.txt"
+	save_file_pkl = "./experiment_results/supervised_learning_fullyconnected/predictions.pkl"
+	directory = os.path.dirname(save_file_txt)
+	if not os.path.exists(directory):
+		os.makedirs(directory)
+
+	results = net.predict(X_test)
+	for i in range(len(results)):
+		is_positive = ' '.join(results[i][0]) in positive_set
+		t = results[i]
+		results[i] = (*t, 1 if is_positive else 0)
+	with open(save_file_txt, 'w') as f:
+		for t in results:
+			f.write(str(t) + "\n")
+	pickle.dump(results, open(save_file_pkl, 'wb'))
+
+
+	classes = [t[2] for t in results]
+	number_predicted_positive = sum(classes)
+	accuracy_count = 0
+	precision_recall_count = 0
+	for i in range(len(classes)):
+		if classes[i] == y_test[i]:
+			accuracy_count += 1
+		if classes[i] == 1 and y_test[i] == 1:
+			precision_recall_count += 1
+	accuracy = accuracy_count / len(classes)
+	precision = precision_recall_count / number_predicted_positive
+	recall = precision_recall_count / number_positive_in_test
+	print(accuracy)
+	print(precision)
+	print(recall)
+	save_plot = "./experiment_results/supervised_learning_fullyconnected/training_loss.png"
+	if os.path.isfile(save_plot):
+		os.remove(save_plot)
+	fig, ax  = plt.subplots(nrows=1, ncols=1)
+	ax.plot(losses)
+	fig.savefig(save_plot)
+	# plt.plot()
+	# plt.show()
