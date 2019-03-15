@@ -315,7 +315,7 @@ def supervised_learning_fullyconnected(args):
 
 	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=100, verbose=True)
+	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=250, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
