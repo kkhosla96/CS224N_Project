@@ -352,6 +352,8 @@ def supervised_learning_fullyconnected(args):
 	print(precision)
 	print(recall)
 	save_plot = "./experiment_results/supervised_learning_fullyconnected/training_loss.png"
+	if os.path.isfile(save_plot):
+		os.remove(save_plot)
 	fig, ax  = plt.subplots(nrows=1, ncols=1)
 	ax.plot(losses)
 	fig.savefig(save_plot)
