@@ -16,7 +16,6 @@ GOLD_FOLDER = "../data/gold"
 def get_sentences(chapter_doc):
 	sentences = []
 	for sent in chapter_doc.sents:
-
 		new_sent = " ".join(clean_tokens_gen(sent))
 		sentences.append(new_sent)
 	return sentences
