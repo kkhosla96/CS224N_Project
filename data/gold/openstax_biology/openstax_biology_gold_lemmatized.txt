@@ -738,7 +738,7 @@ trypsin
 villi
 vitaminacetylcholine
 action potentia
-alzheimer ’s disease
+alzheimer 's disease
 amygdala
 arachnoid mater
 astrocyte
@@ -794,7 +794,7 @@ occipital lobe
 oligodendrocyte
 parasympathetic nervous system
 parietal lobe
-parkinson ’s disease
+parkinson 's disease
 pia mater
 proprioception
 radial glia
@@ -839,7 +839,7 @@ labyrinth
 len
 malleus
 mechanoreceptor
-meissner ’s corpuscle
+meissner 's corpuscle
 merkel 's disc
 middle ear
 muscle spindle
@@ -885,7 +885,7 @@ ultrasound
 umami
 vestibular sense
 visionacromegaly
-addison ’s disease
+addison 's disease
 adenylate cyclase
 adrenal cortex
 adrenal gland
@@ -903,7 +903,7 @@ calcitonin
 colloid
 corticosteroid
 cortisol
-cushing ’s disease
+cushing 's disease
 diabetes insipidu
 diabetes mellitus
 diabetogenic effect
