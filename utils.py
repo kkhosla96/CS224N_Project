@@ -97,6 +97,9 @@ def normalize(s):
 	s = s.replace('7', ' seven ')
 	s = s.replace('8', ' eight ')
 	s = s.replace('9', ' nine ')
+
+	# fix the differing apostophes form textbook
+	s = s.replace("’", "'")
 	return s
 	
 
