@@ -255,19 +255,20 @@ def supervised_learning(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_biology_vectors.vec"
-	wvp = WordVectorParser(word_vector_file)
+	word_vector_file = "./data/vectors/bert_vectors.vec"
+	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
 
 	cnn = DeepCNN(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=50, verbose=True)
+	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=2, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	save_file_txt = "./experiment_results/supervised_learning_deep/predictions.txt"
-	save_file_pkl = "./experiment_results/supervised_learning_deep/predictions.pkl"
+	file_stem = "./experiment_results/supervised_learning_deep_bert/"
+	save_file_txt = file_stem + "predictions.txt" 
+	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
 	if not os.path.exists(directory):
 		os.makedirs(directory)
@@ -292,14 +293,24 @@ def supervised_learning(args):
 			accuracy_count += 1
 		if classes[i] == 1 and y_test[i] == 1:
 			precision_recall_count += 1
+
 	accuracy = accuracy_count / len(classes)
 	precision = precision_recall_count / number_predicted_positive
 	recall = precision_recall_count / number_positive_in_test
+
 	print(accuracy)
 	print(precision)
 	print(recall)
-	plt.plot(losses)
-	plt.show()
+
+	save_plot = file_stem + "training_loss.png"
+	if os.path.isfile(save_plot):
+		os.remove(save_plot)
+	fig, ax  = plt.subplots(nrows=1, ncols=1)
+	ax.plot(losses)
+	fig.savefig(save_plot)
+
+	# plt.plot(losses)
+	# plt.show()
 
 def supervised_learning_lstm(args):
 	candidates = "./data/candidates/openstax_biology/openstax_biology_sentences_np.txt"
