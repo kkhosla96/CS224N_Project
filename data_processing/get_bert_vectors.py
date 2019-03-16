@@ -21,7 +21,7 @@ def get_pickle_data(pickle_file_path):
 	pickle_data = None
 	with open(pickle_file_path, 'rb') as file:
 		pickle_data = pickle.load(file)
-	return type(pickle_data)(filter(lambda x : len(x), pickle_data))
+	return type(pickle_data)(filter(lambda x : len(x) > 0, pickle_data))
 
 def filter_sentences(sentences, all_terms):
 	keep_indices = []
