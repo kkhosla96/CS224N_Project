@@ -221,8 +221,8 @@ def deepcnn_fullyconnected_cotraining(args):
 	print(recall)
 
 def supervised_learning(args):
-	candidates = "./data/candidates/openstax_biology/openstax_biology_sentences_np.txt"
-	gold_file = "./data/gold/openstax_biology/openstax_biology_gold_lemmatized.txt"
+	candidates = "./data/candidates/openstax_biology/all_candidates_preprocessed.txt"
+	gold_file = "./data/gold/openstax_biology/all_golds_preprocessed.txt"
 
 	negative = set([line.strip() for line in open(candidates)])
 	positive = set([line.strip() for line in open(gold_file)])
@@ -255,7 +255,7 @@ def supervised_learning(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/bert_vectors.vec"
+	word_vector_file = "./data/vectors/openstax_biology/bertvectors.vec"
 	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
