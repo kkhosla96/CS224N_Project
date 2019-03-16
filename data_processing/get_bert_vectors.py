@@ -8,6 +8,7 @@ SENTENCES_FOLDER = "../data/textbook_sentences"
 CANDIDATES_FOLDER = "../data/candidates"
 GOLD_FOLDER = "../data/gold"
 VECTORS_FOLDER = "../data/vectors"
+BATCH_SIZE = 256
 
 def get_sentences(sentence_file_path):
 	sentences = None
@@ -41,17 +42,19 @@ def write_vectors(sentences, unigrams, vector_file_path):
 	vector_file = open(vector_file_path, 'w')
 	bc = BertClient()
 	found_unigrams = set()
-	vectors = bc.encode(sentences, is_tokenized=True)
-	print("Finished vectorizing sentences!")
-	for sentence_num, sentence in enumerate(sentences):
-		for i, word in enumerate(sentence):
-			if word in unigrams and word not in found_unigrams:
-				found_unigrams.add(word)
-				word_vector = vectors[sentence_num][i]
-				string_vector = " ".join(map(str, word_vector))
-				vector_file.write(word + ' ' + string_vector + '\n')
-		if sentence_num % 50 == 0:
-			print("Finished writing vectors through sentence number %d" % sentence_num)
+	i = 0
+	while i < len(sentences):
+		sentence_batch = sentences[i:i + BATCH_SIZE]
+		vectors = bc.encode(sentence_batch, is_tokenized=True)                
+		for sentence_num, sentence in enumerate(sentence_batch):
+			for word_index, word in enumerate(sentence):
+				if word in unigrams and word not in found_unigrams:
+					found_unigrams.add(word)
+					word_vector = vectors[sentence_num][word_index]
+					string_vector = " ".join(map(str, word_vector))
+					vector_file.write(word + ' ' + string_vector + '\n')
+		print("Finished writing vectors through sentence number %d" % (i + BATCH_SIZE))
+		i += BATCH_SIZE
 	vector_file.close()
 
 def get_unigrams(all_terms):
