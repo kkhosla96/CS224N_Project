@@ -69,6 +69,13 @@ def text_to_pickle(text_file, pickle_file):
 	with open(pickle_file, "wb") as f:
 		pickle.dump(output_set, f)
 
+def clean_tokens_gen(tokens):
+	for token in tokens:
+		if token.text.lower().strip() == "i":
+			yield token.text.lower().strip()
+		else:
+			yield normalize(token.lemma_).strip()
+
 # the following function is from
 # https://www.kaggle.com/mschumacher/using-fasttext-models-for-robust-embeddings
 def normalize(s):
