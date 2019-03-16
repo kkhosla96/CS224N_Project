@@ -23,21 +23,6 @@ def get_pickle_data(pickle_file_path):
 		pickle_data = pickle.load(file)
 	return type(pickle_data)(filter(lambda x : len(x) > 0, pickle_data))
 
-def filter_sentences(sentences, all_terms):
-	keep_indices = []
-	for i, sentence in enumerate(sentences):
-		remove_terms = set()
-		keep = False
-		for term in all_terms:
-			if term in sentence:
-				if not keep:
-					keep_indices.append(i)
-					keep = True
-				remove_terms.add(term)
-		for term in remove_terms:
-			all_terms.remove(term)
-	return [sentences[i] for i in keep_indices]
-
 def write_vectors(sentences, unigrams, vector_file_path):
 	vector_file = open(vector_file_path, 'w')
 	bc = BertClient()
@@ -77,7 +62,6 @@ def main(sentence_file, candidates_file, gold_file, vector_file):
 	
 	all_terms = gold | candidates
 	unigrams = get_unigrams(all_terms)
-	#sentences = filter_sentences(sentences, all_terms.copy())
 	
 	vector_file_path = os.path.join(VECTORS_FOLDER, vector_file)
 	write_vectors(sentences, unigrams, vector_file_path)
