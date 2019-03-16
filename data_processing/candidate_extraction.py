@@ -1,4 +1,3 @@
-from nltk import RegexpParser, word_tokenize, pos_tag, ngrams
 import pickle
 import sys
 import os
@@ -13,7 +12,9 @@ if ".." not in sys.path:
 	sys.path.append("..")
 import utils
 import io
-from utils import normalize
+from utils import normalize, clean_tokens_gen
+
+import pdb
 
 DATA_FOLDER = "../data/textbook_sentences"
 CANDIDATES_FOLDER = "../data/candidates"
@@ -22,10 +23,9 @@ CANDIDATES_FOLDER = "../data/candidates"
 NGRAM_LENGTHS = [1, 2, 3, 4, 5]
 STOP_WORDS = pickle.load(open("stopwords.pkl", 'rb'))
 
-def noun_phrase_chunk(text_file_name, output_pickle_name, output_file_name):
-	candidates = set()
-	nlp = spacy.load('en')
-	matcher = Matcher(nlp.vocab)
+def init_matcher(vocab, candidates):
+	matcher = Matcher(vocab)
+
 	pattern = [{'POS': 'ADJ', 'OP': '*'}, {'POS': 'NOUN', 'OP': '+'}]
 	matcher.add('candidate', None, pattern)
 	pattern = [{'POS': 'ADJ', 'OP': '*'}, {'POS': 'PROPN', 'OP': '+'},{'POS': 'PART', 'OP': '?'},{'POS': 'PROPN', 'OP': '*'}]
@@ -58,28 +58,21 @@ def noun_phrase_chunk(text_file_name, output_pickle_name, output_file_name):
 	matcher.add('candidate13', None, pattern)
 	pattern = [{'POS': 'NOUN'}, {'ORTH': '-'}, {'POS':'NOUN'}]
 	matcher.add('candidate14', None, pattern)
-	doc_text = io.open(text_file_name, "r", encoding='utf-8').read().replace('\n', ' ')
-	doc = nlp(doc_text)
+
+	return matcher
+
+def noun_phrase_chunk(doc, vocab):
+	candidates = set()
+	matcher = init_matcher(vocab, candidates)
 
 	matches = matcher(doc)
-	for match_id, start, end in matches:
-		span = doc[start:end]
-		candidates.add(span.text)
+	for _, start, end in matches:
+		candidate = clean_tokens_gen(doc[start:end])
+		if "- pron -" not in clean_tokens_gen(doc[start:end]):
+			candidates.add(" ".join(candidate))
 
-	new_candidates = set()
-	for candidate in candidates:
-		cand_doc = nlp(candidate)
-		new_cand = " ".join([normalize(word.lemma_).strip() for word in cand_doc])
-		if "- pron -" not in new_cand:
-			new_candidates.add(new_cand)
+	return candidates
 
-
-
-	with open(output_file_name, 'w') as f:
-		for candidate in new_candidates:
-			f.write(candidate + "\n")
-	with open(output_pickle_name, 'wb') as handle:
-		pickle.dump(new_candidates, handle)
 
 def should_add(ngram):
 	for gram in ngram:
