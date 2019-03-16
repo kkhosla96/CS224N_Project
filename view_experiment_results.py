@@ -1,7 +1,7 @@
 import pickle
 
 predictions_file_stem = "./experiment_results/%s"
-file_ender = "supervised_learning_fullyconnected/predictions.pkl"
+file_ender = "supervised_learning_deep/predictions.pkl"
 
 results = pickle.load(open(predictions_file_stem % file_ender, "rb"))
 
@@ -24,6 +24,7 @@ accuracy = accuracy_count / len(classes)
 precision = precision_recall_count / number_predicted_positive
 recall = precision_recall_count / number_positive_in_test
 
+print(number_predicted_positive)
 print(accuracy)
 print(precision)
 print(recall)

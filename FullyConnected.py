@@ -61,7 +61,7 @@ class FullyConnected(nn.Module):
 				ret.append((terms[index], 1 - prob, 0))
 		return ret
 
-	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.001, momentum=.9, batch_size=32, verbose=False):
+	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.01, momentum=.9, batch_size=32, verbose=False):
 		self.X_train = X_train
 		self.y_train = torch.tensor(y_train, dtype=torch.float)
 		if (self.gpu):
