@@ -189,6 +189,7 @@ class DeepCNN(nn.Module):
 			self.max2.cuda()
 			self.linear.cuda()
 			self.dropout.cuda()
+			self.embedding_layer.cuda()
 
 	def forward(self, terms):
 		indices = self.vocab.to_input_tensor(terms)
