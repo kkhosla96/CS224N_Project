@@ -398,8 +398,8 @@ def supervised_learning_lstm(args):
 	plt.show()
 
 def supervised_learning_fullyconnected(args):
-	candidates = "./data/candidates/openstax_biology/openstax_biology_sentences_np.txt"
-	gold_file = "./data/gold/openstax_biology/openstax_biology_gold_lemmatized.txt"
+	candidates = "./data/candidates/openstax_biology/all_candidates_preprocessed.txt"
+	gold_file = "./data/gold/openstax_biology/all_golds_preprocessed.txt"
 
 	negative = set([line.strip() for line in open(candidates)])
 	positive = set([line.strip() for line in open(gold_file)])
@@ -432,19 +432,19 @@ def supervised_learning_fullyconnected(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_biology_vectors.vec"
-	wvp = WordVectorParser(word_vector_file)
+	word_vector_file = "./data/vectors/openstax_biology/bertvectors.vec"
+	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
 
 	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=250, verbose=True)
+	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=5, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	save_file_txt = "./experiment_results/supervised_learning_fullyconnected/predictions.txt"
-	save_file_pkl = "./experiment_results/supervised_learning_fullyconnected/predictions.pkl"
+	save_file_txt = "./experiment_results/supervised_learning_fullyconnected_bert/predictions.txt"
+	save_file_pkl = "./experiment_results/supervised_learning_fullyconnected_bert/predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
 	if not os.path.exists(directory):
 		os.makedirs(directory)
@@ -475,7 +475,7 @@ def supervised_learning_fullyconnected(args):
 	print(accuracy)
 	print(precision)
 	print(recall)
-	save_plot = "./experiment_results/supervised_learning_fullyconnected/training_loss.png"
+	save_plot = "./experiment_results/supervised_learning_fullyconnected_bert/training_loss.png"
 	if os.path.isfile(save_plot):
 		os.remove(save_plot)
 	fig, ax  = plt.subplots(nrows=1, ncols=1)
