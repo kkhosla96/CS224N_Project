@@ -62,7 +62,7 @@ def filter_predicted_false_positives(model_dict):
 	return num_acceptable
 
 baseline_predictions_file = "./baseline_results/final_predictions.pkl"
-model_predicitons_file = "./experiment_results/supervised_learning_deep/predictions.pkl"
+model_predicitons_file = "./experiment_results/supervised_learning_shallow/predictions.pkl"
 
 baseline_pred_dict = build_predictions_dict(baseline_predictions_file)
 model_pred_dict = build_predictions_dict(model_predicitons_file)
