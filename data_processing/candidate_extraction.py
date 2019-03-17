@@ -61,15 +61,27 @@ def init_matcher(vocab, candidates):
 
 	return matcher
 
+def is_valid(start, end, doc):
+	for token in doc[start + 1:end]:
+		if token.is_sent_start:
+			return False
+	return True
+
 def noun_phrase_chunk(doc, vocab):
 	candidates = set()
 	matcher = init_matcher(vocab, candidates)
 
 	matches = matcher(doc)
 	for _, start, end in matches:
+		if not is_valid(start, end, doc):
+			continue
+		if "- pron -" in clean_tokens_gen(doc[start:end]):
+			continue
+		
 		candidate = clean_tokens_gen(doc[start:end])
-		if "- pron -" not in clean_tokens_gen(doc[start:end]):
-			candidates.add(" ".join(candidate))
+		candidate_string = " ".join(candidate).strip()
+		if len(candidate_string) > 0:
+			candidates.add(candidate_string)
 
 	return candidates
 
