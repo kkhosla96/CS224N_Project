@@ -156,3 +156,113 @@ class CNN(nn.Module):
 		return losses
 
 
+class DeepCNN(nn.Module):
+	"""
+	A CNN that is deeper than the last. Will allow more expressive power.
+	"""
+
+	def __init__(self, vocab, embedding_layer, gpu=False):
+		super(DeepCNN, self).__init__()
+		self.vocab = vocab
+		self.length_of_term = vocab.get_term_length()
+		self.word_embed_size = embedding_layer.weight.size()[1]
+		self.in_channels = self.word_embed_size
+		self.initial_out_channels = 64 
+		self.embedding_layer = embedding_layer
+		self.gpu = gpu
+
+		grams = [nn.Conv1d(self.in_channels, self.initial_out_channels, kernel_size) for kernel_size in range(2, self.length_of_term + 1)]
+		self.grams = ListModule(*grams)
+		self.max1 = nn.MaxPool2d(kernel_size=2, stride=1)
+		self.relu = nn.ReLU()
+		self.second_out_channels = 64
+		self.conv = nn.Conv2d(in_channels=1, out_channels=self.second_out_channels, kernel_size=2)
+		self.max2 = nn.MaxPool2d(kernel_size=2, stride=1)
+		gram_output_dimension_total = sum(range(1, self.length_of_term))
+		self.linear = nn.Linear((gram_output_dimension_total - 3) * (self.initial_out_channels - 3) * self.second_out_channels, 1)
+		self.dropout = nn.Dropout(p=.5)
+		if self.gpu:
+			self.grams.cuda()
+			self.max1.cuda()
+			self.relu.cuda()
+			self.conv.cuda()
+			self.max2.cuda()
+			self.linear.cuda()
+			self.dropout.cuda()
+
+	def forward(self, terms):
+		indices = self.vocab.to_input_tensor(terms)
+		if self.gpu:
+			indices = indices.cuda()
+		embeddings = self.embedding_layer(indices)
+		embeddings = torch.transpose(embeddings, 1, 2)
+		feature_maps = [self.grams[idx].forward(embeddings) for idx in range(len(self.grams))]
+		cat = torch.cat(feature_maps, dim=2)
+		cat = torch.transpose(cat, 1, 2)
+		maxd = self.max1(cat)
+		relud = self.relu(maxd)
+		unsqueezed = torch.unsqueeze(relud, dim=1)
+		convd = self.conv(unsqueezed)
+		maxd2 = self.max2(convd)
+		flat = maxd2.view(maxd2.size()[0], -1)
+		dropped = self.dropout(flat)
+		scores = self.linear(dropped)
+		scores = scores.squeeze(dim=1)
+		probs = torch.sigmoid(scores) 
+		return probs
+
+	def predict(self, terms):
+		probs = self.forward(terms)
+		ret = []
+		for index in range(len(probs)):
+			prob = probs[index].item()
+			if prob >= .5:
+				ret.append((terms[index], prob, 1))
+			else:
+				ret.append((terms[index], 1 - prob, 0))
+		return ret
+
+	def train_on_data(self, X_train, y_train, num_epochs=20, lr=.01, momentum=.9, batch_size=32, verbose=False):
+		self.X_train = X_train
+		self.y_train = torch.tensor(y_train, dtype=torch.float)
+		if (self.gpu):
+			self.y_train = self.y_train.cuda()
+
+		loss_function = nn.BCELoss()
+		optimizer = optim.SGD(self.parameters(), lr, momentum, weight_decay=1e-3)
+
+		batch_starting_index = 0
+		number_examples = len(self.X_train)
+		num_iterations = math.ceil(number_examples / batch_size)
+		losses = []
+		for epoch in range(num_epochs):
+			running_loss = 0.0
+			batch_starting_index = 0
+			permu = permutation(number_examples)
+			self.X_train = [self.X_train[permu[i]] for i in range(number_examples)]
+			self.y_train = self.y_train[permu]
+			for iteration in range(num_iterations):
+				inputs = self.X_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
+				labels = self.y_train[batch_starting_index : min(number_examples, batch_starting_index + batch_size)]
+
+				optimizer.zero_grad()
+
+				outputs = self.forward(inputs)
+				loss = loss_function(outputs, labels)
+				loss.backward()
+				optimizer.step()
+				running_loss += loss.item()
+
+				batch_starting_index = (batch_starting_index + batch_size) % number_examples
+
+			losses.append(float(running_loss))
+			
+			if verbose and epoch % 10 == 0: print('Finished epoch %d' % (epoch + 1))
+		
+		if verbose: print('Finished training')
+		return losses
+
+
+
+
+

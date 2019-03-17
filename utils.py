@@ -69,6 +69,13 @@ def text_to_pickle(text_file, pickle_file):
 	with open(pickle_file, "wb") as f:
 		pickle.dump(output_set, f)
 
+def clean_tokens_gen(tokens):
+	for token in tokens:
+		if token.text.lower().strip() == "i":
+			yield token.text.lower().strip()
+		else:
+			yield normalize(token.lemma_).strip()
+
 # the following function is from
 # https://www.kaggle.com/mschumacher/using-fasttext-models-for-robust-embeddings
 def normalize(s):
@@ -97,6 +104,9 @@ def normalize(s):
 	s = s.replace('7', ' seven ')
 	s = s.replace('8', ' eight ')
 	s = s.replace('9', ' nine ')
+
+	# fix the differing apostophes form textbook
+	s = s.replace("’", "'")
 	return s
 	
 
