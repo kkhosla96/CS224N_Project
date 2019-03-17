@@ -137,6 +137,19 @@ def normalize(s):
 	# fix differing hyphens
 	s = s.replace('—', '-')
 	return s.strip()
+
+def yes_or_no(question):
+    answer = input(question + " (y/n): ").lower().strip()
+    print("")
+    while not(answer == "y" or answer == "yes" or \
+    answer == "n" or answer == "no"):
+        print("Please input either yes or no (y/n).")
+        answer = input(question + "(y/n):").lower().strip()
+        print("")
+    if answer[:1] == "y":
+        return True
+    else:
+        return False
 	
 
 
