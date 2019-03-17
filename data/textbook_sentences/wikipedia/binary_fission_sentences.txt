@@ -1,0 +1,86 @@
+Fission, in biology, is the division of a single entity into two or more parts and the regeneration of those parts to separate entities resembling the original. The object experiencing fission is usually a cell, but the term may also refer to how organisms, bodies, populations, or species split into discrete parts. The fission may be binary fission, in which a single entity produces two parts, or multiple fission, in which a single entity produces multiple parts.
+
+
+== Binary fission ==
+
+Organisms in the domains of Archaea and Bacteria reproduce with binary fission. This form of asexual reproduction and cell division is also used by some organelles within eukaryotic organisms (e.g., mitochondria). Binary fission results in the reproduction of a living prokaryotic cell (or organelle) by dividing the cell into two parts, each with the potential to grow to the size of the original.
+
+
+=== Fission of prokaryotes ===
+The single DNA molecule first replicates, then attaches each copy to a different part of the cell membrane. When the cell begins to pull apart, the replicated and original chromosomes are separated. The consequence of this asexual method of reproduction is that all the cells are genetically identical, meaning that they have the same genetic material (barring random mutations). Unlike the processes of mitosis and meiosis used by eukaryotic cells, binary fission takes place without the formation of a spindle apparatus on the cell. Like in mitosis (and unlike in meiosis), the parental identity is preserved.
+
+
+==== Process of bacterial fission ====
+
+The process of binary fission in bacteria involves the following steps. First, the cell's DNA is replicated. The replicated DNA copies then move to opposite poles of the cell in an energy-dependent process. The cell lengthens. Then, the equatorial plane of the cell constricts and separates the plasma membrane such that each new cell has exactly the same genetic material.
+More specifically, the following steps occur:
+
+The bacterium before binary fission is when the DNA is tightly coiled.
+The DNA of the bacterium has uncoiled and duplicated.
+The DNA is pulled to the separate poles of the bacterium as it increases the size to prepare for splitting.
+The growth of a new cell wall begins to separate the bacterium.
+The new cell wall fully develops, resulting in the complete split of the bacterium.
+The new daughter cells have tightly coiled DNA rods, ribosomes, and plasmids; these are now brand-new organisms.
+
+
+==== Speed of bacterial fission ====
+Binary fission is generally rapid though its speed varies between species. For E. coli, cells typically divide about every 20 minutes at 37 °C. Because the new cells will, in turn, undergo binary fission on their own, the time binary fission requires is also the time the bacterial culture requires to double in the number of cells it contains. This time period can, therefore, be referred to as the doubling time. Some species other than E. coli may have faster or slower doubling times: some strains of Mycobacterium tuberculosis may have doubling times of nearly 100 hours. Bacterial growth is limited by factors including nutrient availability and available space, so binary fission occurs at much lower rates in bacterial cultures once they enter the stationary phase of growth.
+
+
+=== Fission of organelles ===
+Some organelles in eukaryotic cells reproduce using binary fission. Mitochondrial fission occurs frequently within the cell, even when the cell is not actively undergoing mitosis, and is necessary to regulate the cell's metabolism.
+
+
+=== Types of binary fission ===
+Binary fission in organisms can occur in four ways, irregular,longitudinal, transverse, oblique.
+
+Irregular: In this fission, cytokinesis may take place along any plane but it is always perpendicular to the plane of karyokinesis. e.g. amoeba
+Longitudinal: Here cytokinesis takes place along the longitudinal axis. e.g. in flagellates like Euglena.
+Transverse: Here cytokinesis takes place along the transverse axis. e.g. in ciliate protozoans like Paramecium.
+Oblique: In this type of binary fission cytokinesis occurs obliquely. e.g. Ceratium
+
+
+== Multiple fission ==
+
+
+=== Fission of protists ===
+Multiple fission at the cellular level occurs in many protists, e.g. sporozoans and algae. The nucleus of the parent cell divides several times by amitosis, producing several nuclei. The cytoplasm then separates, creating multiple daughter cells.Some parasitic, single-celled organisms undergo a multiple fission-like process to produce numerous daughter cells from a single parent cell. Isolates of the human parasite Blastocystis hominis were observed to begin such a process within 4 to 6 days. Cells of the fish parasite Trypanoplasma borreli have also been observed participating in both binary and multiple fission.
+
+
+==== Fission of apicomplexans ====
+In the apicomplexans, a phylum of parasitic protists, multiple fission, or schizogony, is manifested either as merogony, sporogony or gametogony. Merogony results in merozoites, which are multiple daughter cells, that originate within the same cell membrane, sporogony results in sporozoites, and gametogony results in microgametes.
+
+
+==== Fission of green algae ====
+Green algae can divide into more than two daughter cells. The exact number of daughter cells depends on the species of algae and is an effect of temperature and light.
+
+
+=== Multiple fission of bacteria ===
+Most species of bacteria primarily undergo binary reproduction. Some species and groups of bacteria may undergo multiple fission as well, sometimes beginning or ending with the production of spores. The species Metabacterium polyspora, a symbiont of guinea pigs, has been found to produce multiple endospores in each division. Some species of cyanobacteria have also been found to reproduce through multiple fission.
+
+
+== Plasmotomy ==
+Some protozoans reproduce by yet another mechanism of fission called as plasmotomy. In this type of fission, a multinucleate adult parent undergoes cytokinesis to form two multinucleate (or coenocytic) daughter cells. The daughter cells so produced undergo karyokinesis, further.
+Opalina and pelomyxa reproduce in this way.
+
+
+== Clonal fragmentation ==
+
+Fragmentation in multicellular or colonial organisms is a form of asexual reproduction or cloning where an organism is split into fragments. Each of these fragments develop into mature, fully grown individuals that are clones of the original organism. In echinoderms, this method of reproduction is usually known as fissiparity.
+
+
+== Population fission ==
+Any splitting of a single population of individuals into discrete parts may be considered fission. A population may undergo fission for a variety of reasons, including migration or geographic isolation. Because the fission leads to genetic variance in the newly isolated, smaller populations, population fission is a precursor to speciation.
+
+
+== See also ==
+Cytokinesis, cell division in eukaryotes
+Divisome, protein complex that initiates cell division in bacteria
+Fission-fusion society, a type of social organization that is notable among primates
+Mitochondrial fusion, a reverse fission
+Mitosis
+Paratomy
+Speciation
+
+
+== References ==

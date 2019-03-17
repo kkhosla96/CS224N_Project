@@ -1,0 +1,849 @@
+Exponential growth is exhibited when the rate of change—the change per instant or unit of time—of the value of a mathematical function of time is proportional to the function's current value, resulting in its value at any time being an exponential function of time, i.e., a function in which the time value is the exponent.
+Exponential decay occurs in the same way when the growth rate is negative.  In the case of a discrete domain of definition with equal intervals, it is also called geometric growth or geometric decay, the function values forming a geometric progression.  In either exponential growth or exponential decay, the ratio of the rate of change of the quantity to its current size remains constant over time.
+The formula for exponential growth of a variable x at the growth rate r, as time t goes on in discrete intervals (that is, at integer times 0, 1, 2, 3, ...), is
+
+  
+    
+      
+        
+          x
+          
+            t
+          
+        
+        =
+        
+          x
+          
+            0
+          
+        
+        (
+        1
+        +
+        r
+        
+          )
+          
+            t
+          
+        
+      
+    
+    {\displaystyle x_{t}=x_{0}(1+r)^{t}}
+  where x0 is the value of x at time 0. This formula is transparent when the exponents are converted to multiplication.  For instance, with a starting value of 50 and a growth rate of r = 5% = 0.05 per interval, the passage of one interval would give 50 × 1.051 = 50 × 1.05; two intervals would give 50 × 1.052 = 50 × 1.05 × 1.05; and three intervals would give 50 × 1.053 = 50 × 1.05 × 1.05 × 1.05.  In this way, each increase in the exponent by a full interval can be seen to increase the previous total by another five percent.  (The order of multiplication does not change the result based on the associative property of multiplication.)
+Since the time variable, which is the input to this function, occurs as the exponent, this is an exponential function.  This contrasts with growth based on a power function, where the time variable is the base value raised to a fixed exponent, such as cubic growth (or in general terms denoted as polynomial growth).
+
+
+== Examples ==
+
+
+=== Biology ===
+The number of microorganisms in a culture will increase exponentially until an essential nutrient is exhausted. Typically the first organism splits into two daughter organisms, who then each split to form four, who split to form eight, and so on. Because exponential growth indicates constant growth rate, it is frequently assumed that exponentially growing cells are at a steady-state. However, cells can grow exponentially at a constant rate while remodeling their metabolism  and gene expression.
+A virus (for example SARS, or smallpox) typically will spread exponentially at first, if no artificial immunization is available. Each infected person can infect multiple new people.
+Human population, if the number of births and deaths per person per year were to remain at current levels (but also see logistic growth). For example, according to the United States Census Bureau, over the last 100 years (1910 to 2010), the population of the United States of America is exponentially increasing at an average rate of one and a half percent a year (1.5%). This means that the doubling time of the American population (depending on the yearly growth in population) is approximately 50 years.
+
+
+=== Physics ===
+Avalanche breakdown within a dielectric material. A free electron becomes sufficiently accelerated by an externally applied electrical field that it frees up additional electrons as it collides with atoms or molecules of the dielectric media. These secondary electrons also are accelerated, creating larger numbers of free electrons. The resulting exponential growth of electrons and ions may rapidly lead to complete dielectric breakdown of the material.
+Nuclear chain reaction (the concept behind nuclear reactors and nuclear weapons). Each uranium nucleus that undergoes fission produces multiple neutrons, each of which can be absorbed by adjacent uranium atoms, causing them to fission in turn. If the probability of neutron absorption exceeds the probability of neutron escape (a function of the shape and mass of the uranium), k > 0 and so the production rate of neutrons and induced uranium fissions increases exponentially, in an uncontrolled reaction. "Due to the exponential rate of increase, at any point in the chain reaction 99% of the energy will have been released in the last 4.6 generations. It is a reasonable approximation to think of the first 53 generations as a latency period leading up to the actual explosion, which only takes 3–4 generations."
+Positive feedback within the linear range of electrical or electroacoustic amplification can result in the exponential growth of the amplified signal, although resonance effects may favor some component frequencies of the signal over others.
+
+
+=== Economics ===
+Economic growth is expressed in percentage terms, implying exponential growth.
+
+
+=== Finance ===
+Compound interest at a constant interest rate provides exponential growth of the capital. See also rule of 72.
+Pyramid schemes or Ponzi schemes also show this type of growth resulting in high profits for a few initial investors and losses among great numbers of investors.
+
+
+=== Computer technology ===
+Processing power of computers. See also Moore's law and technological singularity. (Under exponential growth, there are no singularities. The singularity here is a metaphor, meant to convey an unimaginable future. The link of this hypothetical concept with exponential growth is most vocally made by futurist Ray Kurzweil.)
+In computational complexity theory, computer algorithms of exponential complexity require an exponentially increasing amount of resources (e.g. time, computer memory) for only a constant increase in problem size. So for an algorithm of time complexity 2x, if a problem of size x = 10 requires 10 seconds to complete, and a problem of size x = 11 requires 20 seconds, then a problem of size x = 12 will require 40 seconds. This kind of algorithm typically becomes unusable at very small problem sizes, often between 30 and 100 items (most computer algorithms need to be able to solve much larger problems, up to tens of thousands or even millions of items in reasonable times, something that would be physically impossible with an exponential algorithm). Also, the effects of Moore's Law do not help the situation much because doubling processor speed merely allows you to increase the problem size by a constant. E.g. if a slow processor can solve problems of size x in time t, then a processor twice as fast could only solve problems of size x + constant in the same time t. So exponentially complex algorithms are most often impractical, and the search for more efficient algorithms is one of the central goals of computer science today.
+
+
+== Basic formula ==
+A quantity x depends exponentially on time t if
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        a
+        ⋅
+        
+          b
+          
+            t
+            
+              /
+            
+            τ
+          
+        
+      
+    
+    {\displaystyle x(t)=a\cdot b^{t/\tau }}
+  where the constant a is the initial value of x,
+
+  
+    
+      
+        x
+        (
+        0
+        )
+        =
+        a
+        
+        ,
+      
+    
+    {\displaystyle x(0)=a\,,}
+  the constant b is a positive growth factor, and τ is the time constant—the time required for x to increase by one factor of b:
+
+  
+    
+      
+        x
+        (
+        t
+        +
+        τ
+        )
+        =
+        a
+        ⋅
+        
+          b
+          
+            
+              
+                t
+                +
+                τ
+              
+              τ
+            
+          
+        
+        =
+        a
+        ⋅
+        
+          b
+          
+            
+              t
+              τ
+            
+          
+        
+        ⋅
+        
+          b
+          
+            
+              τ
+              τ
+            
+          
+        
+        =
+        x
+        (
+        t
+        )
+        ⋅
+        b
+        
+        .
+      
+    
+    {\displaystyle x(t+\tau )=a\cdot b^{\frac {t+\tau }{\tau }}=a\cdot b^{\frac {t}{\tau }}\cdot b^{\frac {\tau }{\tau }}=x(t)\cdot b\,.}
+  If τ > 0 and b > 1, then x has exponential growth. If τ < 0 and b > 1, or τ > 0  and 0 < b < 1, then x has exponential decay.
+Example: If a species of bacteria doubles every ten minutes, starting out with only one bacterium, how many bacteria would be present after one hour?  The question implies a = 1, b = 2 and τ = 10 min.
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        a
+        ⋅
+        
+          b
+          
+            t
+            
+              /
+            
+            τ
+          
+        
+        =
+        1
+        ⋅
+        
+          2
+          
+            (
+            60
+            
+               min
+            
+            )
+            
+              /
+            
+            (
+            10
+            
+               min
+            
+            )
+          
+        
+      
+    
+    {\displaystyle x(t)=a\cdot b^{t/\tau }=1\cdot 2^{(60{\text{ min}})/(10{\text{ min}})}}
+  
+  
+    
+      
+        x
+        (
+        1
+        
+           hr
+        
+        )
+        =
+        1
+        ⋅
+        
+          2
+          
+            6
+          
+        
+        =
+        64.
+      
+    
+    {\displaystyle x(1{\text{ hr}})=1\cdot 2^{6}=64.}
+  After one hour, or six ten-minute intervals, there would be sixty-four bacteria.
+Many pairs (b, τ) of a dimensionless non-negative number b and an amount of time τ (a physical quantity which can be expressed as the product of a number of units and a unit of time) represent the same growth rate, with τ proportional to log b. For any fixed b not equal to 1 (e.g. e or 2), the growth rate is given by the non-zero time τ. For any non-zero time τ the growth rate is given by the dimensionless positive number b.
+Thus the law of exponential growth can be written in different but mathematically equivalent forms, by using a different base.  The most common forms are the following:
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+        ⋅
+        
+          e
+          
+            k
+            t
+          
+        
+        =
+        
+          x
+          
+            0
+          
+        
+        ⋅
+        
+          e
+          
+            t
+            
+              /
+            
+            τ
+          
+        
+        =
+        
+          x
+          
+            0
+          
+        
+        ⋅
+        
+          2
+          
+            t
+            
+              /
+            
+            T
+          
+        
+        =
+        
+          x
+          
+            0
+          
+        
+        ⋅
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  r
+                  100
+                
+              
+            
+            )
+          
+          
+            t
+            
+              /
+            
+            p
+          
+        
+        ,
+      
+    
+    {\displaystyle x(t)=x_{0}\cdot e^{kt}=x_{0}\cdot e^{t/\tau }=x_{0}\cdot 2^{t/T}=x_{0}\cdot \left(1+{\frac {r}{100}}\right)^{t/p},}
+  where x0 expresses the initial quantity x(0).
+Parameters (negative in the case of exponential decay):
+
+The growth constant k is the frequency (number of times per unit time) of growing by a factor e; in finance it is also called the logarithmic return,  continuously compounded return, or force of interest.
+The e-folding time τ is the time it takes to grow by a factor e.
+The doubling time T is the time it takes to double.
+The percent increase r (a dimensionless number) in a period p.The quantities k, τ, and T, and for a given p also r, have a one-to-one connection given by the following equation (which can be derived by taking the natural logarithm of the above):
+
+  
+    
+      
+        k
+        =
+        
+          
+            1
+            τ
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              2
+            
+            T
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              
+                (
+                
+                  1
+                  +
+                  
+                    
+                      r
+                      100
+                    
+                  
+                
+                )
+              
+            
+            p
+          
+        
+      
+    
+    {\displaystyle k={\frac {1}{\tau }}={\frac {\ln 2}{T}}={\frac {\ln \left(1+{\frac {r}{100}}\right)}{p}}}
+  where k = 0 corresponds to r = 0 and to τ and T being infinite.
+If p is the unit of time the quotient t/p is simply the number of units of time. Using the notation t for the (dimensionless) number of units of time rather than the time itself, t/p can be replaced by t, but for uniformity this has been avoided here. In this case the division by p in the last formula is not a numerical division either, but converts a dimensionless number to the correct quantity including unit.
+A popular approximated method for calculating the doubling time from the growth rate is the rule of 70,
+i.e. 
+  
+    
+      
+        T
+        ≃
+        70
+        
+          /
+        
+        r
+      
+    
+    {\displaystyle T\simeq 70/r}
+  .
+
+
+== Reformulation as log-linear growth ==
+If a variable x exhibits exponential growth according to 
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+        (
+        1
+        +
+        r
+        
+          )
+          
+            t
+          
+        
+      
+    
+    {\displaystyle x(t)=x_{0}(1+r)^{t}}
+  , then the log (to any base) of x grows linearly over time, as can be seen by taking logarithms of both sides of the exponential growth equation:
+
+  
+    
+      
+        log
+        ⁡
+        x
+        (
+        t
+        )
+        =
+        log
+        ⁡
+        
+          x
+          
+            0
+          
+        
+        +
+        t
+        ⋅
+        log
+        ⁡
+        (
+        1
+        +
+        r
+        )
+        .
+      
+    
+    {\displaystyle \log x(t)=\log x_{0}+t\cdot \log(1+r).}
+  This allows an exponentially growing variable to be modeled with a log-linear model. For example, if one wishes to empirically estimate the growth rate from intertemporal data on x, one can linearly regress log x on t.
+
+
+== Differential equation ==
+The exponential function 
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        x
+        (
+        0
+        )
+        
+          e
+          
+            k
+            t
+          
+        
+      
+    
+    {\displaystyle x(t)=x(0)e^{kt}}
+   satisfies the linear differential equation:
+
+  
+    
+      
+        
+        
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        k
+        x
+      
+    
+    {\displaystyle \!\,{\frac {dx}{dt}}=kx}
+  saying that the change per instant of time of x at time t is proportional to the value of x(t), and x(t) has the initial value
+
+  
+    
+      
+        x
+        (
+        0
+        )
+        .
+      
+    
+    {\displaystyle x(0).}
+  The differential equation is solved by direct integration:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      d
+                      x
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                k
+                x
+              
+            
+            
+              
+                
+                  
+                    
+                      d
+                      x
+                    
+                    x
+                  
+                
+              
+              
+                
+                =
+                k
+                
+                d
+                t
+              
+            
+            
+              
+                
+                  ∫
+                  
+                    x
+                    (
+                    0
+                    )
+                  
+                  
+                    x
+                    (
+                    t
+                    )
+                  
+                
+                
+                  
+                    
+                      d
+                      x
+                    
+                    x
+                  
+                
+              
+              
+                
+                =
+                k
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    t
+                  
+                
+                
+                d
+                t
+              
+            
+            
+              
+                ln
+                ⁡
+                
+                  
+                    
+                      x
+                      (
+                      t
+                      )
+                    
+                    
+                      x
+                      (
+                      0
+                      )
+                    
+                  
+                
+              
+              
+                
+                =
+                k
+                t
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {dx}{dt}}&=kx\\[5pt]{\frac {dx}{x}}&=k\,dt\\[5pt]\int _{x(0)}^{x(t)}{\frac {dx}{x}}&=k\int _{0}^{t}\,dt\\[5pt]\ln {\frac {x(t)}{x(0)}}&=kt.\end{aligned}}}
+  so that
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        x
+        (
+        0
+        )
+        
+          e
+          
+            k
+            t
+          
+        
+      
+    
+    {\displaystyle x(t)=x(0)e^{kt}}
+  In the above differential equation, if k < 0, then the quantity experiences exponential decay.
+For a nonlinear variation of this growth model see logistic function.
+
+
+== Difference equation ==
+The difference equation
+
+  
+    
+      
+        
+          x
+          
+            t
+          
+        
+        =
+        a
+        ⋅
+        
+          x
+          
+            t
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle x_{t}=a\cdot x_{t-1}}
+  has solution
+
+  
+    
+      
+        
+          x
+          
+            t
+          
+        
+        =
+        
+          x
+          
+            0
+          
+        
+        ⋅
+        
+          a
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle x_{t}=x_{0}\cdot a^{t},}
+  showing that x experiences exponential growth.
+
+
+== Other growth rates ==
+In the long run, exponential growth of any kind will overtake linear growth of any kind (the basis of the Malthusian catastrophe) as well as any polynomial growth, i.e., for all α:
+
+  
+    
+      
+        
+          lim
+          
+            t
+            →
+            ∞
+          
+        
+        
+          
+            
+              t
+              
+                α
+              
+            
+            
+              a
+              
+                e
+                
+                  t
+                
+              
+            
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle \lim _{t\rightarrow \infty }{t^{\alpha } \over ae^{t}}=0.}
+  There is a whole hierarchy of conceivable growth rates that are slower than exponential and faster than linear (in the long run). See Degree of a polynomial#The degree computed from the function values.
+Growth rates may also be faster than exponential. In the most extreme case, when growth increases without bound in finite time, it is called hyperbolic growth. In between exponential and hyperbolic growth lie more classes of growth behavior, like the hyperoperations beginning at tetration, and 
+  
+    
+      
+        A
+        (
+        n
+        ,
+        n
+        )
+      
+    
+    {\displaystyle A(n,n)}
+  , the diagonal of the Ackermann function.
+
+
+== Limitations of models ==
+Exponential growth models of physical phenomena only apply within limited regions, as unbounded growth is not physically realistic. Although growth may initially be exponential, the modelled phenomena will eventually enter a region in which previously ignored negative feedback factors become significant (leading to a logistic growth model) or other underlying assumptions of the exponential growth model, such as continuity or instantaneous feedback, break down.
+
+
+== Exponential stories ==
+
+
+=== Rice on a chessboard ===
+
+According to an old legend, vizier Sissa Ben Dahir presented an Indian King Sharim with a beautiful, hand-made chessboard. The king asked what he would like in return for his gift and the courtier surprised the king by asking for one grain of rice on the first square, two grains on the second, four grains on the third etc. The king readily agreed and asked for the rice to be brought. All went well at first, but the requirement for 2n−1 grains on the nth square demanded over a million grains on the 21st square, more than a million million (a.k.a. trillion) on the 41st and there simply was not enough rice in the whole world for the final squares. (From Swirski, 2006)The second half of the chessboard is the time when an exponentially growing influence is having a significant economic impact on an organization's overall business strategy.
+
+
+=== Water lily ===
+French children are told a story in which they imagine having a pond with water lily leaves floating on the surface. The lily population doubles in size every day and, if left unchecked, it will smother the pond in 30 days killing all the other living things in the water. Day after day, the plant's growth is small and so it is decided that it shall be cut down when the water lilies cover half of the pond. The children are then asked on what day will half of the pond be covered in water lilies.  The solution is simple when one considers that the water lilies must double to completely cover the pond on the 30th day.  Therefore, the water lilies will cover half of the pond on the 29th day. There is only one day to save the pond. (From Meadows et al. 1972)
+
+
+== See also ==
+
+
+== References and footnotes ==
+
+
+=== Sources ===
+Meadows, Donella H., Dennis L. Meadows, Jørgen Randers, and William W. Behrens III. (1972) The Limits to Growth. New York: University Books. ISBN 0-87663-165-0
+Porritt, J. Capitalism as if the world matters, Earthscan 2005. ISBN 1-84407-192-8
+Swirski, Peter. Of Literature and Knowledge: Explorations in Narrative Thought Experiments, Evolution, and Game Theory. New York: Routledge. ISBN 0-415-42060-1
+Thomson, David G. Blueprint to a Billion: 7 Essentials to Achieve Exponential Growth, Wiley Dec 2005, ISBN 0-471-74747-5
+Tsirel, S. V. 2004. On the Possible Reasons for the Hyperexponential Growth of the Earth Population. Mathematical Modeling of Social and Economic Dynamics / Ed. by M. G. Dmitriev and A. P. Petrov, pp. 367–9. Moscow: Russian State Social University, 2004.
+
+
+== External links ==
+Growth in a Finite World – Sustainability and the Exponential Function — Presentation
+Dr. Albert Bartlett: Arithmetic, Population and Energy — streaming video and audio 58 min
+exponential growth calculator — Online exponential growth Calculator

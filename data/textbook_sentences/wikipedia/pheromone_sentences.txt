@@ -1,0 +1,133 @@
+A pheromone (from Ancient Greek φέρω phero "to bear" and hormone, from Ancient Greek ὁρμή "impetus") is a secreted or excreted chemical factor that triggers a social response in members of the same species. Pheromones are chemicals capable of acting like hormones outside the body of the secreting individual, to impact the behavior of the receiving individuals. There are alarm pheromones, food trail pheromones, sex pheromones, and many others that affect behavior or physiology. Pheromones are used from basic unicellular prokaryotes to complex multicellular eukaryotes. Their use among insects has been particularly well documented. In addition, some vertebrates, plants and ciliates communicate by using pheromones.
+
+
+== Background ==
+The portmanteau word "pheromone" was coined by Peter Karlson and Martin Lüscher in 1959, based on the Greek φερω pheroo ('I carry') and ὁρμων hormon ('stimulating'). Pheromones are also sometimes classified as ecto-hormones. They were researched earlier by various scientists, including Jean-Henri Fabre, Joseph A. Lintner, Adolf Butenandt, and ethologist Karl von Frisch who called them various names, like for instance "alarm substances". These chemical messengers are transported outside of the body and affect neurocircuits, including the autonomous nervous system with hormone or cytokine mediated physiological changes, inflammatory signaling, immune system changes and/or behavioral change in the recipient. They proposed the term to describe chemical signals from conspecifics that elicit innate behaviors soon after the German biochemist Adolf Butenandt had characterized the first such chemical, bombykol, a chemically well-characterized pheromone released by the female silkworm to attract mates.
+
+
+== Types ==
+
+
+=== Aggregation ===
+
+Aggregation pheromones function in mate selection, overcoming host resistance by mass attack, and defense against predators. A group of individuals at one location is referred to as an aggregation, whether consisting of one sex or both sexes. Male-produced sex attractants have been called aggregation pheromones, because they usually result in the arrival of both sexes at a calling site and increase the density of conspecifics surrounding the pheromone source. Most sex pheromones are produced by the females; only a small percentage of sex attractants are produced by males. Aggregation pheromones have been found in members of the Coleoptera, Diptera, Hemiptera, Dictyoptera, and Orthoptera. In recent decades, the importance of applying aggregation pheromones in the management of the boll weevil (Anthonomus grandis), stored product weevils (Sitophilus zeamais), Sitophilus granarius, Sitophilus oryzae, and pea and bean weevil (Sitona lineatus) has been demonstrated. Aggregation pheromones are among the most ecologically selective pest suppression methods. They are nontoxic and effective at very low concentrations.
+
+
+=== Alarm ===
+Some species release a volatile substance when attacked by a predator that can trigger flight (in aphids) or aggression (in ants, bees, termites) in members of the same species. For example, Vespula squamosa use alarm pheromones to alert others to a threat. In Polistes exclamans, alarm pheromones are also used as an alert to incoming predators. Pheromones also exist in plants: Certain plants emit alarm pheromones when grazed upon, resulting in tannin production in neighboring plants. These tannins make the plants less appetizing for the herbivore.
+
+
+=== Epideictic ===
+Epideictic pheromones are different from territory pheromones, when it comes to insects. Fabre observed and noted how "females who lay their eggs in these fruits deposit these mysterious substances in the vicinity of their clutch to signal to other females of the same species they should clutch elsewhere." It may be helpful to note that the word epideictic, having to do with display or show (from the Greek 'deixis'), has a different but related meaning in rhetoric, the human art of persuasion by means of words.
+
+
+=== Releaser ===
+Releaser pheromones are pheromones that cause an alteration in the behavior of the recipient. For example, some organisms use powerful attractant molecules to attract mates from a distance of two miles or more. In general, this type of pheromone elicits a rapid response, but is quickly degraded. In contrast, a primer pheromone has a slower onset and a longer duration. For example, rabbit (mothers) release mammary pheromones that trigger immediate nursing behavior by their babies.
+
+
+=== Signal ===
+Signal pheromones cause short-term changes, such as the neurotransmitter release that activates a response. For instance, GnRH molecule functions as a neurotransmitter in rats to elicit lordosis behavior.
+
+
+=== Primer ===
+Primer pheromones trigger a change of developmental events (in which they differ from all the other pheromones, which trigger a change in behavior).
+
+
+=== Territorial ===
+Laid down in the environment, territorial pheromones mark the boundaries and identity of an organism's territory. In cats and dogs, these hormones are present in the urine, which they deposit on landmarks serving to mark the perimeter of the claimed territory. In social seabirds, the preen gland is used to mark nests, nuptial gifts, and territory boundaries with behavior formerly described as 'displacement activity'.
+
+
+=== Trail ===
+Social insects commonly use trail pheromones. For example, ants mark their paths with pheromones consisting of volatile hydrocarbons. Certain ants lay down an initial trail of pheromones as they return to the nest with food. This trail attracts other ants and serves as a guide. As long as the food source remains available, visiting ants will continuously renew the pheromone trail. The pheromone requires continuous renewal because it evaporates quickly. When the food supply begins to dwindle, the trail-making ceases. In at least one species of ant, trails that no longer lead to food are also marked with a repellent pheromone. The Eciton burchellii species provides an example of using pheromones to mark and maintain foraging paths.  When species of wasps such as Polybia sericea found new nests, they use pheromones to lead the rest of the colony to the new nesting site.
+Gregarious caterpillars, such as the forest tent caterpillar, lay down pheromone trails that are used to achieve group movement.
+
+
+=== Sex ===
+
+In animals, sex pheromones indicate the availability of the female for breeding. Male animals may also emit pheromones that convey information about their species and genotype.
+At the microscopic level, a number of bacterial species (e.g. Bacillus subtilis, Streptococcus pneumoniae, Bacillus cereus) release specific chemicals into the surrounding media to induce the "competent" state in neighboring bacteria. Competence is a physiological state that allows bacterial cells to take up DNA from other cells and incorporate this DNA into their own genome, a sexual process called transformation.
+Among eukaryotic microorganisms, pheromones promote sexual interaction in numerous species. These species include the yeast Saccharomyces cerevisiae, the filamentous fungi Neurospora crassa and Mucor mucedo, the water mold Achlya ambisexualis, the aquatic fungus Allomyces macrogynus, the slime mold Dictyostelium discoideum, the ciliate protozoan Blepharisma japonicum and the multicellular green algae Volvox carteri. In addition, male copepods can follow a three-dimensional pheromone trail left by a swimming female, and male gametes of many animals use a pheromone to help find a female gamete for fertilization.Many if not all insect species, such as the ant Leptothorax acervorum, the moths Helicoverpa zea and Agrotis ipsilon, the bee Xylocopa varipuncta and the butterfly Edith's checkerspot release sex pheromones to attract a mate, and many lepidopterans (moths and butterflies) can detect a potential mate from as far away as 10 km (6.2 mi).  Some insects, such as ghost moths, use pheromones during lek mating. Traps containing pheromones are used by farmers to detect and monitor insect populations in orchards. In addition, Colias eurytheme butterflies release pheromones, an olfactory cue important for mate selection.The effect of Hz-2V virus infection on the reproductive physiology and behavior of female Helicoverpa zea moths is that in the absence of males they exhibited calling behavior and called as often but for shorter periods on average than control females. Even after these contacts virus-infected females made many frequent contacts with males and continued to call; they were found to produce five to seven times more pheromone and attracted twice as many males as did control females in flight tunnel experiments.Pheromones are also utilized by bee and wasp species. Some pheromones can be used to suppress the sexual behavior of other individuals allowing for a reproductive monopoly – the wasp R. marginata uses this. With regard to the Bombus hyperboreus species, males, otherwise known as drones, patrol circuits of scent marks (pheromones) to find queens. In paraticular, pheromones for the Bombus hyperboreus, include octadecenol, 2,3-dihydro-6-transfarnesol, citronellol, and geranylcitronellol.Pheromones are also used in the detection of oestrus in sows. Boar pheromones are sprayed into the sty, and those sows that exhibit sexual arousal are known to be currently available for breeding. Sea urchins release pheromones into the surrounding water, sending a chemical message that triggers other urchins in the colony to eject their sex cells simultaneously.
+
+
+=== Other ===
+This classification, based on the effects on behavior, remains artificial. Pheromones fill many additional functions.
+
+Nasonov pheromones (worker bees)
+Royal pheromones (bees)
+Calming (appeasement) pheromones (mammals)
+Necromones, given off by a deceased and decomposing organism; consisting of oleic and linoleic acids, they allow crustaceans and hexapods to identify the presence of dead conspecifics.
+
+
+== Evolution ==
+Olfactory processing of chemical signals like pheromones has evolved in all animal phyla and thus is the oldest phylogenetic receptive system shared by all organisms including bacteria. It has been suggested that it serves survival by generating appropriate behavioral responses to the signals of threat, sex and dominance status among members of the same species.Furthermore, it has been suggested that in the evolution of unicellular prokaryotes to multicellular eukaryotes, primordial pheromone signaling between individuals may have evolved to paracrine and endocrine signaling within individual organisms.Some authors assume that approach-avoidance reactions in animals, elicited by chemical cues, form the phylogenetic basis for the experience of emotions in humans.
+
+
+=== Pheromone receptors ===
+
+
+==== In the olfactory epithelium ====
+
+The human trace amine-associated receptors are a group of six G protein-coupled receptors (i.e., TAAR1, TAAR2, TAAR5, TAAR6, TAAR8, and TAAR9) that – with exception for TAAR1 – are expressed in the human olfactory epithelium. In humans and other animals, TAARs in the olfactory epithelium function as olfactory receptors that detect volatile amine odorants, including certain pheromones; these TAARs putatively function as a class of pheromone receptors involved in the olfactive detection of social cues.A review of studies involving non-human animals indicated that TAARs in the olfactory epithelium can mediate attractive or aversive behavioral responses to a receptor agonist. This review also noted that the behavioral response evoked by a TAAR can vary across species (e.g., TAAR5 mediates attraction to trimethylamine in mice and aversion to trimethylamine in rats). In humans, hTAAR5 presumably mediates aversion to trimethylamine, which is known to act as an hTAAR5 agonist and to possess a foul, fishy odor that is aversive to humans; however, hTAAR5 is not the only olfactory receptor that is responsible for trimethylamine olfaction in humans. As of  December 2015, hTAAR5-mediated trimethylamine aversion has not been examined in published research.
+
+
+==== In the vomeronasal organ ====
+
+In reptiles, amphibia and non-primate mammals pheromones are detected by regular olfactory membranes, and also by the vomeronasal organ (VNO), or Jacobson's organ, which lies at the base of the nasal septum between the nose and mouth and is the first stage of the accessory olfactory system. While the VNO is present in most amphibia, reptiles, and non-primate mammals, it is absent in birds, adult catarrhine monkeys (downward facing nostrils, as opposed to sideways), and apes. An active role for the human VNO in the detection of pheromones is disputed; while it is clearly present in the fetus it appears to be atrophied, shrunk or completely absent in adults. Three distinct families of vomeronasal receptors, putatively pheromone sensing, have been identified in the vomeronasal organ named V1Rs, V2Rs, and V3Rs. All are G protein-coupled receptors but are only distantly related to the receptors of the main olfactory system, highlighting their different role.
+
+
+== Uses ==
+
+
+=== Non-human animals ===
+
+
+==== Pheromone trapping ====
+
+Pheromones of certain pest insect species, such as the Japanese beetle, acrobat ant, and the gypsy moth, can be used to trap the respective insect for monitoring purposes, to control the population by creating confusion, to disrupt mating, and to prevent further egg laying.
+
+
+==== Avoidance of inbreeding ====
+
+Mice can distinguish close relatives from more distantly related individuals on the basis of scent signals, which enables them to avoid mating with close relatives and minimizes deleterious inbreeding. Jiménez et al. showed that inbred mice had significantly reduced survival when they were reintroduced into a natural habitat. In addition to mice, two species of bumblebee, in particular Bombus bifarius and Bombus frigidus, have been observed to use pheromones as a means of kin recognition to avoid inbreeding. For example, B. bifarius males display “patrolling” behavior in which they mark specific paths outside their nests with pheromones and subsequently “patrol” these paths. Unrelated reproductive females are attracted to the pheromones deposited by males on these paths, and males that encounter these females while patrolling can mate with them. Other bees of the Bombus species are found to emit pheromones as precopulatory signals, such as Bombus lapidarius.
+
+
+=== Humans ===
+
+While humans are highly dependent upon visual cues, when in close proximity smells also play a role in sociosexual behaviors. An inherent difficulty in studying human pheromones is the need for cleanliness and odorlessness in human participants. Experiments have focused on three classes of putative human pheromones: axillary steroids, vaginal aliphatic acids, and stimulators of the vomeronasal organ.
+
+
+==== Axillary steroids ====
+Axillary steroids are produced by the testes, ovaries, apocrine glands, and adrenal glands. These chemicals are not biologically active until puberty when sex steroids influence their activity. The change in activity during puberty suggest that humans  may communicate through odors. Several axillary steroids have been described as potential human pheromones: androstadienol, androstadienone, androstenol, androstenone, and androsterone.
+
+Androstenol is the putative female pheromone. In a 1978 study by Kirk-Smith, people wearing surgical masks treated with androstenol or untreated were shown pictures of people, animals and buildings and asked to rate the pictures on attractiveness. Individuals with their masks treated with androstenol rated their photographs as being "warmer" and "more friendly". The best-known case study involves the synchronization of menstrual cycles among women based on unconscious odor cues, the McClintock effect, named after the primary investigator, Martha McClintock, of the University of Chicago. A group of women were exposed to a whiff of perspiration from other women. Depending on the time in the month the sweat was collected (before, during, or after ovulation) there was an association with the recipient woman's menstrual cycle to speed up or slow down. The 1971 study proposed two types of pheromone involved: "One, produced prior to ovulation, shortens the ovarian cycle; and the second, produced just at ovulation, lengthens the cycle". However, recent studies and reviews of the methodology have called the validity of her results into question.
+Androstenone is postulated to be secreted only by males as an attractant for women, and thought to be a positive effector for their mood. It seems to have different effects on women, depending on where a female is in her menstrual cycle, with the highest sensitivity to it during ovulation.  In 1983, study participants exposed to androstenone were shown to undergo changes in skin conductance. Androstenone has been found to be perceived as more pleasant to women at a woman's time of ovulation.
+Androstadienone seems to affect the limbic system and causes a positive reaction in women, improving mood. Responses to androstadienone depend on the individual and the environment they are in. Androstadienone negatively influences the perception of pain in women. Women tend to react positively after androstadienone presentation, while men react more negatively. In an experiment by Hummer and McClintock, androstadienone or a control odor was put on the upper lips of fifty males and females and they were tested for four effects of the pheromone: 1) automatic attention towards positive and negative facial expressions, 2) the strength of cognitive and emotional information as distractors in a simple reaction time task, 3) relative attention to social and nonsocial stimuli (i.e. neutral faces), and 4) mood and attentiveness in the absence of social interaction. Those treated with androstadienone drew more attention to towards emotional facial expressions and emotional words but no increased attention to neutral faces. These data suggest that androstadienone may increase attention to emotional information causing the individual to feel more focused. It is thought that androstadienone modulates on how the mind attends and processes information.Further evidence of a role for pheromones in sociosexual behavior comes from two double blind, placebo-controlled experiments. The first from 1998, by Cutler, had 38 male volunteers apply either a "male pheromone" or control odor and record six different sociosexual behaviors over two weeks. This study found an increase in sexual behavior in the pheromone users compared to the control group. The study 2002 by McCoy and Pitino was similar, except that participants were women, not men. Females treated with "female pheromone" reported significant increases in many of the behaviors including "sexual intercourse", "sleeping next to a partner", "formal dates", and "petting/affection/kissing". The researchers believed that pheromones had a positive sexual attractant effect. The third study was performed on 44 postmenopausal women and was published in 2004 by Rako and Friebely in the Journal of Sex Research. The study confirmed the previous results (McCoy & Pitino, 2002) for reproductive-aged women for the two subjective behaviors studied; weekly averages of informal dating and male approaches were not significantly increased for pheromone users. The study found among postmenopausal women, a significantly greater proportion of those using pheromone than those using placebo showed an increase over their own baseline in intimate sociosexual behaviors.
+
+
+==== Vaginal aliphatic acids ====
+A class of aliphatic acids (volatile fatty acids as a kind of carboxylic acid) was found in female rhesus monkeys that produced six types in the vaginal fluids. The combination of these acids is referred to as "copulins". One of the acids, acetic acid, was found in all of the sampled female's vaginal fluid. Even in humans one-third of women have all six types of copulins, which increase in quantity before ovulation. Copulins are used to signal ovulation; however, as human ovulation is concealed it is thought that they may be used for reasons other than sexual communication.
+
+
+==== Stimulators of the vomeronasal organ ====
+The human vomeronasal organ has epithelia that may be able to serve as a chemical sensory organ; however, the genes that encode the VNO receptors are nonfunctional pseudogenes in humans. Also, while there are sensory neurons in the human VNO there seem to be no connections between the VNO and the central nervous system. The associated olfactory bulb is present in the fetus, but regresses and vanishes in the adult brain. There have been some reports that the human VNO does function, but only responds to hormones in a "sex-specific manner". There also have been pheromone receptor genes found in olfactory mucosa. Unfortunately, there have been no experiments that compare people lacking the VNO, and people that have it. It is disputed on whether the chemicals are reaching the brain through the VNO or other tissues.In 2006, it was shown that a second mouse receptor sub-class is found in the olfactory epithelium. Called the trace amine-associated receptors (TAAR), some are activated by volatile amines found in mouse urine, including one putative mouse pheromone. Orthologous receptors exist in humans providing, the authors propose, evidence for a mechanism of human pheromone detection.Although there are disputes about the mechanisms by which pheromones function, there is evidence that pheromones do affect humans. Despite this evidence, it has not been conclusively shown that humans have functional pheromones. Those experiments suggesting that certain pheromones have a positive effect on humans are countered by others indicating they have no effect whatsoever.A possible theory being studied now is that these axillary odors are being used to provide information about the immune system. Milinski and colleagues found that the artificial odors that people chose are determined in part by their major histocompatibility complexes (MHC) combination. Information about an individual's immune system could be used as a way of "sexual selection" so that the female could obtain good genes for her offspring. Claus Wedekind and colleagues found that both men and women prefer the axillary odors of people whose MHC is different from their own.Some body spray advertisers claim that their products contain human sexual pheromones that act as an aphrodisiac. Despite these claims, no pheromonal substance has ever been demonstrated to directly influence human behavior in a peer reviewed study. Thus, the role of pheromones in human behavior remains speculative and controversial.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Wilson, EO; Bossert, WH (1963). "Chemical communication among animals". Recent Progress in Hormone Research. 19: 673–716. PMID 14284035.
+Kohl JV.; Atzmueller M.; Fink B.; Grammer K. (2001). "Human Pheromones: Integrating Neuroendocrinology and Ethology" (PDF). Neuroendocrinology Letters. 22 (5): 319–331.
+Wyatt, Tristram D. (2003). Pheromones and Animal Behaviour: Communication by Smell and Taste. Cambridge: Cambridge University Press. ISBN 0-521-48526-6.
+Dusenbery, David B. (2009). Living at Micro Scale. Harvard University Press, Cambridge, Massachusetts ISBN 978-0-674-03116-6.
+Male sweat boosts women's hormone levels—from UC Berkeley, February 2007
+Pheromones In Male Perspiration Reduce Women's Tension, Alter Hormone Response—from Science Daily (March 2003)
+Preti G, Wysocki CJ, Barnhart KT, Sondheimer SJ, Leyden JJ (June 2003). "Male axillary extracts contain pheromones that affect pulsatile secretion of luteinizing hormone and mood in women recipients". Biol. Reprod. 68 (6): 2107–13. doi:10.1095/biolreprod.102.008268. PMID 12606409. Archived from the original on 2006-12-06.
+
+
+== External links ==
+Pherobase, the database of insect pheromones
+Sexual Orientation, in the Brain

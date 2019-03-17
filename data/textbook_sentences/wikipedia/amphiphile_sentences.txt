@@ -1,0 +1,51 @@
+An amphiphile (from the Greek αμφις, amphis: both and φιλíα, philia: love, friendship) is a chemical compound possessing both hydrophilic (water-loving, polar) and lipophilic (fat-loving) properties. Such a compound is called amphiphilic or amphipathic.  This forms the basis for a number of areas of research in chemistry and biochemistry, notably that of lipid polymorphism. Organic compounds containing hydrophilic groups at both ends of a prolate (in the aggregate) molecule are called bolaamphiphilic. Common amphiphilic substances are soaps, detergents and lipoproteins.
+
+
+== Structure and properties ==
+The lipophilic group is typically a large hydrocarbon moiety, such as a long chain of the form  CH3(CH2)n, with n > 4.
+The hydrophilic group falls into one of the following categories:
+
+Charged groups
+Anionic. Examples, with the lipophilic part of the molecule represented by an R, are:
+carboxylates: RCO2−;
+sulfates: RSO4−;
+sulfonates: RSO3−.
+phosphates: The charged functionality in phospholipids.
+Cationic. Examples:
+ammoniums: RNH3+.
+Polar, uncharged groups. Examples are alcohols with large R groups, such as diacyl glycerol (DAG), and oligoethyleneglycols with long alkyl chains.Often, amphiphilic species have several lipophilic parts, several hydrophilic parts, or several of both.  Proteins and some block copolymers are such examples.
+Amphiphilic compounds have lipophilic (typically hydrocarbon) structures and hydrophilic polar functional groups (either ionic or uncharged).
+As a result of having both lipophilic and hydrophilic portions, some amphiphilic compounds may dissolve in water and to some extent in non-polar organic solvents.
+When placed in an immiscible biphasic system consisting of aqueous and organic solvents, the amphiphilic compound will partition the two phases. The extent of the hydrophobic and hydrophilic portions determines the extent of partitioning.
+
+
+== Biological role ==
+Phospholipids, a class of amphiphilic molecules, are the main components of biological membranes. The amphiphilic nature of these molecules defines the way in which they form membranes. They arrange themselves into bilayers, by positioning their polar groups towards the surrounding aqueous medium, and their lipophilic chains towards the inside of the bilayer, defining a non-polar region between two polar ones.Although phospholipids are principal constituents of biological membranes, there are other constituents, such as cholesterol and glycolipids, which are also included in these structures and give them different physical and biological properties.
+Many other amphiphilic compounds, such as pepducins, strongly interact with biological membranes by insertion of the hydrophobic part into the lipid membrane, while exposing the hydrophilic part to the aqueous medium, altering their physical behavior and sometimes disrupting them.
+Aβ proteins form antiparallel β sheets which are strongly amphiphilic, and which aggregate to form toxic oxidative Aβ fibrils. Aβ fibrils themselves are composed of amphiphilic 13-mer modular β sandwiches separated by reverse turns.  Hydropathic waves  optimize the description of the small (40,42 aa) plaque-forming (aggregative) Aβ fragments.Antimicrobial peptides are another class of amphiphilic molecules, a big data analysis showed that amphipathicity best distinguished between AMPs with and without anti-gram-negative bacteria activities. The higher amphipathicity, the better chances for AMPs possessing antibacterial and antifungal dual activities.
+
+
+== Examples ==
+There are several examples of molecules that present amphiphilic properties:
+Hydrocarbon based surfactants are an example group of amphiphilic compounds. Their polar region can be either ionic, or non-ionic. Some typical members of this group are: sodium dodecyl sulfate (anionic), benzalkonium chloride (cationic), cocamidopropyl betaine (zwitterionic) and 1-octanol (long chain alcohol, non-ionic).
+Many biological compounds are amphiphilic: phospholipids, cholesterol, glycolipids, fatty acids, bile acids, saponins, local anaesthetics etc.
+Soap is a common household amphiphilic compound, which is why it's used to clean oils and fats (non-polar, lipiphillic)  from kitchenware when washing dishes with water (polar, hydrophillic).
+
+
+== See also ==
+Amphipathic lipids
+Amphoterism
+Bubbles in abiogenesis
+Emulsion
+Free surface energy
+Hydrophile
+Polymorphism (biophysics)
+Sodium dodecyl sulfate
+Wetting
+
+
+== References ==
+
+
+== External links ==
+Estimating intestinal permeability by surface activity profiling

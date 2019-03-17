@@ -1,0 +1,23 @@
+Deoxyribose, or more precisely 2-deoxyribose, is a monosaccharide with idealized formula H−(C=O)−(CH2)−(CHOH)3−H. Its name indicates that it is a deoxy sugar, meaning that it is derived from the sugar ribose by loss of an oxygen atom. Since the pentose sugars arabinose and ribose only differ by the stereochemistry at C2′, 2-deoxyribose and 2-deoxyarabinose are equivalent, although the latter term is rarely used because ribose, not arabinose, is the precursor to deoxyribose.
+
+
+== History ==
+Deoxyribose was discovered in 1929 by Phoebus Levene.
+
+
+== Structure ==
+Several isomers exist with the formula H−(C=O)−(CH2)−(CHOH)3−H, but in deoxyribose all the hydroxyl groups are on the same side in the Fischer projection. The term "2-deoxyribose" may refer to either of two enantiomers: the biologically important D-2-deoxyribose and to the rarely encountered mirror image L-2-deoxyribose. D-2-deoxyribose is a precursor to the nucleic acid DNA. 2-deoxyribose is an aldopentose, that is, a monosaccharide with five carbon atoms and having an aldehyde functional group.
+In aqueous solution, deoxyribose primarily exists as a mixture of three structures: the linear form H−(C=O)−(CH2)−(CHOH)3−H and two ring forms, deoxyribofuranose ("C3′-endo"), with a five-membered ring, and deoxyribopyranose ("C2′-endo"), with a six-membered ring. The latter form is predominant (whereas the C3′-endo form is favored for ribose). 
+
+
+== Biological importance ==
+As a component of DNA, 2-deoxyribose derivatives have an important role in biology. The DNA (deoxyribonucleic acid) molecule, which is the main repository of genetic information in life, consists of a long chain of deoxyribose-containing units called nucleotides, linked via phosphate groups.  In the standard nucleic acid nomenclature, a DNA nucleotide consists of a deoxyribose molecule with an organic base (usually adenine, thymine, guanine or cytosine) attached to the 1′ ribose carbon.  The 5′ hydroxyl of each deoxyribose unit is replaced by a phosphate (forming a nucleotide) that is attached to the 3′ carbon of the deoxyribose in the preceding unit.  
+The absence of the 2′ hydroxyl group in deoxyribose is apparently responsible for the increased mechanical flexibility of DNA compared to RNA, which allows it to assume the double-helix conformation, and also (in the eukaryotes) to be compactly coiled within the small cell nucleus.  The double-stranded DNA molecules are also typically much longer than RNA molecules. The backbone of RNA and DNA are structurally similar, but RNA is single stranded, and made from ribose as opposed to deoxyribose.
+Other biologically important derivatives of deoxyribose include mono-, di-, and triphosphates, as well as 3′-5′ cyclic monophosphates.
+
+
+=== Biosynthesis ===
+Deoxyribose is generated from ribose 5-phosphate by enzymes called ribonucleotide reductases.  These enzymes catalyse the deoxygenation process.
+
+
+== References ==

@@ -1,0 +1,641 @@
+An electrochemical gradient is a gradient of electrochemical potential, usually for an ion that can move across a membrane. The gradient consists of two parts, the chemical gradient, or difference in solute concentration across a membrane, and the electrical gradient, or difference in charge across a membrane. When there are unequal concentrations of an ion across a permeable membrane, the ion will move across the membrane from the area of higher concentration to the area of lower concentration through simple diffusion. Ions also carry an electric charge that forms an electric potential across a membrane. If there is an unequal distribution of charges across the membrane, then the difference in electric potential generates a force that drives ion diffusion until the charges are balanced on both sides of the membrane.
+
+
+== Overview ==
+Electrochemical potential is important in electroanalytical chemistry and industrial applications such as batteries and fuel cells. It represents one of the many interchangeable forms of potential energy through which energy may be conserved.
+In biological processes, the direction an ion moves by diffusion or active transport across a membrane is determined by the electrochemical gradient. In mitochondria and chloroplasts, proton gradients are used to generate a chemiosmotic potential that is also known as a proton motive force. This potential energy is used for the synthesis of ATP by oxidative phosphorylation or photophosphorylation, respectively.An electrochemical gradient has two components. First, the electrical component is caused by a charge difference across the lipid membrane. Second, a chemical component is caused by a differential concentration of ions across the membrane. The combination of these two factors determines the thermodynamically favourable direction for an ion's movement across a membrane.An electrochemical gradient is analogous to the water pressure across a hydroelectric dam. Membrane transport proteins such as the sodium-potassium pump within the membrane are equivalent to turbines that convert the water's potential energy to other forms of physical or chemical energy, and the ions that pass through the membrane are equivalent to water that ends up at the bottom of the dam. Also, energy can be used to pump water up into the lake above the dam. In similar manner, chemical energy in cells can be used to create electrochemical gradients.
+
+
+== Chemistry ==
+The term is typically applied in contexts wherein a chemical reaction is to take place, such as one involving the transfer of an electron at a battery electrode. In a battery, an electrochemical potential arising from the movement of ions balances the reaction energy of the electrodes. The maximum voltage that a battery reaction can produce is sometimes called the standard electrochemical potential of that reaction (see also Electrode potential and Table of standard electrode potentials). In instances pertaining specifically to the movement of electrically charged solutes, the potential is often expressed in units of volts. See: Concentration cell.
+
+
+== Biological context ==
+The generation of a transmembrane electrical potential through ion movement across a cell membrane drives biological processes like nerve conduction, muscle contraction, hormone secretion, and sensory processes. By convention, a typical animal cell has a transmembrane electrical potential of -50 mV to -70 mV inside the cell relative to the outside.Electrochemical gradients also play a role in establishing proton gradients in oxidative phosphorylation in mitochondria. The final step of cellular respiration is the electron transport chain. Four complexes embedded in the inner membrane of the mitochondrion make up the electron transport chain. However, only complexes I, III, and IV pump protons from the matrix to the intermembrane space (IMS). In total, there are ten protons translocated from the matrix to the IMS which generates an electrochemical potential of more than 200mV. This drives the flux of protons back into the matrix through ATP synthase which produces ATP by adding an inorganic phosphate to ADP. Thus, generation of a proton electrochemical gradient is crucial for energy production in mitochondria. The total equation for the electron transport chain is:
+
+  
+    
+      
+        N
+        A
+        D
+        H
+        +
+        11
+        
+          H
+          
+            +
+          
+        
+        (
+        m
+        a
+        t
+        r
+        i
+        x
+        )
+        +
+        1
+        
+          /
+        
+        2
+         
+        
+          O
+          
+            2
+          
+        
+        ⟶
+        N
+        A
+        
+          D
+          
+            +
+          
+        
+        +
+        10
+        
+          H
+          
+            +
+          
+        
+        (
+        I
+        M
+        S
+        )
+        +
+        
+          H
+          
+            2
+          
+        
+        O
+      
+    
+    {\displaystyle NADH+11H^{+}(matrix)+1/2\ O_{2}\longrightarrow NAD^{+}+10H^{+}(IMS)+H_{2}O}
+  Similar to the electron transport chain, the light-dependent reactions of photosynthesis pump protons into the thylakoid lumen of chloroplasts to drive the synthesis of ATP by ATP synthase. The proton gradient can be generated through either noncyclic or cyclic photophosphorylation. Of the proteins that participate in noncyclic photophosphorylation, photosystem II (PSII), plastiquinone, and cytochrome b6f complex directly contribute to generating the proton gradient. For each four photons absorbed by PSII, eight protons are pumped into the lumen. The total equation for photophosphorylation is shown:
+
+  
+    
+      
+        2
+        
+          H
+          
+            2
+          
+        
+        O
+        +
+        6
+        
+          H
+          
+            +
+          
+        
+        (
+        s
+        t
+        r
+        o
+        m
+        a
+        )
+        +
+        2
+        N
+        A
+        D
+        
+          P
+          
+            +
+          
+        
+        ⟶
+        
+          O
+          
+            2
+          
+        
+        +
+        8
+        
+          H
+          
+            +
+          
+        
+        (
+        l
+        u
+        m
+        e
+        n
+        )
+        +
+        2
+        N
+        A
+        D
+        P
+        H
+      
+    
+    {\displaystyle 2H_{2}O+6H^{+}(stroma)+2NADP^{+}\longrightarrow O_{2}+8H^{+}(lumen)+2NADPH}
+  Several other transporters and ion channels play a role in generating a proton electrochemical gradient. One is TPK3, a potassium channel that is activated by Ca2+ and conducts K+ from the thylakoid lumen to the stroma which helps establish the pH gradient. On the other hand, the electro-neutral K+ efflux antiporter (KEA3) transports K+ into the thylakoid lumen and H+ into the stroma which helps establish the electric field.
+
+
+== Ion gradients ==
+
+Since the ions are charged, they cannot pass through the membrane via simple diffusion. Two different mechanisms can transport the ions across the membrane: active or passive transport. An example of active transport of ions is the Na+-K+-ATPase (NKA). NKA catalyzes the hydrolysis of ATP into ADP and an inorganic phosphate and for every molecule of ATP hydrolized, three Na+ are transported outside and two K+ are transported inside the cell. This makes the inside of the cell more negative than the outside and more specifically generates a membrane potential Vmembrane of about -60mV. An example of passive transport is ion fluxes through Na+, K+, Ca2+, and Cl− channels. These ions tend to move down their concentration gradient. For example, since there is a high concentration of Na+ outside the cell, Na+ will flow through the Na+ channel into the cell. Since the electric potential inside the cell is negative, the influx of a positive ion depolarizes the membrane which brings the transmembrane electric potential closer to zero. However, Na+ will continue moving down its concentration gradient as long as the effect of the chemical gradient is greater than the effect of the electrical gradient. Once the effect of both gradients are equal (for Na+ this at a membrane potential of about +70mV), the influx of Na+ stops because the driving force (ΔG) is zero. The equation for the driving force is:
+  
+    
+      
+        Δ
+        G
+        =
+        R
+        T
+        ln
+        ⁡
+        
+          
+            
+              c
+              
+                
+                  i
+                  n
+                
+              
+            
+            
+              c
+              
+                
+                  o
+                  u
+                  t
+                
+              
+            
+          
+        
+        +
+        z
+        F
+        
+          V
+          
+            
+              m
+              e
+              m
+              b
+              r
+              a
+              n
+              e
+            
+          
+        
+      
+    
+    {\displaystyle \Delta G=RT\ln {\frac {c_{\rm {in}}}{c_{\rm {out}}}}+zFV_{\rm {membrane}}}
+  In this equation, R represents the gas constant, T represents absolute temperature, z is the ionic charge, and F represents the Faraday constant.
+
+
+== Proton gradients ==
+Proton gradients in particular are important in many different types of cells as a form of energy storage. The gradient is usually used to drive ATP synthase, flagellar rotation, or transport of metabolites. This section will focus on three processes that help establish proton gradients in their respective cells: bacteriorhodopsin and noncyclic photophosphorylation and oxidative phosphorylation.
+
+
+=== Bacteriorhodopsin ===
+
+The way bacteriorhodopsin generates a proton gradient in Archaea is through a proton pump. The proton pump relies on proton carriers to drive protons from the side of the membrane with a low H+ concentration to the side of the membrane with a high H+ concentration. In bacteriorhodopsin, the proton pump is activated by absorption of photons of 568 nm wavelength which leads to isomerization of the Schiff base (SB) in retinal forming the K state. This moves SB away from Asp85 and Asp212, causing H+ transfer from the SB to Asp85 forming the M1 state. The protein then shifts to the M2 state by separating Glu204 from Glu194 which releases a proton from Glu204 into the external medium. The SB is reprotonated by Asp96 which forms the N state. It is important that the second proton comes from Asp96 since its deprotonated state is unstable and rapidly reprotonated with a proton from the cytosol. The protonation of Asp85 and Asp96 causing re-isomerization of the SB forming the O state. Finally, bacteriorhodopsin returns to its resting state when Asp85 releases its proton to Glu204.
+
+
+=== Photophosphorylation ===
+
+PSII also relies on light to drive the formation of proton gradients in chloroplasts, however PSII utilizes vectorial redox chemistry to achieve this goal. Rather than physically transporting protons through the protein, reactions requiring the binding of protons will occur on the extracellular side while reactions requiring the release of protons will occur on the intracellular side. Absorption of photons of 680 nm wavelength is used to excite two electrons in P680 to a higher energy level. These higher energy electrons are transferred to protein-bound plastoquinone (PQA)  and then to unbound plastoquinone (PQB). This reduces plastoquinone (PQ) to plastoquinol (PQH2) which is released from PSII after gaining two protons from the stroma. The electrons in P680 are replenished by oxidizing water through the oxygen-evolving complex (OEC). This results in release of O2 and H+ into the lumen. The total reaction is shown:
+
+  
+    
+      
+        4
+         
+        p
+        h
+        o
+        t
+        o
+        n
+        s
+        (
+        680
+        n
+        m
+        )
+         
+        +
+         
+        2
+        
+          H
+          
+            2
+          
+        
+        O
+         
+        +
+         
+        2
+        P
+        Q
+         
+        +
+         
+        4
+        
+          H
+          
+            +
+          
+        
+        (
+        s
+        t
+        r
+        o
+        m
+        a
+        )
+        ⟶
+        
+          O
+          
+            2
+          
+        
+         
+        +
+         
+        2
+        P
+        Q
+        
+          H
+          
+            2
+          
+        
+         
+        +
+         
+        4
+        
+          H
+          
+            +
+          
+        
+        (
+        l
+        u
+        m
+        e
+        n
+        )
+      
+    
+    {\displaystyle 4\ photons(680nm)\ +\ 2H_{2}O\ +\ 2PQ\ +\ 4H^{+}(stroma)\longrightarrow O_{2}\ +\ 2PQH_{2}\ +\ 4H^{+}(lumen)}
+  After being released from PSII, PQH2 travels to the cytochrome b6f complex which then transfers two electrons from PQH2 to plastocyanin in two separate reactions. The process that occurs is similar to the Q-cycle in Complex III of the electron transport chain. In the first reaction, PQH2 binds to the complex on the lumen side and one electron is transferred to the iron-sulfur center which then transfers it to cytochrome f which then transfers it to plastocyanin. The second electron is transferred to heme bL which then transfers it to heme bH which then transfers it to PQ. In the second reaction, a second PQH2 gets oxidized, adding an electron to another plastocyanin and PQ. Both reactions together transfer four protons into the lumen.
+
+
+=== Oxidative Phosphorylation ===
+
+In the electron transport chain, Complex I (CI) catalyzes the reduction of ubiquinone (UQ) to ubiquinol (UQH2) by the transfer of two electrons from reduced nicotinamide adenine dinucleotide (NADH) which translocates four protons from the mitochondrial matrix to the IMS:
+  
+    
+      
+        N
+        A
+        D
+        H
+        +
+        
+          H
+          
+            +
+          
+        
+        +
+        U
+        Q
+        +
+        4
+        
+          H
+          
+            +
+          
+        
+        (
+        m
+        a
+        t
+        r
+        i
+        x
+        )
+        ⟶
+        N
+        A
+        
+          D
+          
+            +
+          
+        
+        +
+        U
+        Q
+        
+          H
+          
+            2
+          
+        
+        +
+        4
+        
+          H
+          
+            +
+          
+        
+        (
+        I
+        M
+        S
+        )
+      
+    
+    {\displaystyle NADH+H^{+}+UQ+4H^{+}(matrix)\longrightarrow NAD^{+}+UQH_{2}+4H^{+}(IMS)}
+  Complex III (CIII) catalyzes the Q-cycle. The first step involving the transfer of two electrons from the UQH2 reduced by CI to two molecules of oxidized cytochrome c at the Qo site. In the second step, two more electrons reduce UQ to UQH2 at the Qi site. The total reaction is shown:
+
+  
+    
+      
+        2
+         
+        c
+        y
+        t
+        o
+        c
+        h
+        r
+        o
+        m
+        e
+         
+        c
+         
+        (
+        o
+        x
+        i
+        d
+        i
+        z
+        e
+        d
+        )
+         
+        +
+         
+        U
+        Q
+        
+          H
+          
+            2
+          
+        
+         
+        +
+         
+        2
+        
+          H
+          
+            +
+          
+        
+         
+        (
+        m
+        a
+        t
+        r
+        i
+        x
+        )
+        ⟶
+        2
+         
+        c
+        y
+        t
+        o
+        c
+        h
+        r
+        o
+        m
+        e
+         
+        c
+         
+        (
+        r
+        e
+        d
+        u
+        c
+        e
+        d
+        )
+         
+        +
+         
+        U
+        Q
+         
+        +
+         
+        4
+        
+          H
+          
+            +
+          
+        
+         
+        (
+        I
+        M
+        S
+        )
+      
+    
+    {\displaystyle 2\ cytochrome\ c\ (oxidized)\ +\ UQH_{2}\ +\ 2H^{+}\ (matrix)\longrightarrow 2\ cytochrome\ c\ (reduced)\ +\ UQ\ +\ 4H^{+}\ (IMS)}
+  Complex IV (CIV) catalyzes the transfer of two electrons from the cytochrome c reduced by CIII to one half of a full oxygen. Utilizing one full oxygen in oxidative phosphorylation requires the transfer of four electrons. The oxygen will then consume four protons from the matrix to form water while another four protons are pumped into the IMS. The total reaction is shown:
+
+  
+    
+      
+        2
+         
+        c
+        y
+        t
+        o
+        c
+        h
+        r
+        o
+        m
+        e
+         
+        c
+         
+        (
+        r
+        e
+        d
+        u
+        c
+        e
+        d
+        )
+         
+        +
+         
+        4
+        
+          H
+          
+            +
+          
+        
+         
+        (
+        m
+        a
+        t
+        r
+        i
+        x
+        )
+         
+        +
+         
+        1
+        
+          /
+        
+        2
+         
+        
+          O
+          
+            2
+          
+        
+        ⟶
+        2
+         
+        c
+        y
+        t
+        o
+        c
+        h
+        r
+        o
+        m
+        e
+         
+        c
+         
+        (
+        o
+        x
+        i
+        d
+        i
+        z
+        e
+        d
+        )
+         
+        +
+         
+        2
+        
+          H
+          
+            +
+          
+        
+         
+        (
+        I
+        M
+        S
+        )
+         
+        +
+         
+        
+          H
+          
+            2
+          
+        
+        O
+      
+    
+    {\displaystyle 2\ cytochrome\ c\ (reduced)\ +\ 4H^{+}\ (matrix)\ +\ 1/2\ O_{2}\longrightarrow 2\ cytochrome\ c\ (oxidized)\ +\ 2H^{+}\ (IMS)\ +\ H_{2}O}
+  
+
+
+== See also ==
+Concentration cell
+Transmembrane potential difference
+Action potential
+Cell potential
+Electrodiffusion
+Galvanic cell
+Electrochemical cell
+Proton exchange membrane
+
+
+== References ==
+
+Campbell & Reece (2005). Biology. Pearson Benjamin Cummings. ISBN 978-0-8053-7146-8.
+Stephen T. Abedon, "Important words and concepts from Chapter 8, Campbell & Reece, 2002 (1/14/2005)", for Biology 113 at the Ohio State University

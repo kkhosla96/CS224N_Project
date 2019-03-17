@@ -1,0 +1,61 @@
+Phytochemistry is the study of phytochemicals, which are chemicals derived from plants. Those studying phytochemistry strive to describe the structures of the large number of secondary metabolic compounds found in plants, the functions of these compounds in human and plant biology, and the biosynthesis of these compounds. Plants synthesize phytochemicals for many reasons, including to protect themselves against insect attacks and plant diseases. Phytochemicals in food plants are often active in human biology, and in many cases have health benefits.  The compounds found in plants are of many kinds, but most are in four major biochemical classes, the alkaloids, glycosides, polyphenols, and terpenes.
+Phytochemistry can be considered sub-fields of botany or chemistry. Activities can be led in botanical gardens or in the wild with the aid of ethnobotany. The applications of the discipline can be for pharmacognosy, or the discovery of new drugs, or as an aid for plant physiology studies.
+
+
+== Techniques ==
+Techniques commonly used in the field of phytochemistry are extraction, isolation, and structural elucidation (MS,1D and 2D NMR) of natural products, as well as various chromatography techniques (MPLC, HPLC, and LC-MS).
+
+
+== Constituent elements ==
+The list of simple elements of which plants are primarily constructed—carbon, oxygen, hydrogen, calcium, phosphorus, etc.—is not different from similar lists for animals, fungi, or even bacteria.  The fundamental atomic components of plants are the same as for all life; only the details of the way in which they are assembled differs.
+
+
+== Eastern medicine ==
+Phytochemistry is widely used in the field of Chinese medicine especially in the field of herbal medicine.
+Phytochemical technique mainly applies to the quality control of Chinese medicine, Ayurvedic medicine(Indian traditional medicine) or herbal medicine of various chemical components, such as saponins, alkaloids, volatile oils, flavonoids and anthraquinones. In the development of rapid and reproducible analytical techniques, the combination of HPLC with different detectors, such as diode array detector (DAD), refractive index detector (RID), evaporative light scattering detector (ELSD) and mass spectrometric detector (MSD), has been widely developed.
+In most cases, biologically active compounds in Chinese medicine, Ayurveda, or herbal medicine have not been determined. Therefore, it is important to use the phytochemical methods to screen and analyze bioactive components, not only for the quality control of crude drugs, but also for the elucidation of their therapeutic mechanisms. Modern pharmacological studies indicate that binding to receptors or ion channels on cell membranes is the first step of some drug actions. A new method in phytochemistry called biochromatography has been developed. This method combines human red cell membrane extraction and high performance liquid chromatography to screen potential active components in Chinese medicine.
+
+
+== Phytochemicals ==
+Many plants produce chemical compounds for defence against herbivores. These are often useful as drugs, and the content and known pharmacological activity of these substances in medicinal plants is the scientific basis for their use. The major classes of pharmacologically active phytochemicals are described below, with examples of medicinal plants that contain them. Human settlements are often surrounded by weeds useful as medicines, such as nettle, dandelion and chickweed.Many phytochemicals, including curcumin, epigallocatechin gallate, genistein and resveratrol are pan-assay interference compounds and are not useful in drug discovery.
+
+
+=== Alkaloids ===
+
+Alkaloids are bitter-tasting chemicals, very widespread in nature, and often toxic. There are several classes with different modes of action as drugs, both recreational and pharmaceutical. Medicines of different classes include atropine, scopolamine, and hyoscyamine (all from nightshade), the traditional medicine berberine (from plants such as Berberis and Mahonia), caffeine (Coffea), cocaine (Coca), ephedrine (Ephedra), morphine (opium poppy),  nicotine (tobacco), reserpine (Rauwolfia serpentina), quinidine and quinine (Cinchona), vincamine (Vinca minor), and vincristine (Catharanthus roseus).
+
+		
+		
+
+
+=== Glycosides ===
+
+Anthraquinone glycosides are found in the laxatives senna, rhubarb and Aloe.The cardiac glycosides are powerful drugs from plants including foxglove and lily of the valley. They include digoxin and digitoxin which support the beating of the heart, and act as diuretics.
+
+		
+		
+
+
+=== Polyphenols ===
+
+Polyphenols of several classes are widespread in plants. They include the colourful anthocyanins,   hormone-mimicking phytoestrogens, and astringent tannins. In Ayurveda, the astringent rind of the pomegranate is used as a medicine, while polyphenol extracts from plant materials such as grape seeds are sold for their potential health benefits They have been continually studied in cell cultures for their different anti-cancer effects.Plants containing phytoestrogens have been used for centuries to treat  gynaecological disorders such as fertility, menstrual, and menopausal problems. Among these plants are Pueraria mirifica, kudzu, angelica, fennel, and anise.
+
+		
+
+
+=== Terpenes ===
+
+Terpenes and terpenoids of many kinds are found in resinous plants such as the conifers. They are strongly aromatic and serve to repel herbivores. Their scent makes them useful in essential oils, whether for perfumes such as rose and lavender, or for aromatherapy. Some have had medicinal uses: thymol is an antiseptic and was once used as a vermifuge (anti-worm medicine).
+
+		
+
+
+== Major research institutes ==
+Tropical Botanical Garden and Research Institute
+UBC Botanical Garden and Centre for Plant Research
+
+
+== References ==
+
+
+== Literature ==

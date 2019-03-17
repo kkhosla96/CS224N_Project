@@ -1,0 +1,67 @@
+A larva (plural: larvae ) is a distinct juvenile form many  animals undergo before metamorphosis into adults. Animals with indirect development such as insects, amphibians, or cnidarians typically have a larval phase of their life cycle.
+The larva's appearance is generally very different from the adult form (e.g. caterpillars and butterflies) including different unique structures and organs that do not occur in the adult form. Their diet may also be considerably different.
+Larvae are frequently adapted to environments separate from adults. For example, some larvae such as tadpoles live almost exclusively in aquatic environments, but can live outside water as adult frogs. By living in a distinct environment, larvae may be given shelter from predators and reduce competition for resources with the adult population.
+Animals in the larval stage will consume food to fuel their transition into the adult form. In some species like barnacles, adults are immobile but their larvae are mobile, and use their mobile larval form to distribute themselves.
+Some larvae are dependent on adults to feed them. In many eusocial Hymenoptera species, the larvae are fed by female workers. In Ropalidia marginata (a paper wasp) the males are also capable of feeding larvae but they are much less efficient, spending more time and getting less food to the larvae.The larvae of some species (for example, some newts) can become pubescent and do not develop further into the adult form. This is a type of neoteny.
+
+It is a misunderstanding that the larval form always reflects the group's evolutionary history. This could be the case, but often the larval stage has evolved secondarily, as in insects. In these cases the larval form may differ more than the adult form from the group's common origin.
+
+
+== Selected types of larvae ==
+
+
+== Insect larvae ==
+Within Insects, only Endopterygotes show different types of larvae. Several classifications have been suggested by many entomologists, and following classification is based on Antonio Berlese classification in 1913. There are four main types of endopterygote larvae types:
+Apodous larvae – no legs at all and are poorly sclerotized. Based on sclerotization, three apodous forms are recognized.
+Eucephalous – with well sclerotized head capsule. Found in Nematocera, Buprestidae and Cerambycidae families.
+Hemicephalus – with a reduced head capsule, retractable in to the thorax. Found in Tipulidae and Brachycera families.
+Acephalus – without head capsule. Found in Cyclorrhapha
+Protopod larvae – larva have many different forms and often unlike a normal insect form. They hatch from eggs which contains very little yolk. Ex. first instar larvae of parasitic hymenoptera.
+Polypod larvae – also known as eruciform larvae, these larva have abdominal prolegs, in addition to usual thoracic legs. They poorly sclerotized and relatively inactive. They live in close contact with the food. Best example is caterpillars of lepidopterans.
+Oligopod larvae – have well developed head capsule and mouthparts are similar to the adult, but without compound eyes. They have six legs. No abdominal prolegs. Two types can be seen:
+Campodeiform – well sclerotized, dorso-ventrally flattened body. Usually long legged predators with prognathos mouthparts. (lacewing, trichopterans, mayflies and some coleopterans).
+Scarabeiform – poorly sclerotized, flat thorax and abdomen. Usually short legged and inactive burrowing forms. (Scarabaeoidea and other coleopterans).
+
+
+== See also ==
+Crustacean larvae
+Ichthyoplankton
+Spawn (biology)
+Non-larval animal juvenile (immature) stages and other life cycle stages:
+In Porifera: olynthus, gemmule
+In Cnidaria: ephyra, scyphistoma, strobila, gonangium, hydranth, polyp, medusa
+In Mollusca: paralarva, young cephalopods
+In Platyhelminthes: hydatid cyst
+In Bryozoa: avicularium
+In Acanthocephala: cystacanth
+In Insecta:
+Nymphs and naiads, immature forms in hemimetabolous insects
+Subimago, a juvenile that resembles the adult in Ephemeroptera
+Instar, intermediate between each ecdysis
+Pupa and chrysalis, intermediate stages between larva and imago (the adult stage)
+Protozoan life cycle stages
+Apicomplexan life cycle
+Algal life cycle stages:
+Codiolum-phase
+Conchocelis-phase
+Marine larval ecology
+
+
+== References ==
+
+
+== External links ==
+ Media related to Larvae at Wikimedia Commons
+ The dictionary definition of larva at Wiktionary
+Arenas-Mena, C. (2010) Indirect development, transdifferentiation and the macroregulatory evolution of metazoans. Philosophical Transactions of the Royal Society B: Biological Sciences. Feb 27, 2010 Vol.365 no.1540 653-669
+
+
+== Bibliography ==
+Brusca, R. C. & Brusca, G. J. (2003). Invertebrates (2nd ed.). Sunderland, Mass. : Sinauer Associates.
+Hall, B. K. & Wake, M. H., eds. (1999). The Origin and Evolution of Larval Forms. San Diego: Academic Press.
+Leis, J. M. & Carson-Ewart, B. M., eds. (2000). The Larvae of Indo-Pacific Coastal Fishes. An Identification Guide to Marine Fish Larvae. Fauna Malesiana handbooks, vol. 2. Brill, Leiden. 
+Minelli, A. (2009). The larva. In: Perspectives in Animal Phylogeny and Evolution. Oxford University Press. p. 160-170. link.
+Shanks, A. L. (2001). An Identification Guide to the Larval Marine Invertebrates of the Pacific Northwest. Oregon State University Press, Corvallis. 256 pp.
+Smith, D. & Johnson, K. B. (1977). A Guide to Marine Coastal Plankton and Marine Invertebrate Larvae. Kendall/Hunt Plublishing Company.
+Stanwell-Smith, D., Hood, A. & Peck, L. S. (1997). A field guide to the pelagic invertebrates larvae of the maritime Antarctic. British Antarctic Survey, Cambridge.
+Thyssen, P.J. (2010). Keys for Identification of Immature Insects. In: Amendt, J. et al. (ed.). Current Concepts in Forensic Entomology, chapter 2, pp. 25–42. Springer: Dordrecht, [1].

@@ -1,0 +1,53 @@
+A wobble base pair is a pairing between two nucleotides in RNA molecules that does not follow Watson-Crick base pair rules. The four main wobble base pairs are guanine-uracil (G-U), hypoxanthine-uracil (I-U), hypoxanthine-adenine (I-A), and hypoxanthine-cytosine (I-C).  In order to maintain consistency of nucleic acid nomenclature, "I" is used for hypoxanthine because hypoxanthine is the nucleobase of inosine;
+nomenclature otherwise follows the names of nucleobases and their corresponding nucleosides (e.g., "G" for both guanine and guanosine – as well as for deoxyguanosine).  The thermodynamic stability of a wobble base pair is comparable to that of a Watson-Crick base pair. Wobble base pairs are fundamental in RNA secondary structure and are critical for the proper translation of the genetic code.
+
+
+== Brief history ==
+In the genetic code, there are 43 = 64 possible codons (tri-nucleotide sequences). For translation, each of these codons requires a tRNA molecule with a complementary anticodon. If each tRNA molecule is paired with its complementary mRNA codon using canonical Watson-Crick base pairing, then 64 types (species) of tRNA molecule would be required. In the standard genetic code, three of these 64 mRNA codons (UAA, UAG and UGA) are stop codons. These terminate translation by binding to release factors rather than tRNA molecules, so canonical pairing would require 61 species of tRNA.  Since most organisms have fewer than 45 species of tRNA, some tRNA species must pair with more than one codon. In 1966, Francis Crick proposed the Wobble Hypothesis to account for this.  He postulated that the 5' base on the anticodon, which binds to the 3' base on the mRNA, was not as spatially confined as the other two bases, and could, thus, have non-standard base pairing. Crick creatively named it for the small amount of play that occurs at this third codon position. Movement ("wobble") of the base in the 5' anticodon position is necessary for small conformational adjustments that affect the overall pairing geometry of anticodons of tRNA.As an example, yeast tRNAPhe has the anticodon 5'-GmAA-3' and can recognize the codons 5'-UUC-3' and 5'-UUU-3'. It is, therefore, possible for non-Watson–Crick base pairing to occur at the third codon position, i.e., the 3' nucleotide of the mRNA codon and the 5' nucleotide of the tRNA anticodon.
+
+
+=== Wobble hypothesis ===
+These notions led Francis Crick to the creation of the wobble hypothesis, a set of four relationships explaining these naturally occurring attributes.
+
+The first two bases in the codon create the coding specificity, for they form strong Watson-Crick base pairs and bond strongly to the anticodon of the tRNA.
+When reading 5' to 3' the first nucleotide in the anticodon (which is on the tRNA and pairs with the last nucleotide of the codon on the mRNA) determines how many nucleotides the tRNA actually distinguishes.  If the first nucleotide in the anticodon is a C or an A, pairing is specific and acknowledges original Watson-Crick pairing, that is: only one specific codon can be paired to that tRNA. If the first nucleotide is U or G, the pairing is less specific and in fact two bases can be interchangeably recognized by the tRNA. Inosine displays the true qualities of wobble, in that if that is the first nucleotide in the anticodon then any of three bases in the original codon can be matched with the tRNA.
+Due to the specificity inherent in the first two nucleotides of the codon, if one amino acid is coded for by multiple anticodons and those anticodons differ in either the second or third position (first or second position in the codon) then a different tRNA is required for that anticodon.
+The minimum requirement to satisfy all possible codons (61 excluding three stop codons) is 32 tRNAs. That is 31 tRNAs for the amino acids and one initiation codon.
+
+
+=== tRNA base pairing schemes ===
+The original wobble pairing rules, as proposed by Crick. Watson-Crick base pairs are shown in bold, wobble base pairs in italic:
+Revised pairing rules
+A leading x denotes derivatives of the following. Parentheses denote bindings that work but will be favoured less.
+In addition, pseudouridine (Ψ) is able to pair with any standard base C, G, A or U. However, Ψ plays a special role inside RNA which is not yet fully understood.
+
+
+== Biological importance ==
+Aside from the obvious necessity of wobble, that our bodies have a limited amount of tRNAs and wobble allows for broad specificity, wobble base pairs have been shown to facilitate many biological functions, most clearly proven in the bacterium Escherichia coli.  In fact, in a study of E. coli's tRNA for alanine there is a wobble base pair that determines whether the tRNA will be aminoacylated.  When a tRNA reaches an aminoacyl tRNA synthetase, the job of the synthetase is to join the t-shaped RNA with its amino acid.  These aminoacylated tRNAs go on to the translation of an mRNA transcript, and are the fundamental elements that connect to the codon of the amino acid. The necessity of the wobble base pair is illustrated through experimentation where the Guanine-Uracil pairing is changed to its natural Guanine-Cytosine pairing.  Oligoribonucleotides were synthesized on a Gene Assembler Plus, and then spread across a DNA sequence known to code a tRNA for alanine, 2D-NMRs are then run on the products of these new tRNAs and compared to the wobble tRNAs.  The results indicate that with that wobble base pair changed, structure is also changed and an alpha helix can no longer be formed.  The alpha helix was the recognizable structure for the aminoacyl tRNA synthetase and thus the synthetase does not connect the amino acid alanine with the tRNA for alanine.  This wobble base pairing is essential for the use of the amino acid alanine in E. coli and its significance here would imply significance in many related species.  More information can be seen on aminoacyl tRNA synthetase and the genomes of E. coli tRNA at the External links, Information on Aminoacyl tRNA Synthetases and Genomic tRNA Database.
+
+
+== Mutation ==
+A synonymous codon is one that, despite a small mutation, codes for the same amino acid. In the case of leucine, it has six codons that it will respectively identify as leucine, so if the original codon on the DNA sequence was C-U-A and there was a small mutation in the DNA sequence that led to a C-U-U codon, then leucine would still recognize that codon and translate the mRNA transcript. Codons in that sense are said to be synonymous. In most cases, if the last nucleotide in the codon is changed it generally codes for the same amino acid. Occasionally, if one uses the last example of leucine one sees that if the C-U-A codon is changed to U-U-A it still codes for leucine. These would also be synonymous codons and show that even a base as important as the first can be changed, and because of Wobble the same amino acid anticodon will still be paired with the resulting codon. Wobble cannot indirectly correct some mutations; many times a base pair is changed, and the codon codes for a different amino acid, creating mutations in the whole genome. If the mutation is for an amino acid with similar qualities, such as hydrophobic or polar tendencies, then there is a strong possibility that the resulting protein will resemble much of the same structure. But in cases like sickle-cell disease there is a single nucleotide polymorphism that results in an amino acid switch from glutamine to valine and that yields an entirely sickled red blood cell with limited capacity to carry oxygen.
+
+
+== Evolutionary importance ==
+Codon bias is the tendency of genomes to prefer one particular codon for an amino acid over all the others. For example, leucine has 6 codons, and if one of them was favored in the genome it would be an example of codon bias. In many studies, most specifically known was the research efforts of a Bioinformatics and Proteomics Institute at the University of Toledo, it has been proven that a guanine- and cytosine-rich genome is preferred from an evolutionary standpoint. In this study they measured the Codon Adaptation Index, which is the geometric weight of the specific codon over the whole geometric weight of the genome, and found the CAI's for every codon among separate sets of organisms, namely humans, zebrafish, mice, and chickens. The results indicated that the codons with the highest CAI's represented the preferred codon, or the codon that receives the bias, and that these were codons rich in guanine and cytosine. The most apparent evidence of this was in leucine which showed that the two codons which began with uracil represented a much smaller percentage than the codons that began with cytosine. This and many other examples set forth in the research demonstrated a trend toward guanine and cytosine in the genome and that these bases were evolutionarily superior and that held constant across all genomes.
+
+
+== See also ==
+Base pair
+Hoogsteen base pair
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== External links ==
+tRNA, the Adaptor Hypothesis and the Wobble Hypothesis
+Wobble base-pairing between codons and anticodons
+Genetic Code and Amino Acid Translation
+Information of Aminoacyl tRNA Synthetases
+Genomic tRNA Database

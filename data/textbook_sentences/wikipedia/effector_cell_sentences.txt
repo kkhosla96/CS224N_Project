@@ -1,0 +1,29 @@
+An effector cell is any of various types of cell that actively responds to a stimulus and effects some change (brings it about).
+Examples of effector cells include:
+
+The muscle, gland or organ cell capable of responding to a stimulus at the terminal end of an efferent nerve fiber
+Plasma cell, an effector B cell in the immune system
+Effector T cells, T cells that actively respond to a stimulus
+Cytokine-induced killer cells, strongly productive cytotoxic effector cells that are capable of lysing tumor cells
+Microglia, a glial effector cell that reconstructs the Central nervous system after a bone marrow transplant
+Fibroblast, a cell that is most commonly found within connective tissue
+Mast cell, the primary effector cell involved in the development of asthma
+
+
+== Cytokine-Induced Killer Cells as Effector Cells ==
+As an effector cell, cytokine-induced killer cells can recognize infected or malignant cells even when antibodies and MHC are not available. This allows a quick immune reaction to take place. Cytokine-Induced killer cells are important because harmful cells that do not contain MHC cannot be traced and removed by other immune cells. CIK cells are being studied intensely as a possible therapy treatment for cancer and other types of viral infections. CIK cells respond to lymphokines by lysing tumorous cells that are resistant to NK cells or LAK cell activity. CIK cells show a large amount of cytotoxic potential against various types of tumors. Side effects of CIK cells are also considered very minor. In a few cases, CIK cell treatment lead to the complete disappearance of tumor burdens, extended periods of survival, and improved quality of life, even if the cancerous tumor cells were in advanced stages. At the moment, the exact mechanism of tumor recognition in CIK cells are not completely understood.
+
+
+== Fibroblast as Effector Cells ==
+Fibroblast are types of cells that form the extracellular matrix and collagen. Fibroblasts are the most common connective tissues in animals. They have branched cytoplasm surrounding their nucleus, which contain two or more nucleoli. Fibroblasts play a key role when responding to tissue injury. They initiate inflammation in the presence of foreign microorganisms. Receptors found on the surface of fibroblasts regulate hematopoietic cells, start chemokine synthesis, and provide a pathway that allows immune cells to regulate the fibroblast cells. Fibroblasts are also known as tumor mediators. They suppress the tumor as an inflammatory response.
+
+
+== Microglia as Effector Cells ==
+Microglia are located throughout the brain and spinal cord. They are the first line of immune defense in the CNS. Microglia are of utmost importance in brain maintenance. They constantly search around the CNS for any type of plaques, damaged neurons, and infections. Microglia are extremely sensitive forms of effector cells, because they must be alert enough to address possible life-threatening damage. This sensitivity is caused by unique forms of potassium channels. Microglia must always be capable of recognizing any foreign bodies, engulf them, and activate T-cells. Microglia can be found under a variety of different shapes and sizes, based on the location where they are found. The vast amount of shapes are required for the microglia to carry out their primary function. Microglia are distinguishable from macrophages because of their ability to transform, which allows them to protect the CNS under relatively short amounts of time. Microglia take on a unique phenotype when they detect local chemical signals. Microglia have a variety of different functions required to maintain homeostasis in the host body.
+
+
+== Mast Cells as Effector Cells ==
+A mast cell is a white blood cell. Mast cells are protective cells that are involved in wound healing and blood-brain barrier function. Mast cells are very similar to basophils, and mast cells once were mistaken for them. It is proven that the two cells have different lineages. Mast cells respond to pathogenic parasites through Immunoglobin E signaling. These cells play a role in the inflammatory process. They can either release selective amounts or rapid amounts of compounds that induce inflammation from granules. Mast cells are inactive during allergic reactions unless an allergen binds to Immunoglobin E.
+
+
+== References ==

@@ -1,0 +1,20 @@
+In chemistry, a dehydration reaction is a conversion that involves the loss of water from the reacting molecule or ion.  Dehydration reactions are common processes, the reverse of a hydration reaction. Common dehydrating agents used in organic synthesis include sulfuric acid and alumina.  Often dehydration reactions are effected with heating.
+
+
+== Dehydration reactions ==
+The classic example of a dehydration reaction is the Fischer esterification, which involves treating a carboxylic acid with an alcohol in the presence of a dehydrating agent:
+
+RCO2H + R′OH ⇌ RCO2R′ + H2OTwo monosaccharides, such as glucose and fructose, can be joined together (to form sucrose) using dehydration synthesis. The new molecule, consisting of two monosaccharides, is called a disaccharide.
+The process of hydrolysis is the reverse reaction, meaning that the water is recombined with the two hydroxyl groups and the disaccharide reverts to being monosaccharides.
+In the related condensation reaction water is released from two different reactants.
+
+In organic synthesis, there are many examples of dehydration reaction, for example dehydration of alcohols or sugars.
+
+Other examples of dehydration synthesis reactions are the formation of triglycerides from fatty acids and the formation of glycosidic bonds between carbohydrate molecules, such as the formation of maltose from two glucose molecules.
+
+
+== See also ==
+Hydration reaction
+
+
+== References ==

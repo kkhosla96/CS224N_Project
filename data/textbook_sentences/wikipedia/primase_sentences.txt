@@ -1,0 +1,40 @@
+DNA primase is an enzyme involved in the replication of DNA and is a type of RNA polymerase. Primase catalyzes the synthesis of a short RNA (or DNA in some organisms ) segment called a primer complementary to a ssDNA (single-stranded DNA) template. Primase is of key importance in DNA replication because no known replicative DNA polymerases can initiate the synthesis of a DNA strand without an initial RNA or DNA primer (for temporary DNA elongation). After this elongation, the RNA piece is removed by a 5' to 3' exonuclease and refilled with DNA.
+
+
+== Function ==
+In bacteria, primase binds to the DNA helicase forming a complex called the primosome.  Primase is activated by the helicase where it then synthesizes a short RNA primer approximately 11 ±1 nucleotides long, to which new nucleotides can be added by DNA polymerase.
+The RNA segments are first synthesized by primase and then elongated by DNA polymerase. Then the DNA polymerase forms a protein complex with two primase subunits to form the alpha DNA Polymerase primase complex. Primase is one of the most error prone and slow polymerases. Primases in organisms such as E. coli synthesize around 2000 to 3000 primers at the rate of one primer per second.  Primase also acts as a halting mechanism to prevent the leading strand from outpacing the lagging strand by halting the progression of the replication fork. The rate determining step in primase is when the first phosphodiester bond is formed between two molecules of RNA. 
+The crystal structure of primase in E. coli with a core containing the DnaG protein was determined in the year 2000.  The DnaG and primase complex is cashew shaped and contains three subdomains.  The central subdomain forms a toprim fold which is made of a mixture five beta sheets and six alpha helices.  The toprim fold is used for binding regulators and metals. The primase uses a phosphotransfer domain for the transfer coordination of metals, which makes it distinct from other polymerases.  The side subunits contain a NH2 and COOH terminal made of alpha helixes and beta sheets. The NH2 terminal interacts with a zinc binding domain and COOH-terminal region which interacts with DnaB-ID.  
+The replication mechanisms differ between different bacteria and viruses where the primase covalently link to helicase in viruses such as the T7 bacteriophage. In viruses such as the herpes simplex virus (HSV-1), primase can form complexes with helicase. The primase-helicase complex is used to unwind dsDNA (double-stranded) and synthesizes the lagging strand using RNA primers The majority of primers synthesized by primase are two to three nucleotides long.
+
+
+== Multifunctional primases ==
+In addition to priming DNA during replication, primases may have additional functions in the DNA replication process, such as polymerization of DNA or RNA, terminal transfer, translesion synthesis (TLS), non-homologous end joining (NHEJ) and may also be involved in restarting stalled replication forks. Primases typically synthesize primers from ribonucleotides (NTPs); however, primases with polymerase capabilities also have an affinity for deoxyribonucleotides (dNTPs). Primases with terminal transferase functionality are capable of adding nucleotides to the 3’ end of a DNA strand independently of a template. Other enzymes involved in DNA replication, such as helicases, may also exhibit primase activity.Eukaryote and archaeal primases tend to be more similar to each other, in terms of structure and mechanism, than they are to bacterial primases. The archaea-eukaryotic primase (AEP) superfamily, which most eukaryal and archaeal primases belong to, has recently been redefined as a primase-polymerase family in recognition of the many roles played by enzymes in this family. This classification also emphasizes the broad origins of AEP primases; the superfamily is now recognized as transitioning between RNA and DNA functions. While bacterial primases (DnaG-type) are composed of a single protein unit (a monomer) and synthesize RNA primers, AEP primases are usually composed of two different primase units (a heterodimer) and synthesize two-part primers with both RNA and DNA components.
+
+
+=== In eukaryotes ===
+Eukaryotic primases belong to the AEP superfamily.Human PrimPol (ccdc111) serves both primase and polymerase functions, like many archaeal primases; exhibits terminal transferase activity in the presence of manganese; and plays a significant role in translesion synthesis and in restarting stalled replication forks. PrimPol is actively recruited to damaged sites through its interaction with RPA, an adapter protein that facilitates DNA replication and repair.PrimPol has a zinc finger domain similar to that of some viral primases, which is essential for translesion synthesis and primase activity and may regulate primer length. Unlike most primases, PrimPol is uniquely capable of starting DNA chains with dNTPs.
+
+
+=== In archaea ===
+Archaeal primases tend to belong to the AEP superfamily, although some DnaG-like (bacteria-like) primases have been found in archaeal genomes.PriS, the archaeal primase small subunit, has a role in translesion synthesis (TLS) and can bypass common DNA lesions. Most archaea lack the specialized polymerases that perform TLS in eukaryotes and bacteria. PriS alone preferentially synthesizes strings of DNA; but in combination with PriL, the large subunit, RNA polymerase activity is increased.In Sulfolobus solfataricus, the primase heterodimer PriSL can act as a primase, polymerase, and terminal transferase. PriSL is thought to initiate primer synthesis with NTPs and then switch to dNTPs. The enzyme can polymerize RNA or DNA chains, with DNA products reaching as long as 7000 nucleotides (7 kb). It is suggested that this dual functionality may be a common feature of archaeal primases.Archaeal primase PolpTN2, a fusion of domains homologous to PriS and PriL, exhibits both primase and DNA polymerase activity, as well as terminal transferase function. Unlike most primases, PolpTN2 forms primers composed exclusively of dNTPs.
+
+
+=== In bacteria ===
+Bacterial primases belong to a superfamily of DnaG-type primases, which are structurally distinct from primases in the AEP superfamily. While functionally similar, the two primase superfamilies evolved independently of each other.
+Bacterial LigD, primarily involved in non-homologous end joining repair pathways, is also capable of primase, DNA and RNA polymerase, and terminal transferase activity. DNA polymerization activity can produce chains over 7000 nucleotides (7 kb) in length, while RNA polymerization produces chains up to 1 kb long.BcMCM is a bacterial multifunctional complex composed of fused helicase and primase domains. The enzyme has both primase and polymerase functions in addition to helicase function.
+
+
+== Types ==
+dnaG
+AEP
+
+
+== References ==
+
+
+== External links ==
+Overview article on primase structure and function (1995)
+DNA+Primase at the US National Library of Medicine Medical Subject Headings (MeSH)
+Proteopedia: Helicase-binding domain of Escherichia coli primase
+Proteopedia: Complex between the DnaB helicase and the DnaG primase

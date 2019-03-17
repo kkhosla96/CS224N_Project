@@ -1,0 +1,18 @@
+A basal body (synonymous with basal granule, kinetosome, and in older cytological literature with blepharoplast) is a protein structure found at the base of a eukaryotic undulipodium (cilium or flagellum). It is formed from a centriole and several additional protein structures, and is, essentially, a modified centriole. The basal body serves as a nucleation site for the growth of the axoneme microtubules.  Centrioles, from which basal bodies are derived, act as anchoring sites for proteins that in turn anchor microtubules, and are known as the microtubule organizing center (MTOC). These microtubules provide structure and facilitate movement of vesicles and organelles within many eukaryotic cells.
+
+
+== Assembly, structure ==
+Cilia and basal bodies form during quiescence or the G1 phase of the cell cycle. Before the cell enters G1 phase, i.e. before the formation of the cilium, the mother centriole serves as a component of the centrosome.
+In cells that are destined to have only one primary cilium, the mother centriole differentiates into the basal body upon entry into G1 or quiescence. Thus, the basal body in such a cell is derived from the centriole. 
+The basal body differs from the mother centriole in at least 2 aspects. First, basal bodies have basal feet, which are anchored to cytoplasmic microtubules and are necessary for polarized alignment of the cilium. Second, basal bodies have pinwheel-shaped transition fibers that originate from the appendages of mother centriole.In multiciliated cells, however, in many cases basal bodies are not made from centrioles but are generated de novo from a special protein structure called the deuterosome.
+
+
+== Function ==
+During cell cycle quiescence, basal bodies organize primary cilia and reside at the cell cortex in proximity to plasma membrane. On cell cycle entry, cilia resorb and the basal body migrates to the nucleus where it functions to organize centrosomes. Centrioles, basal bodies, and cilia are important for mitosis, polarity, cell division, protein trafficking, signaling, motility, and sensation.Mutations in proteins that localize to basal bodies are associated with several human ciliary diseases, including Bardet–Biedl syndrome, orofaciodigital syndrome, Joubert syndrome, cone-rod dystrophy, Meckel syndrome, and nephronophthisis.Regulation of basal body production and spatial orientation is a function of the nucleotide-binding domain of γ-tubulin.Plants lack centrioles and only lower plants (such as mosses and ferns) with motile sperm have flagella and basal bodies.
+
+
+== References ==
+
+
+== External links ==
+Histology image: 21804loa – Histology Learning System at Boston University - "Ultrastructure of the Cell: ciliated epithelium, cilia and basal bodies"

@@ -1,0 +1,47 @@
+Yeast artificial chromosomes (YACs) are genetically engineered chromosomes derived from the DNA of the yeast, Saccharomyces cerevisiae, which is then ligated into a bacterial plasmid. By inserting large fragments of DNA, from 100–1000 kb, the inserted sequences can be cloned and physically mapped using a process called chromosome walking. This is the process that was initially used for the Human Genome Project, however due to stability issues, YACs were abandoned for the use of Bacterial artificial chromosomes (BAC). Beginning with the initial research of the Rankin et al., Strul et al., and Hsaio et al., the inherently fragile chromosome was stabilized by discovering the necessary autonomously replicating sequence (ARS); a refined YAC utilizing this data was described in 1983 by Murray et al. The primary components of a YAC are the ARS, centromere, and telomeres from S. cerevisiae. Additionally, selectable marker genes, such as antibiotic resistance and a visible marker, are utilized to select transformed yeast cells. Without these sequences, the chromosome will not be stable during extracellular replication, and would not be distinguishable from colonies without the vector.
+
+
+== Construction ==
+A YAC is built using an initial circular DNA plasmid, which is typically cut into a linear DNA molecule using restriction enzymes; DNA ligase is then used to ligate a DNA sequence or gene of interest into the linearized DNA, forming a single large, circular piece of DNA. The basic generation of linear yeast artificial chromosomes can be broken down into 6 main steps:
+1. Ligation of selectable marker into plasmid vector: this allows for the differential selection of colonies with, or without the marker gene
+An antibiotic resistance gene allows the YAC vector to be amplified and selected for in E. coli by rescuing the ability of mutant E. coli to synthesize leucine in the presence of the necessary components within the growth medium. TRP1 and URA3 genes are other selectable markers. The YAC vector cloning site for foreign DNA is located within the SUP4 gene. This gene compensates for a mutation in the yeast host cell that causes the accumulation of red pigment. The host cells are normally red, and those transformed with YAC only, will form colorless colonies. Cloning of a foreign DNA fragment into the YAC causes insertional inactivation of the gene, restoring the red color. Therefore, the colonies that contain the foreign DNA fragment are red.2. Ligation of necessary centromeric sequences for mitotic stability 
+3. Ligation of Autonomously Replicating Sequences (ARS) providing an origin of replication to undergo mitotic replication.
+This allows the plasmid to replicate extrachromosomally, but renders the plasmid highly mitotically unstable, and easily lost without the centromeric sequences.4.  Ligation of artificial telomeric sequences to convert circular plasmid into a linear piece of DNA 5. Insertion of DNA sequence to be amplified (up to 1000kb)
+6. Transformation yeast colony 
+
+
+== Full chromosome III ==
+In March 2014, Jef Boeke of the Langone Medical Centre at New York University, published that his team has synthesized one of the S. cerevisiae 16 yeast chromosomes, the chromosome III, that he named synIII. The procedure involved replacing the genes in the original chromosome with synthetic versions and the finished synthesized chromosome was then integrated into a yeast cell. It required designing and creating 273,871 base pairs of DNA - fewer than the 316,667 pairs in the original chromosome.
+
+
+== Uses in biotechnology ==
+Yeast expression vectors, such as YACs, YIps (yeast integrating plasmids), and YEps (yeast episomal plasmids), have an advantage over bacterial artificial chromosomes (BACs) in that they can be used to express eukaryotic proteins that require posttranslational modification. By being able to insert large fragments of DNA, YACs can be utilized to clone and assemble the entire genomes of an organism. With the insertion of a YAC into yeast cells, they can be propagated as linear artificial chromosomes, cloning the inserted regions of DNA in the process. With this completed, two process can be used to obtain a sequenced genome, or region of interest:
+1. Physical Mapping
+2. Chromosome WalkingThis is significant in that it allows for the detailed mapping of specific regions of the genome. Whole human chromosomes have been examined, such as the X chromosome, generating the location of genetic markers for numerous genetic disorders and traits.
+
+
+== The Human Genome Project ==
+YACs are significantly less stable than BACs, producing "chimeric effects": artifacts where the sequence of the cloned DNA actually corresponds not to a single genomic region but to multiple regions. Chimerism may be due to either co-ligation of multiple genomic segments into a single YAC, or recombination of two or more YACs transformed in the same host Yeast cell. The incidence of chimerism may be as high as 50%. Other artifacts are deletion of segments from a cloned region, and rearrangement of genomic segments (such as inversion). In all these cases, the sequence as determined from the YAC clone is different from the original, natural sequence, leading to inconsistent results and errors in interpretation if the clone's information is relied upon. Due to these issues, the Human Genome Project ultimately abandoned the use of YACs and switched to bacterial artificial chromosomes, where the incidence of these artifacts is very low. In addition to stability issues, specifically the relatively frequent occurrence of chimeric events, YACs proved to be inefficient when generating the minimum tiling path covering the entire human genome. Generating the clone libraries is time consuming. Also, due to the nature of the reliance on sequence tagged sites (STS) as a reference point when selecting appropriate clones, there are large gaps that need further generation of libraries to span. It is this additional hindrance that drove the project to utilize BACs instead. This is due to two factors:1) BACs are much quicker to generate, and when generating redundant libraries of clones, this is essential
+2) BACs allow more dense coverage with STSs, resulting in more complete and efficient minimum tiling paths generated in silico.
+However, it is possible to utilize both approaches, as was demonstrated when the genome of the nematode, C. elegans. There majority of the genome was tiled with BACs, and the gaps filled in with YACs.
+
+
+== See also ==
+Bacterial artificial chromosome (BAC)
+Cosmid
+Fosmid
+Genetic engineering
+Human artificial chromosome
+Autonomously replicating sequence(ARS)
+Cloning Vector
+
+
+== References ==
+
+
+== External links ==
+Yeast+Artificial+Chromosomes at the US National Library of Medicine Medical Subject Headings (MeSH)
+North Dakota State University Cloning and Cloning Vectors Resource
+Molecular Cell Biology 4th Edition [NCBI Database]: DNA Cloning with Plasmid Vectors, Ch. 7
+Washington University Genome Institute
+Saccharomyces Genome Database
