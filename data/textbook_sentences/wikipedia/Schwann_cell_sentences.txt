@@ -1,0 +1,75 @@
+Schwann cells or neurolemmocytes are the principal glia of the peripheral nervous system (PNS). Glial cells function to support neurons and in the PNS, also include satellite cells, olfactory ensheathing cells, enteric glia and glia that reside at sensory nerve endings, such as the Pacinian corpuscle. The two types of Schwann cells are myelinating and nonmyelinating.  Myelinating Schwann cells wrap around axons of motor and sensory neurons to form the myelin sheath.
+The Schwann cell promoter is present in the downstream region of the human dystrophin gene that gives shortened transcript that are again synthesized in a tissue-specific manner.
+During the development of the PNS, the regulatory mechanisms of myelination are controlled by feedforward interaction of specific genes, influencing transcriptional cascades and shaping the morphology of the myelinated nerve fibers.Schwann cells are involved in many important aspects of peripheral nerve biology—the conduction of nervous impulses along axons, nerve development and regeneration, trophic support for neurons, production of the nerve extracellular matrix, modulation of neuromuscular synaptic activity, and presentation of antigens to T-lymphocytes.
+They are named after physiologist Theodor Schwann.
+Charcot–Marie–Tooth disease, Guillain–Barré syndrome (acute inflammatory demyelinating polyradiculopathy type), schwannomatosis, chronic inflammatory demyelinating polyneuropathy, and leprosy are all neuropathies involving Schwann cells.
+
+
+== Structure ==
+Schwann cells are a variety of glial cells that keep peripheral nerve fibres (both myelinated and unmyelinated) alive. In myelinated axons, Schwann cells form the myelin sheath. The sheath is not continuous. Individual myelinating Schwann cells cover about 100 μm of an axon—equating to about 10,000 Schwann cells along a 1-m length of the axon. The gaps between adjacent Schwann cells are called nodes of Ranvier.
+9-O-Acetyl GD3 ganglioside is an acetylated glycolipid which is found in the cell membranes of many types of vertebrate cells. During peripheral nerve regeneration, 9-O-acetyl GD3 is expressed by Schwann cells.
+
+
+== Function ==
+The vertebrate nervous system relies on the myelin sheath for insulation and as a method of decreasing membrane capacitance in the axon. The action potential jumps from node to node, in a process called saltatory conduction, which can increase conduction velocity up to 10 times, without an increase in axonal diameter. In this sense, Schwann cells are the PNS's analogues of the central nervous system's oligodendrocytes. However, unlike oligodendrocytes, each myelinating Schwann cell provides insulation to only one axon (see image). This arrangement permits saltatory conduction of action potentials with repropagation at the nodes of Ranvier. In this way, myelination greatly increases speed of conduction and saves energy.Nonmyelinating Schwann cells are involved in maintenance of axons and are crucial for neuronal survival. Some group around smaller axons (External image here) and form Remak bundles.
+Myelinating Schwann cells begin to form the myelin sheath in mammals during fetal development and work by spiraling around the axon, sometimes with as many as 100 revolutions.  A well-developed Schwann cell is shaped like a rolled-up sheet of paper, with layers of myelin between each coil. The inner layers of the wrapping, which are predominantly membrane material, form the myelin sheath, while the outermost layer of nucleated cytoplasm forms the neurilemma. Only a small volume of residual cytoplasm allows communication between the inner and outer layers. This is seen histologically as the Schmidt-Lantermann incisure.
+
+
+=== Regeneration ===
+Schwann cells are known for their roles in supporting nerve regeneration. Nerves in the PNS consist of many axons myelinated by Schwann cells. If damage occurs to a nerve, the Schwann cells aid in digestion of its axons (phagocytosis). Following this process, the Schwann cells can guide regeneration by forming a type of tunnel that leads toward the target neurons. This tunnel is known as band of Büngner, a guidance track for the regenerating axons, which behaves like an endoneural tube. The stump of the damaged axon is able to sprout, and those sprouts that grow through the Schwann-cell “tunnel” do so at the rate around 1 mm/day in good conditions. The rate of regeneration decreases with time. Successful axons can, therefore, reconnect with the muscles or organs they previously controlled with the help of Schwann cells, but specificity is not maintained and errors are frequent, especially when long distances are involved. Because of their ability to impact regeneration of axons, Schwann cells have been connected to preferential motor reinnervation, as well. 
+If Schwann cells are prevented from associating with axons, the axons die. Regenerating axons will not reach any target unless Schwann cells are there to support them and guide them. They have been shown to be in advance of the growth cones.  
+
+Schwann cells are essential for the maintenance of healthy axons. They produce a variety of factors, including neurotrophins, and also transfer essential molecules across to axons.
+
+
+== Genetics ==
+
+
+=== Schwann cell formation ===
+
+
+==== Sox10 ====
+SOX10 is a transcription factor active during embryonic development and abundant evidence indicates that it is essential for the generation of glial lineages from trunk crest cells. When SOX10 is inactivated in mice, satellite glia and Schwann cell precursors fail to develop, though neurons are generated normally without issue. In the absence of SOX10, neural crest cells survive and are free to generate neurons, but glial specification is blocked. SOX10 might influence early glial precursors to respond to neuregulin 1 (see below).
+
+
+==== Neuregulin 1 ====
+Neuregulin 1 (NRG1) acts in a number of ways to both promote the formation and ensure the survival of immature Schwann cells. During embryonic development, NRG1 inhibits the formation of neurons from neural crest cells, instead contributing to neural crest cells being led down a path to gliogenesis. NRG1 signaling is not, however, required for glial differentiation from the neural crest.NRG1 plays important roles in the development of neural crest derivatives. It is required for neural crest cells to migrate past the site of dorsal root ganglia to find the ventral regions of sympathetic gangliogenesis. It is also an essential axon-derived survival factor and a mitogen for Schwann cell precursors. It is found in the dorsal root ganglion and motor neurons at the point in time that Schwann cell precursors begin to populate spinal nerves and therefore influences Schwann cell survival. In embryonic nerves, the transmembrane III isoform likely is the primary variant of NRG1 responsible for survival signals. In mice that lack the transmembrane III isoform, Schwann cell precursors are eventually eliminated from spinal nerves.
+
+
+=== Formation of myelin sheath ===
+
+
+==== P0 ====
+Myelin protein zero (P0) is a cell-adhesion molecule belonging to the immunoglobulin superfamily and is the major component of peripheral myelin, constituting over 50% of the total protein in the sheath. P0 has been shown to be essential for the formation of compact myelin, as P0 null mutant (P0-) mice showed severely aberrant peripheral myelination.  Although myelination of large caliber axons was initiated in P0- mice, the resulting myelin layers were very thin and poorly compacted.  Unexpectedly, P0- mice also showed degeneration of both axons and their surround myelin sheaths, suggesting that P0 plays a role in maintaining the structural integrity of both myelin formation and the axon with which it’s associated.  P0- mice developed behavioral deficits around 2 weeks of age when mice began to show signs of slight trembling.  Gross incoordination also arose as the animals developed, while trembling became more severe and some older mice developed convulsing behaviors.  Despite the array of impaired motor behavior, no paralysis was observed in these animals.  P0 is also an important gene expressed early within the Schwann cell lineage, expressed in Schwann cell precursors after differentiating from migrating neural crest cells within the developing embryo.
+
+
+==== Krox-20 ====
+Several important transcription factors are also expressed and involved at various stages in development changing the features on the Schwann cells from an immature to mature state. One indispensable transcription factor expressed during the myelination process is Krox-20. It is a general zinc-finger transcription factor and is expressed in the rhombomeres 3 and 5.
+Krox-20 is considered as one of the master regulators of PNS myelination and is important in driving transcription of specific structural proteins in the myelin. It has been shown to control a set of genes responsible for interfering with this feature in the axon changing it from a pro-myelinating to myelinating state. In this way, in Krox-20 double knock out mice, it has been recorded that hindbrain segmentation is affected as well as myelination of Schwann cell associated axons. Indeed, in these mice, the Schwann cells are not able to perform their myelination properly as they only wrap their cytoplasmic processes one and half turn around the axon and despite the fact that they still express the early myelin marker, late myelin gene products are absent. In addition, recent studies have also proven the importance of this transcription factor in maintaining the myelination phenotype (and requires the co-expression of Sox 10) as its inactivation leads to dedifferentiation of the Schwann cells.
+
+
+== Clinical significance ==
+Charcot–Marie–Tooth disease (CMT), Guillain–Barré syndrome (GBS, acute inflammatory demyelinating polyradiculopathy type), schwannomatosis, and chronic inflammatory demyelinating polyneuropathy (CIDP), and leprosy are all neuropathies involving Schwann cells.
+
+
+=== Transplantation ===
+A number of experimental studies since 2001 have implanted Schwann cells in an attempt to induce remyelination in multiple sclerosis-afflicted patients. In the past two decades, many studies have demonstrated positive results and potential for Schwann cell transplantation as a therapy for spinal cord injury, both in aiding regrowth and myelination of damaged CNS axons.  Schwann cell transplants in combination with other therapies such as Chondroitinase ABC have also been shown to be effective in functional recovery from spinal cord injury.
+
+
+== See also ==
+Electrophysiology
+Hodgkin–Huxley model
+Mesaxon
+Neurotransmission
+Olfactory ensheathing cell
+Schwannoma
+List of human cell types derived from the germ layers
+
+
+== References ==
+
+
+== External links ==
+Diagram at clc.uc.edu
+Histology image: 21301loa – Histology Learning System at Boston University—"Ultrastructure of the Cell: myelinated axon and Schwann cell"
+Cell Centered Database – Schwann cell

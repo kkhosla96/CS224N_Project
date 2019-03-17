@@ -1,0 +1,255 @@
+In chemical thermodynamics, an endergonic reaction (also called a heat absorb nonspontaneous reaction or an unfavorable reaction) is a chemical reaction in which the standard change in free energy is positive, and energy is absorbed. In layman's terms, the total amount of energy is a loss (it takes more energy to start the reaction than what you get out of it) so the total energy is a negative net result. For an overall gain in the net result see exergonic reaction. Another way to phrase this is that energy is absorbed from the surroundings into the workable system.
+Under constant temperature and constant pressure conditions, this means that the change in the standard Gibbs free energy would be positive,
+
+  
+    
+      
+        Δ
+        
+          G
+          
+            ∘
+          
+        
+        >
+        0
+      
+    
+    {\displaystyle \Delta G^{\circ }>0}
+  for the reaction at standard state (i.e. at standard pressure (1 bar), and standard concentrations (1 molar) of all the reagents).
+In metabolism, an endergonic process is anabolic, meaning that energy is stored; in many such anabolic processes energy is supplied by coupling the reaction to adenosine triphosphate (ATP) and consequently resulting in a high energy, negatively charged organic phosphate and positive adenosine diphosphate.
+
+
+== Equilibrium constant ==
+The equilibrium constant for the reaction is related to ΔG°  by the relation:
+
+  
+    
+      
+        K
+        =
+        
+          e
+          
+            −
+            
+              
+                
+                  Δ
+                  
+                    G
+                    
+                      ∘
+                    
+                  
+                
+                
+                  R
+                  T
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle K=e^{-{\frac {\Delta G^{\circ }}{RT}}}}
+  where T is the absolute temperature and R is the gas constant.  A positive value of ΔG° therefore implies
+
+  
+    
+      
+        K
+        <
+        1
+        
+      
+    
+    {\displaystyle K<1\,}
+  so that starting from molar stoichiometric quantities such a reaction would move backwards toward equilibrium, not forwards.
+Nevertheless, endergonic reactions are quite common in nature, especially in biochemistry and physiology. Examples of endergonic reactions in cells include protein synthesis, and the Na+/K+ pump which drives nerve conduction and muscle contraction.
+
+
+== Gibbs free energy for endergonic reactions ==
+All physical and chemical systems in the universe follow the second law of thermodynamics and proceed in a downhill, i.e., exergonic, direction.  Thus, left to itself, any physical or chemical system will proceed, according to the second law of thermodynamics, in a direction that tends to lower the free energy of the system, and thus to expend energy in the form of work. These reactions occur spontaneously.
+A chemical reaction is endergonic when non spontaneous. Thus in this type of reaction the Gibbs free energy increases. The entropy is included in any change of the Gibbs free energy. This differs from an endothermic reaction where the entropy is not included. The Gibbs free energy is calculated with the Gibbs–Helmholtz equation:
+
+  
+    
+      
+        Δ
+        G
+        =
+        Δ
+        H
+        −
+        T
+        ⋅
+        Δ
+        S
+      
+    
+    {\displaystyle \Delta G=\Delta H-T\cdot \Delta S}
+  where:
+
+T = temperature in kelvins (K)
+ΔG = change in the Gibbs free energy
+ΔS = change in entropy (at 298 K) as ΔS = Σ{S(Product)} − Σ{S(Reagent)}
+ΔH = change in enthalpy (at 298 K) as ΔH = Σ{H(Product)} − Σ{H(Reagent)}A chemical reaction progresses non spontaneously when the Gibbs free energy increases, in that case the ΔG is positive. In exergonic reactions the ΔG is negative and in endergonic reactions the ΔG is positive:
+
+  
+    
+      
+        
+          Δ
+          
+            
+              R
+            
+          
+        
+        G
+        <
+        0
+      
+    
+    {\displaystyle \Delta _{\mathrm {R} }G<0}
+   exergon
+
+  
+    
+      
+        
+          Δ
+          
+            
+              R
+            
+          
+        
+        G
+        >
+        0
+      
+    
+    {\displaystyle \Delta _{\mathrm {R} }G>0}
+   endergonwhere:
+
+  
+    
+      
+        
+          Δ
+          
+            
+              R
+            
+          
+        
+        G
+      
+    
+    {\displaystyle \Delta _{\mathrm {R} }G}
+   equals the change in the Gibbs free energy after completion of a chemical reaction.
+
+
+== Making endergonic reactions happen ==
+Endergonic reactions can be achieved if they are either pulled or pushed by an exergonic (stability increasing, negative change in free energy) process. Of course, in all cases the net reaction of the total system (the reaction under study plus the puller or pusher reaction) is exergonic.
+
+
+=== Pull ===
+Reagents can be pulled through an endergonic reaction, if the reaction products are cleared rapidly by a subsequent exergonic reaction.  The concentration of the products of the endergonic reaction thus always remains low, so the reaction can proceed.
+A classic example of this might be the first stage of a reaction which proceeds via a transition state.  The process of getting to the top of the activation energy barrier to the transition state is endergonic.  However, the reaction can proceed because having reached the transition state, it rapidly evolves via an exergonic process to the more stable final products.
+
+
+=== Push ===
+Endergonic reactions can be pushed by coupling them to another reaction which is strongly exergonic, through a shared intermediate.
+This is often how biological reactions proceed.  For example, on its own the reaction
+
+  
+    
+      
+        X
+        +
+        Y
+        ⟶
+        X
+        Y
+      
+    
+    {\displaystyle X+Y\longrightarrow XY}
+  may be too endergonic to occur.   However it may be possible to make it occur by coupling it to a strongly exergonic reaction – such as, very often, the decomposition of ATP into ADP and inorganic phosphate ions,  ATP → ADP + Pi, so that
+
+  
+    
+      
+        X
+        +
+        
+          
+            A
+            T
+            P
+          
+        
+        ⟶
+        
+          
+            X
+            P
+          
+        
+        +
+        
+          
+            A
+            D
+            P
+          
+        
+      
+    
+    {\displaystyle X+{\mathit {ATP}}\longrightarrow {\mathit {XP}}+{\mathit {ADP}}}
+  
+
+  
+    
+      
+        
+          
+            X
+            P
+          
+        
+        +
+        Y
+        ⟶
+        
+          
+            X
+            Y
+          
+        
+        +
+        
+          P
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\mathit {XP}}+Y\longrightarrow {\mathit {XY}}+P_{i}}
+  This kind of reaction, with the ATP decomposition supplying the free energy needed to make an endergonic reaction occur, is so common in cell biochemistry that ATP is often called the "universal energy currency" of all living organisms.
+
+
+== See also ==
+Endergonic
+Exergonic
+Exergonic reaction
+Exothermic
+Endothermic
+Exothermic reaction
+Endothermic reaction
+Endotherm
+Exotherm

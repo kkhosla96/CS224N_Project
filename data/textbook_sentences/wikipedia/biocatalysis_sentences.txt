@@ -1,0 +1,56 @@
+Biocatalysis () refers to the use of living also called enzymes (biological) systems or their parts to speed up (catalyze) chemical reactions. In biocatalytic processes, natural catalysts, such as enzymes, perform chemical transformations on organic compounds. Both enzymes that have been more or less isolated and enzymes still residing inside living cells are employed for this task.. The modern usage of biotechnologically produced and possibly modified enzymes for organic synthesis is termed chemoenzymatic synthesis; the reactions performed are chemoenzymatic reactions.
+
+
+== History ==
+Biocatalysis underpins some of the oldest chemical transformations known to humans, for brewing predates recorded history. The oldest records of brewing are about 6000 years old and refer to the Sumerians.
+The employment of enzymes and whole cells have been important for many industries for centuries. The most obvious uses have been in the food and drink businesses where the production of wine, beer, cheese etc. is dependent on the effects of the microorganisms.
+More than one hundred years ago, biocatalysis was employed to do chemical transformations on non-natural man-made organic compounds, with the last 30 years seeing a substantial increase in the application of biocatalysis to produce fine chemicals, especially for the pharmaceutical industry.Since biocatalysis deals with enzymes and microorganisms, it is historically classified separately from "homogeneous catalysis" and "heterogeneous catalysis". However, mechanistically speaking, biocatalysis is simply a special case of heterogeneous catalysis.
+
+
+== Advantages of chemoenzymatic synthesis ==
+Enzymes display three major types of selectivities:
+
+Chemoselectivity: Since the purpose of an enzyme is to act on a single type of functional group, other sensitive functionalities, which would normally react to a certain extent under chemical catalysis, survive. As a result, biocatalytic reactions tend to be "cleaner" and laborious purification of product(s) from impurities emerging through side-reactions can largely be omitted.
+Regioselectivity and diastereoselectivity: Due to their complex three-dimensional structure, enzymes may distinguish between functional groups which are chemically situated in different regions of the substrate molecule.
+Enantioselectivity: Since almost all enzymes are made from L-amino acids, enzymes are chiral catalysts. As a consequence, any type of chirality present in the substrate molecule is "recognized" upon the formation of the enzyme-substrate complex. Thus a prochiral substrate may be transformed into an optically active product and both enantiomers of a racemic substrate may react at different rates.These reasons, and especially the latter, are the major reasons why synthetic chemists have become interested in biocatalysis. This interest in turn is mainly due to the need to synthesise enantiopure compounds as chiral building blocks for Pharmaceutical drugs and agrochemicals.
+Additionally, modified enzymes may have a broader substrate range than natural occurring ones, or have a better reaction rate, or may be easier to produce using current biotechnology.
+
+
+== Reaction similarity ==
+Similarity between enzymatic reactions (EC) can be calculated by using bond changes, reaction centres or substructure metrics (EC-BLAST).Another important advantage of biocatalysts are that they are environmentally acceptable, being completely degraded in the environment. Furthermore, the enzymes act under mild conditions, which minimizes problems of undesired side-reactions such as decomposition, isomerization, racemization and rearrangement, which often plague traditional methodology.
+Immobilized enzymes demonstrate very high stability and re-usability and can be used to conduct reactions in continuous mode in microreactors.
+
+
+== Asymmetric biocatalysis ==
+The use of biocatalysis to obtain enantiopure compounds can be divided into two different methods:
+
+Kinetic resolution of a racemic mixture
+Biocatalysed asymmetric synthesisIn kinetic resolution of a racemic mixture, the presence of a chiral object (the enzyme) converts one of the stereoisomers of the reactant into its product at a greater reaction rate than for the other reactant stereoisomer.
+
+The stereochemical mixture has now been transformed into a mixture of two different compounds, making them separable by normal methodology. The maximum yield in such kinetic resolutions is 50%, since a yield of more than 50% means that some of wrong isomer also has reacted, giving a lower enantiomeric excess. Such reactions must therefore be terminated before equilibrium is reached. If it is possible to perform such resolutions under conditions where the two substrate- enantiomers are racemizing continuously, all substrate may in theory be converted into enantiopure product. This is called dynamic resolution.
+In biocatalysed asymmetric synthesis, a non-chiral unit becomes chiral in such a way that the different possible stereoisomers are formed in different quantities. The chirality is introduced into the substrate by influence of enzyme, which is chiral. Yeast is a biocatalyst for the enantioselective reduction of ketones.
+
+The Baeyer–Villiger oxidation is another example of a biocatalytic reaction. In one study a specially designed mutant of Candida antarctica was found to be an effective catalyst for the Michael addition of acrolein with acetylacetone at 20 °C in absence of additional solvent.Another study demonstrates how racemic nicotine (mixture of S and R-enantiomers 1 in scheme 3) can be deracemized in a one-pot procedure involving a monoamine oxidase isolated from Aspergillus niger which is able to oxidize only the amine S-enantiomer to the imine 2 and involving an ammonia–borane reducing couple which can reduce the imine 2 back to the amine 1.  In this way the S-enantiomer will continuously be consumed by the enzyme while the R-enantiomer accumulates. It is even possible to stereoinvert pure S to pure R.
+
+
+== Further reading ==
+Mortison JD, Sherman DH, "Frontiers and opportunities in chemoenzymatic synthesis." J Org Chem. 2010 Nov 5;75(21):7041-51.  doi:10.1021/jo101124n. PMID 20882949.
+
+
+== See also ==
+List of enzymes
+Industrial enzymes
+
+
+== References ==
+
+
+== External links ==
+Austrian Centre of Industrial Biotechnology - acib
+The Centre of Excellence for Biocatalysis - CoEBio3
+The University of Exeter - Biocatalysis Centre
+Center for Biocatalysis and Bioprocessing - The University of Iowa
+TU Delft - Biocatalysis & Organic Chemistry (BOC)
+KTH Stockholm - Biocatalysis Research Group
+Institute of Technical Biocatalysis at the Hamburg University of Technology (TUHH)
+Biocascades Project

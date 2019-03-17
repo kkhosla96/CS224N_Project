@@ -1,0 +1,323 @@
+Allopatric speciation (from Ancient Greek ἄλλος, allos, meaning "other", and πατρίς, patris, "fatherland"), also referred to as geographic speciation, vicariant speciation, or its earlier name, the dumbbell model, is a mode of speciation that occurs when biological populations of the same species become isolated from each other to an extent that prevents or interferes with gene flow.
+Various geographic changes can arise such as the movement of continents, and the formation of mountains, islands, bodies of water, or glaciers. Human activity such as agriculture or developments can also change the distribution of species populations. These factors can substantially alter a region's geography, resulting in the separation of a species population into isolated subpopulations. The vicariant populations then undergo genetic changes as they become subjected to different selective pressures, experience genetic drift, and accumulate different mutations in the separated populations gene pools. The barriers prevent the exchange of genetic information between the two populations leading to reproductive isolation. If the two populations come into contact they will be unable to reproduce—effectively speciating. Other isolating factors such as population dispersal leading to emigration can cause speciation (for instance, the dispersal and isolation of a species on an oceanic island) and is considered a special case of allopatric speciation called peripatric speciation.
+Allopatric speciation is typically subdivided into two major models: vicariance and peripatric. Both models differ from one another by virtue of their population sizes and geographic isolating mechanisms. The terms allopatry and vicariance are often used in biogeography to describe the relationship between organisms whose ranges do not significantly overlap but are immediately adjacent to each other—they do not occur together or only occur within in a narrow zone of contact. Historically, the language used to refer to modes of speciation directly reflected biogeographical distributions. As such, allopatry is a geographical distribution opposed to sympatry (speciation within the same area). Furthermore, the terms allopatric, vicariant, and geographical speciation are often used interchangeably in the scientific literature. This article will follow a similar theme, with the exception of special cases such as peripatric, centrifugal, among others.
+Observation of nature creates difficulties in witnessing allopatric speciation from "start-to-finish" as it operates as a dynamic process. From this arises a host of various issues in defining species, defining isolating barriers, measuring reproductive isolation, among others. Nevertheless, verbal and mathematical models, laboratory experiments, and empirical evidence overwhelmingly supports the occurrence of allopatric speciation in nature. Mathematical modeling of the genetic basis of reproductive isolation supports the plausibility of allopatric speciation; whereas laboratory experiments of Drosophila and other animal and plant species have confirmed that reproductive isolation evolves as a byproduct of natural selection.
+
+
+== Vicariance model ==
+
+Speciation by vicariance is widely regarded as the most common form of speciation; and is the primary model of allopatric speciation. Vicariance is a process by which the geographical range of an individual taxon, or a whole biota, is split into discontinuous populations (disjunct distributions) by the formation of an extrinsic barrier to the exchange of genes: that is, a barrier arising externally to a species. These extrinsic barriers often arise from various geologic-caused, topographic changes such as: the formation of mountains (orogeny); the formation of rivers or bodies of water; glaciation; the formation or elimination of land bridges; the movement of continents over time (by tectonic plates); or island formation, including sky islands. These can change the distribution of species populations. The emergence of suitable or unsuitable habitat configurations may arise from these changes and can originate by changes in climate or even large scale human activities (for example, agricultural, civil engineering developments, and habitat fragmentation). Among others, these many factors can alter a regions geography in substantial ways, resulting in the separation of a species population into isolated subpopulations. The vicariant populations then undergo genotypic or phenotypic divergence as: (a) they become subjected to different selective pressures, (b) they independently undergo genetic drift, and (c) different mutations arise in the gene pools of the populations. The extrinsic barriers prevent the exchange of genetic information between the two populations, inevitably leading to differentiation due to the ecologically different habitats they experience; selective pressure then invariably leads to complete reproductive isolation. Furthermore, a species' proclivity to remain in its ecological niche (see phylogenetic niche conservatism) through changing environmental conditions may also play a role in isolating populations from one another, driving the evolution of new lineages.Allopatric speciation can be represented as the extreme on a gene flow continuum. As such, the level of gene flow between populations in allopatry would be 
+  
+    
+      
+        m
+        =
+        0
+      
+    
+    {\displaystyle m=0}
+  , where 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   equals the rate of gene exchange. In sympatry 
+  
+    
+      
+        m
+        =
+        0.5
+      
+    
+    {\displaystyle m=0.5}
+  , while in parapatric speciation, 
+  
+    
+      
+        0
+        <
+        m
+        <
+        0.5
+      
+    
+    {\displaystyle 0<m<0.5}
+   represents the entire continuum, though not all scientists accept this geographic mode classification scheme, which does not necessarily reflect the complexity of speciation. Allopatry is often regarded as the default or "null" model of speciation, but this too is debated.
+
+
+=== Reproductive isolation ===
+
+Reproductive isolation acts as the primary mechanism driving genetic divergence in allopatry and can be amplified by divergent selection. Pre-zygotic and post-zygotic isolation are often the most cited mechanisms for allopatric speciation, and as such, it is difficult to determine which form evolved first in an allopatric speciation event. Pre-zygotic simply implies the presence of a barrier prior to any act of fertilization (such as an environmental barrier dividing two populations), while post-zygotic implies the prevention of successful inter-population crossing after fertilization (such as the production of an infertile hybrid). Since species pairs who diverged in allopatry often exhibit pre- and post-zygotic isolation mechanisms, investigation of the earliest stages in the life cycle of the species can indicate whether or not divergence occurred due to a pre-zygotic or post-zygotic factor. However, establishing the specific mechanism may not be accurate, as a species pair continually diverges over time. For example, if a plant experiences a chromosome duplication event, reproduction will occur, but sterile hybrids will result—functioning as a form of post-zygotic isolation. Subsequently, the newly formed species pair may experience pre-zygotic barriers to reproduction as selection, acting on each species independently, will ultimately lead to genetic changes making hybrids impossible. From the researchers perspective, the current isolating mechanism may not reflect the past isolating mechanism.
+
+
+=== Reinforcement ===
+
+Reinforcement has been a contentious factor in speciation. It is more often invoked in sympatric speciation studies, as it requires gene flow between two populations. However, reinforcement may also play a role in allopatric speciation, whereby the reproductive barrier is removed, reuniting the two previously isolated populations. Upon secondary contact, individuals reproduce, creating low-fitness hybrids. Traits of the hybrids drive individuals to discriminate in mate choice, by which pre-zygotic isolation increases between the populations. Some arguments have been put forth that suggest the hybrids themselves can possibly become their own species: known as hybrid speciation. Reinforcement can play a role in all geographic modes (and other non-geographic modes) of speciation as long as gene flow is present and viable hybrids can be formed. The production of inviable hybrids is a form of reproductive character displacement, under which most definitions is the completion of a speciation event.Research has well established the fact that interspecific mate discrimination occurs to a greater extent between sympatric populations than it does in purely allopatric populations; however, other factors have been proposed to account for the observed patterns. Reinforcement in allopatry has been shown to occur in nature (evidence for speciation by reinforcement), albeit with less frequency than a classic allopatric speciation event. A major difficulty arises when interpreting reinforcement's role in allopatric speciation, as current phylogenetic patterns may suggest past gene flow. This masks possible initial divergence in allopatry and can indicate a "mixed-mode" speciation event—exhibiting both allopatric and sympatric speciation processes.
+
+
+=== Mathematical models ===
+Developed in the context of the genetic basis of reproductive isolation, mathematical scenarios model both prezygotic and postzygotic isolation with respect to the effects of genetic drift, selection, sexual selection, or various combinations of the three. Masatoshi Nei and colleagues were the first to develop a neutral, stochastic model of speciation by genetic drift alone. Both selection and drift can lead to postzygotic isolation, supporting the fact that two geographically separated populations can evolve reproductive isolation—sometimes occurring rapidly. Fisherian sexual selection can also lead to reproductive isolation if there are minor variations in selective pressures (such as predation risks or habitat differences) among each population. (See the Further reading section below).
+Mathematical models concerning reproductive isolation-by distance have shown that populations can experience increasing reproductive isolation that correlates directly with physical, geographical distance. This has been exemplified in models of ring species; however, it has been argued that ring species are a special case, representing reproductive isolation-by distance, and demonstrate parapatric speciation instead—as parapatric speciation represents speciation occurring along a cline.
+
+
+== Other models ==
+Various alternative models have been developed concerning allopatric speciation. Special cases of vicariant speciation have been studied in great detail, one of which is peripatric speciation, whereby a small subset of a species population becomes isolated geographically; and centrifugal speciation, an alternative model of peripatric speciation concerning expansion and contraction of a species range. Other minor allopatric models have also been developed are discussed below.
+
+
+=== Peripatric ===
+ 
+
+Peripatric speciation is a mode of speciation in which a new species is formed from an isolated peripheral population. If a small population of a species becomes isolated (e.g. a population of birds on an oceanic island), selection can act on the population independent of the parent population. Given both geographic separation and enough time, speciation can result as a byproduct. It can be distinguished from allopatric speciation by three important features: 1) the size of the isolated population, 2) the strong selection imposed by the dispersal and colonization into novel environments, and 3) the potential effects of genetic drift on small populations. However, it can often be difficult for researchers to determine if peripatric speciation occurred as vicariant explanations can be invoked due to the fact that both models posit the absence of gene flow between the populations. The size of the isolated population is important because individuals colonizing a new habitat likely contain only a small sample of the genetic variation of the original population. This promotes divergence due to strong selective pressures, leading to the rapid fixation of an allele within the descendant population. This gives rise to the potential for genetic incompatibilities to evolve. These incompatibilities cause reproductive isolation, giving rise to rapid speciation events. Models of peripatry are supported mostly by species distribution patterns in nature. Oceanic islands and archipelagos provide the strongest empirical evidence that peripatric speciation occurs.
+
+
+=== Centrifugal ===
+Centrifugal speciation is a variant, alternative model of peripatric speciation. This model contrasts with peripatric speciation by virtue of the origin of the genetic novelty that leads to reproductive isolation. When a population of a species experiences a period of geographic range expansion and contraction, it may leave small, fragmented, peripherally isolated populations behind. These isolated populations will contain samples of the genetic variation from the larger parent population. This variation leads to a higher likelihood of ecological niche specialization and the evolution of reproductive isolation. Centrifugal speciation has been largely ignored in the scientific literature. Nevertheless, a wealth of evidence has been put forth by researchers in support of the model, much of which has not yet been refuted. One example is the possible center of origin in the Indo-West Pacific.
+
+
+=== Microallopatric ===
+
+Microallopatry refers to allopatric speciation occurring on a small geographic scale. Examples of microallopatric speciation in nature have been described. Rico and Turner found intralacustrine allopatric divergence of Pseudotropheus callainos (Maylandia callainos) within Lake Malawi separated only by 35 meters. Gustave Paulay found evidence that species in the subfamily Cryptorhynchinae have microallopatrically speciated on Rapa and its surrounding islets. A sympatrically distributed triplet of diving beetle (Paroster) species living in aquifers of Australia's Yilgarn region have likely speciated microallopatrically within a 3.5 km2 area. The term was originally proposed by Hobart M. Smith to describe a level of geographic resolution. A sympatric population may exist in low resolution, whereas viewed with a higher resolution (i.e. on a small, localized scale within the population) it is "microallopatric". Ben Fitzpatrick and colleagues contend that this original definition, "is misleading because it confuses geographical and ecological concepts".
+
+
+=== Modes with secondary contact ===
+
+Ecological speciation can occur allopatrically, sympatrically, or parapatrically; the only requirement being that it occurs as a result of adaptation to different ecological or micro-ecological conditions. Ecological allopatry is a reverse-ordered form of allopatric speciation in conjunction with reinforcement. First, divergent selection separates a non-allopatric population emerging from pre-zygotic barriers, from which genetic differences evolve due to the obstruction of complete gene flow. The terms allo-parapatric and allo-sympatric have been used to describe speciation scenarios where divergence occurs in allopatry but speciation occurs only upon secondary contact. These are effectively models of reinforcement or "mixed-mode" speciation events.
+
+
+== Observational evidence ==
+
+As allopatric speciation is widely accepted as a common mode of speciation, the scientific literature is abundant with studies documenting its existence. The biologist Ernst Mayr was the first to summarize the contemporary literature of the time in 1942 and 1963. Many of the examples he set forth remain conclusive; however, modern research supports geographic speciation with molecular phylogenetics—adding a level of robustness unavailable to early researchers. The most recent thorough treatment of allopatric speciation (and speciation research in general is Jerry Coyne and H. Allen Orr's 2004 publication Speciation. They list six mainstream arguments that lend support to the concept of vicariant speciation:
+
+Closely related species pairs, more often than not, reside in geographic ranges adjacent to one another, separated by a geographic or climatic barrier.
+Young species pairs (or sister species) often occur in allopatry, even without a known barrier.
+In occurrences where several pairs of related species share a range, they are distributed in abutting patterns, with borders exhibiting zones of hybridization.
+In regions where geographic isolation is doubtful, species do not exhibit sister pairs.
+Correlation of genetic differences between an array of distantly related species that correspond to known current or historical geographic barriers.
+Measures of reproductive isolation increases with the greater geographic distance of separation between two species pairs. (This has been often referred to as reproductive isolation by distance.)
+
+
+=== Endemism ===
+
+Allopatric speciation has resulted in many of the biogeographic and biodiversity patterns found on Earth: on islands, continents, and even among mountains.Islands are often home to species endemics—existing only on an island and nowhere else in the world—with nearly all taxa residing on isolated islands sharing common ancestry with a species on the nearest continent. Not without challenge, there is typically a correlation between island endemics and diversity; that is, that the greater the diversity (species richness) of an island, the greater the increase in endemism. Increased diversity effectively drives speciation. Furthermore, the number of endemics on an island is directly correlated with the relative isolation of the island and its area. In some cases, speciation on islands has occurred rapidly.Dispersal and in situ speciation are the agents that explain the origins of the organisms in Hawaii. Various geographic modes of speciation have been studied extensively in Hawaiian biota, and in particular, angiosperms appear to have speciated predominately in allopatric and parapatric modes.Islands are not the only geographic locations that have endemic species. South America has been studied extensively with its areas of endemism representing assemblages of allopatrically distributed species groups. Charis butterflies are a primary example, confined to specific regions corresponding to phylogenies of other species of butterflies, amphibians, birds, marsupials, primates, reptiles, and rodents. The pattern indicates repeated vicariant speciation events among these groups. It is thought that rivers may play a role as the geographic barriers to Charis, not unlike the river barrier hypothesis used to explain the high rates of diversity in the Amazon basin—though this hypothesis has been disputed. Dispersal-mediated allopatric speciation is also thought to be a significant driver of diversification throughout the Neotropics.
+
+Patterns of increased endemism at higher elevations on both islands and continents have been documented on a global level. As topographical elevation increases, species become isolated from one another; often constricted to graded zones. This isolation on "mountain top islands" creates barriers to gene flow, encouraging allopatric speciation, and generating the formation of endemic species. Mountain building (orogeny) is directly correlated with—and directly affects biodiversity. The formation of the Himalayan mountains and the Qinghai–Tibetan Plateau for example have driven the speciation and diversification of numerous plants and animals such as Lepisorus ferns; glyptosternoid fishes (Sisoridae); and the Rana chensinensis species complex. Uplift has also driven vicariant speciation in Macowania daisies in South Africa's Drakensberg mountains, along with Dendrocincla woodcreepers in the South American Andes. The Laramide orogeny during the Late Cretaceous even caused vicariant speciation and radiations of dinosaurs in North America.Adaptive radiations, like the Galapagos finches observed by Charles Darwin, is often a consequence of rapid allopatric speciation among populations. However, in the case of the finches of the Galapagos, among other island radiations such as the honeycreepers of Hawaii represent cases of limited geographic separation and were likely driven by ecological speciation.
+
+
+=== Isthmus of Panama ===
+
+Geological evidence supports the final closure of the isthmus of Panama approximately 2.7 to 3.5 mya, with some evidence suggesting an earlier transient bridge existing between 13 to 15 mya. Recent evidence increasingly points towards an older and more complex emergence of the Isthmus, with fossil and extant species dispersal (part of the American biotic interchange) occurring in three major pulses, to and from North and South America. Further, the changes in terrestrial biotic distributions of both continents such as with Eciton army ants supports an earlier bridge or a series of bridges. Regardless of the exact timing of the isthmus closer, biologists can study the species on the Pacific and Caribbean sides in what has been called, "one of the greatest natural experiments in evolution". Additionally, as with most geologic events, the closure was unlikely to have occurred rapidly, but instead dynamically—a gradual shallowing of sea water over millions of years.Studies of snapping shrimp in the genus Alpheus have provided direct evidence of an allopatric speciation event, as phylogenetic reconstructions support the relationships of 15 pairs of sister species pairs of Alpheus on each side of the isthmus and molecular clock dating supports their separation between 3 and 15 million years ago. Recently diverged species reside in shallow mangrove waters while older diverged species live in deeper water, correlating with a gradual closure of the isthmus. Support for an allopatric divergence also comes from laboratory experiments on the species pairs showing nearly complete reproductive isolation.Similar patterns of relatedness and distribution across the Pacific and Atlantic sides have been found in other species pairs such as:
+Diadema antillarum and Diadema mexicanum
+Echinometra lucunter and Echinometra vanbrunti
+Echinometra viridis and E. vanbrunti
+Bathygobius soporator and Bathygobius ramosus
+B. soporator and Bathygobius andrei
+Excirolana braziliensis and variant morphs
+
+
+=== Refugia ===
+Ice ages have played important roles in facilitating speciation among vertebrate species. This concept of refugia has been applied to numerous groups of species and their biogeographic distributions.Glaciation and subsequent retreat caused speciation in many boreal forest birds, such as with North American sapsuckers (Yellow-bellied, Red-naped, and Red-breasted); the warbler's in the genus Setophaga (S. townsendii, S. occidentalis, and S. virens), Oreothlypis (O. virginiae, O. ridgwayi, and O. ruficapilla), and Oporornis (O. tolmiei and O. philadelphia now classified in the genus Geothlypis); Fox sparrow's (sub species P. (i.) unalaschensis, P. (i.) megarhyncha, and P. (i.) schistacea); Vireo (V. plumbeus, V. cassinii, and V. solitarius); tyrant flycatcher's (E. occidentalis and E. difficilis); chickadee's (P. rufescens and P. hudsonicus); and thrush's (C. bicknelli and C. minimus).As a special case of allopatric speciation, peripatric speciation is often invoked for instances of isolation in glaciation refugia as small populations become isolated due to habitat fragmentation such as with North American red (Picea rubens) and black (Picea mariana) spruce or the prairie dogs Cynomys mexicanus and C. ludovicianus.
+
+
+=== Superspecies ===
+
+Numerous species pairs or species groups show abutting distribution patterns, that is, reside in geographically distinct regions next to each other. They often share borders, many of which contain hybrid zones. Some examples of abutting species and superspecies (an informal rank referring to a complex of closely related allopatrically distributed species, also called allospecies) include:
+
+Western and Eastern meadowlarks in North America reside in dry western and wet eastern geographic regions with rare occurrences of hybridization, most of which results in infertile offspring.
+Monarch flycatchers endemic to the Solomon Islandss; a complex of several species and subspecies (Bougainville, white-capped, and chestnut-bellied monarchs and their related subspecies.
+North American sapsuckers and members of the genus Setophaga (the hermit warbler, black-throated green warbler, and Townsend's warbler).
+Sixty-six subspecies in the genus Pachycephala residing on the Melanesian islands.
+Bonobos and chimpanzees.
+Climacteris treecreeper birds in Australia.
+Birds-of-paradise in the mountains of New Guinea (genus Astrapia).
+Red-shafted and yellow-shafted flickers; black-headed grosbeaks and rose-breasted grosbeaks; Baltimore orioles and Bullock's orioles; and the lazuli and indigo buntings. All of these species pairs connect at zones of hybridization that correspond with major geographic barriers.
+Dugesia flatworms in Europe, Asia, and the Mediterranean regions.In birds, some areas are prone to high rates of superspecies formation (see speciation in birds) such as the 105 superspecies in Melanesia, comprising 66 percent of all bird species in the region. Patagonia is home to 17 superspecies of forest birds, while North America has 127 superspecies of both land and freshwater birds. Sub-Saharan Africa has 486 passerine birds grouped into 169 superspecies. Australia has numerous bird superspecies as well, with 34 percent of all bird species grouped into superspecies.
+
+
+== Laboratory evidence ==
+
+Experiments on allopatric speciation are often complex and do not simply divide a species population into two. This is due to a host of defining parameters: measuring reproductive isolation, sample sizes (the number of matings conducted in reproductive isolation tests), bottlenecks, length of experiments, number of generations allowed, or insufficient genetic diversity. Various isolation indices have been developed to measure reproductive isolation (and are often employed in laboratory speciation studies) such as here (index 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   and index 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  ):
+
+  
+    
+      
+        Y
+        =
+        
+          
+            
+              
+                
+                  (
+                  A
+                  D
+                  
+                    /
+                  
+                  B
+                  C
+                  )
+                
+              
+              −
+              1
+            
+            
+              
+                (
+                A
+                D
+                
+                  /
+                
+                B
+                C
+                )
+                +
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle Y={{\sqrt {(AD/BC)}}-1 \over {\sqrt {(AD/BC)+1}}}}
+                                
+
+  
+    
+      
+        I
+        =
+        
+          
+            
+              A
+              +
+              D
+              −
+              B
+              −
+              C
+            
+            
+              A
+              +
+              D
+              +
+              B
+              +
+              C
+            
+          
+        
+      
+    
+    {\displaystyle I={A+D-B-C \over A+D+B+C}}
+  
+Here, 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   represent the number of matings in heterogameticity where 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   and 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   represent homogametic matings. 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   is one population and 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   and 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   is the second population. A negative value of 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   denotes negative assortive mating, a positive value denotes positive assortive mating (i. e. expressing reproductive isolation), and a null value (of zero) means the populations are experiencing random mating.The experimental evidence has solidly established the fact that reproductive isolation evolves as a by-product of selection. Reproductive isolation has been shown to arise from pleiotropy (i.e. indirect selection acting on genes that code for more than one trait)—what has been referred to as genetic hitchhiking. Limitations and controversies exist relating to whether laboratory experiments can accurately reflect the long-scale process of allopatric speciation that occurs in nature. Experiments often fall beneath 100 generations, far less than expected, as rates of speciation in nature are thought to be much larger. Furthermore, rates specifically concerning the evolution of reproductive isolation in Drosophila are significantly higher than what is practiced in laboratory settings. Using index Y presented previously, a survey of 25 allopatric speciation experiments (included in the table below) found that reproductive isolation was not as strong as typically maintained and that laboratory environments have not been well-suited for modeling allopatric speciation. Nevertheless, numerous experiments have shown pre-zygotic and post-zygotic isolation in vicariance, some in less than 100 generations.Below is a non-exhaustive table of the laboratory experiments conducted on allopatric speciation. The first column indicates the species used in the referenced study, where the "Trait" column refers to the specific characteristic selected for or against in that species. The "Generations" column refers to the number of generations in each experiment performed. If more than one experiment was formed generations are separated by semicolons or dashes (given as a range). Some studies provide a duration in which the experiment was conducted. The "Mode" column indicates if the study modeled vicariant or peripatric speciation (this may not be explicitly. Direct selection refers to selection imposed to promote reproductive isolation whereas indirect selection implies isolation occurring as a pleiotropic byproduct of natural selection; whereas divergent selection implies deliberate selection of each allopatric population in opposite directions (e.g. one line with more bristles and the other line with less). Some studies performed experiments modeling or controlling for genetic drift. Reproductive isolation occurred pre-zygotically, post-zygotically, both, or not at all). It is important to note that many of the studies conducted contain multiple experiments within—a resolution of which this table does not reflect.
+
+
+== History and research techniques ==
+
+Early speciation research typically reflected geographic distributions and were thus termed geographic, semi-geographic, and non-geographic. Geographic speciation corresponds to today's usage of the term allopatric speciation, and in 1868, Moritz Wagner was the first to propose the concept of which he used the term Separationstheorie. His idea was later interpreted by Ernst Mayr as a form of founder effect speciation as it focused primarily on small geographically isolated populations.Edward Bagnall Poulton, an evolutionary biologist and a strong proponent of the importance of natural selection, highlighted the role of geographic isolation in promoting speciation, in the process coining the term "sympatric speciation" in 1903.Controversy exists as to whether Charles Darwin recognized a true geographical-based model of speciation in his publication of the Origin of Species. In chapter 11, "Geographical Distribution", Darwin discusses geographic barriers to migration, stating for example that "barriers of any kind, or obstacles to free migration, are related in a close and important manner to the differences between the productions of various regions [of the world]". F. J. Sulloway contends that Darwin's position on speciation was "misleading" at the least and may have later misinformed Wagner and David Starr Jordan into believing that Darwin viewed sympatric speciation as the most important mode of speciation. Nevertheless, Darwin never fully accepted Wagner's concept of geographical speciation.
+
+David Starr Jordan played a significant role in promoting allopatric speciation in the early 20th century, providing a wealth of evidence from nature to support the theory. Much later, the biologist Ernst Mayr was the first to encapsulate the then contemporary literature in his 1942 publication Systematics and the Origin of Species, from the Viewpoint of a Zoologist and in his subsequent 1963 publication Animal Species and Evolution. Like Jordan's works, they relied on direct observations of nature, documenting the occurrence of allopatric speciation, of which is widely accepted today. Prior to this research, Theodosius Dobzhansky published Genetics and the Origin of Species in 1937 where he formulated the genetic framework for how speciation could occur.Other scientists noted the existence of allopatrically distributed pairs of species in nature such as Joel Asaph Allen (who coined the term "Jordan's Law", whereby closely related, geographically isolated species are often found divided by a physical barrier) and Robert Greenleaf Leavitt; however, it is thought that Wagner, Karl Jordan, and David Starr Jordan played a large role in the formation of allopatric speciation as an evolutionary concept; where Mayr and Dobzhansky contributed to the formation of the modern evolutionary synthesis.
+The late 20th century saw the development of mathematical models of allopatric speciation, leading to the clear theoretical plausibility that geographic isolation can result in the reproductive isolation of two populations.Since the 1940s, allopatric speciation has been accepted. Today, it is widely regarded as the most common form of speciation taking place in nature. However, this is not without controversy, as both parapatric and sympatric speciation are both considered tenable modes of speciation that occur in nature. Some researchers even consider there to be a bias in reporting of positive allopatric speciation events, and in one study reviewing 73 speciation papers published in 2009, only 30 percent that suggested allopatric speciation as the primary explanation for the patterns observed considered other modes of speciation as possible.Contemporary research relies largely on multiple lines of evidence to determine the mode of a speciation event; that is, determining patterns of geographic distribution in conjunction with phylogenetic relatedness based on molecular techniques. This method was effectively introduced by John D. Lynch in 1986 and numerous researchers have employed it and similar methods, yielding enlightening results. Correlation of geographic distribution with phylogenetic data also spawned a sub-field of biogeography called vicariance biogeography developed by Joel Cracraft, James Brown, Mark V. Lomolino, among other biologists specializing in ecology and biogeography. Similarly, full analytical approaches have been proposed and applied to determine which speciation mode a species underwent in the past using various approaches or combinations thereof: species-level phylogenies, range overlaps, symmetry in range sizes between sister species pairs, and species movements within geographic ranges. Molecular clock dating methods are also often employed to accurately gauge divergence times that reflect the fossil or geological record (such as with the snapping shrimp separated by the closure of the Isthmus of Panama or speciation events within the genus Cyclamen). Other techniques used today have employed measures of gene flow between populations, ecological niche modelling (such as in the case of the Myrtle and Audubon's warblers or the environmentally-mediated speciation taking place among dendrobatid frogs in Ecuador), and statistical testing of monophyletic groups. Biotechnological advances have allowed for large scale, multi-locus genome comparisons (such as with the possible allopatric speciation event that occurred between ancestral humans and chimpanzees), linking species' evolutionary history with ecology and clarifying phylogenetic patterns.
+
+
+== References ==
+
+
+== Further reading ==

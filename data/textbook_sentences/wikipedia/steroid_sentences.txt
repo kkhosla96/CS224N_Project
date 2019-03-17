@@ -1,0 +1,163 @@
+A steroid is a biologically active organic compound with four rings arranged in a specific molecular configuration. Steroids have two principal biological functions: as important components of cell membranes which alter membrane fluidity; and as signaling molecules. Hundreds of steroids are found in plants, animals and fungi. All steroids are manufactured in cells from the sterols lanosterol (opisthokonts) or cycloartenol (plants). Lanosterol and cycloartenol are derived from the cyclization of the triterpene squalene.The steroid core structure is composed of seventeen carbon atoms, bonded in four "fused" rings: three six-member cyclohexane rings (rings A, B and C in the first illustration) and one five-member cyclopentane ring (the D ring). Steroids vary by the functional groups attached to this four-ring core and by the oxidation state of the rings. Sterols are forms of steroids with a hydroxy group at position three and a skeleton derived from cholestane. Steroids can also be more radically modified, such as by changes to the ring structure, for example, cutting one of the rings. Cutting Ring B produces secosteroids one of which is vitamin D3.
+Examples include the lipid cholesterol, the sex hormones estradiol and testosterone, and the anti-inflammatory drug dexamethasone.
+
+
+== Nomenclature ==
+
+Gonane, also known as steran or cyclopentaperhydrophenanthrene, the simplest steroid and the nucleus of all steroids and sterols, is composed of seventeen carbon atoms in carbon-carbon bonds forming four fused rings in a three-dimensional shape. The three cyclohexane rings (A, B, and C in the first illustration) form the skeleton of a perhydro derivative of phenanthrene. The D ring has a cyclopentane structure. When the two methyl groups and eight carbon side chains (at C-17, as shown for cholesterol) are present, the steroid is said to have a cholestane framework. The two common 5α and 5β stereoisomeric forms of steroids exist because of differences in the side of the largely planar ring system where the hydrogen (H) atom at carbon-5 is attached, which results in a change in steroid A-ring conformation. Isomerisation at the C-21 side chain produces a parallel series of compounds, referred to as isosteroids.Examples of steroid structures are:
+
+		
+		
+		
+		
+		
+		
+In addition to the ring scissions (cleavages), expansions and contractions (cleavage and reclosing to a larger or smaller rings)—all variations in the carbon-carbon bond framework—steroids can also vary:
+
+in the bond orders within the rings,
+in the number of methyl groups attached to the ring (and, when present, on the prominent side chain at C17),
+in the functional groups attached to the rings and side chain, and
+in the configuration of groups attached to the rings and chain.For instance, sterols such as cholesterol and lanosterol have a hydroxyl group attached at position C-3, while testosterone and progesterone have a carbonyl (oxo substituent) at C-3; of these, lanosterol alone has two methyl groups at C-4 and cholesterol (with a C-5 to C-6 double bond) differs from testosterone and progesterone (which have a C-4 to C-5 double bond).
+
+
+== Species distribution and function ==
+In eukaryotes, steroids are found in fungi, animals, and plants.
+
+
+=== Fungal steroids ===
+Fungal steroids include the ergosterols, which are involved in maintaining the integrity of the fungal cellular membrane. Various antifungal drugs, such as amphotericin B and azole antifungals, utilize this information to kill pathogenic fungi. Fungi can alter their ergosterol content (e.g. through loss of function mutations in the enzymes ERG3 or ERG6, inducing depletion of ergosterol, or mutations that decrease the ergosterol content) to develop resistance to drugs that target ergosterol. Ergosterol is analogous to the cholesterol found in the cellular membranes of animals (including humans), or the phytosterols found in the cellular membranes of plants. All mushrooms contain large quantities of ergosterol, in the range of 10-100's of milligrams per 100 grams of dry weight. Oxygen is necessary for the synthesis of ergosterol in fungi. Ergosterol is responsible for the vitamin D content found in mushrooms; ergosterol is chemically converted into provitamin D2 by exposure to ultraviolet light. Provitamin D2 spontaneously forms vitamin D2. However, not all fungi utilize ergosterol in their cellular membranes; for example, the pathogenic fungal species Pneumocystis jiroveci does not, which has important clinical implications (given the mechanism of action of many antifungal drugs). Using the fungus Saccharomyces cerevisiae as an example, other major steroids include ergosta‐5,7,22,24(28)‐tetraen‐3β‐ol, zymosterol, and lanosterol. S. cerevisiae utilizes 5,6‐dihydroergosterol in place of ergosterol in its cell membrane.
+
+
+=== Animal steroids ===
+Animal steroids include compounds of vertebrate and insect origin, the latter including ecdysteroids such as ecdysterone (controlling molting in some species). Vertebrate examples include the steroid hormones and cholesterol; the latter is a structural component of cell membranes which helps determine the fluidity of cell membranes and is a principal constituent of plaque (implicated in atherosclerosis). Steroid hormones include: 
+
+Sex hormones, which influence sex differences and support reproduction. These include androgens, estrogens, and progestogens.
+The corticosteroids, including most synthetic steroid drugs, with natural product classes the glucocorticoids (which regulate many aspects of metabolism and immune function) and the mineralocorticoids (which help maintain blood volume and control renal excretion of electrolytes)
+Anabolic steroids, natural and synthetic, which interact with androgen receptors to increase muscle and bone synthesis. In popular use, the term "steroids" often refers to anabolic steroids.
+
+
+=== Plant steroids ===
+Plant steroids include steroidal alkaloids found in Solanaceae and Melanthiaceae (specially the genus Veratrum), cardiac glycosides, the phytosterols and the brassinosteroids (which include several plant hormones).
+
+
+=== Prokaryotes ===
+In prokaryotes, biosynthetic pathways exist for the tetracyclic steroid framework (e.g. in mycobacteria) – where its origin from eukaryotes is conjectured – and the more-common pentacyclic triterpinoid hopanoid framework.
+
+
+== Types ==
+
+
+=== By function ===
+The major classes of steroid hormones, with prominent members and examples of related functions, are:
+Corticosteroids:
+Glucocorticoids:
+Cortisol, a glucocorticoid whose functions include immunosuppression
+Mineralocorticoids:
+Aldosterone, a mineralocorticoid which helps regulate blood pressure through water and electrolyte balance
+Sex steroids:
+Progestogens:
+Progesterone, which regulates cyclical changes in the endometrium of the uterus and maintains a pregnancy
+Androgens:
+Testosterone, which contributes to the development and maintenance of male secondary sex characteristics
+Estrogens:
+Estradiol, which contributes to the development and maintenance of female secondary sex characteristicsAdditional classes of steroids include:
+
+Neurosteroids such as DHEA and allopregnanolone
+Aminosteroid neuromuscular blocking agents such as pancuronium bromideAs well as the following class of secosteroids (open-ring steroids):
+
+Vitamin D forms such as ergocalciferol, cholecalciferol, and calcitriol
+
+
+=== By structure ===
+
+
+==== Intact ring system ====
+Steroids can be classified based on their chemical composition. One example of how MeSH performs this classification is available at the Wikipedia MeSH catalog. Examples of this classification include:
+
+The gonane (steroid nucleus) is the parent 17-carbon tetracyclic hydrocarbon molecule with no alkyl sidechains.
+
+
+==== Cleaved, contracted, and expanded rings ====
+Secosteroids (Latin seco, "to cut") are a subclass of steroidal compounds resulting, biosynthetically or conceptually, from scission (cleavage) of parent steroid rings (generally one of the four). Major secosteroid subclasses are defined by the steroid carbon atoms where this scission has taken place. For instance, the prototypical secosteroid cholecalciferol, vitamin D3 (shown), is in the 9,10-secosteroid subclass and derives from the cleavage of carbon atoms C-9 and C-10 of the steroid B-ring; 5,6-secosteroids and 13,14-steroids are similar.Norsteroids (nor-, L. norma; "normal" in chemistry, indicating carbon removal) and homosteroids (homo-, Greek homos; "same", indicating carbon addition) are structural subclasses of steroids formed from biosynthetic steps. The former involves enzymic ring expansion-contraction reactions, and the latter is accomplished (biomimetically) or (more frequently) through ring closures of acyclic precursors with more (or fewer) ring atoms than the parent steroid framework.Combinations of these ring alterations are known in nature. For instance, ewes who graze on corn lily ingest cyclopamine (shown) and veratramine, two of a sub-family of steroids where the C- and D-rings are contracted and expanded respectively via a biosynthetic migration of the original C-13 atom. Ingestion of these C-nor-D-homosteroids results in birth defects in lambs: cyclopia from cyclopamine and leg deformity from veratramine. A further C-nor-D-homosteroid (nakiterpiosin) is excreted by Okinawan cyanobacteriosponges – Terpios hoshinota – leading to coral mortality from black coral disease.  Nakiterpiosin-type steroids are active against the signaling pathway involving the smoothened and hedgehog proteins, a pathway which is hyperactive in a number of cancers.
+
+
+== Biological significance ==
+Steroids and their metabolites often function as signalling molecules (the most notable examples are steroid hormones), and steroids and phospholipids are components of cell membranes. Steroids such as cholesterol decrease membrane fluidity.
+Similar to lipids, steroids are highly concentrated energy stores. However, they are not typically sources of energy; in mammals, they are normally metabolized and excreted.
+Steroids play critical roles in a number of disorders, including malignancies like prostate cancer, where steroid production inside and outside the tumour promotes cancer cell aggressiveness.
+
+
+== Biosynthesis and metabolism ==
+
+The hundreds of steroids found in animals, fungi, and plants are made from lanosterol (in animals and fungi; see examples above) or cycloartenol (in plants). Lanosterol and cycloartenol derive from cyclization of the triterpenoid squalene.Steroid biosynthesis is an anabolic pathway which produces steroids from simple precursors. A unique biosynthetic pathway is followed in animals (compared to many other organisms), making the pathway a common target for antibiotics and other anti-infection drugs. Steroid metabolism in humans is also the target of cholesterol-lowering drugs, such as statins.
+In humans and other animals the biosynthesis of steroids follows the mevalonate pathway, which uses acetyl-CoA as building blocks for dimethylallyl pyrophosphate (DMAPP) and isopentenyl pyrophosphate (IPP). In subsequent steps DMAPP and IPP join to form geranyl pyrophosphate (GPP), which synthesizes the steroid lanosterol. Modifications of lanosterol into other steroids are classified as steroidogenesis transformations.
+
+
+=== Mevalonate pathway ===
+
+The mevalonate pathway (also called HMG-CoA reductase pathway) begins with acetyl-CoA and ends with dimethylallyl pyrophosphate (DMAPP) and isopentenyl pyrophosphate (IPP).
+DMAPP and IPP donate isoprene units, which are assembled and modified to form terpenes and isoprenoids (a large class of lipids, which include the carotenoids and form the largest class of plant natural products. Here, the isoprene units are joined to make squalene and folded into a set of rings to make lanosterol. Lanosterol can then be converted into other steroids, such as cholesterol and ergosterol.
+Two classes of drugs target the mevalonate pathway: statins (like rosuvastatin), which are used to reduce elevated cholesterol levels, and bisphosphonates (like zoledronate), which are used to treat a number of bone-degenerative diseases.
+
+
+=== Steroidogenesis ===
+
+Steroidogenesis is the biological process by which steroids are generated from cholesterol and changed into other steroids. The pathways of steroidogenesis differ among species. The major classes of steroid hormones, as noted above (with their prominent members and functions), are the Progestogen, Corticosteroids (corticoids), Androgens, and Estrogens. Human steroidogenesis of these classes occurs in a number of locations:
+
+Progestogens are the precursors of all other human steroids, and all human tissues which produce steroids must first convert cholesterol to pregnenolone. This conversion is the rate-limiting step of steroid synthesis, which occurs inside the mitochondrion of the respective tissue.
+Cortisol, corticosterone, aldosterone, and testosterone are produced in the adrenal cortex.
+Estradiol, estrone and progesterone are made primarily in the ovary, estriol in placenta during pregnancy, and testosterone primarily in the testes (some testosterone is also produced in the adrenal cortex).
+Estradiol is converted from testosterone directly (in males), or via the primary pathway DHEA - androstenedione - estrone and secondarily via testosterone (in females).
+Stromal cells have been shown to produce steroids in response to signaling produced by androgen-starved prostate cancer cells.
+Some neurons and glia in the central nervous system (CNS) express the enzymes required for the local synthesis of pregnenolone, progesterone, DHEA and DHEAS, de novo or from peripheral sources.
+
+
+=== Alternative pathways ===
+In plants and bacteria, the non-mevalonate pathway uses pyruvate and glyceraldehyde 3-phosphate as substrates.During diseases pathways otherwise not significant in healthy humans can become utilized. For example, in one form of congenital adrenal hyperplasia a deficiency in the 21-hydroxylase enzymatic pathway leads to an excess of 17α-Hydroxyprogesterone (17-OHP) – this pathological excess of 17-OHP in turn may be converted to dihydrotestosterone (DHT, a potent androgen) through among others 17,20 Lyase (a member of the cytochrome P450 family of enzymes), 5α-Reductase and 3α-Hydroxysteroid dehydrogenase.
+
+
+== Catabolism and excretion ==
+Steroids are primarily oxidized by cytochrome P450 oxidase enzymes, such as CYP3A4. These reactions introduce oxygen into the steroid ring, allowing the cholesterol to be broken up by other enzymes into bile acids. These acids can then be eliminated by secretion from the liver in bile. The expression of the oxidase gene can be upregulated by the steroid sensor PXR when there is a high blood concentration of steroids. Steroid hormones, lacking the side chain of cholesterol and bile acids, are typically hydroxylated at various ring positions or oxidized at the 17 position, conjugated with sulfate or glucuronic acid and excreted in the urine.
+
+
+== Isolation, structure determination, and methods of analysis ==
+Steroid isolation, depending on context, is the isolation of chemical matter required for chemical structure elucidation, derivitzation or degradation chemistry, biological testing, and other research needs (generally milligrams to grams, but often more or the isolation of "analytical quantities" of the substance of interest (where the focus is on identifying and quantifying the substance (for example, in biological tissue or fluid). The amount isolated depends on the analytical method, but is generally less than one microgram. The methods of isolation to achieve the two scales of product are distinct, but include extraction, precipitation, adsorption, chromatography, and crystallization. In both cases, the isolated substance is purified to chemical homogeneity; combined separation and analytical methods, such as LC-MS, are chosen to be "orthogonal"—achieving their separations based on distinct modes of interaction between substance and isolating matrix—to detect a single species in the pure sample. Structure determination refers to the methods to determine the chemical structure of an isolated pure steroid, using an evolving array of chemical and physical methods which have included NMR and small-molecule crystallography. Methods of analysis overlap both of the above areas, emphasizing analytical methods to determining if a steroid is present in a mixture and determining its quantity.
+
+
+== Chemical synthesis ==
+Microbial catabolism of phytosterol side chains yields C-19 steroids, C-22 steroids, and 17-ketosteroids (i.e. precursors  to adrenocortical hormones and contraceptives). The addition and modification of functional groups is key when producing the wide variety of medications available within this chemical classification. These modifications are performed using conventional organic synthesis and/or biotransformation techniques.
+
+
+=== Precursors ===
+
+
+==== Semisynthesis ====
+The semisynthesis of steroids often begins from precursors such as cholesterol, phytosterols, or sapogenins. The efforts of Syntex, a company involved in the Mexican barbasco trade, used Dioscorea mexicana to produce the sapogenin diosgenin in the early days of the synthetic steroid pharmaceutical industry.
+
+
+==== Total synthesis ====
+Some steroidal hormones are economically obtained only by total synthesis from petrochemicals (e.g. 13-alkyl steroids). For example, the pharmaceutical Norgestrel begins from Methoxy-1-tetralone, a petrochemical derived from phenol.
+
+
+== Research awards ==
+A number of Nobel Prizes have been awarded for steroid research, including:
+
+1927 (Chemistry) Heinrich Otto Wieland — Constitution of bile acids and sterols and their connection to vitamins
+1928 (Chemistry) Adolf Otto Reinhold Windaus — Constitution of sterols and their connection to vitamins
+1939 (Chemistry) Adolf Butenandt and Leopold Ruzicka — Isolation and structural studies of steroid sex hormones, and related studies on higher terpenes
+1950 (Physiology or Medicine) Edward Calvin Kendall, Tadeus Reichstein, and Philip Hench — Structure and biological effects of adrenal hormones
+1965 (Chemistry) Robert Burns Woodward — In part, for the synthesis of cholesterol, cortisone, and lanosterol
+1969 (Chemistry) Derek Barton and Odd Hassel — Development of the concept of conformation in chemistry, emphasizing the steroid nucleus
+1975 (Chemistry) Vladimir Prelog — In part, for developing methods to determine the stereochemical course of cholesterol biosynthesis from mevalonic acid via squalene
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==

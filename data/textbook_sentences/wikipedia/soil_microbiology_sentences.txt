@@ -1,0 +1,91 @@
+Soil microbiology is the study of microorganisms in soil, their functions, and how they affect soil properties. It is believed that between two and four billion years ago, the first ancient bacteria and microorganisms came about on Earth's oceans. These bacteria could fix nitrogen, in time multiplied, and as a result released oxygen into the atmosphere. This led to more advanced microorganisms, which are important because they affect soil structure and fertility. Soil microorganisms can be classified as bacteria, actinomycetes, fungi, algae and protozoa. Each of these groups has characteristics that define them and their functions in soil.Up to 10 billion bacterial cells inhabit each gram of soil in and around plant roots, a region known as the rhizosphere. In 2011, a team detected more than 33,000 bacterial and archaeal species on sugar beet roots.The composition of the rhizobiome can change rapidly in response to changes in the surrounding environment.
+
+
+== Bacteria ==
+Bacteria and Archaea are the smallest organisms in soil apart from viruses. Bacteria and Archaea are prokaryotic.  All of the other microorganisms are eukaryotic, which means they have a more advanced cell structure with internal organelles and the ability to reproduce sexually. A prokaryote has a very simple cell structure with no internal organelles. Bacteria and archaea are the most abundant microorganisms in the soil, and serve many important purposes, including nitrogen fixation.
+
+
+=== Biochemical processes ===
+One of the most distinguished features of bacteria is their biochemical versatility . A bacterial genus called Pseudomonas can metabolize a wide range of chemicals and fertilizers. In contrast, another genus known as Nitrobacter can only derive its energy by turning nitrite into nitrate, which is also known as oxidation. The genus Clostridium is an example of bacterial versatility because it, unlike most species, can grow in the absence of oxygen, respiring anaerobically. Several species of Pseudomonas, such as Pseudomonas aeruginosa are able to respire both aerobically and anaerobically, using nitrate as the terminal electron acceptor.
+
+
+=== Nitrogen fixation ===
+Bacteria are responsible for the process of nitrogen fixation, which is the conversion of atmospheric nitrogen into nitrogen-containing compounds (such as ammonia) that can be used by plants. Autotrophic bacteria derive their energy by making their own food through oxidation, like the Nitrobacters species, rather than feeding on plants or other organisms. These bacteria are responsible for nitrogen fixation. The amount of autotrophic bacteria is small compared to heterotrophic bacteria (the opposite of autotrophic bacteria, heterotrophic bacteria acquire energy by consuming plants or other microorganisms), but are very important because almost every plant and organism requires nitrogen in some way.
+
+
+== Actinomycetes ==
+Actinomycetes are soil microorganisms. They are a type of bacteria, but they share some characteristics with fungi that are most likely a result of convergent evolution due to a common habitat and lifestyle.
+
+
+=== Similarities to fungi ===
+Although they are members of the Bacteria kingdom, many actinomycetes share characteristics with fungi, including shape and branching properties, spore formation and secondary metabolite production.
+
+The mycelium branches in a manner similar to that of fungi
+They form aerial mycelium as well as conidia.
+Their growth in liquid culture occurs as distinct clumps or pellets, rather than as a uniform turbid suspension as in bacteria.
+
+
+=== Antibiotics ===
+One of the most notable characteristics of the actinomycetes is their ability to produce antibiotics. Streptomycin, neomycin, erythromycin and tetracycline are only a few examples of these antibiotics. Streptomycin is used to treat tuberculosis and infections caused by certain bacteria and neomycin is used to reduce the risk of bacterial infection during surgery. Erythromycin is used to treat certain infections caused by bacteria, such as bronchitis, pertussis (whooping cough), pneumonia and ear, intestine, lung, urinary tract and skin infections.
+
+
+== Fungi ==
+Fungi are abundant in soil, but bacteria are more abundant. Fungi are important in the soil as food sources for other, larger organisms, pathogens, beneficial symbiotic relationships with plants or other organisms and soil health. Fungi can be split into species based primarily on the size, shape and color of their reproductive spores, which are used to reproduce. Most of the environmental factors that influence the growth and distribution of bacteria and actinomycetes also influence fungi. The quality as well as quantity of organic matter in the soil has a direct correlation to the growth of fungi, because most fungi consume organic matter for nutrition. Fungi thrive in acidic environments, while bacteria and actinomycetes cannot survive in acid, which results in an abundance of fungi in acidic areas. Fungi also grow well in dry, arid soils because fungi are aerobic, or dependent on oxygen, and the higher the moisture content in the soil, the less oxygen is present for them.
+
+
+== Algae ==
+Algae can make their own nutrients through photosynthesis. Photosynthesis converts light energy to chemical energy that can be stored as nutrients. For algae to grow, they must be exposed to light because photosynthesis requires light, so algae are typically distributed evenly wherever sunlight and moderate moisture is available. Algae do not have to be directly exposed to the Sun, but can live below the soil surface given uniform temperature and moisture conditions. Algae are also capable of performing nitrogen fixation.
+
+
+=== Types ===
+Algae can be split up into three main groups: the Cyanophyceae, the Chlorophyceae and the Bacillariaceae. The Cyanophyceae contain chlorophyll, which is the molecule that absorbs sunlight and uses that energy to make carbohydrates from carbon dioxide and water and also pigments that make it blue-green to violet in color. The Chlorophyceae usually only have chlorophyll in them which makes them green, and the Bacillariaceae contain chlorophyll as well as pigments that make the algae brown in color.
+
+
+=== Blue-green algae and nitrogen fixation ===
+Blue-green algae, or Cyanophyceae, are responsible for nitrogen fixation. The amount of nitrogen they fix depends more on physiological and environmental factors rather than the organism’s abilities. These factors include intensity of sunlight, concentration of inorganic and organic nitrogen sources and ambient temperature and stability.
+
+
+== Protozoa ==
+Protozoa are eukaryotic organisms that were some of the first microorganisms to reproduce sexually, a significant evolutionary step from duplication of spores, like those that many other soil microorganisms depend on. Protozoa can be split up into three categories: flagellates, amoebae and ciliates.
+
+
+=== Flagellates ===
+Flagellates are the smallest members of the protozoa group, and can be divided further based on whether they can participate in photosynthesis. Nonchlorophyll-containing flagellates are not capable of photosynthesis because chlorophyll is the green pigment that absorbs sunlight. These flagellates are found mostly in soil. Flagellates that contain chlorophyll typically occur in aquatic conditions. Flagellates can be distinguished by their flagella, which is their means of movement. Some have several flagella, while other species only have one that resembles a long branch or appendage.
+
+
+=== Amoebae ===
+Amoebae are larger than flagellates and move in a different way. Amoebae can be distinguished from other protozoa by their slug-like properties and pseudopodia. A pseudopodium or “false foot” is a temporary obtrusion from the body of the amoeba that helps pull it along surfaces for movement or helps to pull in food. The amoeba does not have permanent appendages and the pseudopodium is more of a slime-like consistency than a flagellum.
+
+
+=== Ciliates ===
+Ciliates are the largest of the protozoa group, and move by means of short, numerous cilia that produce beating movements. Cilia resemble small, short hairs. They can move in different directions to move the organism, giving it more mobility than flagellates or amoebae.
+
+
+== Composition regulation ==
+Plant hormones salicylic acid, jasmonic acid and ethylene are key regulators of innate immunity in plant leaves. Mutants impaired in salicylic acid synthesis and signaling are hypersusceptible to microbes that colonize the host plant to obtain nutrients, whereas mutants impaired in jasmonic acid and ethylene synthesis and signaling are hypersusceptible to herbivorous insects and microbes that kill host cells to extract nutrients.The challenge of modulating a community of diverse microbes in plant roots is more involved than that of clearing a few pathogens from inside a plant leaf. Consequently, regulating root microbiome composition may require immune mechanisms other than those that control foliar microbes.A 2015 study analyzed a panel of Arabidopsis hormone mutants impaired in synthesis or signaling of individual or combinations of plant hormones, the microbial community in the soil adjacent to the root and in bacteria living within root tissue. Changes in salicylic acid signaling stimulated a reproducible shift in the relative abundance of bacterial phyla in the endophytic compartment. These changes were consistent across many families within the affected phyla, indicating that salicylic acid may be a key regulator of microbiome community structure.Classical plant defense hormones also function in plant growth, metabolism and abiotic stress responses, obscuring the precise mechanism by which salicylic acid regulates this microbiome.During plant domestication, humans selected for traits related to plant improvement, but not for plant associations with a beneficial microbiome. Even minor changes in abundance of certain bacteria can have a major effect on plant defenses and physiology, with only minimal effects on overall microbiome structure.
+
+
+== Applications ==
+
+
+=== Agriculture ===
+Microbes can make nutrients and minerals in the soil available to plants, produce hormones that spur growth, stimulate the plant immune system and trigger 
+Farming can destroy soil's rhiziobiome (microbial ecosystem)  by using soil amendments such as fertilizer and pesticide without compensating for their effects. By contrast, healthy soil can increase fertility in multiple ways, including supplying nutrients such as nitrogen and protecting against pests and disease, while reducing the need fo
+The group of bacteria called rhizobia live inside the roots of legumes and fix nitrogen from the air into a biologically
+Up to 30% of the carbon fixed by plants is excreted from the roots as so-called exudates—including sugars, amino acids, [[flavonoid] etc.
+
+
+== Soil microbiologists ==
+Nikolai Aleksandrovich Krasil'nikov (1896-1973), Russian
+Julian Quentin Lynd (1922-2017), American
+
+
+== See also ==
+Natural farming
+Korean natural farming
+Effective microorganisms
+Soil biology
+Soil life
+
+
+== References ==

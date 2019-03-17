@@ -1,0 +1,77 @@
+Vasodilation is the widening of blood vessels.  It results from relaxation of smooth muscle cells within the vessel walls, in particular in the large veins, large arteries, and smaller arterioles. The process is the opposite of vasoconstriction, which is the narrowing of blood vessels.
+When blood vessels dilate, the flow of blood is increased due to a decrease in vascular resistance and increase in cardiac output. Therefore, dilation of arterial blood vessels (mainly the arterioles) decreases blood pressure. The response may be intrinsic (due to local processes in the surrounding tissue) or extrinsic (due to hormones or the nervous system). In addition, the response may be localized to a specific organ (depending on the metabolic needs of a particular tissue, as during strenuous exercise), or it may be systemic (seen throughout the entire systemic circulation).
+Endogenous substances and drugs that cause vasodilation are termed vasodilators. Such vasoactivity is necessary for homeostasis (keeping the body running normally).
+
+
+== Function ==
+The primary function of vasodilation is to increase blood flow in the body to tissues that need it most.  This is often in response to a localized need for oxygen but can occur when the tissue in question is not receiving enough glucose, lipids, or other nutrients.  Localized tissues have multiple ways to increase blood flow, including releasing vasodilators, primarily adenosine, into the local interstitial fluid, which diffuses to capillary beds, provoking local vasodilation. Some physiologists have suggested that it is the lack of oxygen itself that causes capillary beds to vasodilate by the smooth muscle hypoxia of the vessels in the region.  This latter hypothesis is posited due to the presence of precapillary sphincters in capillary beds.  These approaches to the mechanism of vasodilation are not mutually exclusive.
+
+
+=== Vasodilation and arterial resistance ===
+Vasodilation directly affects the relationship between mean arterial pressure, cardiac output, and total peripheral resistance (TPR). Vasodilation occurs in the time phase of cardiac systole, whereas vasoconstriction follows in the opposite time phase of cardiac diastole. Cardiac output (blood flow measured in volume per unit time) is computed by multiplying the heart rate (in beats per minute) and the stroke volume (the volume of blood ejected during ventricular systole). TPR depends on several factors, including the length of the vessel, the viscosity of blood (determined by hematocrit) and the diameter of the blood vessel. The latter is the most important variable in determining resistance, with the TPR changing by the fourth power of the
+. An increase in either of these physiological components (cardiac output or TPR) causes a rise in the mean arterial pressure. Vasodilation works to decrease TPR and blood pressure through relaxation of smooth muscle cells in the tunica media layer of large arteries and smaller arterioles.Vasodilation occurs in superficial blood vessels of warm-blooded animals when their ambient environment is hot; this process diverts the flow of heated blood to the skin of the animal, where heat can be more easily released to the atmosphere. The opposite physiological process is vasoconstriction. These processes are naturally modulated by local paracrine agents from endothelial cells (e.g., nitric oxide, bradykinin, potassium ions, and adenosine), as well as an organism's autonomic nervous system and adrenal glands, both of which secrete catecholamines such as norepinephrine and epinephrine, respectively.
+
+
+== Examples and individual mechanisms ==
+Vasodilation is the result of relaxation in smooth muscle surrounding the blood vessels. This relaxation, in turn, relies on removing the stimulus for contraction, which depends on intracellular calcium ion concentrations and is tightly linked with phosphorylation of the light chain of the contractile protein myosin. Thus, vasodilation works mainly either by lowering intracellular calcium concentration or by dephosphorylation (really substitution of ATP for ADP) of myosin. Dephosphorylation by myosin light-chain phosphatase and induction of calcium symporters and antiporters that pump calcium ions out of the intracellular compartment both contribute to smooth muscle cell relaxation and therefore vasodilation. This is accomplished through reuptake of ions into the sarcoplasmic reticulum via exchangers and expulsion across the plasma membrane. There are three main intracellular stimuli that can result in the vasodilation of blood vessels. The specific mechanisms to accomplish these effects vary from vasodilator to vasodilator.
+
+PDE5 inhibitors and potassium channel openers can also have similar results.
+Compounds that mediate the above mechanisms may be grouped as endogenous and exogenous.
+
+
+=== Endogenous ===
+The vasodilating action of activation of beta-2 receptors (such as by adrenaline) appears to be endothelium-independent.
+
+
+=== Sympathetic nervous system vasodilation ===
+Although it is recognized that the sympathetic nervous system plays an expendable role in vasodilation, it is only one of the mechanisms by which vasodilation can be accomplished.  The spinal cord has both vasodilation and vasoconstriction nerves.  The neurons that control vascular vasodilation originate in the hypothalamus. Some sympathetic stimulation of arterioles in skeletal muscle is mediated by epinephrine acting on β-adrenergic receptors of arteriolar smooth muscle, which would be mediated by cAMP pathways, as discussed above.  However, it has been shown that knocking out this sympathetic stimulation plays little or no role in whether skeletal muscle is able to receive sufficient oxygen even at high levels of exertion, so it is believed that this particular method of vasodilation is of little importance to human physiology.In cases of emotional distress, this system may activate, resulting in fainting due to decreased blood pressure from vasodilation, which is referred to as vasovagal syncope.
+
+
+=== Cold-induced vasodilation ===
+Cold-induced vasodilation (CIVD) occurs after cold exposure, possibly to reduce the risk of injury. It can take place in several locations in the human body but is observed most often in the extremities. The fingers are especially common because they are exposed most often.
+When the fingers are exposed to cold, vasoconstriction occurs first to reduce heat loss, resulting in strong cooling of the fingers. Approximately five to ten minutes after the start of the cold exposure of the hand, the blood vessels in the finger tips will suddenly vasodilate. This is probably caused by a sudden decrease in the release of neurotransmitters from the sympathetic nerves to the muscular coat of the arteriovenous anastomoses due to local cold. The CIVD increases blood flow and subsequently the temperature of the fingers. This can be painful and is sometimes known as the 'hot aches' which can be painful enough to bring on vomiting.
+A new phase of vasoconstriction follows the vasodilation, after which the process repeats itself. This is called the Hunting reaction. Experiments have shown that three other vascular responses to immersion of the finger in cold water are possible: a continuous state of vasoconstriction; slow, steady, and continuous rewarming; and a proportional control form in which the blood vessel diameter remains constant after an initial phase of vasoconstriction. However, the vast majority of responses can be classified as the Hunting reaction.
+
+
+=== Other mechanisms of vasodilation ===
+Other suggested vasodilators or vasodilating factors include:
+
+absence of high levels of environmental noise
+absence of high levels of illumination
+adenosine - adenosine agonist, used primarily as an anti-arrhythmic
+alpha blockers (block the vasoconstricting effect of adrenaline)
+amyl nitrite and other nitrites are often used recreationally as a vasodilator, causing lightheadedness and a euphoric feeling
+atrial natriuretic peptide (ANP) - a weak vasodilator
+capsaicin (chili)
+ethanol (alcohol)
+histamine-inducers
+Complement proteins C3a, C4a, and C5a work by triggering histamine release from mast cells and basophil granulocytes.
+nitric oxide inducers
+l-arginine (a key amino acid)
+glyceryl trinitrate (commonly known as nitroglycerin)
+isosorbide mononitrate and isosorbide dinitrate
+pentaerythritol tetranitrate (PETN)
+sodium nitroprusside
+PDE5 inhibitors: these agents indirectly increase the effects of nitric oxide
+sildenafil (Viagra)
+tadalafil (Cialis)
+vardenafil (Levitra)
+tetrahydrocannabinol (THC)
+theobromine
+minoxidil
+papaverine an alkaloid found in the opium poppy papaver somniferum
+estrogen
+apigenin: In rat small mesenteric arteries, apigenin acts on TRPV4 in endothelial cells to induce EDHF-mediated vascular dilation (Br J Pharmacol 2011 Nov 3)
+
+
+==== Therapeutic uses ====
+Vasodilators are used to treat conditions such as hypertension, wherein the patient has an abnormally high blood pressure, as well as angina, congestive heart failure, and erectile dysfunction, and where maintaining a lower blood pressure reduces the patient's risk of developing other cardiac problems.Flushing may be a physiological response to vasodilators. Some phosphodiesterase inhibitors such as sildenafil, vardenafil and tadalafil, work to increase blood flow in the penis through vasodilation. They may also be used to treat pulmonary arterial hypertension (PAH).
+
+
+== See also ==
+Arteriolar vasodilator
+Nitrophorin
+Vasodilatory shock
+
+
+== References ==

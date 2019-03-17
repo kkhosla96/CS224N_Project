@@ -1,0 +1,78 @@
+A prokaryote is usually a unicellular organism, sometimes a multi-cellular organism, that lacks a membrane-bound nucleus, mitochondria, or any other membrane-bound organelle. The word prokaryote comes from the Greek πρό (pro) "before" and κάρυον (karyon) "nut or kernel". Prokaryotes are divided into two domains, Archaea and Bacteria. In contrast, species with nuclei and organelles are placed in the third domain, Eukaryota. Prokaryotes reproduce without fusion of gametes. The first living organisms are thought to have been prokaryotes.
+
+In the prokaryotes, all the intracellular water-soluble components (proteins, DNA and metabolites) are located together in the cytoplasm enclosed by the cell membrane, rather than in separate cellular compartments. Bacteria, however, do possess protein-based bacterial microcompartments, which are thought to act as primitive organelles enclosed in protein shells. Some prokaryotes, such as cyanobacteria, may form large colonies. Others, such as myxobacteria, have multicellular stages in their life cycles.Molecular studies have provided insight into the evolution and interrelationships of the three domains of biological species. Eukaryotes are organisms, including humans, whose cells have a well defined membrane-bound nucleus (containing chromosomal DNA) and organelles. The division between prokaryotes and eukaryotes reflects the existence of two very different levels of cellular organization. Distinctive types of prokaryotes include extremophiles and methanogens; these are common in some extreme environments.
+
+
+== History ==
+The division between prokaryotes and eukaryotes was firmly established by the microbiologists Roger Stanier and C. B. van Niel in their 1962 paper The concept of a bacterium  (though spelled procaryote and eucaryote there). That paper cites Édouard Chatton's 1937 book Titres et Travaux Scientifiques for using those terms and recognizing the distinction. One reason for this classification was so that what was then often called blue-green algae (now called cyanobacteria) would not be classified as plants but grouped with bacteria.
+
+
+== Structure ==
+Prokaryotes have a prokaryotic cytoskeleton, albeit more primitive than that of the eukaryotes. Besides homologues of actin and tubulin (MreB and FtsZ), the helically arranged building-block of the flagellum, flagellin, is one of the most significant cytoskeletal proteins of bacteria, as it provides structural backgrounds of chemotaxis, the basic cell physiological response of bacteria.  At least some prokaryotes also contain intracellular structures that can be seen as primitive organelles.  Membranous organelles (or intracellular membranes) are known in some groups of prokaryotes, such as vacuoles or membrane systems devoted to special metabolic properties, such as photosynthesis or chemolithotrophy.  In addition, some species also contain carbohydrate-enclosed microcompartments, which have distinct physiological roles (e.g. carboxysomes or gas vacuoles).
+Most prokaryotes are between 1 µm and 10 µm, but they can vary in size from 0.2 µm (Mycoplasma genitalium) to 750 µm (Thiomargarita namibiensis).
+
+
+== Morphology ==
+Prokaryotic cells have various shapes; the four basic shapes of bacteria are:
+Cocci – spherical
+Bacilli – rod-shaped
+Spirochaete – spiral-shaped
+Vibrio – comma-shapedThe archaeon Haloquadratum has flat square-shaped cells.
+
+
+== Reproduction ==
+Bacteria and archaea reproduce through asexual reproduction, usually by binary fission. Genetic exchange and recombination still occur, but this is a form of horizontal gene transfer and is not a replicative process, simply involving the transference of DNA between two cells, as in bacterial conjugation.
+
+
+== DNA transfer ==
+DNA transfer between prokaryotic cells occurs  in bacteria and archaea, although it has been mainly studied in bacteria. In bacteria, gene transfer occurs by three processes.  These are (1) bacterial virus (bacteriophage)-mediated transduction, (2) plasmid-mediated conjugation, and (3) natural transformation. Transduction of bacterial genes by bacteriophage appears to reflect an occasional error during intracellular assembly of virus particles, rather than an adaptation of the host bacteria. The transfer of bacterial DNA is under the control of the bacteriophage’s genes rather than bacterial genes. Conjugation in the well-studied E. coli system is controlled by plasmid genes, and is an adaptation for distributing copies of a plasmid from one bacterial host to another. Infrequently during this process, a plasmid may integrate into the host bacterial chromosome, and subsequently transfer part of the host bacterial DNA to another bacterium. Plasmid mediated transfer of host bacterial DNA (conjugation) also appears to be an accidental process rather than a bacterial adaptation.
+
+Natural bacterial transformation involves the transfer of DNA from one bacterium to another through the intervening medium. Unlike transduction and conjugation, transformation is clearly a bacterial adaptation for DNA transfer, because it depends on numerous bacterial gene products that specifically interact to perform this complex process. For a bacterium to bind, take up and recombine donor DNA into its own chromosome, it must first enter a special physiological state called competence. About 40 genes are required in Bacillus subtilis for the development of competence. The length of DNA transferred during B. subtilis transformation can be as much as a third to the whole chromosome.   Transformation is a common mode of DNA transfer, and 67 prokaryotic species are thus far known to be naturally competent for transformation.Among archaea, Halobacterium volcanii forms cytoplasmic bridges between cells that appear to be used for transfer of DNA from one cell to another. Another archaeon, Sulfolobus solfataricus, transfers DNA between cells by direct contact.  Frols et al. found that exposure of S. solfataricus to DNA damaging agents induces cellular aggregation, and suggested that cellular aggregation may enhance DNA transfer among cells to provide increased repair of damaged DNA via homologous recombination.
+
+
+== Sociality ==
+While prokaryotes are considered strictly unicellular, most can form stable aggregate communities. When such communities are encased in a stabilizing polymer matrix ("slime"), they may be called "biofilms". Cells in biofilms often show distinct patterns of gene expression (phenotypic differentiation) in time and space. Also, as with multicellular eukaryotes, these changes in expression often appear to result from cell-to-cell signaling, a phenomenon known as quorum sensing.
+Biofilms may be highly heterogeneous and structurally complex and may attach to solid surfaces, or exist at liquid-air interfaces, or potentially even liquid-liquid interfaces. Bacterial biofilms are often made up of microcolonies (approximately dome-shaped masses of bacteria and matrix) separated by "voids" through which the medium (e.g., water) may flow easily. The microcolonies may join together above the substratum to form a continuous layer, closing the network of channels separating microcolonies. This structural complexity—combined with observations that oxygen limitation (a ubiquitous challenge for anything growing in size beyond the scale of diffusion) is at least partially eased by movement of medium throughout the biofilm—has led some to speculate that this may constitute a circulatory system  and many researchers have started calling prokaryotic communities multicellular (for example ). Differential cell expression, collective behavior, signaling, programmed cell death, and (in some cases) discrete biological dispersal events all seem to point in this direction. However, these colonies are seldom if ever founded by a single founder (in the way that animals and plants are founded by single cells), which presents a number of theoretical issues. Most explanations of co-operation and the evolution of multicellularity have focused on high relatedness between members of a group (or colony, or whole organism). If a copy of a gene is present in all members of a group, behaviors that promote cooperation between members may permit those members to have (on average) greater fitness than a similar group of selfish individuals (see inclusive fitness and Hamilton's rule).
+Should these instances of prokaryotic sociality prove to be the rule rather than the exception, it would have serious implications for the way we view prokaryotes in general, and the way we deal with them in medicine. Bacterial biofilms may be 100 times more resistant to antibiotics than free-living unicells and may be nearly impossible to remove from surfaces once they have colonized them. Other aspects of bacterial cooperation—such as bacterial conjugation and quorum-sensing-mediated pathogenicity, present additional challenges to researchers and medical professionals seeking to treat the associated diseases.
+
+
+== Environment ==
+
+Prokaryotes have diversified greatly throughout their long existence. The metabolism of prokaryotes is far more varied than that of eukaryotes, leading to many highly distinct prokaryotic types. For example, in addition to using photosynthesis or organic compounds for energy, as eukaryotes do, prokaryotes may obtain energy from inorganic compounds such as hydrogen sulfide. This enables prokaryotes to thrive in harsh environments as cold as the snow surface of Antarctica, studied in cryobiology or as hot as undersea hydrothermal vents and land-based hot springs.
+Prokaryotes live in nearly all environments on Earth. Some archaea and bacteria are extremophiles, thriving in harsh conditions, such as high temperatures (thermophiles) or high salinity (halophiles). Many archaea grow as plankton in the oceans. Symbiotic prokaryotes live in or on the bodies of other organisms, including humans.
+
+
+== Classification ==
+
+In 1977, Carl Woese proposed dividing prokaryotes into the Bacteria and Archaea (originally Eubacteria and Archaebacteria) because of the major differences in the structure and genetics between the two groups of organisms. Archaea were originally thought to be extremophiles, living only in inhospitable conditions such as extremes of temperature, pH, and radiation but have since been found in all types of habitats. The resulting arrangement of Eukaryota (also called "Eucarya"), Bacteria, and Archaea is called the three-domain system, replacing the traditional two-empire system.
+
+
+== Evolution ==
+
+A widespread current model of the evolution of the first living organisms is that these were some form of prokaryotes, which may have evolved out of protocells, while the eukaryotes evolved later in the history of life. Some authors have questioned this conclusion, arguing that the current set of prokaryotic species may have evolved from more complex eukaryotic ancestors through a process of simplification.
+Others have argued that the three domains of life arose simultaneously, from a set of varied cells that formed a single gene pool. This controversy was summarized in 2005:
+
+There is no consensus among biologists concerning the position of the eukaryotes in the overall scheme of cell evolution. Current opinions on the origin and position of eukaryotes span a broad spectrum including the views that eukaryotes arose first in evolution and that prokaryotes descend from them, that eukaryotes arose contemporaneously with eubacteria and archeabacteria and hence represent a primary line of descent of equal age and rank as the prokaryotes, that eukaryotes arose through a symbiotic event entailing an endosymbiotic origin of the nucleus, that eukaryotes arose without endosymbiosis, and that eukaryotes arose through a symbiotic event entailing a simultaneous endosymbiotic origin of the flagellum and the nucleus, in addition to many other models, which have been reviewed and summarized elsewhere.
+
+The oldest known fossilized prokaryotes were laid down approximately 3.5 billion years ago, only about 1 billion years after the formation of the Earth's crust. Eukaryotes only appear in the fossil record later, and may have formed from endosymbiosis of multiple prokaryote ancestors. The oldest known fossil eukaryotes are about 1.7 billion years old. However, some genetic evidence suggests eukaryotes appeared as early as 3 billion years ago.While Earth is the only place in the universe where life is known to exist, some have suggested that there is evidence on Mars of fossil or living prokaryotes. However, this possibility remains the subject of considerable debate and skepticism.
+
+
+== Relationship to eukaryotes ==
+
+The division between prokaryotes and eukaryotes is usually considered the most important distinction or difference among organisms. The distinction is that eukaryotic cells have a "true" nucleus containing their DNA, whereas prokaryotic cells do not have a nucleus. Both eukaryotes and prokaryotes contain large RNA/protein structures called ribosomes, which produce protein.
+Another difference is that ribosomes in prokaryotes are smaller than in eukaryotes. However, two organelles found in many eukaryotic cells, mitochondria and chloroplasts, contain ribosomes similar in size and makeup to those found in prokaryotes. This is one of many pieces of evidence that mitochondria and chloroplasts are themselves descended from free-living bacteria. This theory holds that early eukaryotic cells took in primitive prokaryotic cells by phagocytosis and adapted themselves to incorporate their structures, leading to the mitochondria we see today.
+The genome in a prokaryote is held within a DNA/protein complex in the cytosol called the nucleoid, which lacks a nuclear envelope. The complex contains a single, cyclic, double-stranded molecule of stable chromosomal DNA, in contrast to the multiple linear, compact, highly organized chromosomes found in eukaryotic cells. In addition, many important genes of prokaryotes are stored in separate circular DNA structures called plasmids. Like Eukaryotes, prokaryotes may partially duplicate genetic material, and can have a haploid chromosomal composition that is partially replicated, a condition known as merodiploidy.Prokaryotes lack mitochondria and chloroplasts. Instead, processes such as oxidative phosphorylation and photosynthesis take place across the prokaryotic cell membrane. However, prokaryotes do possess some internal structures, such as prokaryotic cytoskeletons. It has been suggested that the bacterial order Planctomycetes have a membrane around their nucleoid and contain other membrane-bound cellular structures. However, further investigation revealed that Planctomycetes cells are not compartmentalized or nucleated and like the other bacterial membrane systems are all interconnected.Prokaryotic cells are usually much smaller than eukaryotic cells. Therefore, prokaryotes have a larger surface-area-to-volume ratio, giving them a higher metabolic rate, a higher growth rate, and as a consequence, a shorter generation time than eukaryotes.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Prokaryote versus eukaryote, BioMineWiki
+The Taxonomic Outline of Bacteria and Archaea
+The Prokaryote-Eukaryote Dichotomy: Meanings and Mythology
+Quiz on prokaryote anatomy
+TOLWEB page on Eukaryote-Prokaryote phylogeny This article incorporates public domain material from the NCBI document "Science Primer".

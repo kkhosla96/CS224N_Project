@@ -1,0 +1,91 @@
+A lipoprotein is a biochemical assembly whose primary purpose is to transport hydrophobic lipid (a.k.a. fat) molecules in water, as in blood or extracellular fluid. They have a single-layer phospholipid and cholesterol outer shell, with the hydrophilic portions oriented outward toward the surrounding water and lipophilic portions of each molecule oriented inwards toward the lipids molecules within the particles. Apolipoproteins are embedded in the membrane, both stabilising the complex and giving it functional identity determining its fate. Thus the complex serves to emulsify the fats. Many enzymes, transporters, structural proteins, antigens, adhesions, and toxins are lipoproteins. Examples include the plasma lipoprotein particles classified as HDL, LDL, IDL, VLDL and ULDL (a.k.a. chylomicrons) lipoproteins, according to density / size (an inverse relationship), compared with the surrounding plasma water. These complex protein capsules enable fats to be carried in all extracellular water, including the blood stream (an example of emulsification), subgroups of which are primary drivers / modulators of atherosclerosis, the transmembrane proteins of mitochondrion, chloroplast, and bacterial lipoproteins. Proteolipids are a different kind of protein-lipid combination that are insoluble in water. Proteolipids are abundant in brain tissue, and are also present in many other animal and plant tissues.
+
+
+== Scope ==
+
+
+=== Transmembrane lipoproteins ===
+The lipids are often an essential part of the complex, even if they seem to have no catalytic activity by themselves. Detergents are usually required to isolate transmembrane lipoproteins from their associated biological membranes.
+
+
+=== Plasma lipoprotein particles ===
+Because fats are insoluble in water, fats cannot be transported in extracellular water, including blood plasma, on their own. Instead, they are surrounded by hydrophilic proteins that function as transport vehicles. The role of lipoprotein particles is to transport all hydrophobic fat molecules, such as triacylglycerols (a.k.a. triglycerides), phospholipids, cholesterol, etc. within the extracellular water of the body to all the cells and tissues of the body. The proteins which form these particles are synthesized and secreted into the extracellular water by both the small intestine and liver cells.
+All cells use and rely on fats and cholesterol as building-blocks to create the multiple membranes that cells use both to control internal water content and internal water-soluble elements and to organize their internal structure and protein enzymatic systems.
+The lipoprotein particles have hydrophilic groups of phospholipids, cholesterol, and apoproteins directed outward. Such characteristics make them soluble in the salt water-based blood pool. Triglyceride-fats and cholesteryl esters are carried internally, shielded from the water by the phospholipid monolayer and the apoproteins.
+The interaction of the proteins forming the surface of the particles (with enzymes in the blood; with each other; and with specific proteins on the surfaces of cells) determines whether triglycerides and cholesterol will be added to or removed from the lipoprotein transport particles.
+Regarding atheroma development and progression as opposed to regression, the key issue has always been cholesterol transport patterns, not cholesterol concentration itself.
+
+
+== Function ==
+
+
+=== Metabolism ===
+The handling of lipoprotein particles in the body is referred to as lipoprotein particle metabolism. It is divided into two pathways, exogenous and endogenous, depending in large part on whether the lipoprotein particles in question are composed chiefly of dietary (exogenous) lipids or whether they originated in the liver (endogenous), through de novo synthesis of triacylglycerols.
+The hepatocytes are the main platform for the handling of triacylglycerols and cholesterol; the liver can also store certain amounts of glycogen and triacylglycerols. While adipocytes are the main storage cells for triacylglycerols, they do not produce any lipoproteins.
+
+
+==== Exogenous pathway ====
+
+Bile emulsifies fats contained in the chyme, then pancreatic lipase cleaves triacylglycerol molecules into two fatty acids and one 2-monoacylglycerol. Enterocytes readily absorb these small molecules from the chymus. Inside of the enterocytes, fatty acids and monoacylglycerides are transformed again into triacylglycerides. Then these lipids (i.e. triacylglycerols, phospholipids, cholesterol, and cholesteryl esters) are assembled with apolipoprotein B-48 into nascent chylomicrons. These particles are then secreted into the lacteals in a process that depends heavily on apolipoprotein B-48. As they circulate through the lymphatic vessels, nascent chylomicrons bypass the liver circulation and are drained via the thoracic duct into the bloodstream.
+In the blood stream, nascent chylomicron particles interact with HDL particles resulting in HDL donation of apolipoprotein C-II and apolipoprotein E to the nascent chylomicron. The chylomicron at this stage is then considered mature. Via apolipoprotein C-II, mature chylomicrons activate lipoprotein lipase (LPL), an enzyme on endothelial cells lining the blood vessels. LPL catalyzes the hydrolysis of triacylglycerol (glycerol covalently joined to three fatty acids) that ultimately releases glycerol and fatty acids from the chylomicrons. Glycerol and fatty acids can then be absorbed in peripheral tissues, especially adipose and muscle, for energy and storage.
+The hydrolyzed chylomicrons are now called chylomicron remnants. The chylomicron remnants continue circulating the bloodstream until they interact via apolipoprotein E with chylomicron remnant receptors, found chiefly in the liver. This interaction causes the endocytosis of the chylomicron remnants, which are subsequently hydrolyzed within lysosomes. Lysosomal hydrolysis releases glycerol and fatty acids into the cell, which can be used for energy or stored for later use.
+
+
+==== Endogenous pathway ====
+The liver is the central platform for the handling of lipids: it is able to store glycerols and fats in its cells, the hepatocytes. Hepatocytes are also able to create triacylglycerols via de novo synthesis. They also produce the bile from cholesterol. The intestines are responsible for absorbing cholesterol. They transfer it over into the blood stream.
+In the hepatocytes, triacylglycerols and cholesteryl esters are assembled with apolipoprotein B-100 to form nascent VLDL particles. Nascent VLDL particles are released into the bloodstream via a process that depends upon apolipoprotein B-100.
+In the blood stream, nascent VLDL particles bump with HDL particles; as a result, HDL particles donate apolipoprotein C-II and apolipoprotein E to the nascent VLDL particle. Once loaded with apolipoproteins C-II and E, the nascent VLDL particle is considered mature.
+Again, like chylomicrons, VLDL particles circulate and encounter lipoprotein lipase (LPL) expressed on endothelial cells. Apolipoprotein C-II activates LPL, causing hydrolysis of the VLDL particle and the release of glycerol and fatty acids. These products can be absorbed from the blood by peripheral tissues, principally adipose and muscle. The hydrolyzed VLDL particles are now called VLDL remnants or intermediate-density lipoproteins (IDLs). VLDL remnants can circulate and, via an interaction between apolipoprotein E and the remnant receptor, be absorbed by the liver, or they can be further hydrolyzed by hepatic lipase.
+Hydrolysis by hepatic lipase releases glycerol and fatty acids, leaving behind IDL remnants, called low-density lipoproteins (LDL), which contain a relatively high cholesterol content (see native LDL structure at 37°C on YouTube). LDL circulates and is absorbed by the liver and peripheral cells. Binding of LDL to its target tissue occurs through an interaction between the LDL receptor and apolipoprotein B-100 on the LDL particle. Absorption occurs through endocytosis, and the internalized LDL particles are hydrolyzed within lysosomes, releasing lipids, chiefly cholesterol.
+
+
+=== Role in inflammation ===
+Inflammation, a biological system response to stimuli such as the introduction of a pathogen, has an underlying role in a number of systemic biological functions and pathologies. This is a useful response by the immune system when the body is exposed to pathogens, such as bacteria in locations that will prove harmful, but can also have detrimental effects if left unregulated. It has been demonstrated that lipoproteins, specifically HDL, have important roles in the inflammatory process.When the body is functioning under normal, stable physiological conditions, HDL has been shown to be beneficial in a number of ways. LDL contains apolipoprotein B (apoB), which allows LDL to bind to different tissues, such as the artery wall if the glycocalyx has been damaged by high blood sugar levels. If oxidised the LDL can become trapped in the proteoglycans, preventing its removal by HDL cholesterol efflux. Normal functioning HDL is able to prevent the process of oxidation of LDL and the subsequent inflammatory processes seen after oxidation.Lipopolysaccharide, or LPS, is the major pathogenic factor on the cell wall of Gram-negative bacteria. Gram-positive bacteria has a similar component named Lipoteichoic acid, or LTA. HDL has the ability to bind LPS and LTA, creating HDL-LPS complexes to neutralize the harmful effects in the body and clear the LPS from the body. HDL also has significant roles interacting with cells of the immune system to modulate the availability of cholesterol and modulate the immune response itself.Under certain abnormal physiological conditions such as system infection or sepsis, the major components of HDL become altered, The composition and quantity of lipids and apolipoproteins are altered as compared to normal physiological conditions, such as a decrease in HDL cholesterol (HDL-C), phospholipids, apoA-I (a major lipoprotein in HDL that has been shown to have beneficial anti-inflammatory properties), and an increase in Serum amyloid A. This altered composition of HDL is commonly referred to as acute-phase HDL in an acute-phase inflammatory response, during which time HDL can lose its ability to inhibit the oxidation of LDL. In fact, this altered composition of HDL is associated with increased mortality and worse clinical outcomes in patients with sepsis.
+
+
+== Classification ==
+
+
+=== By density ===
+Lipoproteins may be classified as five major groups follows, listed from larger and less dense to smaller and denser. Lipoproteins are larger and less dense when the fat to protein ratio is increased. They are classified on the basis of electrophoresis, ultracentrifugation and nuclear magnetic resonance spectroscopy via the Vantera Analyzer.
+Chylomicrons carry triglycerides (fat) from the intestines to the liver, to skeletal muscle, and to adipose tissue.
+Very-low-density lipoproteins (VLDL) carry (newly synthesised) triglycerides from the liver to adipose tissue.
+Intermediate-density lipoproteins (IDL) are intermediate between VLDL and LDL. They are not usually detectable in the blood when fasting.
+Low-density lipoproteins (LDL) carry 3,000 to 6,000 fat molecules (phospholipids, cholesterol, triglycerides, etc.) around the body. LDL particles are sometimes referred to as "bad" lipoprotein because concentrations, dose related, correlate with atherosclerosis progression.
+large buoyant LDL (lb LDL) particles
+small dense LDL (sd LDL) particles
+Lipoprotein(a) is a lipoprotein particle of a certain phenotype
+High-density lipoproteins (HDL) collect fat molecules (phospholipids, cholesterol, triglycerides, etc.) from the body's cells/tissues, and take it back to the liver. HDLs are sometimes referred to as "good" lipoprotein because higher concentrations correlate with low rates of atherosclerosis progression and/or regression.For young healthy research subjects, ~70 kg (154 lb), this data represents averages across individuals studied, percentages represent % dry weight:
+
+  However, this data is not reliable for any one individual or for the general clinical population.
+
+
+=== Alpha and beta ===
+It is also possible to classify lipoproteins as "alpha" and "beta", according to the classification of proteins in serum protein electrophoresis. This terminology is sometimes used in describing lipid disorders such as abetalipoproteinemia.
+
+
+=== Lipoprotein(a) ===
+
+
+=== Subspecies ===
+Lipoproteins, such as LDL and HDL, can be further subdivided into subspecies isolated through a variety of methods. These subspecies are subdivided by density or by the protein contents/ proteins they carry. While the research is currently ongoing and there are still many details to be uncovered, researchers are learning that different subspecies contain different apolipoproteins, proteins, and lipid contents between species which have different physiological roles. For example, within the HDL lipoprotein subspecies, a large number of proteins are involved in general lipid metabolism. However, it is being elucidated that HDL subspecies also contain proteins involved in the following functions: homeostasis, fibrinogen, clotting cascade, inflammatory and immune responses, including the complement system, proteolysis inhibitors, acute-phase response proteins, and the LPS-binding protein, heme and iron metabolism, platelet regulation, vitamin binding and general transport.
+
+
+== Studies ==
+Atherosclerosis is the leading cause of coronary artery disease, which is the leading cause of mortality in the world. Since the 1980s, many studies have examined possible correlations between the incidence of the disease and plasma lipoprotein particle concentrations in the blood. Hypotheses exist for possible causations. Studies have shown correlation between atherosclerosis and concentrations of particles. Further studies looked for correlations between nutrition and concentration of the distinguishable lipoprotein particles, e.g. whether the ratio of dietary fat raises or lowers levels of LDL particles in the blood. Studies have shown that different phenotypes do exist regarding the amount of particles and reaction to diet composition.
+
+
+== See also ==
+Apolipoprotein
+Lipid anchored protein
+Remnant cholesterol
+Reverse cholesterol transport
+Vertical Auto Profile
+Lipids
+
+
+== References ==
+
+
+== External links ==
+Lipoproteins at the US National Library of Medicine Medical Subject Headings (MeSH)

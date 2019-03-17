@@ -1,0 +1,43 @@
+Acclimatization or acclimatisation (also called acclimation or acclimatation) is the process in which an individual organism adjusts to a change in its environment (such as a change in altitude, temperature, humidity, photoperiod, or pH), allowing it to maintain performance across a range of environmental conditions. Acclimatization occurs in a short period of time (hours to weeks), and within the organism's lifetime (compared to adaptation, which is a development that takes place over many generations). This may be a discrete occurrence (for example, when mountaineers acclimate to high altitude over hours or days) or may instead represent part of a periodic cycle, such as a mammal shedding heavy winter fur in favor of a lighter summer coat. Organisms can adjust their morphological, behavioral, physical, and/or biochemical traits in response to changes in their environment. While the capacity to acclimate to novel environments has been well documented in thousands of species, researchers still know very little about how and why organisms acclimate the way that they do.
+
+
+== Names ==
+The nouns acclimatization and acclimation (and the corresponding verbs acclimatize and acclimate) are widely regarded as synonymous, both in general vocabulary and in medical vocabulary. It has sometimes been asserted that they should be differentiated by reserving acclimatization for a wild/natural process (e.g., shedding heavy winter fur with natural seasonal change) and reserving acclimation for changes occurring in response to an artificial or controlled situation, such as changes in temperature imposed in an experiment. This assertion is not widely known or followed (as the foregoing citations of 6 major dictionaries show), so writers who intend it must explicitly state that it applies within their usage (for example, "in the following discussion, X refers strictly to Y") if they expect their intended meaning to be received by their audience. The synonym acclimatation is less commonly encountered, and fewer dictionaries enter it.
+
+
+== Methods ==
+
+
+=== Biochemical ===
+In order to maintain performance across a range of environmental conditions, there are several strategies organisms use to acclimate. In response to changes in temperature, organisms can change the biochemistry of cell membranes making them more fluid in cold temperatures and less fluid in warm temperatures by increasing the number of membrane proteins. Organisms may also express specific proteins called heat shock proteins that may act as molecular chaperons and help the cell maintain function under periods of extreme stress. It has been shown, that organisms which are acclimated to high or low temperatures display relatively high resting levels of heat shock proteins so that when they are exposed to even more extreme temperatures the proteins are readily available. Expression of heat shock proteins and regulation of membrane fluidity are just two of many biochemical methods organisms use to acclimate to novel environments.
+
+
+=== Morphological ===
+Organisms are able to change several characteristics relating to their morphology in order to maintain performance in novel environments. For example, birds often increase their organ size to increase their metabolism. This can take the form of an increase in the mass of nutritional organs or heat-producing organs, like the pectorals (with the latter being more consistent across species).
+
+
+== Theory ==
+While the capacity for acclimation has been documented in thousands of species, researchers still know very little about how and why organisms acclimate in the way that they do. Since researchers first began to study acclimation, the overwhelming hypothesis has been that all acclimation serves to enhance the performance of the organism. This idea has come to be known as the beneficial acclimation hypothesis. Despite such widespread support for the beneficial acclimation hypothesis, not all studies show that acclimation always serves to enhance performance (See beneficial acclimation hypothesis). One of the major objections to the beneficial acclimation hypothesis is that it assumes that there are no costs associated with acclimation. However, there are likely to be costs associated with acclimation. These include the cost of sensing the environmental conditions and regulating responses, producing structures required for plasticity (such as the energetic costs in expressing heat shock proteins), and genetic costs (such as linkage of plasticity-related genes with harmful genes).Given the shortcomings of the beneficial acclimation hypothesis, researchers are continuing to search for a theory that will be supported by empirical data.
+The degree to which organisms are able to acclimate is dictated by their phenotypic plasticity or the ability of an organism to change certain traits. Recent research in the study of acclimation capacity has focused more heavily on the evolution of phenotypic plasticity rather than acclimation responses. Scientists believe that when they understand more about how organisms evolved the capacity to acclimate, they will better understand acclimation.
+
+
+== Examples ==
+
+
+=== Plants ===
+Many plants, such as maple trees, irises, and tomatoes, can survive freezing temperatures if the temperature gradually drops lower and lower each night over a period of days or weeks. The same drop might kill them if it occurred suddenly. Studies have shown that tomato plants that were acclimated to higher temperature over several days were more efficient at photosynthesis at relatively high temperatures than were plants that were not allowed to acclimate.In the orchid Phalaenopsis, phenylpropanoid enzymes are enhanced in the process of plant acclimatisation at different levels of photosynthetic photon flux.
+
+
+=== Animals ===
+Animals acclimatize in many ways. Sheep grow very thick wool in cold, damp climates. Fish are able to adjust only gradually to changes in water temperature and quality. Tropical fish sold at pet stores are often kept in acclimatization bags until this process is complete. Lowe & Vance (1995) were able to show that lizards acclimated to warm temperatures could maintain a higher running speed at warmer temperatures than lizards that were not acclimated to warm conditions.
+
+
+==== Humans ====
+The salt content of sweat and urine decreases as people acclimatize to hot conditions. Plasma volume, heart rate, and capillary activation are also affected.Acclimatization to high altitude continues for months or even years after initial ascent, and ultimately enables humans to survive in an environment that, without acclimatization, would kill them. Humans who migrate permanently to a higher altitude naturally acclimatize to their new environment by developing an increase in the number of red blood cells to increase the oxygen carrying capacity of the blood, in order to compensate for lower levels of oxygen intake.
+
+
+== See also ==
+
+
+== References ==
+World Book encyclopedia 1989
