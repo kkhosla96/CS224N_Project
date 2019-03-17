@@ -262,7 +262,7 @@ def supervised_learning(args):
 
 	cnn = DeepCNN(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=50, verbose=True)
+	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=200, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
