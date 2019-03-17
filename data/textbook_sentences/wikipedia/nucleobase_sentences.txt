@@ -1,0 +1,41 @@
+Nucleobases, also known as nitrogenous bases or often simply bases, are nitrogen-containing biological compounds that form nucleosides, which in turn are components of nucleotides, with all of these monomers constituting the basic building blocks of nucleic acids. The ability of nucleobases to form base pairs and to stack one upon another leads directly to long-chain helical structures such as ribonucleic acid (RNA) and deoxyribonucleic acid (DNA).
+Five nucleobases—adenine (A), cytosine (C), guanine (G), thymine (T), and uracil (U)—are called primary or canonical. They function as the fundamental units of the genetic code, with the bases A, G, C, and T being found in DNA while A, G, C, and U are found in RNA. Thymine and uracil are identical excepting that T includes a methyl group that U lacks.
+Adenine and guanine have a fused-ring skeletal structure derived of purine, hence they are called purine bases. Similarly, the simple-ring structure of cytosine, uracil, and thymine is derived of pyrimidine, so those three bases are called the pyrimidine bases. Each of the base pairs in a typical double-helix DNA comprises a purine and a pyrimidine: either an A paired with a T or a C paired with a G. These purine-pyrimidine pairs, which are called base complements, connect the two strands of the helix and are often compared to the rungs of a ladder. The pairing of purines and pyrimidines may result, in part, from dimensional constraints, as this combination enables a geometry of constant width for the DNA spiral helix. The A-T and C-G pairings function to form double or triple hydrogen bonds between the amine and carbonyl groups on the complementary bases.
+In August 2011, a report based on NASA studies of meteorites suggested that nucleobases such as adenine, guanine, xanthine, hypoxanthine, purine, 2,6-diaminopurine, and 6,8-diaminopurine may have formed in outer space as well as on earth.The origin of the term base reflects these compounds' chemical properties in acid-base reactions, but those properties are not especially important for understanding most of the biological functions of nucleobases.
+
+
+== Structure ==
+
+At the sides of nucleic acid structure, phosphate molecules successively connect the two sugar-rings of two adjacent nucleotide monomers, thereby creating a long chain biomolecule. These chain-joins of phosphates with sugars (ribose or deoxyribose) create the "backbone" strands for a single- or double helix biomolecule. In the double helix of DNA, the two strands are oriented chemically in opposite directions, which permits base pairing by providing complementarity between the two bases, and which is essential for replication of or transcription of the encoded information found in DNA.
+
+
+== Modified nucleobases ==
+DNA and RNA also contain other (non-primary) bases that have been modified after the nucleic acid chain has been formed. In DNA, the most common modified base is 5-methylcytosine (m5C). In RNA, there are many modified bases, including those contained in the nucleosides pseudouridine (Ψ), dihydrouridine (D), inosine (I), and 7-methylguanosine (m7G).Hypoxanthine and xanthine are two of the many bases created through mutagen presence, both of them through deamination (replacement of the amine-group with a carbonyl-group). Hypoxanthine is produced from adenine, xanthine from guanine, and uracil results from deamination of cytosine.
+
+
+=== Modified purine nucleobases ===
+These are examples of modified adenosine or guanosine.
+
+
+=== Modified pyrimidine nucleobases ===
+These are examples of modified cytosine, thymine or uridine.
+
+
+== Artificial nucleobases ==
+
+A vast number of nucleobase analogues exist.
+The most common applications are used as fluorescent probes, either directly or indirectly, such as aminoallyl nucleotide, which are used to label cRNA or cDNA in microarrays. Several groups are working on alternative "extra" base pairs to extend the genetic code, such as isoguanine and isocytosine or the fluorescent 2-amino-6-(2-thienyl)purine and pyrrole-2-carbaldehyde.In medicine, several nucleoside analogues are used as anticancer and antiviral agents. The viral polymerase incorporates these compounds with non-canonical bases. These compounds are activated in the cells by being converted into nucleotides; they are administered as nucleosides as charged nucleotides cannot easily cross cell membranes. At least one set of new base pairs has been announced as of May 2014.
+
+
+== See also ==
+Nucleoside
+Nucleotide
+Nucleic acid notation
+Nucleic acid sequence
+
+
+== References ==
+
+
+== External links ==
+Base pairing in DNA Double Helix (shows specific hydrogen bonds)

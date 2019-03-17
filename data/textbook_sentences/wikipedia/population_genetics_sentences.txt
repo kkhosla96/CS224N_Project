@@ -1,0 +1,156 @@
+Population genetics is a subfield of genetics that deals with genetic differences within and between populations, and is a part of evolutionary biology. Studies in this branch of biology examine such phenomena as adaptation, speciation, and population structure.Population genetics was a vital ingredient in the emergence of the modern evolutionary synthesis. Its primary founders were Sewall Wright, J. B. S. Haldane and Ronald Fisher, who also laid the foundations for the related discipline of quantitative genetics. Traditionally a highly mathematical discipline, modern population genetics encompasses theoretical, lab, and field work. Population genetic models are used both for statistical inference from DNA sequence data and for proof/disproof of concept.What sets population genetics apart today from newer, more phenotypic approaches to modelling evolution, such as evolutionary game theory and adaptive dynamics, is its emphasis on genetic phenomena as dominance, epistasis, and the degree to which genetic recombination breaks up linkage disequilibrium. This makes it appropriate for comparison to population genomics data.
+
+
+== History ==
+Population genetics began as a reconciliation of Mendelian inheritance and biostatistics models. Natural selection will only cause evolution if there is enough genetic variation in a population. Before the discovery of Mendelian genetics, one common hypothesis was blending inheritance. But with blending inheritance, genetic variance would be rapidly lost, making evolution by natural or sexual selection implausible. The Hardy–Weinberg principle provides the solution to how variation is maintained in a population with Mendelian inheritance. According to this principle, the frequencies of alleles (variations in a gene) will remain constant in the absence of selection, mutation, migration and genetic drift.
+
+The next key step was the work of the British biologist and statistician Ronald Fisher. In a series of papers starting in 1918 and culminating in his 1930 book The Genetical Theory of Natural Selection, Fisher showed that the continuous variation measured by the biometricians could be produced by the combined action of many discrete genes, and that natural selection could change allele frequencies in a population, resulting in evolution. In a series of papers beginning in 1924, another British geneticist, J.B.S. Haldane, worked out the mathematics of allele frequency change at a single gene locus under a broad range of conditions. Haldane also applied statistical analysis to real-world examples of natural selection, such as peppered moth evolution and industrial melanism, and showed that selection coefficients could be larger than Fisher assumed, leading to more rapid adaptive evolution as a camouflage strategy following increased pollution.The American biologist Sewall Wright, who had a background in animal breeding experiments, focused on combinations of interacting genes, and the effects of inbreeding on small, relatively isolated populations that exhibited genetic drift. In 1932 Wright introduced the concept of an adaptive landscape and argued that genetic drift and inbreeding could drive a small, isolated sub-population away from an adaptive peak, allowing natural selection to drive it towards different adaptive peaks.
+The work of Fisher, Haldane and Wright founded the discipline of population genetics. This integrated natural selection with Mendelian genetics, which was the critical first step in developing a unified theory of how evolution worked. John Maynard Smith was Haldane's pupil, whilst W.D. Hamilton was heavily influenced by the writings of Fisher. The American George R. Price worked with both Hamilton and Maynard Smith. American Richard Lewontin and Japanese Motoo Kimura were heavily influenced by Wright.
+
+
+=== Modern synthesis ===
+
+The mathematics of population genetics were originally developed as the beginning of the modern synthesis. Authors such as Beatty have asserted that population genetics defines the core of the modern synthesis. For the first few decades of the 20th century, most field naturalists continued to believe that Lamarckism and orthogenesis provided the best explanation for the complexity they observed in the living world. During the modern synthesis, these ideas were purged, and only evolutionary causes that could be expressed in the mathematical framework of population genetics were retained. Consensus was reached as to which evolutionary factors might influence evolution, but not as to the relative importance of the various factors.Theodosius Dobzhansky, a postdoctoral worker in T. H. Morgan's lab, had been influenced by the work on genetic diversity by Russian geneticists such as Sergei Chetverikov. He helped to bridge the divide between the foundations of microevolution developed by the population geneticists and the patterns of macroevolution observed by field biologists, with his 1937 book Genetics and the Origin of Species. Dobzhansky examined the genetic diversity of wild populations and showed that, contrary to the assumptions of the population geneticists, these populations had large amounts of genetic diversity, with marked differences between sub-populations. The book also took the highly mathematical work of the population geneticists and put it into a more accessible form. Many more biologists were influenced by population genetics via Dobzhansky than were able to read the highly mathematical works in the original.In Great Britain E.B. Ford, the pioneer of ecological genetics, continued throughout the 1930s and 1940s to empirically demonstrate the power of selection due to ecological factors including the ability to maintain genetic diversity through genetic polymorphisms such as human blood types. Ford's work, in collaboration with Fisher, contributed to a shift in emphasis during the course of the modern synthesis towards natural selection as the dominant force.
+
+
+=== Neutral theory and origin-fixation dynamics ===
+The original, modern synthesis view of population genetics assumes that mutations provide ample raw material, and focuses only on the change in frequency of alleles within populations. The main processes influencing allele frequencies are natural selection, genetic drift, gene flow and recurrent mutation. Fisher and Wright had some fundamental disagreements about the relative roles of selection and drift.The availability of molecular data on all genetic differences led to the neutral theory of molecular evolution. In this view, many mutations are deleterious and so never observed, and most of the remainder are neutral, i.e. are not under selection. With the fate of each neutral mutation left to chance (genetic drift), the direction of evolutionary change is driven by which mutations occur, and so cannot be captured by models of change in the frequency of (existing) alleles alone.The origin-fixation view of population genetics generalizes this approach beyond strictly neutral mutations, and sees the rate at which a particular change happens as the product of the mutation rate and the fixation probability.
+
+
+== Four processes ==
+
+
+=== Selection ===
+Natural selection, which includes sexual selection, is the fact that some traits make it more likely for an organism to survive and reproduce. Population genetics describes natural selection by defining fitness as a propensity or probability of survival and reproduction in a particular environment. The fitness is normally given by the symbol w=1-s where s is the selection coefficient. Natural selection acts on phenotypes, so population genetic models assume relatively simple relationships to predict the phenotype and hence fitness from the allele at one or a small number of loci. In this way, natural selection converts differences in the fitness of individuals with different phenotypes into changes in allele frequency in a population over successive generations.
+Before the advent of population genetics, many biologists doubted that small differences in fitness were sufficient to make a large difference to evolution. Population geneticists addressed this concern in part by comparing selection to genetic drift. Selection can overcome genetic drift when s is greater than 1 divided by the effective population size. When this criterion is met, the probability that a new advantageous mutant becomes fixed is approximately equal to 2s. The time until fixation of such an allele depends little on genetic drift, and is approximately proportional to log(sN)/s.
+
+
+==== Dominance ====
+Dominance means that the phenotypic and/or fitness effect of one allele at a locus depends on which allele is present in the second copy for that locus. Consider three genotypes at one locus, with the following fitness values
+s is the selection coefficient and h is the dominance coefficient. The value of h yields the following information:
+
+
+==== Epistasis ====
+
+Epistasis means that the phenotypic and/or fitness effect of an allele at one locus depends on which alleles are present at other loci. Selection does not act on a single locus, but on a phenotype that arises through development from a complete genotype. However, many population genetics models of sexual species are "single locus" models, where the fitness of an individual is calculated as the product of the contributions from each of its loci—effectively assuming no epistasis.
+In fact, the genotype to fitness landscape is more complex. Population genetics must either model this complexity in detail, or capture it by some simpler average rule. Empirically, beneficial mutations tend to have a smaller fitness benefit when added to a genetic background that already has high fitness: this is known as diminishing returns epistasis. When deleterious mutations also have a smaller fitness effect on high fitness backgrounds, this is known as "synergistic epistasis". However, the effect of deleterious mutations tends on average to be very close to multiplicative, or can even show the opposite pattern, known as "antagonistic epistasis".Synergistic epistasis is central to some theories of the purging of mutation load and to the evolution of sexual reproduction.
+
+
+=== Mutation ===
+
+Mutation is the ultimate source of genetic variation in the form of new alleles. In addition, mutation may influence the direction of evolution when there is mutation bias, i.e. different probabilities for different mutations to occur. For example, recurrent mutation that tends to be in the opposite direction to selection can lead to mutation-selection balance. At the molecular level, if mutation from G to A happens more often than mutation from A to G, then genotypes with A will tend to evolve. Different insertion vs. deletion mutation biases in different taxa can lead to the evolution of different genome sizes. Developmental or mutational biases have also been observed in morphological evolution. For example, according to the phenotype-first theory of evolution, mutations can eventually cause the genetic assimilation of traits that were previously induced by the environment.Mutation bias effects are superimposed on other processes. If selection would favor either one out of two mutations, but there is no extra advantage to having both, then the mutation that occurs the most frequently is the one that is most likely to become fixed in a population.Mutation can have no effect, alter the product of a gene, or prevent the gene from functioning. Studies in the fly Drosophila melanogaster suggest that if a mutation changes a protein produced by a gene, this will probably be harmful, with about 70 percent of these mutations having damaging effects, and the remainder being either neutral or weakly beneficial. Most loss of function mutations are selected against. But when selection is weak, mutation bias towards loss of function can affect evolution. For example, pigments are no longer useful when animals live in the darkness of caves, and tend to be lost. This kind of loss of function can occur because of mutation bias, and/or because the function had a cost, and once the benefit of the function disappeared, natural selection leads to the loss. Loss of sporulation ability in a bacterium during laboratory evolution appears to have been caused by mutation bias, rather than natural selection against the cost of maintaining sporulation ability. When there is no selection for loss of function, the speed at which loss evolves depends more on the mutation rate than it does on the effective population size, indicating that it is driven more by mutation bias than by genetic drift.
+Mutations can involve large sections of DNA becoming duplicated, usually through genetic recombination. This leads to copy-number variation within a population. Duplications are a major source of raw material for evolving new genes. Other types of mutation occasionally create new genes from previously noncoding DNA.
+
+
+=== Genetic drift ===
+
+Genetic drift is a change in allele frequencies caused by random sampling. That is, the alleles in the offspring are a random sample of those in the parents. Genetic drift may cause gene variants to disappear completely, and thereby reduce genetic variability. In contrast to natural selection, which makes gene variants more common or less common depending on their reproductive success, the changes due to genetic drift are not driven by environmental or adaptive pressures, and are equally likely to make an allele more common as less common.
+The effect of genetic drift is larger for alleles present in few copies than when an allele is present in many copies. The population genetics of genetic drift are described using either branching processes or a diffusion equation describing changes in allele frequency. These approaches are usually applied to the Wright-Fisher and Moran models of population genetics. Assuming genetic drift is the only evolutionary force acting on an allele, after t generations in many replicated populations, starting with allele frequencies of p and q, the variance in allele frequency across those populations is
+
+  
+    
+      
+        
+          V
+          
+            t
+          
+        
+        ≈
+        p
+        q
+        
+          (
+          
+            1
+            −
+            exp
+            ⁡
+            
+              {
+              
+                −
+                
+                  
+                    t
+                    
+                      2
+                      
+                        N
+                        
+                          e
+                        
+                      
+                    
+                  
+                
+              
+              }
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle V_{t}\approx pq\left(1-\exp \left\{-{\frac {t}{2N_{e}}}\right\}\right).}
+  Ronald Fisher held the view that genetic drift plays at the most a minor role in evolution, and this remained the dominant view for several decades. No population genetics perspective have ever given genetic drift a central role by itself, but some have made genetic drift important in combination with another non-selective force. The shifting balance theory of Sewall Wright held that the combination of population structure and genetic drift was important. Motoo Kimura's neutral theory of molecular evolution claims that most genetic differences within and between populations are caused by the combination of neutral mutations and genetic drift.The role of genetic drift by means of sampling error in evolution has been criticized by John H Gillespie and Will Provine, who argue that selection on linked sites is a more important stochastic force, doing the work traditionally ascribed to genetic drift by means of sampling error. The mathematical properties of genetic draft are different from those of genetic drift. The direction of the random change in allele frequency is autocorrelated across generations.
+
+
+=== Gene flow ===
+
+Because of physical barriers to migration, along with the limited tendency for individuals to move or spread (vagility), and tendency to remain or come back to natal place (philopatry), natural populations rarely all interbreed as may be assumed in theoretical random models (panmixy). There is usually a geographic range within which individuals are more closely related to one another than those randomly selected from the general population. This is described as the extent to which a population is genetically structured. Genetic structuring can be caused by migration due to historical climate change, species range expansion or current availability of habitat. Gene flow is hindered by mountain ranges, oceans and deserts or even man-made structures such as the Great Wall of China, which has hindered the flow of plant genes.Gene flow is the exchange of genes between populations or species, breaking down the structure. Examples of gene flow within a species include the migration and then breeding of organisms, or the exchange of pollen. Gene transfer between species includes the formation of hybrid organisms and horizontal gene transfer. Population genetic models can be used to identify which populations show significant genetic isolation from one another, and to reconstruct their history.Subjecting a population to isolation leads to inbreeding depression. Migration into a population can introduce new genetic variants, potentially contributing to evolutionary rescue. If a significant proportion of individuals or gametes migrate, it can also change allele frequencies, e.g. giving rise to migration load.In the presence of gene flow, other barriers to hybridization between two diverging populations of an outcrossing species are required for the populations to become new species.
+
+
+==== Horizontal gene transfer ====
+
+Horizontal gene transfer is the transfer of genetic material from one organism to another organism that is not its offspring; this is most common among prokaryotes. In medicine, this contributes to the spread of antibiotic resistance, as when one bacteria acquires resistance genes it can rapidly transfer them to other species. Horizontal transfer of genes from bacteria to eukaryotes such as the yeast Saccharomyces cerevisiae and the adzuki bean beetle Callosobruchus chinensis may also have occurred. An example of larger-scale transfers are the eukaryotic bdelloid rotifers, which appear to have received a range of genes from bacteria, fungi, and plants. Viruses can also carry DNA between organisms, allowing transfer of genes even across biological domains. Large-scale gene transfer has also occurred between the ancestors of eukaryotic cells and prokaryotes, during the acquisition of chloroplasts and mitochondria.
+
+
+== Linkage ==
+If all genes are in linkage equilibrium, the effect of an allele at one locus can be averaged across the gene pool at other loci. In reality, one allele is frequently found in linkage disequilibrium with genes at other loci, especially with genes located nearby on the same chromosome. Recombination breaks up this linkage disequilibrium too slowly to avoid genetic hitchhiking, where an allele at one locus rises to high frequency because it is linked to an allele under selection at a nearby locus. Linkage also slows down the rate of adaptation, even in sexual populations. The effect of linkage disequilibrium in slowing down the rate of adaptive evolution arises from a combination of the Hill–Robertson effect (delays in bringing beneficial mutations together) and background selection (delays in separating beneficial mutations from deleterious hitchhikers).
+Linkage is a problem for population genetic models that treat one gene locus at a time. It can, however, be exploited as a method for detecting the action of natural selection via selective sweeps.
+In the extreme case of an asexual population, linkage is complete, and population genetic equations can be derived and solved in terms of a travelling wave of genotype frequencies along a simple fitness landscape. Most microbes, such as bacteria, are asexual. The population genetics of their adaptation have two contrasting regimes. When the product of the beneficial mutation rate and population size is small, asexual populations follow a "successional regime" of origin-fixation dynamics, with adaptation rate strongly dependent on this product. When the product is much larger, asexual populations follow a "concurrent mutations" regime with adaptation rate less dependent on the product, characterized by clonal interference and the appearance of a new beneficial mutation before the last one has fixed.
+
+
+== Applications ==
+
+
+=== Explaining levels of genetic variation ===
+Neutral theory predicts that the level of nucleotide diversity in a population will be proportional to the product of the population size and the neutral mutation rate. The fact that levels of genetic diversity vary much less than population sizes do is known as the "paradox of variation". While high levels of genetic diversity were one of the original arguments in favor of neutral theory, the paradox of variation has been one of the strongest arguments against neutral theory.
+It is clear that levels of genetic diversity vary greatly within a species as a function of local recombination rate, due to both genetic hitchhiking and background selection. Most current solutions to the paradox of variation invoke some level of selection at linked sites. For example, one analysis suggests that larger populations have more selective sweeps, which remove more neutral genetic diversity. A negative correlation between mutation rate and population size may also contribute.Life history affects genetic diversity more than population history does, e.g. r-strategists have more genetic diversity.
+
+
+=== Detecting selection ===
+Population genetics models are used to infer which genes are undergoing selection. One common approach is to look for regions of high linkage disequilibrium and low genetic variance along the chromosome, to detect recent selective sweeps.
+A second common approach is the McDonald–Kreitman test. The McDonald–Kreitman test compares the amount of variation within a species (polymorphism) to the divergence between species (substitutions) at two types of sites, one assumed to be neutral. Typically, synonymous sites are assumed to be neutral. Genes undergoing positive selection have an excess of divergent sites relative to polymorphic sites. The test can also be use to obtain a genome-wide estimate of the proportion of substitutions that are fixed by positive selection, α. According to the neutral theory of molecular evolution, this number should be near zero. High numbers have therefore been interpreted as a genome-wide falsification of neutral theory.
+
+
+=== Demographic inference ===
+The simplest test for population structure in a sexually reproducing, diploid species, is to see whether genotype frequencies follow Hardy-Weinberg proportions as a function of allele frequencies. For example, in the simplest case of a single locus with two alleles denoted A and a at frequencies p and q, random mating predicts freq(AA) = p2 for the AA homozygotes, freq(aa) = q2 for the aa homozygotes, and freq(Aa) = 2pq for the heterozygotes. In the absence of population structure, Hardy-Weinberg proportions are reached within 1-2 generations of random mating. More typically, there is an excess of homozygotes, indicative of population structure. The extent of this excess can be quantified as the inbreeding coefficient, F. When individuals can be assigned to different subpopulations, the degree of population structure is usually calculated using FST, which is a measure of the proportion of genetic variance that can be explained by population structure.
+Coalescent theory relates genetic diversity in a sample to demographic history of the population from which it was taken. It normally assumes neutrality, and so sequences from more neutrally-evolving portions of genomes are therefore selected for such analyses. It can be used to infer both the relationships between species (phylogenetics) and the population structure, demographic history (e.g. population bottlenecks or population growth), and introgression within a species.
+Another approach to demographic inference relies on the allele frequency spectrum.
+
+
+=== Number of Subpopulations (K) ===
+The number of demes (denoted K) can be infered from the observed data. The assignation into subpopulations assumes that "Each K population is characterized by a set of allele frequencies at each locus". The method is a Bayesian approximation who assign individuals into population by estimating the allele frequency. With this is possible to detect the Genetic admixture.
+
+
+=== Evolution of genetic systems ===
+By assuming that there are loci that control the genetic system itself, population genetic models are created to describe the evolution of dominance and other forms of robustness, the evolution of sexual reproduction and recombination rates, the evolution of mutation rates, the evolution of evolutionary capacitors, the evolution of costly signalling traits, the evolution of ageing, and the evolution of co-operation. For example, most mutations are deleterious, so the optimal mutation rate for a species may be a trade-off between the damage from a high deleterious mutation rate and the metabolic costs of maintaining systems to reduce the mutation rate, such as DNA repair enzymes.One important aspect of such models is that selection is only strong enough to purge deleterious mutations and hence overpower mutational bias towards degradation if the selection coefficient s is greater than the inverse of the effective population size. This is known as the drift barrier and is related to the nearly neutral theory of molecular evolution. Drift barrier theory predicts that species with large effective population sizes will have highly streamlined, efficient genetic systems, while those with small population sizes will have bloated and complex genomes containing for example introns and transposable elements. However, somewhat paradoxically, species with large population sizes might be so tolerant to the consequences of certain types of errors that they evolve higher error rates, e.g. in transcription and translation, than small populations.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Population Genetics Tutorials
+Molecular population genetics
+The ALlele FREquency Database at Yale University
+EHSTRAFD.org - Earth Human STR Allele Frequencies Database
+History of population genetics
+How Selection Changes the Genetic Composition of Population, video of lecture by Stephen C. Stearns (Yale University)
+National Geographic: Atlas of the Human Journey (Haplogroup-based human migration maps)

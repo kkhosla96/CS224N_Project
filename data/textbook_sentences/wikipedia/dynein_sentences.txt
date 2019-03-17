@@ -1,0 +1,72 @@
+Dynein is a family of cytoskeletal motor proteins that move along microtubules in cells. They convert the chemical energy stored in ATP to mechanical work. Dynein transports various cellular cargos, provides forces and displacements important in mitosis, and drives the beat of eukaryotic cilia and flagella. All of these functions rely on dynein's ability to move towards the minus-end of the microtubules, known as retrograde transport, thus, they are called "minus-end directed motors". In contrast, kinesin motor proteins move toward the microtubules' plus end.
+
+
+== Classification ==
+Dyneins can be divided into two groups: cytoplasmic dyneins and axonemal dyneins, which are also called ciliary or flagellar dyneins.
+
+axonemal
+heavy chain: DNAH1, DNAH2, DNAH3, DNAH5, DNAH6, DNAH7, DNAH8, DNAH9, DNAH10, DNAH11, DNAH12, DNAH13, DNAH14, DNAH17
+intermediate chain: DNAI1, DNAI2
+light intermediate chain: DNALI1
+light chain: DNAL1, DNAL4
+cytoplasmic
+heavy chain: DYNC1H1, DYNC2H1
+intermediate chain: DYNC1I1, DYNC1I2
+light intermediate chain: DYNC1LI1, DYNC1LI2, DYNC2LI1
+light chain: DYNLL1, DYNLL2, DYNLRB1, DYNLRB2, DYNLT1, DYNLT3
+
+
+== Function ==
+Axonemal dynein causes sliding of microtubules in the axonemes of cilia and flagella and is found only in cells that have those structures.
+Cytoplasmic dynein, found in all animal cells and possibly plant cells as well, performs functions necessary for cell survival such as organelle transport and centrosome assembly. Cytoplasmic dynein moves processively along the microtubule; that is, one or the other of its stalks is always attached to the microtubule so that the dynein can "walk" a considerable distance along a microtubule without detaching.
+Cytoplasmic dynein helps to position the Golgi complex and other organelles in the cell.  It also helps transport cargo needed for cell function such as vesicles made by the endoplasmic reticulum, endosomes, and lysosomes (Karp, 2005).  Dynein is involved in the movement of chromosomes and positioning the mitotic spindles for cell division. Dynein carries organelles, vesicles and possibly microtubule fragments along the axons of neurons toward the cell body in a process called retrograde axoplasmic transport.
+
+
+=== Mitotic spindle positioning ===
+Cytoplasmic dynein positions the spindle at the site of cytokinesis by anchoring to the cell cortex and pulling on astral microtubules emanating from centrosome. Budding yeast have been a powerful model organism to study this process and has shown that dynein is targeted to plus ends of astral microtubules and delivered to the cell cortex via an offloading mechanism.
+
+
+=== Viral replication ===
+Dynein and Kinesin can both be exploited by viruses to mediate the viral replication process. Many viruses use the microtubule transport system to transport nucleic acid/protein cores to intracellular replication sites after invasion past the cell membrane. Not much is known about virus' motor-specific binding sites, but it is known that some viruses contain proline-rich sequences(that diverge between viruses) which, when removed, reduces dynactin binding, axon transport(in culture), and neuroinvasion in vivo.  This suggests that proline-rich sequences may be a major binding site that co-opts Dynein.
+
+
+== Structure ==
+Each molecule of the dynein motor is a complex protein assembly composed of many smaller polypeptide subunits.  Cytoplasmic and axonemal dynein contain some of the same components, but they also contain some unique subunits.
+
+
+=== Cytoplasmic dynein ===
+Cytoplasmic dynein, which has a molecular mass of about 1.5 megadaltons (MDa), is a dimer of dimers, containing approximately twelve polypeptide subunits: two identical "heavy chains", 520 kDa in mass, which contain the ATPase activity and are thus responsible for generating movement along the microtubule; two 74 kDa intermediate chains which are believed to anchor the dynein to its cargo; two 53–59 kDa light intermediate chains; and several light chains.
+The force-generating ATPase activity of each dynein heavy chain is located in its large doughnut-shaped "head", which is related to other AAA proteins, while two projections from the head connect it to other cytoplasmic structures. One projection, the coiled-coil stalk, binds to and "walks" along the surface of the microtubule via a repeated cycle of detachment and reattachment.  The other projection, the extended tail, binds to the light intermediate, intermediate and light chain subunits which attach dynein to its cargo. The alternating activity of the paired heavy chains in the complete cytoplasmic dynein motor enables a single dynein molecule to transport its cargo by "walking" a considerable distance along a microtubule without becoming completely detached.
+Yeast dynein can walk along microtubules without detaching, however in metazoans, cytoplasmic dynein must be activated by the binding of dynactin, another multisubunit protein that is essential for mitosis, and a cargo adaptor. The tri-complex, which includes dynein, dynactin and a cargo adaptor, is ultra-processive and can walk long distances without detaching in order to reach the cargo's intracellular destination. Cargo adaptors identified thus far include BicD2, Hook3, FIP3 and Spindly. The light intermediate chain, which is a member of the Ras superfamily, mediates the attachment of several cargo adaptors to the dynein motor. The other tail subunits may also help facilitate this interaction as evidenced in a low resolution structure of dynein-dynactin-BicD2.One major form of motor regulation within cells for dynein is dynactin. It may be required for almost all cytoplasmic dynein functions. Currently, it is the best studied dynein partner. Dynactin is a protein that aids in intracellular transport throughout the cell by linking to cytoplasmic dynein. Dynactin can function as a scaffold for other proteins to bind to. It also functions as a recruiting factor that localizes dynein to where it should be. There is also some evidence suggesting that it may regulate kinesin-2. The dynactin complex is composed of more than 20 subunits, of which p150(Glued) is the largest. There is no definitive evidence that dynactin by itself affects the velocity of the motor. It does, however, affect the processivity of the motor. The binding regulation is likely allosteric: experiments have shown that the enhancements provided in the processivity of the dynein motor do not depend on the p150 subunit binding domain to the microtubules.
+
+
+=== Axonemal dynein ===
+
+Axonemal dyneins come in multiple forms that contain either one, two or three non-identical heavy chains (depending upon the organism and location in the cilium). Each heavy chain has a globular motor domain with a doughnut-shaped structure believed to resemble that of other AAA proteins,  a coiled coil "stalk" that binds to the microtubule, and an extended tail (or "stem") that attaches to a neighboring microtubule of the same axoneme. Each dynein molecule thus forms a cross-bridge between two adjacent microtubules of the ciliary axoneme. During the "power stroke", which causes movement, the AAA ATPase motor domain undergoes a conformational change that causes the microtubule-binding stalk to pivot relative to the cargo-binding tail with the result that one microtubule slides relative to the other (Karp, 2005).  This sliding produces the bending movement needed for cilia to beat and propel the cell or other particles.  Groups of dynein molecules responsible for movement in opposite directions are probably activated and inactivated in a coordinated fashion so that the cilia or flagella can move back and forth. The radial spoke has been proposed as the (or one of the) structures that synchronizes this movement.
+The regulation of axonemal dynein activity is critical for flagellar beat frequency and cilia waveform. Modes of axonemal dynein regulation include phosphorylation, redox, and calcium. Mechanical forces on the axoneme also affect anoxemal dynein function. The heavy chains of inner and outer arms of axonemal dynein are phosphorylated/dephosphorylated to control the rate of microtubule sliding. Thioredoxins associated with the other axonemal dynein arms are oxidized/reduced to regulate where dynein binds in the axoneme. Centerin and components of the outer axonemal dynein arms detect fluctuations in calcium concentration. Calcium fluctuations play an important role in altering cilia waveform and flagellar beat frequency (King, 2012).
+
+
+== History ==
+The protein responsible for movement of cilia and flagella was first discovered and named dynein in 1963 (Karp, 2005).  20 years later, cytoplasmic dynein, which had been suspected to exist since the discovery of flagellar dynein, was isolated and identified (Karp, 2005).
+
+
+== Chromosome segregation during meiosis ==
+Segregation of homologous chromosomes to opposite poles of the cell occurs during the first division of meiosis.  Proper segregation is essential for producing haploid meiotic products with a normal complement of chromosomes.  The formation of chiasmata (crossover recombination events) appears to generally facilitate proper segregation.  However, in the fission yeast Schizosaccharomyces pombe, when chiasmata are absent, dynein promotes segregation.  Dhc1, the motor subunit of dynein, is required for chromosomal segregation in both the presence and absence of chiasmata.  The dynein light chain Dlc1 protein is also required for segregation, specifically when chiasmata are absent.
+
+
+== See also ==
+Molecular motors
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Eukaryotic Linear Motif resource motif class LIG_Dynein_DLC8_1
+The Dynein Homepage
+Ron Vale's Seminar: "Molecular Motor Proteins"
+Dynein at the US National Library of Medicine Medical Subject Headings (MeSH)
+EC 3.6.4.2

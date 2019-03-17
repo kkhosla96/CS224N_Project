@@ -1,0 +1,165 @@
+Entomology (from Ancient Greek  ἔντομον (entomon), meaning 'insect', and  -λογία (-logia), meaning 'study of') is the scientific study of insects, a branch of zoology. In the past the term "insect" was more vague, and historically the definition of entomology included the study of terrestrial animals in other arthropod groups or other phyla, such as arachnids, myriapods, earthworms, land snails, and slugs. This wider meaning may still be encountered in informal use.
+Like several of the other fields that are categorized within zoology, entomology is a taxon-based category; any form of scientific study in which there is a focus on insect-related inquiries is, by definition, entomology. Entomology therefore overlaps with a cross-section of topics as diverse as molecular genetics, behavior, biomechanics, biochemistry, systematics, physiology, developmental biology, ecology, morphology, and paleontology.
+At some 1.3 million described species, insects account for more than two-thirds of all known organisms, date back some 400 million years, and have many kinds of interactions with humans and other forms of life on earth.
+
+
+== History ==
+
+Entomology is rooted in nearly all human cultures from prehistoric times, primarily in the context of agriculture (especially biological control and beekeeping), but scientific study began only as recently as the 16th century.William Kirby is widely considered as the father of Entomology. In collaboration with William Spence, he published a definitive entomological encyclopedia, Introduction to Entomology, regarded as the subject's foundational text. He also helped to found the Royal Entomological Society in London in 1833, one of the earliest such societies in the world; earlier antecedents, such as the Aurelian society date back to the 1740s.Entomology developed rapidly in the 19th and 20th centuries, and was studied by large numbers of people, including such notable figures as Charles Darwin, Jean-Henri Fabre, Vladimir Nabokov, Karl von Frisch (winner of the 1973 Nobel Prize in Physiology or Medicine), and two-time Pulitzer Prize winner E. O. Wilson.
+There has also been a history of people becoming entomologists through museum curation and research assistance, such as Sophie Lutterlough at the Smithsonian National Museum of Natural History. Insect identification is an increasingly common hobby, with butterflies and dragonflies being the most popular.
+Most insects can easily be recognized to order such as Hymenoptera (bees, wasps, and ants) or Coleoptera (beetles).  However, insects other than Lepidoptera (butterflies and moths) are typically identifiable to genus or species only through the use of Identification keys and Monographs. Because the class Insecta contains a very large number of species (over 330,000 species of beetles alone) and the characteristics separating them are unfamiliar, and often subtle (or invisible without a microscope), this is often very difficult even for a specialist. This has led to the development of automated species identification systems targeted on insects, for example, Daisy, ABIS, SPIDA and Draw-wing.
+
+
+== In pest control ==
+In 1994, the Entomological Society of America launched a new professional certification program for the pest control industry called the Associate Certified Entomologist (ACE). To qualify as a "true entomologist" an individual would normally require an advanced degree, with most entomologists pursuing their PhD. While not true entomologists in the traditional sense, individuals who attain the ACE certification may be referred to as ACEs or Associate Certified Entomologist
+
+
+== Taxonomic specialization ==
+
+Many entomologists specialize in a single order or even a family of insects, and a number of these subspecialties are given their own informal names, typically (but not always) derived from the scientific name of the group:
+
+Coleopterology – beetles
+Dipterology – flies
+Odonatology – dragonflies and damselflies
+Hemipterology – true bugs
+Isopterology – termites
+Lepidopterology – moths and butterflies
+Melittology (or Apiology) – bees
+Myrmecology – ants
+Orthopterology – grasshoppers, crickets, etc.
+Trichopterology – caddis flies
+Vespology – Social wasps
+
+
+== Organizations ==
+Like other scientific specialties, entomologists have a number of local, national, and international organizations. There are also many organizations specializing in specific subareas.
+
+Amateur Entomologists' Society
+Deutsches Entomologisches Institut
+Entomological Society of America
+Entomological Society of Canada
+Entomological Society of Japan
+Entomological Society of India
+International Union for the Study of Social Insects
+Netherlands Entomological Society
+Royal Belgian Entomological Society
+Royal Entomological Society of London
+Société entomologique de France
+
+
+== Museums ==
+Here is a list of selected museums which contain very large insect collections.
+
+
+=== Asia ===
+Zoological survey of India
+National Pusa Collection, Division of Entomology, Indian Agricultural Research Institute, New Delhi, India
+Pakistan Museum of Natural History Garden Avenue, Shakarparian, Islamabad, Pakistan
+
+
+=== Africa ===
+Natal Museum, Pietermaritzburg, South Africa
+
+
+=== Europe ===
+Muséum national d'histoire naturelle, Paris, France
+Museum für Naturkunde, Berlin, Germany
+Kelvingrove Art Gallery, Glasgow, Scotland
+Natural History Museum, Budapest Hungarian Natural History Museum
+Natural History Museum, Geneva
+Natural History Museum, Leiden, the Netherlands
+Natural History Museum, London, United Kingdom
+Natural History Museum, Oslo Norway
+Natural History Museum, St. Petersburg Zoological Collection of the Russian Academy of Science
+Naturhistorisches Museum, Vienna, Austria
+Oxford University Museum of Natural History, Oxford
+Royal Museum for Central Africa, Brussels, Belgium
+Swedish Museum of Natural History, Stockholm, Sweden
+The Bavarian State Collection of Zoology Zoologische Staatssammlung München
+World Museum Liverpool, the Bug House
+
+
+=== United States ===
+Academy of Natural Sciences of Philadelphia
+American Museum of Natural History, New York City
+Auburn University Museum of Natural History, Auburn, Alabama
+Audubon Insectarium, New Orleans
+Bohart Museum of Entomology, Davis, California
+California Academy of Sciences, San Francisco
+Carnegie Museum of Natural History, Pittsburgh
+Essig Museum of Entomology, Berkeley, California
+Field Museum of Natural History, Chicago
+Florida Museum of Natural History, University of Florida, Gainesville, Florida
+Illinois Natural History Survey, Champaign, Illinois
+J. Gordon Edwards Museum, San Jose, California
+Museum of Comparative Zoology, Cambridge, Massachusetts
+Natural History Museum of Los Angeles County, Los Angeles
+National Museum of Natural History, Washington, D.C.
+New Mexico State University Arthropod Museum
+North Carolina State University Insect Museum, Raleigh, North Carolina
+Peabody Museum of Natural History, New Haven, Connecticut
+San Diego Natural History Museum, San Diego, California
+The National Museum of Play, Rochester, N.Y.
+Texas A&M University, College Station, Texas
+University of Minnesota, St. Paul campus (UMSP), Minnesota
+University of Kansas Natural History Museum, Lawrence, Kansas
+University of Nebraska State Museum, Lincoln, Nebraska
+University of Missouri Enns Entomology Museum, University of Missouri, Columbia, Missouri
+
+
+=== Canada ===
+Canadian Museum of Nature, Ottawa
+Canadian National Collection of Insects, Arachnids and Nematodes, Ottawa, Ontario
+E.H. Strickland Entomological Museum, University of Alberta, Edmonton, Alberta
+Lyman Entomological Museum, Macdonald Campus of McGill University, Sainte-Anne-de-Bellevue, Quebec
+Montreal Insectarium, Montreal, Quebec
+Newfoundland Insectarium, Reidville, Newfoundland and Labrador
+Royal Alberta Museum, Edmonton, Alberta
+Royal Ontario Museum, Toronto
+University of Guelph Insect Collection, Guelph, Ontario
+Victoria Bug Zoo, Victoria, British Columbia
+
+
+== Depiction in media ==
+Entomology has been depicted in various films such as:
+
+Arachnophobia,
+Mimic, and
+The Silence of the Lambs
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+
+Chiang, H.C. and G. C. Jahn 1996.  Entomology in the Cambodia-IRRI-Australia Project. (in Chinese) Chinese Entomol. Soc. Newsltr. (Taiwan) 3: 9–11.
+Davidson, E. 2006. Big Fleas Have Little Fleas: How Discoveries of Invertebrate Diseases Are Advancing Modern Science University of Arizona Press, Tucson, 208 pages, ISBN 0-8165-2544-7.
+Triplehorn, Charles A. and Norman F. Johnson (2005-05-19). Borror and DeLong's Introduction to the Study of Insects, 7th edition, Thomas Brooks/Cole. ISBN 0-03-096835-6. — a classic textbook in North America.
+Grimaldi, D. & Engel, M.S. (2005). Evolution of the Insects. Cambridge University Press. ISBN 0-521-82149-5.CS1 maint: Multiple names: authors list (link)
+Capinera, JL (editor). 2008. Encyclopedia of Entomology, 2nd Edition. Springer. ISBN 1-4020-6242-7.
+
+
+== External links ==
+Professor Andrew Speilman. "Malaria video". Retrieved 2006-12-09.
+Rob Hutchinson. "Mosquitoes video". Retrieved 2006-12-09.
+University of Vermont. "Entomology Laboratory". Retrieved 2006-12-09.
+Iowa State University. "Iowa State Entomology Index of Internet Resources". Retrieved 2011-07-23.
+Meganeura, University of Barcelona. "Fossil Insects". Archived from the original on 2006-11-14. Retrieved 2006-12-09.
+"Goliathus (Entomology hobbyist site)". Archived from the original on 2006-12-06. Retrieved 2006-12-09.
+"Medical Entomology images". Archived from the original on 2007-02-07. Retrieved 2006-12-09.
+University of Nebraska State Museum. "Division of Entomology". Retrieved 2006-12-09.
+Graeme Cocks. "Insects of Townsville, Australia". Archived from the original on 2006-12-13. Retrieved 2006-12-09.
+Actronic. "Compendium of References on Flies and Disease". Archived from the original on 2006-10-15. Retrieved 2006-12-09.
+USDA Collecting methods.Detailed instructions
+Arthropa Extensive photo album sorted by topic (in French)
+Virtual Insect Museum
+Extensive Catalogue of Butterfly Photos and Insect Data
+Best of the Bugs Entomology Web sites selected by entomologists
+G.D. Hale Carpenter, A Naturalist on Lake Victoria, with an Account of Sleeping Sickness and the Tse-tse Fly; 1920. T.F. Unwin Ltd, London; Biodiversity Archive.
+Tereshkin Scientific illustration in entomology Tereshkin, A. 2008: Methodology of a scientific drawings preparation in entomology on example of ichneumon flies (Hymenoptera, Ichneumonidae). Euroasian Entomological Journal, 7(1): 1–9 + I-VII
+Alex Wild Photography (insect photography)
+This website was highlighted by Genetic Engineering & Biotechnology News in its "Best of the Web" section in January 2015. See: "Alex Wild Photography". Best of the Web. Genetic Engineering & Biotechnology News. 35 (2). 2015-01-15. p. 38.

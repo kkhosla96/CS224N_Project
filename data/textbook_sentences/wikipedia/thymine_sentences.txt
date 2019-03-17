@@ -1,0 +1,25 @@
+Thymine  (T, Thy) is one of the four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. The others are adenine, guanine, and cytosine.  Thymine is also known as 5-methyluracil, a pyrimidine nucleobase. In RNA, thymine is replaced by the nucleobase uracil.  Thymine was first isolated in 1893 by Albrecht Kossel and Albert Neumann from calves' thymus glands, hence its name.
+
+
+== Derivation ==
+As its alternate name (5-methyluracil) suggests, thymine may be derived by methylation of uracil at the 5th carbon. In RNA, thymine is replaced with uracil in most cases.  In DNA, thymine (T) binds to adenine (A) via two hydrogen bonds, thereby stabilizing the nucleic acid structures.
+Thymine combined with deoxyribose creates the nucleoside deoxythymidine, which is synonymous with the term thymidine. Thymidine can be phosphorylated with up to three phosphoric acid groups, producing dTMP (deoxythymidine monophosphate), dTDP, or dTTP (for the di- and tri- phosphates, respectively).
+One of the common mutations of DNA involves two adjacent thymines or cytosine, which, in presence of ultraviolet light, may form thymine dimers, causing "kinks" in the DNA molecule that inhibit normal function.
+Thymine could also be a target for actions of 5-fluorouracil (5-FU) in cancer treatment. 5-FU can be a metabolic analog of thymine (in DNA synthesis) or uracil (in RNA synthesis).  Substitution of this analog inhibits DNA synthesis in actively dividing cells.
+Thymine bases are frequently oxidized to hydantoins over time after the death of an organism.
+
+
+== Theoretical aspects ==
+In March 2015, NASA scientists reported that, for the first time, complex DNA and RNA organic compounds of life, including uracil, cytosine and thymine, have been formed in the laboratory under outer space conditions, using starting chemicals, such as pyrimidine, found in meteorites. Pyrimidine, like polycyclic aromatic hydrocarbons (PAHs), the most carbon-rich chemical found in the Universe, may have been formed in red giants or in interstellar dust and gas clouds, according to the scientists. Thymine has not been found in meteorites, which suggests the first strands of DNA had to look elsewhere to obtain this building block. Thymine likely formed within some meteorite parent bodies, however may not have persisted within these bodies due to an oxidation reaction with hydrogen peroxide.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Thymine MS Spectrum
+Infoplease Encyclopedia
+Science Aid: DNA Structure and Replication

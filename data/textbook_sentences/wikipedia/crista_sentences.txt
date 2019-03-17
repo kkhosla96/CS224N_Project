@@ -1,0 +1,23 @@
+A crista (; plural cristae) is a fold in the inner membrane of a mitochondrion. The name is from the Latin for crest or plume, and it gives the inner membrane its characteristic wrinkled shape, providing a large amount of surface area for chemical reactions to occur on. This aids aerobic cellular respiration, because the mitochondrion requires oxygen. Cristae are studded with proteins, including ATP synthase and a variety of cytochromes.
+With the discovery of the dual-membrane nature of mitochondria, the pioneers of mitochondrial ultrastructural research proposed different models for the organization of the mitochondrial inner membrane. Three models proposed were:
+
+Baffle model – According to Palade, the mitochondrial inner membrane is convoluted in a baffle-like manner with broad openings towards the intra-cristal space. This model entered most textbooks and was widely believed for a long time.
+Septa model – Sjöstrand suggested that sheets of inner membrane are spanned like septa (plural of septum) through the matrix, separating it into several distinct compartments.
+Crista junction model – Daems and Wisse proposed that cristae are connected to the inner boundary membrane via tubular structures characterized by rather small diameters, termed crista junctions (CJs). These structures were rediscovered recently by EM tomography, leading to the establishment of this currently widely accepted model.
+
+
+== Electron transport chain of the cristae ==
+
+NADH is oxidized into NAD+, H+ ions, and electrons by an enzyme. FADH2 is also oxidized into H+ ions, electrons, and FAD. As those electrons travel farther through the electron transport chain in the inner membrane, energy is gradually released and used to pump the hydrogen ions from the splitting of NADH and FADH2 into the space between the inner membrane and the outer membrane (called the intermembrane space), creating an electrochemical gradient.
+This electrochemical gradient creates potential energy (see potential energy § chemical potential energy) across the inner mitochondrial membrane known as the proton-motive force. As a result, chemiosmosis occurs, and the enzyme ATP synthase produces ATP from ADP and a phosphate group. This harnesses the potential energy from the concentration gradient formed by the amount of H+ ions. H+ ions passively pass into the mitochondrial matrix by the ATP synthase, and later help to re-form H2O (water).
+The electron transport chain requires a varying supply of electrons in order to properly function and generate ATP. However, the electrons that have entered the electron transport chain would eventually pile up like cars traveling down a blocked one-way street. Those electrons are finally accepted by oxygen (O2). As a result, they form two molecules of water (H2O). By accepting the electrons, oxygen allows the electron transport chain to continue functioning.
+The electrons from each NADH molecule can form a total of 3 ATP's from ADPs and phosphate groups through the electron transport chain, while each FADH2 molecule can produce a total of 2 ATPs.
+As a result, 10 NADH molecules (from glycolysis and the Krebs cycle), along with 2 FADH2 molecules, can form a total of 34 ATPs during aerobic respiration (from a single electron transport chain). This means that combined with the Krebs Cycle and glycolysis, the efficiency for the electron transport chain is about 65%, as compared to only 3.5% efficiency for glycolysis alone.
+
+
+== Function ==
+The cristae greatly increase the surface area of the inner membrane on which the above-mentioned reactions may take place. The high surface area allows greater capacity for ATP generation.
+Mathematical modelling suggested that the optical properties of the cristae in filamentous mitochondria may affect the generation and propagation of light within the tissue.
+
+
+== References ==

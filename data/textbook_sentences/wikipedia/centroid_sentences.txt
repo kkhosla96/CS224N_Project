@@ -1,0 +1,2074 @@
+In mathematics and physics, the centroid or geometric center of a plane figure is the arithmetic mean position of all the points in the figure. Informally, it is the point at which a cutout of the shape could be perfectly balanced on the tip of a pin.The definition extends to any object in n-dimensional space: its centroid is the mean position of all the points in all of the coordinate directions.While in geometry the word barycenter is a synonym for centroid, in astrophysics and astronomy, the barycenter is the center of mass of two or more bodies that orbit each other. In physics, the center of mass is the arithmetic mean of all points weighted by the local density or specific weight. If a physical object has uniform density, its center of mass is the same as the centroid of its shape.
+In geography, the centroid of a radial projection of a region of the Earth's surface to sea level is the region's geographical center.
+
+
+== History ==
+The term "centroid" is of recent coinage (1814). It is used as a substitute for the older terms "center of gravity," and "center of mass", when the purely geometrical aspects of that point are to be emphasized. The term is peculiar to the English language. The French use "centre de gravité" on most occasions, and others use terms of similar meaning.
+The center of gravity, as the name indicates, is a notion that arose in mechanics, most likely in connection with building activities. When, where, and by whom it was invented is not known, as it is a concept that likely occurred to many people individually with minor differences. 
+While it is possible Euclid was still active in Alexandria during the childhood of Archimedes (287-212 BCE), it is certain that when Archimedes visited Alexandria, Euclid was no longer there. Thus Archimedes could not have learned the theorem that the medians of a triangle meet in a point—the center of gravity of the triangle directly from Euclid, as this proposition is not in Euclid's Elements. The first explicit statement of this proposition is due to Heron of Alexandria (perhaps the first century CE) and occurs in his Mechanics. It may be added, in passing, that the proposition did not become common in the textbooks on plane geometry until the nineteenth century.
+While Archimedes does not state that proposition explicitly, he makes indirect references to it, suggesting he was familiar with it. However, Jean Etienne Montucla (1725-1799), the author of the first history of mathematics (1758), declares categorically (vol. I, p. 463) that the center of gravity of solids is a subject Archimedes did not touch.
+In 1802 Charles Bossut (1730-1813) published a two-volume Essai aur PhisMire generale des mathematiques. This book was highly esteemed by his contemporaries, judging from the fact that within two years after its publication it was already available in translation in Italian (1802-03), English (1803), and German (1804). Bossut credits Archimedes with having found the centroid of plane figures, but has nothing to say about solids.
+
+
+== Properties ==
+The geometric centroid of a convex object always lies in the object.  A non-convex object might have a centroid that is outside the figure itself. The centroid of a ring or a bowl, for example, lies in the object's central void.
+If the centroid is defined, it is a fixed point of all isometries in its symmetry group. In particular, the geometric centroid of an object lies in the intersection of all its hyperplanes of symmetry.  The centroid of many figures (regular polygon, regular polyhedron, cylinder, rectangle, rhombus, circle, sphere, ellipse, ellipsoid, superellipse, superellipsoid, etc.) can be determined by this principle alone.
+In particular, the centroid of a parallelogram is the meeting point of its two diagonals.  This is not true for other quadrilaterals.
+For the same reason, the centroid of an object with translational symmetry is undefined (or lies outside the enclosing space), because a translation has no fixed point.
+
+
+== Examples ==
+The centroid of a triangle is the intersection of the three medians of the triangle (each median connecting a vertex with the midpoint of the opposite side).For other properties of a triangle's centroid, see below.
+
+
+== Locating ==
+
+
+=== Plumb line method ===
+The centroid of a uniformly dense planar lamina, such as in figure (a) below, may be determined experimentally by using a plumbline and a pin to find the collocated center of mass of a thin body of uniform density having the same shape.  The body is held by the pin, inserted at a point, off the presumed centroid in such a way that it can freely rotate around the pin; the plumb line is then dropped from the pin (figure b).  The position of the plumbline is traced on the surface, and the procedure is repeated with the pin inserted at any different point (or a number of points) off the centroid of the object. The unique intersection point of these lines will be the centroid (figure c).  Provided that the body is of uniform density, all lines made this way will include the centroid, and all lines will cross at the exact same place.
+
+This method can be extended (in theory) to concave shapes where the centroid may lie outside the shape, and virtually to solids (again, of uniform density), where the centroid may lie within the body. The (virtual) positions of the plumb lines need to be recorded by means other than by drawing them along the shape.
+
+
+=== Balancing method ===
+For convex two-dimensional shapes, the centroid can be found by balancing the shape on a smaller shape, such as the top of a narrow cylinder.  The centroid occurs somewhere within the range of contact between the two shapes (and exactly at the point where the shape would balance on a pin).  In principle, progressively narrower cylinders can be used to find the centroid to arbitrary precision.  In practice air currents make this infeasible.  However, by marking the overlap range from multiple balances, one can achieve a considerable level of accuracy.
+
+
+=== Of a finite set of points ===
+The centroid of a finite set of 
+  
+    
+      
+        
+          k
+        
+      
+    
+    {\displaystyle {k}}
+   points 
+  
+    
+      
+        
+          
+            x
+          
+          
+            1
+          
+        
+        ,
+        
+          
+            x
+          
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          
+            x
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \mathbf {x} _{1},\mathbf {x} _{2},\ldots ,\mathbf {x} _{k}}
+   in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   is
+
+  
+    
+      
+        
+          C
+        
+        =
+        
+          
+            
+              
+                
+                  x
+                
+                
+                  1
+                
+              
+              +
+              
+                
+                  x
+                
+                
+                  2
+                
+              
+              +
+              ⋯
+              +
+              
+                
+                  x
+                
+                
+                  k
+                
+              
+            
+            k
+          
+        
+      
+    
+    {\displaystyle \mathbf {C} ={\frac {\mathbf {x} _{1}+\mathbf {x} _{2}+\cdots +\mathbf {x} _{k}}{k}}}
+  .This point minimizes the sum of squared Euclidean distances between itself and each point in the set.
+
+
+=== By geometric decomposition ===
+The centroid of a plane figure 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   can be computed by dividing it into a finite number of simpler figures 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            n
+          
+        
+      
+    
+    {\displaystyle X_{1},X_{2},\dots ,X_{n}}
+  , computing the centroid 
+  
+    
+      
+        
+          C
+          
+            i
+          
+        
+      
+    
+    {\displaystyle C_{i}}
+   and area 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    {\displaystyle A_{i}}
+   of each part, and then computing
+
+  
+    
+      
+        
+          C
+          
+            x
+          
+        
+        =
+        
+          
+            
+              ∑
+              
+                C
+                
+                  
+                    i
+                    
+                      x
+                    
+                  
+                
+              
+              
+                A
+                
+                  i
+                
+              
+            
+            
+              ∑
+              
+                A
+                
+                  i
+                
+              
+            
+          
+        
+        ,
+        
+          C
+          
+            y
+          
+        
+        =
+        
+          
+            
+              ∑
+              
+                C
+                
+                  
+                    i
+                    
+                      y
+                    
+                  
+                
+              
+              
+                A
+                
+                  i
+                
+              
+            
+            
+              ∑
+              
+                A
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle C_{x}={\frac {\sum C_{i_{x}}A_{i}}{\sum A_{i}}},C_{y}={\frac {\sum C_{i_{y}}A_{i}}{\sum A_{i}}}}
+  Holes in the figure 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , overlaps between the parts, or parts that extend outside the figure can all be handled using negative areas 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    {\displaystyle A_{i}}
+  . Namely, the measures 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    {\displaystyle A_{i}}
+   should be taken with positive and negative signs in such a way that the sum of the signs of 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    {\displaystyle A_{i}}
+   for all parts that enclose a given point 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   is 1 if 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   belongs to 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , and 0 otherwise.
+For example, the figure below (a) is easily divided into a square and a triangle, both with positive area; and a circular hole, with negative area (b).
+
+The centroid of each part can be found in any list of centroids of simple shapes (c). Then the centroid of the figure is the weighted average of the three points.  The horizontal position of the centroid, from the left edge of the figure is
+
+  
+    
+      
+        x
+        =
+        
+          
+            
+              5
+              ×
+              
+                10
+                
+                  2
+                
+              
+              +
+              13.33
+              ×
+              
+                
+                  1
+                  2
+                
+              
+              
+                10
+                
+                  2
+                
+              
+              −
+              3
+              ×
+              π
+              
+                2.5
+                
+                  2
+                
+              
+            
+            
+              
+                10
+                
+                  2
+                
+              
+              +
+              
+                
+                  1
+                  2
+                
+              
+              
+                10
+                
+                  2
+                
+              
+              −
+              π
+              
+                2.5
+                
+                  2
+                
+              
+            
+          
+        
+        ≈
+        8.5
+        
+          
+             units
+          
+        
+        .
+      
+    
+    {\displaystyle x={\frac {5\times 10^{2}+13.33\times {\frac {1}{2}}10^{2}-3\times \pi 2.5^{2}}{10^{2}+{\frac {1}{2}}10^{2}-\pi 2.5^{2}}}\approx 8.5{\mbox{ units}}.}
+  The vertical position of the centroid is found in the same way.
+The same formula holds for any three-dimensional objects, except that each 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    {\displaystyle A_{i}}
+   should be the volume of 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}}
+  , rather than its area.  It also holds for any subset of 
+  
+    
+      
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{d}}
+  , for any dimension 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  , with the areas replaced by the 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  -dimensional measures of the parts.
+
+
+=== By integral formula ===
+The centroid of a subset X of  
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   can also be computed by the integral
+
+  
+    
+      
+        C
+        =
+        
+          
+            
+              ∫
+              x
+              g
+              (
+              x
+              )
+              
+              d
+              x
+            
+            
+              ∫
+              g
+              (
+              x
+              )
+              
+              d
+              x
+            
+          
+        
+      
+    
+    {\displaystyle C={\frac {\int xg(x)\;dx}{\int g(x)\;dx}}}
+  where the integrals are taken over the whole space 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  , and g is the characteristic function of the subset, which is 1 inside  X and 0 outside it.  Note that the denominator is simply the measure of the set X. This formula cannot be applied if the set X has zero measure, or if either integral diverges.
+Another formula for the centroid is
+
+  
+    
+      
+        
+          C
+          
+            k
+          
+        
+        =
+        
+          
+            
+              ∫
+              z
+              
+                S
+                
+                  k
+                
+              
+              (
+              z
+              )
+              
+              d
+              z
+            
+            
+              ∫
+              
+                S
+                
+                  k
+                
+              
+              (
+              z
+              )
+              
+              d
+              z
+            
+          
+        
+      
+    
+    {\displaystyle C_{k}={\frac {\int zS_{k}(z)\;dz}{\int S_{k}(z)\;dz}}}
+  where Ck  is the kth coordinate of C, and Sk(z) is the measure of the intersection of X with the hyperplane defined by the equation xk = z.  Again, the denominator is simply the measure of X.
+For a plane figure, in particular, the barycenter coordinates are
+
+  
+    
+      
+        
+          C
+          
+            
+              x
+            
+          
+        
+        =
+        
+          
+            
+              ∫
+              x
+              
+                S
+                
+                  
+                    y
+                  
+                
+              
+              (
+              x
+              )
+              
+              d
+              x
+            
+            A
+          
+        
+      
+    
+    {\displaystyle C_{\mathrm {x} }={\frac {\int xS_{\mathrm {y} }(x)\;dx}{A}}}
+  
+  
+    
+      
+        
+          C
+          
+            
+              y
+            
+          
+        
+        =
+        
+          
+            
+              ∫
+              y
+              
+                S
+                
+                  
+                    x
+                  
+                
+              
+              (
+              y
+              )
+              
+              d
+              y
+            
+            A
+          
+        
+      
+    
+    {\displaystyle C_{\mathrm {y} }={\frac {\int yS_{\mathrm {x} }(y)\;dy}{A}}}
+  where A is the area of the figure X; Sy(x) is the length of the intersection of X with the vertical line at abscissa x; and Sx(y) is the analogous quantity for the swapped axes.
+
+
+==== Bounded region ====
+The centroid 
+  
+    
+      
+        (
+        
+          
+            
+              x
+              ¯
+            
+          
+        
+        ,
+        
+        
+          
+            
+              y
+              ¯
+            
+          
+        
+        )
+      
+    
+    {\displaystyle ({\bar {x}},\;{\bar {y}})}
+   of a region bounded by the graphs of the continuous functions 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   and 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   such that 
+  
+    
+      
+        f
+        (
+        x
+        )
+        ≥
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)\geq g(x)}
+   on the interval 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle [a,b]}
+  , 
+  
+    
+      
+        a
+        ≤
+        x
+        ≤
+        b
+      
+    
+    {\displaystyle a\leq x\leq b}
+  , is given by
+
+  
+    
+      
+        
+          
+            
+              x
+              ¯
+            
+          
+        
+        =
+        
+          
+            1
+            A
+          
+        
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        x
+        [
+        f
+        (
+        x
+        )
+        −
+        g
+        (
+        x
+        )
+        ]
+        
+        d
+        x
+      
+    
+    {\displaystyle {\bar {x}}={\frac {1}{A}}\int _{a}^{b}x[f(x)-g(x)]\;dx}
+  
+  
+    
+      
+        
+          
+            
+              y
+              ¯
+            
+          
+        
+        =
+        
+          
+            1
+            A
+          
+        
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        
+          [
+          
+            
+              
+                f
+                (
+                x
+                )
+                +
+                g
+                (
+                x
+                )
+              
+              2
+            
+          
+          ]
+        
+        [
+        f
+        (
+        x
+        )
+        −
+        g
+        (
+        x
+        )
+        ]
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle {\bar {y}}={\frac {1}{A}}\int _{a}^{b}\left[{\frac {f(x)+g(x)}{2}}\right][f(x)-g(x)]\;dx,}
+  where 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is the area of the region (given by 
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        [
+        f
+        (
+        x
+        )
+        −
+        g
+        (
+        x
+        )
+        ]
+        
+        d
+        x
+      
+    
+    {\displaystyle \int _{a}^{b}[f(x)-g(x)]\;dx}
+  ).
+
+
+=== Of an L-shaped object ===
+This is a method of determining the centroid of an L-shaped object.
+
+Divide the shape into two rectangles, as shown in fig 2. Find the centroids of these two rectangles by drawing the diagonals. Draw a line joining the centroids. The centroid of the shape must lie on this line AB.
+Divide the shape into two other rectangles, as shown in fig 3. Find the centroids of these two rectangles by drawing the diagonals. Draw a line joining the centroids. The centroid of the L-shape must lie on this line CD.
+As the centroid of the shape must lie along AB and also along CD, it must be at the intersection of these two lines, at O. The point O might not lie inside the L-shaped object.
+
+
+=== Of a triangle ===
+The centroid of a triangle is the point of intersection of its medians (the lines joining each vertex with the midpoint of the opposite side). The centroid divides each of the medians in the ratio 2:1, which is to say it is located ⅓ of the distance from each side to the opposite vertex (see figures at right).  Its Cartesian coordinates are the means of the coordinates of the three vertices. That is, if the three vertices are 
+  
+    
+      
+        L
+        =
+        (
+        
+          x
+          
+            L
+          
+        
+        ,
+        
+          y
+          
+            L
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle L=(x_{L},y_{L}),}
+   
+  
+    
+      
+        M
+        =
+        (
+        
+          x
+          
+            M
+          
+        
+        ,
+        
+          y
+          
+            M
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle M=(x_{M},y_{M}),}
+   and 
+  
+    
+      
+        N
+        =
+        (
+        
+          x
+          
+            N
+          
+        
+        ,
+        
+          y
+          
+            N
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle N=(x_{N},y_{N}),}
+   then the centroid (denoted C here but most commonly denoted G in triangle geometry) is
+
+  
+    
+      
+        C
+        =
+        
+          
+            1
+            3
+          
+        
+        (
+        L
+        +
+        M
+        +
+        N
+        )
+        =
+        
+          (
+          
+            
+              
+                1
+                3
+              
+            
+            (
+            
+              x
+              
+                L
+              
+            
+            +
+            
+              x
+              
+                M
+              
+            
+            +
+            
+              x
+              
+                N
+              
+            
+            )
+            ,
+            
+            
+            
+              
+                1
+                3
+              
+            
+            (
+            
+              y
+              
+                L
+              
+            
+            +
+            
+              y
+              
+                M
+              
+            
+            +
+            
+              y
+              
+                N
+              
+            
+            )
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle C={\frac {1}{3}}(L+M+N)=\left({\frac {1}{3}}(x_{L}+x_{M}+x_{N}),\;\;{\frac {1}{3}}(y_{L}+y_{M}+y_{N})\right).}
+  The centroid is therefore at 
+  
+    
+      
+        
+          
+            
+              1
+              3
+            
+          
+        
+        :
+        
+          
+            
+              1
+              3
+            
+          
+        
+        :
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{3}}:{\tfrac {1}{3}}:{\tfrac {1}{3}}}
+   in barycentric coordinates.
+In trilinear coordinates the centroid can be expressed in any of these equivalent ways in terms of the side lengths a, b, c and vertex angles L, M, N:
+
+  
+    
+      
+        C
+        =
+        
+          
+            1
+            a
+          
+        
+        :
+        
+          
+            1
+            b
+          
+        
+        :
+        
+          
+            1
+            c
+          
+        
+        =
+        b
+        c
+        :
+        c
+        a
+        :
+        a
+        b
+        =
+        csc
+        ⁡
+        L
+        :
+        csc
+        ⁡
+        M
+        :
+        csc
+        ⁡
+        N
+      
+    
+    {\displaystyle C={\frac {1}{a}}:{\frac {1}{b}}:{\frac {1}{c}}=bc:ca:ab=\csc L:\csc M:\csc N}
+  
+
+  
+    
+      
+        =
+        cos
+        ⁡
+        L
+        +
+        cos
+        ⁡
+        M
+        ⋅
+        cos
+        ⁡
+        N
+        :
+        cos
+        ⁡
+        M
+        +
+        cos
+        ⁡
+        N
+        ⋅
+        cos
+        ⁡
+        L
+        :
+        cos
+        ⁡
+        N
+        +
+        cos
+        ⁡
+        L
+        ⋅
+        cos
+        ⁡
+        M
+      
+    
+    {\displaystyle =\cos L+\cos M\cdot \cos N:\cos M+\cos N\cdot \cos L:\cos N+\cos L\cdot \cos M}
+  
+
+  
+    
+      
+        =
+        sec
+        ⁡
+        L
+        +
+        sec
+        ⁡
+        M
+        ⋅
+        sec
+        ⁡
+        N
+        :
+        sec
+        ⁡
+        M
+        +
+        sec
+        ⁡
+        N
+        ⋅
+        sec
+        ⁡
+        L
+        :
+        sec
+        ⁡
+        N
+        +
+        sec
+        ⁡
+        L
+        ⋅
+        sec
+        ⁡
+        M
+        .
+      
+    
+    {\displaystyle =\sec L+\sec M\cdot \sec N:\sec M+\sec N\cdot \sec L:\sec N+\sec L\cdot \sec M.}
+  The centroid is also the physical center of mass if the triangle is made from a uniform sheet of material; or if all the mass is concentrated at the three vertices, and evenly divided among them.  On the other hand, if the mass is distributed along the triangle's perimeter, with uniform linear density, then the center of mass lies at the Spieker center (the incenter of the medial triangle), which does not (in general) coincide with the geometric centroid of the full triangle.
+The area of the triangle is 1.5 times the length of any side times the perpendicular distance from the side to the centroid.A triangle's centroid lies on its Euler line between its orthocenter H and its circumcenter O, exactly twice as close to the latter as to the former:
+
+  
+    
+      
+        
+          
+            
+              C
+              H
+            
+            ¯
+          
+        
+        =
+        2
+        
+          
+            
+              C
+              O
+            
+            ¯
+          
+        
+        .
+      
+    
+    {\displaystyle {\overline {CH}}=2{\overline {CO}}.}
+  In addition, for the incenter I and nine-point center N, we have
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      C
+                      H
+                    
+                    ¯
+                  
+                
+              
+              
+                
+                =
+                4
+                
+                  
+                    
+                      C
+                      N
+                    
+                    ¯
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      C
+                      O
+                    
+                    ¯
+                  
+                
+              
+              
+                
+                =
+                2
+                
+                  
+                    
+                      C
+                      N
+                    
+                    ¯
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      I
+                      C
+                    
+                    ¯
+                  
+                
+              
+              
+                
+                <
+                
+                  
+                    
+                      H
+                      C
+                    
+                    ¯
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      I
+                      H
+                    
+                    ¯
+                  
+                
+              
+              
+                
+                <
+                
+                  
+                    
+                      H
+                      C
+                    
+                    ¯
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      I
+                      C
+                    
+                    ¯
+                  
+                
+              
+              
+                
+                <
+                
+                  
+                    
+                      I
+                      O
+                    
+                    ¯
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\overline {CH}}&=4{\overline {CN}}\\{\overline {CO}}&=2{\overline {CN}}\\{\overline {IC}}&<{\overline {HC}}\\{\overline {IH}}&<{\overline {HC}}\\{\overline {IC}}&<{\overline {IO}}\end{aligned}}}
+  If G is the centroid of the triangle ABC, then:
+
+  
+    
+      
+        
+          (
+          
+            Area of 
+          
+          △
+          
+            A
+            B
+            G
+          
+          )
+          =
+          (
+          
+            Area of 
+          
+          △
+          
+            A
+            C
+            G
+          
+          )
+          =
+          (
+          
+            Area of 
+          
+          △
+          
+            B
+            C
+            G
+          
+          )
+          =
+          
+            
+              1
+              3
+            
+          
+          (
+          
+            Area of 
+          
+          △
+          
+            A
+            B
+            C
+          
+          )
+        
+      
+    
+    {\displaystyle \displaystyle ({\text{Area of }}\triangle \mathrm {ABG} )=({\text{Area of }}\triangle \mathrm {ACG} )=({\text{Area of }}\triangle \mathrm {BCG} )={\frac {1}{3}}({\text{Area of }}\triangle \mathrm {ABC} )}
+  The isogonal conjugate of a triangle's centroid is its symmedian point.
+Any of the three medians through the centroid divides the triangle's area in half. This is not true for other lines through the centroid; the greatest departure from the equal-area division occurs when a line through the centroid is parallel to a side of the triangle, creating a smaller triangle and a trapezoid; in this case the trapezoid's area is 5/9 that of the original triangle.Let P be any point in the plane of a triangle with vertices A, B, and C and centroid G. Then the sum of the squared distances of P from the three vertices exceeds the sum of the squared distances of the centroid G from the vertices by three times the squared distance between P and G:
+
+  
+    
+      
+        P
+        
+          A
+          
+            2
+          
+        
+        +
+        P
+        
+          B
+          
+            2
+          
+        
+        +
+        P
+        
+          C
+          
+            2
+          
+        
+        =
+        G
+        
+          A
+          
+            2
+          
+        
+        +
+        G
+        
+          B
+          
+            2
+          
+        
+        +
+        G
+        
+          C
+          
+            2
+          
+        
+        +
+        3
+        P
+        
+          G
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle PA^{2}+PB^{2}+PC^{2}=GA^{2}+GB^{2}+GC^{2}+3PG^{2}.}
+  The sum of the squares of the triangle's sides equals three times the sum of the squared distances of the centroid from the vertices:
+
+  
+    
+      
+        A
+        
+          B
+          
+            2
+          
+        
+        +
+        B
+        
+          C
+          
+            2
+          
+        
+        +
+        C
+        
+          A
+          
+            2
+          
+        
+        =
+        3
+        (
+        G
+        
+          A
+          
+            2
+          
+        
+        +
+        G
+        
+          B
+          
+            2
+          
+        
+        +
+        G
+        
+          C
+          
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle AB^{2}+BC^{2}+CA^{2}=3(GA^{2}+GB^{2}+GC^{2}).}
+  A triangle's centroid is the point that maximizes the product of the directed distances of a point from the triangle's sidelines.Let ABC be a triangle, let G be its centroid, and let D, E, and F be the midpoints of BC, CA, and AB, respectively. For any point P in the plane of ABC then 
+
+  
+    
+      
+        P
+        A
+        +
+        P
+        B
+        +
+        P
+        C
+        ≤
+        2
+        (
+        P
+        D
+        +
+        P
+        E
+        +
+        P
+        F
+        )
+        +
+        3
+        P
+        G
+        .
+      
+    
+    {\displaystyle PA+PB+PC\leq 2(PD+PE+PF)+3PG.}
+  
+
+
+=== Of a polygon ===
+The centroid of a non-self-intersecting closed polygon defined by n vertices (x0,y0), (x1,y1), ..., (xn−1,yn−1) is the point (Cx,  Cy), where
+
+  
+    
+      
+        
+          C
+          
+            
+              x
+            
+          
+        
+        =
+        
+          
+            1
+            
+              6
+              A
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        +
+        
+          x
+          
+            i
+            +
+            1
+          
+        
+        )
+        (
+        
+          x
+          
+            i
+          
+        
+         
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        −
+        
+          x
+          
+            i
+            +
+            1
+          
+        
+         
+        
+          y
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle C_{\mathrm {x} }={\frac {1}{6A}}\sum _{i=0}^{n-1}(x_{i}+x_{i+1})(x_{i}\ y_{i+1}-x_{i+1}\ y_{i})}
+   , and
+  
+    
+      
+        
+          C
+          
+            
+              y
+            
+          
+        
+        =
+        
+          
+            1
+            
+              6
+              A
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        
+          y
+          
+            i
+          
+        
+        +
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        )
+        (
+        
+          x
+          
+            i
+          
+        
+         
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        −
+        
+          x
+          
+            i
+            +
+            1
+          
+        
+         
+        
+          y
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle C_{\mathrm {y} }={\frac {1}{6A}}\sum _{i=0}^{n-1}(y_{i}+y_{i+1})(x_{i}\ y_{i+1}-x_{i+1}\ y_{i})}
+   ,and where A is the polygon's signed area, as described by
+
+  
+    
+      
+        A
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+         
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        −
+        
+          x
+          
+            i
+            +
+            1
+          
+        
+         
+        
+          y
+          
+            i
+          
+        
+        )
+        
+      
+    
+    {\displaystyle A={\frac {1}{2}}\sum _{i=0}^{n-1}(x_{i}\ y_{i+1}-x_{i+1}\ y_{i})\;}
+  .In these formulas, the vertices are assumed to be numbered in order of their occurrence along the polygon's perimeter; furthermore, the vertex ( xn, yn ) is assumed to be the same as ( x0, y0 ), meaning 
+  
+    
+      
+        i
+        +
+        1
+      
+    
+    {\displaystyle i+1}
+   on the last case must loop around to 
+  
+    
+      
+        i
+        =
+        0
+      
+    
+    {\displaystyle i=0}
+  .  (If the points are numbered in clockwise order, the area A, computed as above, will be negative; however, the centroid coordinates will be correct even in this case.)
+
+
+=== Of a cone or pyramid ===
+The centroid of a cone or pyramid is located on the line segment that connects the apex to the centroid of the base. For a solid cone or pyramid, the centroid is 1/4 the distance from the base to the apex. For a cone or pyramid that is just a shell (hollow) with no base, the centroid is 1/3 the distance from the base plane to the apex.
+
+
+=== Of a tetrahedron and n-dimensional simplex ===
+A tetrahedron is an object in three-dimensional space having four triangles as its faces. A line segment joining a vertex of a tetrahedron with the centroid of the opposite face is called a median, and a line segment joining the midpoints of two opposite edges is called a bimedian. Hence there are four medians and three bimedians. These seven line segments all meet at the centroid of the tetrahedron. The medians are divided by the centroid in the ratio 3:1. The centroid of a tetrahedron is the midpoint between its Monge point and circumcenter (center of the circumscribed sphere). These three points define the Euler line of the tetrahedron that is analogous to the Euler line of a triangle.
+These results generalize to any n-dimensional simplex in the following way. If the set of vertices of a simplex is 
+  
+    
+      
+        
+          
+            v
+            
+              0
+            
+          
+          ,
+          …
+          ,
+          
+            v
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {v_{0},\ldots ,v_{n}}}
+  , then considering the vertices as vectors, the centroid is
+
+  
+    
+      
+        C
+        =
+        
+          
+            1
+            
+              n
+              +
+              1
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          v
+          
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle C={\frac {1}{n+1}}\sum _{i=0}^{n}v_{i}.}
+  The geometric centroid coincides with the center of mass if the mass is uniformly distributed over the whole simplex, or concentrated at the vertices as n equal masses.
+
+
+=== Of a hemisphere ===
+The centroid of a solid hemisphere (i.e. half of a solid ball) divides the line segment connecting the sphere's center to the hemisphere's pole in the ratio 3:8. The centroid of a hollow hemisphere (i.e. half of a hollow sphere) divides the line segment connecting the sphere's center to the hemisphere's pole in half.
+
+
+== See also ==
+Chebyshev center
+Fréchet mean
+K-means algorithm
+List of centroids
+Pappus's centroid theorem
+Triangle center
+Locating the center of mass
+Spectral centroid
+Medoid
+
+
+== Notes ==
+
+
+== References ==
+Altshiller-Court, Nathan (1925), College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle (2nd ed.), New York: Barnes & Noble, LCCN 52013504
+Bourke, Paul (July 1997). "Calculating the area and centroid of a polygon".
+Johnson, Roger A. (2007), Advanced Euclidean Geometry, Dover
+Kay, David C. (1969), College Geometry, New York: Holt, Rinehart and Winston, LCCN 69012075
+Larson, Roland E.; Hostetler, Robert P.; Edwards, Bruce H. (1998), Calculus of a Single Variable (6th ed.), Houghton Mifflin Company
+Protter, Murray H.; Morrey, Jr., Charles B. (1970), College Calculus with Analytic Geometry (2nd ed.), Reading: Addison-Wesley, LCCN 76087042
+
+
+== External links ==
+Encyclopedia of Triangle Centers by Clark Kimberling. The centroid is indexed as X(2).
+Characteristic Property of Centroid at cut-the-knot
+Barycentric Coordinates at cut-the-knot
+Interactive animations showing Centroid of a triangle and Centroid construction with compass and straightedge
+Experimentally finding the medians and centroid of a triangle at Dynamic Geometry Sketches, an interactive dynamic geometry sketch using the gravity simulator of Cinderella.

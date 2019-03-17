@@ -1,0 +1,13 @@
+Molecular physics is the study of the physical properties of molecules, the chemical bonds between atoms as well as the molecular dynamics.  Its most important experimental techniques are the various types of spectroscopy; scattering is also used. The field is closely related to atomic physics and overlaps greatly with theoretical chemistry, physical chemistry and chemical physics.
+In addition to the electronic excitation states which are known from atoms, molecules exhibit rotational and vibrational modes whose energy levels are quantized. The smallest energy differences exist between different rotational states: pure rotational spectra are in the far infrared region (about 30 - 150 µm wavelength) of the electromagnetic spectrum. Vibrational spectra are in the near infrared (about 1 - 5 µm) and spectra resulting from electronic transitions are mostly in the visible and ultraviolet regions. From measuring rotational and vibrational spectra properties of molecules like the distance between the nuclei can be specifically calculated.
+One important aspect of molecular physics is that the essential atomic orbital theory in the field of atomic physics expands to the molecular orbital theory.
+
+
+== See also ==
+
+Born–Oppenheimer approximation
+Electrostatic deflection (molecular physics/nanotechnology)
+Molecular energy state
+Molecular modeling
+Rigid rotor
+Spectroscopy

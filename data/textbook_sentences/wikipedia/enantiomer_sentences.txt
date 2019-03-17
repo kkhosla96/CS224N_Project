@@ -1,0 +1,45 @@
+In chemistry, an enantiomer ( ə-NAN-tee-ə-mər; from Greek, Modern  ἐνάντιος (enántios), meaning 'opposite', and  μέρος (méros), meaning 'part'), also known as an optical isomer (and archaically termed antipode or optical antipode), is one of two stereoisomers that are mirror images of each other that are non-superposable (not identical), much as one's left and right hands are the same except for being reversed along one axis (the hands cannot be made to appear identical simply by reorientation). A single chiral atom or similar structural feature in a compound causes that compound to have two possible structures which are non-superposable, each a mirror image of the other. Each member of the pair is termed an enantiomorph (enantio = opposite; morph = form); the structural property is termed enantiomerism.  The presence of multiple chiral features in a given compound increases the number of geometric forms possible, though there may be some perfect-mirror-image pairs.
+Enantiopure compounds refer to samples having, within the limits of detection, molecules of only one chirality.When present in a symmetric environment, enantiomers have identical chemical and physical properties except for their ability to rotate plane-polarized light (+/−) by equal amounts but in opposite directions (although the polarized light can be considered an asymmetric medium). They are sometimes called optical isomers for this reason. A mixture of equal parts of an optically active isomer and its enantiomer is termed racemic and has zero net rotation of plane-polarized light because the positive rotation of each (+) form is exactly counteracted by the negative rotation of a (−) one.  For all intents and purposes, pairs of enantiomers have the same Gibbs free energy.  However, theoretical physics predicts that due to parity violation of the weak nuclear force (the only force in nature that can "tell left from right"), there is actually a minute difference in energy between enantiomers (on the order of 10−12 eV or 10−10 kJ/mol or less) due to the weak neutral current mechanism.  This difference in energy is far smaller than energy changes caused by even a trivial change in molecular conformation and far too small to measure by current technology and is therefore chemically inconsequential.Enantiomer members often have different chemical reactions with other enantiomer substances. Since many biological molecules are enantiomers, there is sometimes a marked difference in the effects of two enantiomers on biological organisms. In drugs, for example, often only one of a drug's enantiomers is responsible for the desired physiologic effects, while the other enantiomer is less active, inactive, or sometimes even productive of adverse effects.  Owing to this discovery, drugs composed of only one enantiomer ("enantiopure") can be developed to enhance the pharmacological efficacy and sometimes eliminate some side effects.  An example is eszopiclone (Lunesta), which is enantiopure and therefore administered in doses that are exactly 1/2 of the older, racemic mixture called zopiclone.  In the case of eszopiclone, the S enantiomer is responsible for all the desired effects, while the other enantiomer seems to be inactive.
+In chemical synthesis of enantiomeric substances, non-enantiomeric precursors inevitably produce racemic mixtures.  In the absence of an effective enantiomeric environment (precursor, chiral catalyst, or kinetic resolution), separation of a racemic mixture into its enantiomeric components is impossible.
+
+
+== Naming conventions ==
+
+The R/S system is an important nomenclature system for denoting distinct enantiomers. Another system is based on prefix notation for optical activity: (+)- and (−)- or d- and l-. The Latin for left and right is laevus and dexter, respectively. Left and right have always had moral connotations, and the Latin words for these are sinister and rectus (straight, proper). The English word right is a cognate of rectus. This is the origin of the L,D and S,R notations, and the employment of prefixes levo- and dextro- in common names.
+
+
+== Criterion of enantiomerism ==
+
+Most compounds that contain one or more asymmetric carbon (or other element) atoms show enantiomerism, but this is not always true. There are a few known compounds that do have asymmetric carbon atoms, but, being non-dissymmetric with respect to the whole molecule, do not show enantiomerism. Thus, meso tartaric acid has two asymmetric carbon atoms, but samples still are optically inactive because each of the two halves of the molecule is equal and opposite to the other and thus is superposable on its geometric mirror image. Conversely, some types of chirality that lead to the existence of enantiomers that do not require individual asymmetric atoms. In general, there are four distinct types of chirality: central, axial, planar, and helical chirality.  Only in the case of central chirality is an asymmetric atom required.
+As a rigorous criterion, a molecule is chiral, and will therefore possess an enantiomer, if and only if it belongs to one of the chiral point groups: Cn, Dn, T, O, and I.  However, as a caveat, enantiomers are not necessarily isolable if there is an accessible pathway for racemization at a given temperature and timescale.  For example, amines with three distinct substituents are chiral, but with the exception of only a few atypical cases (e.g., substituted N-chloroaziridines), they rapidly planarize and invert ("umbrella inversion") at room temperature, leading to racemization.  If the racemization is fast enough, the molecule can often be treated as an achiral, averaged structure.
+
+
+== Examples ==
+
+An example of such an enantiomer is the sedative thalidomide, which was sold in a number of countries across the world from 1957 until 1961.  It was withdrawn from the market when it was found to cause birth defects.  One enantiomer caused the desirable sedative effects, while the other, unavoidably present in equal quantities, caused birth defects.The herbicide mecoprop is a racemic mixture, with the (R)-(+)-enantiomer ("Mecoprop-P", "Duplosan KV") possessing the herbicidal activity.Another example is  the antidepressant drugs escitalopram and citalopram.  Citalopram is a racemate [1:1 mixture of (S)-citalopram and (R)-citalopram]; escitalopram [(S)-citalopram] is a pure enantiomer.  The dosages for escitalopram are typically 1/2 of those for citalopram.
+
+
+== Enantioselective preparations ==
+
+There are two main strategies for the preparation of enantiopure compounds. The first is known as chiral resolution. This method involves preparing the compound in racemic form, and separating it into its isomers. In his pioneering work, Louis Pasteur was able to isolate the isomers of tartaric acid because they crystallize from solution as crystals each with a different symmetry.  A less common method is by enantiomer self-disproportionation.
+The second strategy is asymmetric synthesis: the use of various techniques to prepare the desired compound in high enantiomeric excess. Techniques encompassed include the use of chiral starting materials (chiral pool synthesis), the use of chiral auxiliaries and chiral catalysts, and the application of asymmetric induction. The use of enzymes (biocatalysis) may also produce the desired compound.
+Enantioconvergent synthesis is the synthesis of one enantiomer from a racemic precursor molecule utilizing both enantiomers.  Thus, the two enantiomers of the reactant produce a single enantiomer of product.
+
+
+== Enantiopure medications ==
+
+Advances in industrial chemical processes have made it economical for pharmaceutical manufacturers to take drugs that were originally marketed as a racemic mixture and market the individual enantiomers. In some cases, the enantiomers have genuinely different effects. In other cases, there may be no clinical benefit to the patient. In some jurisdictions, single-enantiomer drugs are separately patentable from the racemic mixture. It is possible that only one of the enantiomers is active. Or, it may be that both are active, in which case separating the mixture has no objective benefits, but extends the drug's patentability.
+
+
+== Quasi-enantiomers ==
+Quasi-enantiomers are molecular species that are not strictly enantiomers, but behave as if they are. Quasi-enantiomers have applications in parallel kinetic resolution.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+chemwiki:stereoisomerism

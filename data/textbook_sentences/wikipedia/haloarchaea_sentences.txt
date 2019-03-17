@@ -1,0 +1,373 @@
+Haloarchaea (halophilic archaea, halophilic archaebacteria, halobacteria) are a class of the Euryarchaeota, found in water saturated or nearly saturated with salt. Halobacteria are now recognized as archaea, rather than bacteria and are one of the largest groups. The name 'halobacteria' was assigned to this group of organisms before the existence of the domain Archaea was realized, and remains valid according to taxonomic rules. In a non-taxonomic context, halophilic archaea are referred to as haloarchaea to distinguish them from halophilic bacteria.
+These microorganisms are members of the halophile community, in that they require high salt concentrations to grow, with most species requiring more than 2.0M NaCl for growth and survival. They are a distinct evolutionary branch of the Archaea distinguished by possession of ether-linked lipids and the absence of murein in their cell walls.
+Haloarchaea can grow aerobically or anaerobically. Parts of the membranes of haloarchaea are purplish in color, and large blooms of haloarchaea appear reddish, from the pigment bacteriorhodopsin, related to the retinal pigment rhodopsin, which it uses to transform light energy into chemical energy by a process unrelated to chlorophyll-based photosynthesis.
+Haloarchaea have a potential to solubilize phosphorus. Phosphorus-solubilizing halophilic archaea may well play a role in P (phosphorus) nutrition to vegetation growing in hypersaline soils. Haloarchaea may also have application as inoculants for crops growing in hypersaline regions.
+
+
+== Taxonomy ==
+The extremely halophilic, aerobic members of Archaea are classified within the family Halobacteriaceae, order Halobacteriales in Class III. Halobacteria of the phylum Euryarchaeota (International Committee on Systematics of Prokaryotes, Subcommittee on the taxonomy of Halobacteriaceae). As of May 2016, the family Halobacteriaceae comprises 213 species in 50 genera.
+Domain: Archaea
+Euryarchaeota
+
+Halobacteria
+Halobacteriales
+Halobacteriaceae
+Haladaptatus [Hap.]
+Haladaptatus cibarius
+Haladaptatus litoreus
+Haladaptatus pallidirubidus
+Haladaptatus paucihalophilus (Type species)
+Halalkalicoccus [Hac.]
+Halalkalicoccus jeotgali
+Halalkalicoccus paucihalophilus
+Halalkalicoccus tibetensis (Type species)
+"Halanaeroarchaeum" ["Haa".]
+"Halanaeroarchaeum sulfurireducens" (Type species) (IJSEM, in press)
+Halapricum [Hpr.]
+Halapricum salinum (Type species)
+Halarchaeum [Hla.]
+Halarchaeum acidiphilum (Type species)
+Halarchaeum grantii
+Halarchaeum nitratireducens
+Halarchaeum rubridurum
+Halarchaeum salinum
+Halarchaeum solikamskense
+Haloarchaeobius [Hab.]
+Haloarchaeobius amylolyticus
+Haloarchaeobius baliensis
+Haloarchaeobius iranensis (Type species)
+Haloarchaeobius litoreus
+Haloarchaeobius salinus
+Haloarcula [Har.]
+Haloarcula amylolytica
+Haloarcula argentinensis
+Haloarcula hispanica
+Haloarcula japonica
+Haloarcula marismortui
+Haloarcula quadrata
+Haloarcula salaria
+Haloarcula tradensis
+Haloarcula vallismortis (Type species)
+Halobacterium [Hbt.] (Type genus)
+Halobacterium jilantaiense
+Halobacterium noricense
+"Halobacterium piscisalsi" (subjective junior synonym of Halobacterium salinarum)
+Halobacterium ruburm
+Halobacterium salinarum (Type species)
+Halobaculum [Hbl.]
+Halobaculum gomorrense (Type species)
+Halobaculum magnesiiphilum
+Halobellus [Hbs.]
+Halobellus clavatus (Type species)
+Halobellus inordinatus
+Halobellus limi
+Halobellus litoreus
+Halobellus ramosii
+Halobellus rarus
+Halobellus rufus
+Halobellus salinus
+Halobiforma [Hbf.]
+Halobiforma haloterrestris (Type species)
+Halobiforma lacisalsi 
+Halobiforma nitratireducens
+Halocalculus [Hcl.]
+Halocalculus aciditolerans (Type species)
+Halococcus [Hcc.]
+Halococcus agarilyticus
+Halococcus dombrowskii
+Halococcus hamelinensis
+Halococcus morrhuae (Type species)
+Halococcus qingdaonensis
+Halococcus saccharolyticus
+Halococcus salifodinae
+Halococcus sediminicola
+Halococcus thailandensis
+Haloferax [Hfx.]
+Haloferax alexandrinus
+Haloferax chudinovii
+Haloferax denitrificans
+Haloferax elongans
+Haloferax gibbonsii
+Haloferax larsenii
+Haloferax lucentense
+Haloferax mediterranei
+Haloferax mucosum
+Haloferax namakaokahaiae
+Haloferax prahovense
+Haloferax sulfurifontis
+Haloferax volcanii (Type species)
+Halogeometricum [Hgm.]
+Halogeometricum borinquense (Type species)
+Halogeometricum limi
+Halogeometricum pallidum
+Halogeometricum rufum
+Halogranum [Hgn.]
+Halogranum amylolyticum
+Halogranum gelatinilyticum
+Halogranum rubrum (Type species)
+Halogranum salarium
+Halohasta [Hht.]
+Halohasta litorea (Type species)
+Halohasta litchfieldiae
+Halolamina [Hlm.]
+Halolamina pelagica (Type species)
+Halolamina rubra
+Halolamina salifodinae
+Halolamina salina
+Halolamina sediminis
+Halomarina [Hmr.]
+Halomarina oriensis (Type species)
+Halomicroarcula [Hma.]
+Halomicroarcula limicola
+Halomicroarcula pellucida (Type species)
+Halomicroarcula salina
+Halomicrobium [Hmc.]
+Halomicrobium katesii
+Halomicrobium mukohataei (Type species)
+Halomicrobium zhouii
+Halonotius [Hns.]
+Halonotius pteroides (Type species)
+"Haloparvum" ["Hpv".]
+"Haloparvum sedimenti" (Type species) (IJSEM, in press)
+Halopelagius [Hpl.]
+Halopelagius inordinatus (Type species)
+Halopelagius fulvigenes
+Halopelagius longus
+Halopenitus [Hpt.]
+Halopenitus malekzadehii
+Halopenitus persicus (Type species)
+Halopenitus salinus
+Halopiger [Hpg.]
+Halopiger aswanensis
+Halopiger salifodinae
+Halopiger xanaduensis (Type species)
+Haloplanus [Hpn.]
+Haloplanus aerogenes
+Haloplanus litoreus
+Haloplanus natans (Type species)
+Haloplanus ruber
+Haloplanus salinus
+Haloplanus vescus
+Haloquadratum [Hqr.]
+Haloquadratum walsbyi (Type species)
+Halorhabdus [Hrd.]
+Halorhabdus tiamatea
+Halorhabdus utahensis (Type species)
+"Halorhabdus rudnickae" (Syst Appl Microbiol., in press)
+Halorientalis [Hos.]
+Halorientalis brevis
+Halorientalis persicus
+Halorientalis regularis (Type species)
+Halorubellus [Hrb.]
+Halorubellus litoreus
+Halorubellus salinus (Type species)
+Halorubrum [Hrr.]
+Halorubrum aquaticum
+Halorubrum aidingense
+Halorubrum alkaliphilum
+Halorubrum arcis
+Halorubrum californiense
+Halorubrum chaoviator
+Halorubrum cibi
+Halorubrum coriense
+Halorubrum distributum
+Halorubrum ejinorense
+Halorubrum ezzemoulense
+Halorubrum gandharaense
+Halorubrum halodurans
+Halorubrum halophilum
+Halorubrum kocurii
+Halorubrum lacusprofundi
+Halorubrum laminariae
+Halorubrum lipolyticum
+Halorubrum litoreum
+Halorubrum luteum
+Halorubrum orientale
+Halorubrum persicum
+Halorubrum rubrum
+"Halorubrum rutilum" (Arch Microbiol.,2015, 197(10):1159-1164)
+Halorubrum saccharovorum (Type species)
+Halorubrum salinum
+Halorubrum sodomense
+Halorubrum tebenquichense
+Halorubrum terrestre
+Halorubrum tibetense
+Halorubrum trapanicum
+Halorubrum vacuolatum
+Halorubrum yunnanense
+Halorubrum xinjiangense
+Halorussus [Hrs.]
+Halorussus amylolyticus
+Halorussus rarus
+Halorussus ruber
+"Halosiccatus" ["Hsc".]
+"Halosiccatus urmianus" (Type species) (IJSEM, in press)
+Halosimplex [Hsx.]
+Halosimplex carlsbadense (Type species)
+Halosimplex litoreum
+Halosimplex pelagicum
+Halosimplex rubrum
+Halostagnicola [Hst.]
+Halostagnicola alkaliphila
+Halostagnicola bangensis
+Halostagnicola kamekurae
+Halostagnicola larsenii (Type species)
+"Halostella" ["Hsl".]
+"Halostella salina" (Type species) (IJSEM, in press)
+Haloterrigena [Htg.]
+Haloterrigena daqingensis
+Haloterrigena hispanica
+Haloterrigena jeotgali
+Haloterrigena limicola
+Haloterrigena longa
+Haloterrigena saccharevitans
+Haloterrigena salina
+Haloterrigena thermotolerans
+Haloterrigena turkmenica (Type species)
+Halovarius [Hvr.]
+Halovarius luteus (Type species)
+Halovenus [Hvn.]
+Halovenus aranensis (Type species)
+Halovenus rubra
+Halovenus salina
+Halovivax [Hvx.]
+Halovivax asiaticus (Type species)
+Halovivax cerinus
+Halovivax limisalsi
+Halovivax ruber
+Natrialba [Nab.]
+Natrialba aegyptia
+Natrialba asiatica (Type species)
+Natrialba chahannaoensis
+Natrialba hulunbeirensis
+Natrialba magadii
+Natrialba taiwanensis
+Natribaculum [Nbl.]
+Natribaculum breve (Type species)
+Natribaculum longum
+Natrinema [Nnm.]
+Natrinema altunense
+Natrinema ejinorense
+Natrinema gari
+Natrinema pallidum
+Natrinema pellirubrum (Type species)
+Natrinema salaciae
+Natrinema versiforme
+Natronoarchaeum [Nac.]
+Natronoarchaeum mannanilyticum (Type species)
+Natronoarchaeum philippinense
+Natronoarchaeum rubrum
+Natronobacterium [Nbt.]
+Natronobacterium gregoryi (Type species)
+Natronobacterium texcoconense
+Natronococcus [Ncc.]
+Natronococcus amylolyticus
+Natronococcus jeotgali
+Natronococcus occultus (Type species)
+Natronococcus roseus
+Natronolimnobius [Nln.]
+Natronolimnobius baerhuensis (Type species)
+Natronolimnobius innermongolicus
+Natronomonas [Nmn.]
+Natronomonas gomsonensis
+Natronomonas moolapensis
+Natronomonas pharaonis (Type species)
+Natronorubrum [Nrr.]
+Natronorubrum aibiense
+Natronorubrum bangense (Type species)
+Natronorubrum sediminis
+Natronorubrum sulfidifaciens
+Natronorubrum texcoconense
+Natronorubrum tibetense
+Salarchaeum [Sar.]
+Salarchaeum japonicum (Type species)
+Salinarchaeum [Saa.]
+Salinarchaeum laminariae (Type species)
+Salinigranum [Sgn.]
+Salinigranum rubrum (Type species)
+Salinirubrum [Srr.]
+Salinirubrum litoreum (Type species)non-valid
+
+"Halorubrum sfaxense"
+"Candidatus Halobonum tyrrellensis。
+"Candidatus Haloectosymbiotes riaformosensis"。
+"Halopiger djelfamassiliensis sp"。
+"Halopiger goleamassiliensis"。
+"Halorubrum tropicale"。
+"Haloarcula rubripromontorii"。
+"Halobacterium hubeiense"。Classification of Gupta et al.Halobacteriales
+
+Halobacteriaceae (Type genera: Halobacterium)　　Haladaptatus, Halalkalicoccus, Haloarchaeobius, Halarchaeum, Halobacterium, Halocalculus, Halorubellus, Halorussus, "Halosiccatus", Halovenus, Natronoarchaeum, Natronomonas, Salarchaeum.
+
+Haloarculaceae (Type genera: Haloarcula)　　Halapricum, Haloarcula, Halomicroarcula, Halomicrobium, Halorientalis, Halorhabdus, Halosimplex.
+
+Halococcaceae (Type genera: Halococcus)　　Halococcus.
+Haloferacales
+
+Haloferacaceae (Type genera: Haloferax)　　Halabellus, Haloferax, Halogeometricum, (Halogranum), Halopelagius, Haloplanus, Haloquadratum, Halosarcina.
+
+Halorubraceae (Type genera: Halorubrum)　　Halobaculum, (Halogranum), Halohasta, Halolamina, Halonotius, Halopenitus, Halorubrum, Salinigranum.
+Natrialbales
+
+Natrialbaceae (Type genera: Natrialba)　　Halobiforma, Halopiger, Halostagnicola, Haloterrigena, Halovarius, Halovivax, Natrialba, Natribaculum, Natronobacterium, Natronococcus, Natronolimnobius, Natronorubrum, Salinarchaeum.
+
+
+== Living environment ==
+
+Haloarchaea require salt concentrations in excess of 2 M (or about 10%) to grow, and optimal growth usually occurs at much higher concentrations, typically 20–25%. However, Haloarchaea can grow up to saturation (about 37% salts).Haloarchaea are found mainly in hypersaline lakes and solar salterns. Their high densities in the water often lead to pink or red colourations of the water (the cells possessing high levels of carotenoid pigments, presumably for UV protection).
+
+
+== Adaptations to environment ==
+Haloarchaea can grow at an aw close to 0.75, yet a water activity (aw) lower than 0.90 is inhibitory to most microbes. The number of solutes causes osmotic stress on microbes, which can cause cell lysis, unfolding of proteins and inactivation of enzymes when there is a large enough imbalance. Haloarchaea combat this by retaining compatible solutes such as potassium chloride (KCl) in their intracellular space to allow them to balance osmotic pressure. Retaining these salts is referred to as the “salt-in” method where the cell accumulates a high internal concentration of potassium. Because of the elevated potassium levels, haloarchaea have specialized proteins that have a highly negative surface charge to tolerate high potassium concentrations.Haloarchaea have adapted to use glycerol as a carbon and energy source in catabolic processes, which is often present in high salt environments due to Dunaliella species that produce glycerol in large quantities.
+
+
+== Phototrophy ==
+Bacteriorhodopsin is used to absorb light, which provides energy to transport protons (H+) across the cellular membrane. The concentration gradient generated from this process can then be used to synthesize ATP. Many haloarchaea also possess related pigments, including halorhodopsin, which pumps chloride ions in the cell in response to photons, creating a voltage gradient and assisting in the production of energy from light. The process is unrelated to other forms of photosynthesis involving electron transport, however, and haloarchaea are incapable of fixing carbon from carbon dioxide.
+
+
+== Cellular shapes ==
+Haloarchaea are often considered pleomorphic, or able to take on a range of shapes—even within a single species. This makes identification by microscopic means difficult, and it is now more common to use gene sequencing techniques for identification instead.
+One of the more unusually shaped Haloarchaea is the "Square Haloarchaeon of Walsby". It was classified in 2004 using a very low nutrition solution to allow growth along with a high salt concentration, square in shape and extremely thin (like a postage stamp). This shape is probably only permitted by the high osmolarity of the water, permitting cell shapes that would be difficult, if not impossible, under other conditions.
+
+
+== As exophiles ==
+Haloarchaea have been proposed as a kind of life that could live on Mars; since the Martian atmosphere has a pressure below the triple point of water, freshwater species would have no habitat on the Martian surface.
+
+
+== See also ==
+Life on Mars
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== Scientific journals ===
+Soppa J (March 2006). "From genomes to function: haloarchaea as model organisms". Microbiology. 152 (Pt 3): 585–90. doi:10.1099/mic.0.28504-0. PMID 16514139.
+Cavalier-Smith, T (2002). "The neomuran origin of archaebacteria, the negibacterial root of the universal tree and bacterial megaclassification". Int. J. Syst. Evol. Microbiol. 52 (Pt 1): 7–76. doi:10.1099/00207713-52-1-7. PMID 11837318.
+Woese, CR; Kandler O; Wheelis ML (1990). "Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya". Proc. Natl. Acad. Sci. USA. 87 (12): 4576–4579. Bibcode:1990PNAS...87.4576W. doi:10.1073/pnas.87.12.4576. PMC 54159. PMID 2112744.
+Cavalier-Smith, T (1986). "The kingdoms of organisms". Nature. 324 (6096): 416–417. Bibcode:1986Natur.324..416C. doi:10.1038/324416a0. PMID 2431320.
+
+
+=== Scientific books ===
+Grant WD, Kamekura M, McGenity TJ, Ventosa A (2001). "Class III. Halobacteria class. nov.".  In DR Boone, RW Castenholz. Bergey's Manual of Systematic Bacteriology Volume 1: The Archaea and the deeply branching and phototrophic Bacteria (2nd ed.). New York: Springer Verlag. p. 169. ISBN 978-0-387-98771-2.
+Garrity GM, Holt JG (2001). "Phylum AII. Euryarchaeota phy. nov.".  In DR Boone, RW Castenholz. Bergey's Manual of Systematic Bacteriology Volume 1: The Archaea and the deeply branching and phototrophic Bacteria (2nd ed.). New York: Springer Verlag. p. 169. ISBN 978-0-387-98771-2.
+
+
+=== Scientific databases ===
+PubMed references for Halobacteria
+PubMed Central references for Halobacteria
+Google Scholar references for Halobacteria
+
+
+== External links ==
+NCBI taxonomy page for Halobacteria
+Search Tree of Life taxonomy pages for Halobacteria
+Search Species2000 page for Halobacteria
+MicrobeWiki page for Halobacteria
+LPSN page for Halobacteria
+An educational website on haloarchaea
+HaloArchaea.com
+Mike Dyall-Smith's Homepage

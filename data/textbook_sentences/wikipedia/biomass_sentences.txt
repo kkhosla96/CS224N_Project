@@ -1,0 +1,63 @@
+Biomass in the sense discussed here is plant or animal material not used for food or feed; it can be purposely grown energy crops (e.g. miscanthus, switchgrass), wood or forest residues, waste from food crops (wheat straw, bagasse), horticulture (yard waste), food processing (corn cobs), animal farming (manure, rich in nitrogen and phosphorus), or human waste from sewage plants.  Biomass is used for energy production, heat production, or in various industrial processes as raw material for a range of products.Burning plant-derived biomass releases CO2, but it has still been classified as a renewable energy source in the EU and UN legal frameworks because photosynthesis cycles the CO2 back into new crops. In some cases, this recycling of CO2 from plants to atmosphere and back into plants can even be CO2 negative, as a relatively large portion of the CO2 is moved to the soil during each cycle.
+Cofiring with biomass has increased in coal power plants, because it makes it possible to release less CO2 without the cost assosicated with building new infrastructure. Co-firing is not without issues however, often an upgrade of the biomass is beneficiary. Upgrading to higher grade fuels can be achieved by different methods, broadly classified as thermal, chemical, or biochemical (see below).
+
+
+== Biomass feedstocks ==
+
+Historically, humans have harnessed biomass-derived energy since the time when people began burning wood to make fire. Even in 2019, biomass is the only source of fuel for domestic use in many developing countries. All biomass is biologically-produced matter based in carbon, hydrogen and oxygen. The estimated biomass production in the world is approximately 100 billion metric tons of carbon per year, about half in the ocean and half on land.Wood and residues from wood, for instance spruce, birch, eacalyptus, willow, oil palm, remains the largest biomass energy source today. It is used directly as a fuel or processed into pellet fuel or other forms of fuels. Biomass also includes plant or animal matter that can be converted into fuel, fibers or industrial chemicals. There are numerous types of plants, including corn, switchgrass, miscanthus, hemp, sorghum, sugarcane, and bamboo. The main waste energy feedstocks are wood waste, agricultural waste, municipal solid waste, manufacturing waste, and landfill gas. Sewage sludge is another source of biomass. There is ongoing research involving algae or algae-derived biomass. Other biomass feedstocks are enzymes or bacteria from various sources, grown in cell cultures or hydroponics.Based on the source of biomass, biofuels are classified broadly into two major categories:
+First-generation biofuels are derived from food sources, such as sugarcane and corn starch. Sugars present in this biomass are fermented to produce bioethanol, an alcohol fuel which serve as an additive to gasoline, or in a fuel cell to produce electricity.Second-generation biofuels utilize non-food-based biomass sources such as perennial energy crops (low input crops), and agricultural/municipal waste. There is huge potential for second generation biofuels but the resources are currently under-utilized.
+
+
+== Biomass conversion ==
+
+
+=== Thermal conversions ===
+
+Thermal conversion processes use heat as the dominant mechanism to upgrade biomass into a better and more practical fuel. The basic alternatives are torrefaction, pyrolysis, and gasification, these are separated principally by the extent to which the chemical reactions involved are allowed to proceed (mainly controlled by the availability of oxygen and conversion temperature).There are other less common, more experimental or proprietary thermal processes that may offer benefits, such as hydrothermal upgrading. Some have been developed for use on high moisture content biomass, including aqueous slurries, and allow them to be converted into more convenient forms.
+
+
+=== Chemical conversion ===
+A range of chemical processes may be used to convert biomass into other forms, such as to produce a fuel that is more practical to store, transport and use, or to exploit some property of the process itself. Many of these processes are based in large part on similar coal-based processes, such as the Fischer-Tropsch synthesis.
+Biomass can be converted into multiple commodity chemicals.
+
+
+=== Biochemical conversion ===
+As biomass is a natural material, many highly efficient biochemical processes have developed in nature to break down the molecules of which biomass is composed, and many of these biochemical conversion processes can be harnessed. In most cases, microorganisms are used to perform the conversion process: anaerobic digestion, fermentation, and composting.Glycoside hydrolases are the enzymes involved in the degradation of the major fraction of biomass, such as polysaccharides present in starch and lignocellulose. Thermostable variants are gaining increasing roles as catalysts in biorefining applications, since recalcitrant biomass often needs thermal treatment for more efficient degradation.
+
+
+=== Electrochemical conversion ===
+Biomass can be directly converted to electrical energy via electrochemical (electrocatalytic) oxidation of the material. This can be performed directly in a direct carbon fuel cell, direct liquid fuel cells such as direct ethanol fuel cell, a direct methanol fuel cell, a direct formic acid fuel cell, a L-ascorbic Acid Fuel Cell (vitamin C fuel cell), and a microbial fuel cell. The fuel can also be consumed indirectly via a fuel cell system containing a reformer which converts the biomass into a mixture of CO and H2 before it is consumed in the fuel cell.
+
+
+== Environmental impact ==
+On combustion, the carbon from biomass is released into the atmosphere as carbon dioxide (CO2). After a few months, or years, or decades, the CO2 has been absorbed back by growing plants or trees. However, the carbon storage capacity of forests may be reduced overall if destructive forestry techniques are employed.All biomass crops sequester carbon. For example, soil organic carbon has been observed to be greater below switchgrass crops than under cultivated cropland, especially at depths below 30 cm (12 in). For Miscanthus x giganteus, McCalmont et al. found accumulation rates ranging from 0.42 to 3.8 tonnes per hectare per year, 
+ 
+with a mean accumulation rate of 1.84 tonne (0.74 tonnes per acre per year),
+ 
+or 20% of total harvested carbon per year. 
+ The grass sequesters carbon in its continually increasing root biomass, toghether with carbon input from fallen leaves. Typically, perennial crops sequester significantly more carbon than annual crops due to greater non-harvested living biomass (roots and residues), both living and dead, built up over years, and less soil disruption in cultivation.
+
+The simple proposal that biomass is carbon-neutral put forward in the early 1990s has been superseded by the more nuanced proposal that for a particular bioenergy project to be carbon neutral, the total carbon sequestered by a bioenergy crop's root system must compensate for all the emissions from the related, aboveground bioenergy project. This includes any emissions caused by direct or indirect land use change. Many first generation bioenergy projects are not carbon neutral given these demands. Some have even higher total GHG emissions than some fossil based alternatives.  
+Transport fuels might be worse than solid fuels in this regard.
+Some are carbon neutral or even negative, though, especially perennial crops. The amount of carbon sequestrated and the amount of GHG (greenhouse gases) emitted will determine if the total GHG life cycle cost of a bio-energy project is positive, neutral or negative. Whitaker et al. estimates that for Miscanthus x giganteus, GHG neutrality and even negativity is within reach. A carbon negative life cycle is possible if the total below-ground carbon accumulation more than compensates for the above-ground total life-cycle GHG emissions. 
+The graphic on the right displays two CO2 negative Miscanthus x giganteus production pathways, represented in gram CO2-equivalents per megajoule. The yellow diamonds represent mean values.
+
+Successful sequestration is dependent on planting sites, as the best soils for sequestration are those that are currently low in carbon. The varied results displayed in the graph highlights this fact. 
+ 
+For the UK, successful sequestration is expected for arable land over most of England and Wales, with unsucessful sequestration expected in parts of Scotland, due to already carbon rich soils (existing woodland) plus lower yields. Soils already rich in carbon includes peatland and mature forest. Grassland can also be carbon rich, however Milner et al. argues that the most successful carbon sequestration in the UK takes place below improved grasslands. 
+ 
+The bottom graphic displays the estimated yield necessary to compensate for the disturbance caused by planting plus lifecycle GHG-emissions for the related above-ground operation.
+Forest-based biomass projects has received criticism for ineffective GHG mitigation from a number of environmental organizations, including Greenpeace and the Natural Resources Defense Council. Environmental groups also argue that it might take decades for the carbon released by burning biomass to be recaptured by new trees. Biomass burning produces air pollution in the form of carbon monoxide, volatile organic compounds, particulates and other pollutants. In 2009 a Swedish study of the giant brown haze that periodically covers large areas in South Asia determined that two thirds of it had been principally produced by residential cooking and agricultural burning, and one third by fossil-fuel burning. Use of wood biomass as an industrial fuel produce fewer particulates and other pollutants than the burning seen in wildfires or open field fires.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Biomass interactive by PBL Netherlands Environmental Assessment Agency
+Forest, Nature and Biomass
+GA Mansoori, N Enayati, LB Agyarko (2016), Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State, World Sci. Pub. Co., ISBN 978-981-4704-00-7
+Solid biomass EurObserv'ER barometer – 2012 PDF

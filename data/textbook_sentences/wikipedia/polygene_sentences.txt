@@ -1,0 +1,38 @@
+A "polygene” or "multiple gene inheritance" is a member of a group of non-epistatic genes that interact additively to influence a phenotypic trait. The term "monozygous" is usually used to refer to a hypothetical gene as it is often difficult to characterise the effect of an individual gene from the effects of other genes and the environment on a particular phenotype. Advances in statistical methodology and high throughput sequencing are, however, allowing researchers to locate candidate genes for the trait. In the case that such a gene is identified, it is referred to as a quantitative trait locus (QTL). These genes are generally pleiotropic as well. The genes that contribute to type 2 diabetes are thought to be mostly polygenes. In July 2016, scientists reported identifying a set of 355 genes from the last universal common ancestor (LUCA) of all organisms living on Earth.Traits with polygenic determinism correspond to the classical quantitative characters, as opposed to the qualitative characters with monogenic or oligogenic determinism. In essence instead of two options, such as freckles or no freckles, there are many variations. Like the color of skin, hair, or even eyes.
+
+
+== Overview ==
+
+Polygenic locus  is any individual locus which is included in the system of genes responsible for the genetic component of variation in a quantitative (polygenic) character. Allelic substitutions contribute to the variance in a specified quantitative character. Polygenic locus may be either a single or complex genetic locus in the conventional sense, i.e., either a single gene or closely linked block of functionally related genes.In modern sense, the inheritance mode of polygenic patterns is called polygenic inheritance, whose  main properties may be summarized as follows:
+
+Most metric and meristic traits are controlled by a number of genetic loci.
+Main mode of nonallelic genes interaction in corresponding gene series is addition of mainly small particular allele contributions.
+The effects of allelic substitution at each of the segregating genes are usually relatively small and interchangeable which results that identical phenotype may be displayed by a great variety of genotypes.
+The phenotypic expression of the polygenic characters is undergoing considerable modification by environmental influence.
+Polygenic characters show a continuous rather than discontinuous distribution.
+Balanced systems of polygenic inheritance in a population contain a great deal of potential genetic variability in the heterozygous condition and released by small increments through genetic recombination between linked polygenes.
+
+
+== Inheritance ==
+Polygenic inheritance occurs when one characteristic is controlled by two or more genes.  Often the genes are large in quantity but small in effect. Examples of human polygenic inheritance are height, skin color, eye color and weight. Polygenes exist in other organisms, as well.  Drosophila, for instance, display polygeny with traits such as wing morphology, bristle count (20170808 dead link) and many others.
+
+
+== Trait distribution ==
+The frequency of the phenotypes of these traits generally follows a normal continuous variation distribution pattern. This results from the many possible allelic combinations. When the values are plotted, a bell-shaped curve is obtained. The mode of the distribution represents the optimal, or fittest, phenotype. The more genes are involved, the smoother the estimated curve. However, in this model all genes must code for alleles with additive effects. This assumption is often unrealistic as many genes display epistasis effects which can have unpredictable effects on the distribution of outcomes, especially when looking at the distribution on a fine scale.
+
+
+== Mapping polygenes ==
+
+Traditionally, mapping polygenes requires statistical tools available to help measure the effects of polygenes as well as narrow in on single genes.  One of these tools is QTL-mapping.  QTL-mapping utilizes a phenomenon known as linkage disequilibrium by comparing known marker genes with correlated phenotypes. Often, researchers will find a large region of DNA, called a locus, that accounts for a significant amount of the variation observed in the measured trait. This locus will usually contain a large number of genes that are responsible. A new form of QTL has been described as expression QTL (eQTL). eQTLs regulate the amount of expressed mRNA, which in turn regulates the amount of protein within the organism.Another interest of statistical geneticists using QTL mapping is to determine the complexity of the genetic architecture underlying a phenotypic trait.  For example, they may be interested in knowing whether a phenotype is shaped by many independent loci, or by a few loci, and do those loci interact.  This can provide information on how the phenotype may be evolving.
+
+
+== See also ==
+Polygenic inheritance
+Quantitative trait locus
+
+
+== References ==
+
+
+== External links ==
+(de)Polygenie

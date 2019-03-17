@@ -1,0 +1,49 @@
+Clonal selection theory is a scientific theory in immunology that explains the functions of cells (lymphocytes) of the immune system in response to specific antigens invading the body. The concept was introduced by the Australian doctor Frank Macfarlane Burnet in 1957, in an attempt to explain the formation of a diversity of antibodies during initiation of the immune response. The theory has become the widely accepted model for how the immune system responds to infection and how certain types of B and T lymphocytes are selected for destruction of specific antigens.The theory states that in a pre-existing group of lymphocytes (specifically B cells), a specific antigen only activates (i.e. selects) its counter-specific cell so that particular cell is induced to multiply (producing its clones) for antibody production. This activation occurs in secondary lymphoid organs such as the spleen and the lymph nodes. In short the theory is an explanation of the mechanism for the generation of diversity of antibody specificity. The first experimental evidence came in 1958, when Gustav Nossal and Joshua Lederberg showed that one B cell always produces only one antibody. The idea turned out to be the foundation of molecular immunology, especially in adaptive immunity.
+
+
+== Postulates ==
+The clonal selection theory can be summarised with the following four tenets:
+
+Each lymphocyte bears a single type of receptor with a unique specificity (by V(D)J recombination).
+Receptor occupation is required for cell activation.
+The differentiated effector cells derived from an activated lymphocyte will bear receptors of identical specificity as the parental cell.
+Those lymphocytes bearing receptors for self molecules will be destroyed at an early stage.
+
+
+== Early work ==
+In 1900, Paul Ehrlich proposed the so-called side chain theory of antibody production. According to it, certain cells exhibit on their surface different "side chains" (i.e. membrane-bound antibodies) able to react with different antigens. When an antigen comes, it binds to a matching side chain. Then the cell stops producing all other side chains and starts intensive synthesis and secretion of the antigen-binding side chain as a soluble antibody. This was a selection (though not clonal selection) theory far more accurate than the instructive theories that dominated immunology in the next decades.
+In 1955, Danish immunologist Niels Jerne put forward a hypothesis that there is already a vast array of soluble antibodies in the serum prior to any infection. The entrance of an antigen into the body results in the selection of only one type of antibody to match it. This may happen by certain cells phagocytosing the immune complexes and somehow replicating the antibody structure to produce more of it.
+
+
+== Further work ==
+In 1957, David W. Talmage hypothesized that antigens bind to antibodies on the surface of antibody-producing cells and "only those cells are selected for multiplication whose synthesized product has affinity for the antigen". The key difference from Ehrlich's theory was that every cell was presumed to synthesize only one sort of antibody. After antigen binding the cell proliferates, forming a clone producing the same antibody.
+
+
+=== Burnet's clonal selection theory ===
+Later in the same year, Australian immunologist Frank Macfarlane Burnet published a paper titled ‘A modification of Jerne's theory of antibody production using the concept of clonal selection’ in a rather obscure Australian Journal of Science. In it Burnet expanded the ideas of Talmage and named it "clonal selection theory." He further formalised the theory in his 1959 book The Clonal Selection Theory of Acquired Immunity. He explained immunological memory as the cloning of two types of lymphocyte. One clone acts immediately to combat infection whilst the other is longer lasting, remaining in the immune system for a long time, which results in immunity to that antigen. According to Burnet's hypothesis among antibodies are molecules that can correspond probably with varying degrees of precision to all, or virtually all, the antigenic determinants that occur in biological material other than that characteristic of the body itself. Each type of pattern is a specific product of a clone of lymphocytes and it is the essence of the hypothesis that each cell automatically has available on its surface representative reactive sites equivalent to those of the globulin they produce. When an antigen enters the blood or tissue fluids it is assumed that it will attach to the surface of any lymphocyte carrying reactive sites which correspond to one of its antigenic determinants. Then the cell is activated and undergoes proliferation to produce a variety of descendants. In this way, preferential proliferation will be initiated of all those clones whose reactive sites correspond to the antigenic determinants on the antigen used. The descendants will be capable of active liberation of soluble antibody and lymphocytes which can fulfil the same functions as the parental forms.In 1958, Gustav Nossal and Joshua Lederberg showed that one B cell always produces only one antibody, which was the first evidence for clonal selection theory.
+
+
+== Theories supported by clonal selection ==
+Burnet and Peter Medawar worked together on understanding immunological tolerance, a phenomenon also explained by clonal selection. This is the organism’s ability to tolerate the introduction of cells without an immune response as long as this occurs early in the organism’s development. There are a vast number of lymphocytes occurring in the immune system ranging from cells which are tolerant of self tissue to cells which are not tolerant of self tissue. However, only cells that are tolerant to self tissue will survive the embryonic stage. If non-self tissue is introduced, the lymphocytes which develop will be the ones which included the non-self tissues as self tissue.
+In 1959 Burnet proposed that under certain circumstances, tissues could be successfully transplanted into foreign recipients. This work has led to a much greater understanding of the immune system and also great advances in tissues transplantation. Burnet and Medawar shared the Nobel Prize in Physiology or Medicine in 1960.
+In 1974 Niels Kaj Jerne proposed that the immune system functions as a network, that is regulated via interactions between the variable parts of lymphocytes and their secreted molecules. Immune network theory is firmly based on the concept of clonal selection. Jerne won the  Nobel Prize in Physiology or Medicine in 1984, largely for his contributions to immune network theory.
+
+
+== See also ==
+Adaptive immune system
+Clonal selection algorithm
+Immune system
+Universal Darwinism
+
+
+== References ==
+
+
+== Further reading ==
+Podolsky, Alfred I. Tauber; Scott H. (1997). The Generation of Diversity : Clonal Selection Theory and the Rise of Molecular Immunology (1st paperback ed.). Cambridge, Massachusetts: Harvard Univ. Press. ISBN 0-674-00182-6.
+"Biology in Context - The Spectrum of Life" Authors, Peter Aubusson, Eileen Kennedy.
+Forsdyke D.R. (1995). "The Origins of the Clonal Selection Theory of Immunity". FASEB Journal. 9: 164–66.
+
+
+== External links ==
+Animation of clonal selection from the Walter & Elisa Hall institute.
