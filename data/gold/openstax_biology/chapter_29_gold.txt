@@ -1,99 +1,99 @@
-Acanthostega
-Actinopterygii
-allantois
-amnion
-amniote
-Amphibia
-ampulla of Lorenzini
-anapsid
-anthropoid
-Anura
-apocrine gland
-Apoda
-Archaeopteryx
-archosaur
-Australopithecus
-brachiation
-brumation
-caecilian
-Casineria
-Catarrhini
-Cephalochordata
-Chondrichthyes
-Chordata
-chorion
-contour feather
-Craniata
-cranium
-Crocodilia
-cutaneous respiration
-denture
-diapsid
-diphyodont
-dorsal hollow nerve cord
-down feather
-eccrine gland
-Enantiornithes
-eutherian mammal
-flight feather
-frog
-furcula
-gnathostome
-Gorilla
-hagfish
-heterodont tooth
-hominin
-hominoid
-Homo
-Homo sapiens sapiens
-Hylobatidae
-Hylonomus
-lamprey
-lancelet
-lateral line
-lepidosaur
-mammal
-mammary gland
-marsupial
-monotreme
-Myxini
-Neognathae
-Neornithes
-notochord
-Ornithorhynchidae
-Osteichthyes
-ostracoderm
 Paleognathae
-Pan
-Petromyzontidae
-pharyngeal slit
-Platyrrhini
-Plesiadapis
-pneumatic bone
-Pongo
-post-anal tail
-primary feather
-Primates
-prognathic jaw
-prosimian
-salamander
-Sarcopterygii
-sauropsid
-sebaceous gland
-secondary feather
-Sphenodontia
-Squamata
-stereoscopic vision
-swim bladder
-synapsid
+lateral line
+monotreme
 Tachyglossidae
-tadpole
-temporal fenestra
-Testudines
-tetrapod
-theropod
-tunicate
-Urochordata
-Urodela
-vertebral column
+eccrine glands
+archosaur
+Gorilla
+Myxini
+swim bladder
+Hylonomus
+diphyodonts
+Hylobatidae
+temporal fenestrae
+cutaneous respiration
+salamanders
+Platyrrhini
+Pan
+apocrine glands
+Enantiornithes
+Neognathae
+hagfish
+primary feathers
+furcula
+flight feathers
+Catarrhini
+marsupials
+Homo sapiens sapiens
+dorsal hollow nerve cord
+lancelet
+Chordata
+mammary glands
+anapsids
+Squamata
+mammal
 Vertebrata
+Urodela
+sauropsids
+ostracoderms
+vertebral column
+pneumatic bones
+amniotes
+tadpole
+prosimian
+stereoscopic vision
+Osteichthyes
+Plesiadapis
+hominin
+amnion
+Cephalochordata
+caecilians
+tunicate
+secondary feathers
+Acanthostega
+synapsids
+lampreys
+Primates
+Neornithes
+Anura
+post-anal tail
+Amphibia
+lepidosaurs
+pharyngeal slits
+Testudines
+Apoda
+Homo
+tetrapod
+cranium
+ampullae of Lorenzini
+contour feathers
+Australopithecus
+Crocodilia
+theropod
+notochord
+brachiation
+hominoid
+dentary
+Actinopterygii
+sebaceous glands
+Ornithorhynchidae
+Archaeopteryx
+chorion
+eutherian mammals
+prognathic jaws
+anthropoid
+heterodont teeth
+Urochordata
+brumation
+Craniata
+Pongo
+Chondrichthyes
+diapsid
+frog
+gnathostomes
+Sphenodontia
+down feathers
+Sarcopterygii
+Casineria
+Petromyzontidae
+allantois

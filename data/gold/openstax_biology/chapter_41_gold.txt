@@ -1,79 +1,78 @@
-afferent arteriole
-Ammonia
-ammonotelic
-angiotensin converting enzyme
-angiotensin I
-angiotensin II
-anti-diuretic hormone
-antioxidant
-arcuate artery
-ascending limb
-blood urea nitrogen
-Bowman's capsule
-Calyx
-Cortex
-Cortical nephron
-Cortical radiate artery
-Countercurrent exchanger
-Countercurrent multiplier
-Descending limb
-distal convoluted tubule
-efferent arteriole
-electrolyte
-Flame cell
-glomerular filtration
-glomerular filtration rate
-glomerulus
-Renal
-glomerulus
-Hilum
-Inferior vena cava
-interlobar artery
-juxtaglomerular cell
-juxtamedullary nephron
-kidney
-lobes of the kidney
-loop of Henle
-macula densa
-Malpighian tubule
-medulla
-Microvilli
-Molality
-Molarity
-Mole
-Nephridia
-nephridiopore
-Nephron
-Non-electrolyte
-osmoconformer
-osmoregulation
-osmoregulator
-osmotic balance
-osmotic pressure
-perirenal fat capsule
-peritubular capillary network
-proximal convoluted tubule
-renal artery
-renal capsule
-renal column
+osmoconformers
 renal corpuscle
-renal fascia
-renal pelvis
-renal pyramid
-renal tubule
-renal vein
-renin-angiotensin-aldosterone
-segmental artery
-semi-permeable membrane
-transport maximum
-tubular reabsorption
-tubular secretion
-urea cycle
-ureotelic
-ureter
-uric acid
-urinary bladder
-urine
-vasa recta
-vasodilator
+lobes of the kidney
+glomerular filtration
 vasopressin
+perirenal fat capsule
+renal arteries
+osmotic pressure
+urine
+Microvilli
+Malpighian tubules
+renal pelvis
+vasodilator
+angiotensin II
+renal columns
+blood urea nitrogen
+kidney
+macula densa
+calyces
+afferent arteriole
+ascending limb
+electrolyte
+Non-electrolyte
+osmoregulators
+proximal convoluted tubule
+renal fascia
+renal pyramids
+peritubular capillary network
+urea cycle
+segmental artery
+ureter
+renal capsule
+arcuate arteries
+Ammonia
+tubular reabsorption
+angiotensin converting enzyme
+transport maximum
+Hilum
+nephridiopore
+Flame cells
+glomerular filtration rate
+Nephridia
+Countercurrent exchanger
+juxtamedullary nephrons
+Descending limb
+juxtaglomerular cells
+Molality
+Cortical nephrons
+Cortical radiate arteries
+Renal
+tubular secretion
+uric acid
+Countercurrent multiplier
+efferent arteriole
+interlobar arteries
+semi-permeable membrane
+Bowman's capsule
+distal convoluted tubule
+osmoregulation
+Molarity
+Inferior vena cava
+ammonotelic
+Mole
+Cortex
+osmotic balance
+vasa recta
+antioxidant
+glomerulus
+renal tubule
+medulla
+ureotelic
+urinary bladder
+renin-angiotensin-aldosterone
+Nephron
+anti-diuretic hormone
+renal veins
+loop of Henle
+angiotensin I

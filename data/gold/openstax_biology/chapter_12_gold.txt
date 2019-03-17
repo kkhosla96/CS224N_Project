@@ -1,35 +1,35 @@
-allele
-autosomes
-blending theory of inheritance
-codominance
-continuous variation
-dihybrid
-discontinuous variation
-dominant
-dominant lethal
-epistasis
-F1
-F2
-genotype
-hemizygous
-heterozygous
-homozygous
-hybridization
-incomplete dominance
-law of dominance
-law of independent assortment
-law of segregation
-linkage
-model system
-monohybrid
-P0
-phenotype
-product rule
-Punnett square
-recessive recessive lethal
-reciprocal cross
-sex-linked
 sum rule
+dominant
+law of independent assortment
+F1
+hemizygous
+model system
+P0
+continuous variation
+hybridization
+discontinuous variation
+sex-linked
 test cross
+law of segregation
+Punnett square
+epistasis
+dominant lethal
+reciprocal cross
+allele
+product rule
+dihybrid
 trait
+homozygous
+phenotype
 X-linked
+genotype
+autosomes
+codominance
+blending theory of inheritance
+recessive lethal
+monohybrid
+linkage
+incomplete dominance
+F2
+law of dominance
+heterozygous

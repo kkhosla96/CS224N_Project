@@ -1,42 +1,42 @@
-arbuscular mycorrhiza
-Arbuscular mycorrhizae
-ascocarp
-Ascomycota
-basidiocarp
-Basidiomycota
-basidium
-Chytridiomycota
-coenocytic hypha
-commensalism
-Deuteromycota
-ectomycorrhiza
-Ectomycorrhizae
-faculative anaerobes
-Glomeromycota
-haustoria
-heterothallic
-homothallic
-hypha
-karyogamy
-lichen
-mold
-mycelium
-mycetismus
-mycology
-mycorrhiza
-mycorrhizae
-mycosis
-mycotoxicosis
-obligate aerobes
-obligate anaerobes
-parasitism
 plasmogamy
-saprobe
+Ectomycorrhizae
+Glomeromycota
+mycetismus
+commensalism
+saprobes
 septa
+mycology
+obligate aerobes
+Basidiomycota
+Ascomycota
+mycorrhiza
+arbuscular mycorrhiza
+Chytridiomycota
+mycotoxicosis
+coenocytic hyphae
+basidium
+haustoria
+obligate anaerobes
 soredia
-sporangium
-spore
+mycelium
 thallus
 yeast
+Arbuscular mycorrhizae
+ectomycorrhiza
+basidiocarp
 Zygomycota
+hypha
+mycosis
+Deuteromycota
+homothallic
+spore
 zygospore
+mold
+faculative anaerobes
+heterothallic
+sporangium
+parasitism
+karyogamy
+mycorrhizae
+lichen
+ascocarp

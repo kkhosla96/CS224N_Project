@@ -1,69 +1,69 @@
-audition
-basilar membrane
-bipolar neuron
-candela
-circadian
-cochlea
-cone
-cornea
-fovea
-free nerve ending
-glabrous
-glomerulus
-Golgi tendon organ
-gustation
-hyperopia
-incus
-inner ear
-iris
-kinesthesia
-labyrinth
-lens
-malleus
-mechanoreceptor
-Meissner’s corpuscle
-Merkel's disc
-middle ear
-muscle spindle
-myopia
-nociception
-odorant
-olfaction
-olfactory bulb
-olfactory epithelium
-olfactory receptor
-organ of Corti
-ossicle
-outer ear
-oval window
-Pacinian corpuscle
-papilla
-perception
 pheromone
-pinna
-presbyopia
+malleus
 proprioception
-pupil
-reception
 receptive field
 receptor potential
-retina
-rhodopsin
-rod
-Ruffini ending
-semicircular canal
-sensory receptor
-sensory transduction
-stapes
-stereocilia
 superior colliculus
+middle ear
 suprachiasmatic nucleus
-tastant
-taste bud
-tectorial membrane
-tonic activity
-tympanum
-ultrasound
-umami
-vestibular sense
 vision
+glabrous
+hyperopia
+olfaction
+stapes
+rod
+incus
+inner ear
+cone
+sensory transduction
+retina
+labyrinth
+Merkel's disks
+free nerve ending
+myopia
+oval window
+lens
+pupil
+vestibular sensation
+olfactory bulb
+tastant
+ultrasound
+olfactory receptor
+reception
+pinna
+taste bud
+candela
+iris
+mechanoreceptor
+organ of Corti
+outer ear
+Ruffini endings
+tympanum
+fovea
+rhodopsin
+audition
+Golgi tendon organs
+basilar membrane
+nociception
+circadian
+kinesthesia
+Meissner's corpuscles
+bipolar neurons
+muscle spindles
+sensory receptor
+tectorial membrane
+cochlea
+presbyopia
+semicircular canals
+olfactory epithelium
+papilla
+ossicles
+cornea
+stereocilia
+Pacinian corpuscle
+glomerulus
+perception
+tonic activity
+odorant
+gustation
+umami

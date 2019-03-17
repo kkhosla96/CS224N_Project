@@ -1,23 +1,21 @@
+pyruvate
+oxidative phosphorylation
+TCA cycle
+phosphorylation
 acetyl CoA
-aerobic respiration
-anaerobic
-anaerobic cellular respiration
-ATP synthase
-chemiosmosis
-citric acid cycle
+redox reactions
+prosthetic group
 dephosphorylation
-fermentation
 GLUT protein
 glycolysis
-isomerase
-Krebs cycle
-citric acid cycle
-oxidative phosphorylation
-phosphorylation
-prosthetic group
-prosthetic cofactor
-pyruvate
-redox reaction
-substrate-level phosphorylation
-TCA cycle
 ubiquinone
+aerobic respiration
+ATP synthase
+anaerobic cellular respiration
+Krebs cycle
+substrate-level phosphorylation
+anaerobic
+chemiosmosis
+isomerase
+fermentation
+citric acid cycle

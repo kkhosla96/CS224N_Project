@@ -1,45 +1,45 @@
-adventitious
-antheridium
-archegonium
-capsule
-charophyte
+rhizoids
 club mosses
-diplontic
-embryophyte
-extant
-extinct
-fern
+sporophylls
+streptophytes
+sporocytes
+xylem
+microphyll
 gametangium
-gemma
-haplodiplodontic
+lycophytes
 haplontic
-heterosporous
-homosporous
+non-vascular plants
+peristome
+mosses
+embryophytes
+peat moss
+vein
+archegonium
+microspores
+vascular plants
+megaphylls
+antheridium
+protonema
+whisk fern
+megaspores
+sporopollenin
+lignin
+phloem
+liverworts
 hornworts
 horsetail
-lignin
-liverworts
-lycophyte
-megaphyll
-megaspore
-microphyll
-microspore
-mosses
-non-vascular plant
-peat moss
-peristome
-phloem
-protonema
-rhizoids
-seedless vascular plant
-seta
-sporocyte
-sporophyll
-sporopollenin
-streptophytes
-strobili
 tracheophyte
-vascular plant
-vein
-whisk fern
-xylem
+seta
+haplodiplodontic
+diplontic
+gemmae
+adventitious
+extinct
+fern
+capsule
+extant
+seedless vascular plants
+homosporous
+charophytes
+strobili
+heterosporous

@@ -1,69 +1,69 @@
-antibiotic resistance
-biomarker
-biotechnology
-cDNA library
-cellular cloning
-chain termination method
-clone
-contig
-cytogenetic mapping
+metabolome
+model organism
+polygenic
+sequence mapping
+genomic libraries
+polymerase chain reaction (PCR)
+multiple cloning site (MCS)
 deoxynucleotide
-dideoxynucleotide
-DNA microarray
-expressed sequence tag
-false negative
+radiation hybrid mapping
 foreign DNA
-gel electrophoresis
-gene targeting
-gene therapy
-genetic diagnosis
+variable number of tandem repeats
+reverse genetics
 genetic engineering
-genetic map
-genetic marker
+microsatellite polymorphisms
+probe
+recombinant proteins
+whole-genome sequencing
+antibiotic resistance
+restriction fragment length polymorphisms (RFLP)
+transgenic
+biotechnology
+DNA microarrays
 genetic recombination
+expressed sequence tag
+molecular cloning
+ribonucleases
+chain termination method
+false negative
+proteome
+genetic map
+proteases
+northern blotting
+genetic marker
+contig
+genomics
+protein signature
+restriction endonuclease
+Southern blotting
+genome annotation
+physical map
+cDNA library
+systems biology
+pure culture
+cytogenetic mapping
+genetic diagnosis
+linkage analysis
+next-generation sequencing
+gene therapy
+dideoxynucleotide
+proteomics
 genetic testing
 genetically modified organism
-genome annotation
-genome mapping
-genomic library
-genomics
-host DNA
-linkage analysis
-lysis buffer
-metabolome
+cellular cloning
 metabolomics
-metagenomics
-microsatellite polymorphism
-model organism
-molecular cloning
-multiple cloning site (MCS)
-next-generation sequencing
-northern blotting
-pharmacogenomics
-physical map
-polygenic
-polymerase chain reaction (PCR)
-probe
-protease
-protein signature
-proteome
-proteomics
-pure culture
-radiation hybrid mapping
-recombinant DNA
-recombinant protein
 reproductive cloning
-restriction endonuclease
-restriction fragment length polymorphism (RFLP)
-reverse genetics
+pharmacogenomics
 reverse transcriptase PCR (RT-PCR)
-ribonuclease
-sequence mapping
-shotgun sequencing
-single nucleotide polymorphism
-Southern blotting
-systems biology
+gene targeting
+recombinant DNA
 Ti plasmid
-transgenic
-variable number of tandem repeats
-whole-genome sequencing
+clone
+single nucleotide polymorphisms
+shotgun sequencing
+host DNA
+lysis buffer
+biomarker
+gel electrophoresis
+metagenomics
+genome mapping

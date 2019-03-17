@@ -1,16 +1,16 @@
-biological carbon pump
-bioluminescence
-contractile vacuole
-cytoplasmic streaming
-endosymbiosis
-endosymbiotic theory
-hydrogenosome
-kinetoplast
-mitosome
-mixotroph
-pellicle
-phagolysosome
-plankton
+hydrogenosomes
+mitosomes
+mixotrophs
 plastid
+bioluminescence
+tests
+contractile vacuoles
+pellicle
+endosymbiosis
+cytoplasmic streaming
+phagolysosome
+kinetoplast
 raphe
-test
+endosymbiotic theory
+biological carbon pump
+plankton

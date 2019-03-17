@@ -1,42 +1,42 @@
-active transport
-amphiphilic
+electrogenic pump
+secondary active transport
 antiporter
-aquaporin
-carrier protein 
-caveolin 
-channel protein
+tonicity
+peripheral proteins
+hypotonic
+glycoprotein
+endocytosis
+exocytosis
+hypertonic
+pinocytosis
 clathrin
+symporter
+fluid mosaic model
+primary active transport
+hydrophobic
+channel protein
+carrier protein
+receptor-mediated endocytosis
+facilitated transport
+amphiphilic
+integral proteins
+osmolarity
+glycolipids
+hydrophilic
+solute
+electrochemical gradient
+pump
+selectively permeable
+transport protein
+isotonic
 concentration gradient
 diffusion
-electrochemical gradient
-electrogenic pump
-endocytosis 
-exocytosis
-facilitated transport
-fluid mosaic model
-glycolipid
-glycoprotein
-hydrophilic
-hydrophobic
-hypertonic
-hypotonic
-integral protein
-isotonic
-osmolarity
 osmosis
-passive transport
-peripheral protein
-pinocytosis
 plasmolysis
 potocytosis
-primary active transport
-pump
-receptor-mediated endocytosis
-secondary active transport
-selectively permeable
-solute
-symporter
-tonicity
-transport protein
-transporter
+caveolin
 uniporter
+aquaporins
+transporters
+passive transport
+active transport

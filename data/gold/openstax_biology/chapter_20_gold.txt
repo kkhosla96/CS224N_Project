@@ -1,32 +1,32 @@
-analogy
+monophyletic group
+mitochondria-first hypothesis
+order
+taxon
+kingdom
+shared derived character
+rooted
+phylogenetic tree
 basal taxon
-binomial nomenclature
+web of life
+nucleus-first hypothesis
+phylum
+maximum parsimony
+horizontal gene transfer
+phylogeny
 branch point
 cladistics
+analogy
+binomial nomenclature
 class
-eukaryote-first hypothesis
-family
-gene transfer agent
-genome fusion
-genus
-horizontal gene transfer
-kingdom
-maximum parsimony
-mitochondria-first hypothesis
-molecular systematics
-monophyletic group
-nucleus-first hypothesis
-order
-phylogenetic tree
-phylogeny
-phylum
-polytomy
 ring of life
-rooted
-shared ancestral character
-shared derived character
+polytomy
 sister taxa
-systematics
-taxon
+gene transfer agents
+family
+eukaryote-first hypothesis
+genus
 taxonomy
-web of life
+shared ancestral character
+systematics
+molecular systematics
+genome fusion

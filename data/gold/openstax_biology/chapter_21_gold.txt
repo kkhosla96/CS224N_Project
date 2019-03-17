@@ -1,53 +1,53 @@
-acellular
-acute disease
-asymptomatic disease
-attenuation
-AZT
-back mutation
-bacteriophage
 budding
-capsid
-capsomere
-cell necrosis
-chronic infection
+negative polarity
+phage therapy
+intermittent symptoms
+PrPsc
+latency
+vertical transmission
+lysis
+hyperplasia
+prion
+oncogenic viruses
+pathogen
+virion
+viral receptor
+hypoplasia
+reverse transcriptase
 cytopathic
 envelope
-fusion
-gall
-gene therapy
-group I virus
-group II virus
-group III virus
-group IV virus
-group V virus
-group VI virus
-group VII virus
+chronic infection
+group III viruses
 horizontal transmission
-hyperplasia
-hypoplasia
-intermittent symptom
-latency
-lysis
-lysogenic cycle
 lytic cycle
-matrix protein
-negative polarity
-oncogenic virus
-oncolytic virus
-pathogen
-permissive
-phage therapy
-positive polarity
-prion
-productive
-prophage
-PrPc
-PrPsc
-replicative intermediate
-reverse transcriptase
-vaccine
-vertical transmission
-viral receptor
-virion
+AZT
+matrix proteins
+oncolytic viruses
+galls
+asymptomatic infection
 viroid
+group II viruses
+gene therapy
+group VI viruses
+permissive
 virus core
+acute disease
+PrPc
+bacteriophage
+acellular
+group V viruses
+positive polarity
+group IV viruses
+prophage
+attenuating
+replicative intermediates
+lysogenic cycle
+productive
+capsid
+capsomeres
+fusion
+group VII viruses
+back mutations
+cell necrosis
+vaccine
+group I viruses

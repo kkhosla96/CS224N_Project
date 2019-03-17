@@ -70,11 +70,37 @@ def text_to_pickle(text_file, pickle_file):
 		pickle.dump(output_set, f)
 
 def clean_tokens_gen(tokens):
+	""" Takes a spaCy span of tokens and returns a generator of
+		lemmatized and normalized strings. Takes care of the
+		special case of when we see "I", since spaCy wants to
+		change that to a pronoun, but we just want to keep it
+		as is.
+
+		@param tokens ()
+		
+	"""
 	for token in tokens:
 		if token.text.lower().strip() == "i":
 			yield token.text.lower().strip()
 		else:
 			yield normalize(token.lemma_).strip()
+
+def term_to_regex(term):
+	re_string = term.lower()
+	re_string = re_string.replace('(', r'\(')
+	re_string = re_string.replace(')', r'\)')
+	re_string = re_string.replace('+', r'\+')
+	re_string = r"(?<!\w)%s(?!\w)" % re_string
+	return re_string
+
+def custom_seg(doc):
+	for index, token in enumerate(doc):
+		if token.text == '?' and index < len(doc) - 1:
+			doc[index + 1].is_sent_start = True
+		if token.text.lower() == 'i':
+			doc[index].is_sent_start = False
+	return doc
+
 
 # the following function is from
 # https://www.kaggle.com/mschumacher/using-fasttext-models-for-robust-embeddings
@@ -107,7 +133,10 @@ def normalize(s):
 
 	# fix the differing apostophes form textbook
 	s = s.replace("’", "'")
-	return s
+
+	# fix differing hyphens
+	s = s.replace('—', '-')
+	return s.strip()
 	
 
 

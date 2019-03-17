@@ -1,56 +1,56 @@
-Angina
-Aorta
-Arteriole
-Artery
-Atherosclerosis
-atrioventricular valve
 atrium
-bicuspid valve
-Blood pressure
-Capillary
-Capillary bed
-Cardiac cycle
-Cardiac output
-cardiomyocyte
-Closed circulatory system
-Coronary artery
-Coronary vein
-Diastole
-Double circulation
-Electrocardiogram
-Endocardium
-Epicardium
-Gill circulation
-Hemocoel
-Hemolymph
-Inferior vena cava
-Interstitial fluid
-Lymph node
-Myocardial infarction
-Myocardium
-Open circulatory system
-Osmium
-Pericardium
-Peripheral resistance
-Plasma
-Platelet
-precapillary sphincter
-pulmocutaneous circulation
-pulmonary circulation
-Red blood cell
-Semilunar valve
-Serum
-Sinoatrial node
-Stoke volume
-Superior vena cava
-Systemic circulation
 Systole
+White blood cell
+Gill circulation
+Capillary
+Arteriole
+Coronary veins
+Venule
+cardiomyocytes
+Hemocoel
+Cardiac output
+Diastole
+bicuspid valve
+Myocardium
+Pericardium
+Serum
+precapillary sphincters
+Ostia
+Sinoatrial node
+Stroke volume
+Interstitial fluid
+Open circulatory system
+Cardiac cycle
+Endocardium
+atrioventricular valve
+Closed circulatory system
+Coronary arteries
+pulmonary circulation
+Vasoconstriction
+Myocardial infarction
+Red blood cell
+Systemic circulation
+Capillary beds
+Vena cava
+Blood pressure
+pulmocutaneous circulation
+Vein
+Lymph nodes
+Vasodilation
+Plasma
+Epicardium
+Platelet
+Peripheral resistance
+Semilunar valve
+Inferior vena cava
+Angina
+Double circulation
+Ventricle
+Electrocardiogram
+Aorta
+Superior vena cava
+Atherosclerosis
 Tricuspid valve
 Unidirectional circulation
-Vasoconstriction
-Vasodilation
-Vein
-Vena cava
-Ventricle
-Venue
-White blood cell
+Artery
+Hemolymph
