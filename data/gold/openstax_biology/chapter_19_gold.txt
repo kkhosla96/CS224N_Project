@@ -1,32 +1,32 @@
-adaptive evolution
-allele frequency
-assortative mating
-bottleneck effect
-cline
-directional selection
 diversifying selection
-evolutionary fitness
 founder effect
-frequency-dependent selection
-gene flow
-gene pool
-genetic drift
-genetic structure
-genetic variance
-geographical variation
-good genes hypothesis
-handicap principle
 heritability
-honest signal
-inbreeding
-inbreeding depression
-macroevolution
-microevolution
+handicap principle
+gene flow
 modern synthesis
-nonrandom mating
-population genetics
-population variation
-relative fitness
-selective pressure
 sexual dimorphism
+geographical variation
+frequency-dependent selection
+genetic structure
+microevolution
+macroevolution
+inbreeding
+population variation
+selective pressure
+gene pool
+good genes hypothesis
+honest signal
+allele frequency
+directional selection
+bottleneck effect
+genetic variance
 stabilizing selection
+relative fitness
+nonrandom mating
+adaptive evolution
+evolutionary (Darwinian) fitness
+inbreeding depression
+population genetics
+cline
+genetic drift
+assortative mating

@@ -1,29 +1,29 @@
-A horizon
-B horizon
-bedrock
-C horizon
-clay
-epiphyte
-horizon
-humus
-inorganic compound
-insectivorous plant
-loam
-macronutrient
-micronutrient
-mineral soil
-nitrogenase
-nodules
-O horizon
-organic compound
-organic soil
-parasitic plant
-parent material
-rhizobia
-rhizosphere
-sand
-saprophyte
-silt
-soil
-soil profile
 symbiont
+insectivorous plant
+rhizobia
+B horizon
+loams
+bedrock
+mineral soil
+A horizon
+C horizon
+nodules
+rhizosphere
+organic compound
+clay
+horizon
+inorganic compound
+nitrogenase
+silt
+saprophyte
+macronutrient
+organic soils
+micronutrients
+O horizon
+parasitic plant
+epiphyte
+humus
+soil profile
+parent material
+sand
+soil

@@ -1,56 +1,56 @@
-alimentary canal
-aminopeptidase
-anus
-bile
-bolus
-carboxypeptidase
+secretin
+somatostatin
 carnivore
-cephalic phase
-cholecystokinin
-chylomicron
-chyme
+aminopeptidase
+lactase
+jejunum
 chymotrypsin
-digestion
-dipeptidase
 duodenum
-elastase
-endocrine system
-esophagus
-essential nutrient
-gallbladder
 gastric inhibitory peptide
 gastric phase
-gastrin
-gastrovascular cavity
-gizzard
-herbivore
-ileum
-ingestion
 intestinal phase
-jejunum
-lactase
+rectum
 large intestine
-lipase
-liver
-maltase
+vitamins
+endocrine system
+alimentary canal
+villi
+gastrovascular cavity
+small intestine
 mineral
-monogastric
-omnivore
+ruminant
+chylomicron
 pancreas
 pepsin
-pepsinogen
-peristalsis
-proventriculus
-rectum
-roughage
-ruminant
-salivary amylase
-secretin
-small intestine
-somatostatin
-sphincter
-stomach
+dipeptidase
+esophagus
+monogastric
+liver
+maltase
+carboxypeptidase
 sucrase
+peristalsis
+cephalic phase
 trypsin
-villi
-vitamin
+gizzard
+cholecystokinin
+sphincter
+anus
+stomach
+chyme
+herbivores
+bile
+digestion
+salivary amylase
+ingestion
+lipase
+proventriculus
+elastase
+essential nutrients
+gallbladder
+ileum
+roughage
+omnivore
+pepsinogen
+gastrin
+bolus

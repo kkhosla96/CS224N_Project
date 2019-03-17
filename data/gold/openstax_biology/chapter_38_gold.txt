@@ -1,117 +1,116 @@
-abduction
-acetylcholinesterase
-actin
-adduction
-amphiarthrosis
-angular movement
-appendicular skeleton
-appositional growth
-articulation
-auditory ossicle
-axial skeleton
-ball-and-socket joint
-bone
-bone remodeling
-calcification
-cardiac muscle
-carpus
-cartilaginous joint
-circumduction
-clavicle
-compact bone
-condyloid joint
-coxal bone
-cranial bone
-depression
-diaphysis
-diarthrosis
-dorsiflexion
-elevation
-endochondral ossification
-endoskeleton
-epiphyseal plate
-epiphysis
-eversion
-exoskeleton
-extension
-facial bone
-femur
-fibrous joint
-fibula
-Flat bone
-Flexion
-Forearm
-Gliding movement
-gomphosis
-Haversian canal
-Hinge joint
-Humerus
-Hydrostatic skeleton
-Hyoid bone
-Hyperextension
-Intervertebral disc
-intramembranous ossification
-Inversion
-Irregular bone
-Joint
-Lamella
-Lateral rotation
-Long bone
-Lower limb
-Medial rotation
-Metacarpus
-Metatarsal
-Motor end plate
-Myofibril
-myofilament
-Myosin
-Opposition
-Osseous tissue
-Ossification
-Osteoblast
-Osteoclast
-Osteocyte
-osteon
-Patella
-Pectoral girdle
-Pelvic girdle
-Phalange
-Pivot joint
-Planar joint
-Plantar flexion
-Pronation
-Protraction
-Radius
-Resorption
-Retraction
-Rib
-Rotational movement
-Saddle joint
-Sarcolemma
-Sarcomere
-Scapula
-Sesamoid bone
-Short bone
-Skeletal muscle tissue
-Skull
 Smooth muscle
-Spongy bone tissue
-Sternum
-Supination
-Suture
-Suture bone
-Symphysis
-Synarthrosis
-Synchondrosis
-syndesmosis
-Synovial joint
-Tarsal
-Thick filament
-Thin filament
-Thoracic cage
-Tibia
-Trabecular
-Tropomyosin
-Troponin
+Protraction
+Osseous tissue
+Long bone
+epiphysis
+Ossification
+axial skeleton
 Ulna
+auditory ossicles
+ball-and-socket joint
+exoskeleton
+Sternum
+Skeletal muscle tissue
+Forearm
+Plantar flexion
+actin
+Metacarpus
+Scapula
+carpus
+Rib
+Supination
+coxal bones
+Thick filament
+fibula
+femur
+bone remodeling
+Synarthrosis
+extension
+Hyperextension
+depression
+Sesamoid bone
+diarthroses
+dorsiflexion
+Hydrostatic skeleton
+Irregular bones
+Lateral rotation
+Planar joints
+Tropomyosin
+circumduction
+Metatarsals
+condyloid joints
+Skull
+compact bone
+osteon
+angular movement
+Symphysis
+epiphyseal plate
+Osteocytes
 Vertebral column
+Flexion
+Gliding movement
+Trabeculae
+eversion
+fibrous joints
+Flat bone
+Short bones
+Myosin
+Pivot joint
+Haversian canal
+calcification
+Retraction
+diaphysis
+Pelvic girdle
+Hyoid bone
+Amphiarthroses
+Radius
+Sarcomere
+endochondral ossification
+Lamellae
+cranial bones
+Intervertebral discs
+Patella
+intramembranous ossification
+adduction
+Saddle joint
+Osteoblasts
+Hinge joint
+Lower limb
+Motor end plate
+Synchondrosis
+appendicular skeleton
+myofilaments
+articulation
+abduction
+Joint
+Suture
+Sarcolemma
+Tibia
+cartilaginous joint
+acetylcholinesterase
+Resorption
+Tarsal
+Pectoral girdle
+bone
+Myofibril
+Pronation
+Thin filament
+appositional growth
+gomphoses
+cardiac muscle
+Osteoclasts
+clavicle
+Humerus
+Synovial joints
+endoskeleton
+Phalanges
+Medial rotation
+elevation
+facial bones
+syndesmosis
+Rotational movement
+Spongy bone tissue
+Inversion
+Opposition
+Thoracic cage
+Troponin

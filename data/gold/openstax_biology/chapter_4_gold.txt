@@ -1,48 +1,48 @@
-cell theory
-cell wall
-central vacuole
-centrosome
-chlorophyll
-chloroplast
-chromatin
-chromosome
-cilium
-cytoplasm
-cytoskeleton
-cytosol
 desmosome
+intermediate filaments
+centrosome
+lysosome
+cytoskeleton
+central vacuole
+mitochondria
+nucleolus
+ribosome
+vacuole
+plasma membrane
+flagellum
+ER
+peroxisomes
+cytoplasm
+light microscope
+microfilaments
+plasmodesma
+eukaryotic cell
+SER
+microtubule
+nuclear envelope
+unified cell theory
+cell theory
+vesicle
+chloroplast
+tight junction
+nucleus
+rough endoplasmic reticulum
+cell wall
 electron microscope
+microscope
+gap junction
 endomembrane system
 endoplasmic reticulum
-ER
-eukaryotic cell
-extracellular matrix
-flagellum
-gap junction
-Golgi apparatus
-intermediate filament 
-light microscope 
-lysosome
-microfilament
-microscope
-microtubule
-mitochondria
-nuclear envelope
 nucleoid
-nucleolus
-nucleoplasm
-nucleus
-organelle
-peroxisome
-plasma membrane
-plasmodesma
-prokaryote
-ribosome
-rough endoplasmic reticulum
-RER
 smooth endoplasmic reticulum
-SER
-tight junction
-unified cell theory
-vacuole
-vesicle
+prokaryote
+chromatin
+nucleoplasm
+cytosol
+chlorophyll
+RER
+Golgi apparatus
+extracellular matrix
+chromosome
+organelle
+cilium

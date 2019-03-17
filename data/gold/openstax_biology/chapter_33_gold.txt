@@ -1,46 +1,46 @@
-acclimatization
-alteration
-apodeme
-asymmetrical
-basal metabolic rate
-BMR
-canaliculus
-cartilage
-chondrocyte
-columnar epithelia
-connective tissue
-cuboidal epithelia
-dorsal cavity
-ectotherm
-endotherm
-epithelial tissue
-estivation
-fibrous connective tissue
-frontal plane
-coronal plane
-fusiform
-hibernation
-homeostasis
-lacuna
+torpor
+negative feedback loop
+set point
 loose connective tissue
+positive feedback loop
+dorsal cavity
+Canaliculi
+alteration
+lacunae
+coronal plane
+simple epithelia
+ectotherm
+connective tissue
+sagittal plane
+fibrous connective tissue
 areolar connective tissue
+horizontal plane
+squamous epithelia
+asymmetrical
+columnar epithelia
+standard metabolic rate
+transitional epithelia
+BMR
+estivation
+hibernation
+SMR
+transverse plane
+thermoregulation
+stratified epithelia
+fusiform
+chondrocytes
+cartilage
+basal metabolic rate
+epithelial tissue
+cuboidal epithelia
+acclimatization
+frontal plane
+trabeculae
+osteons
+endotherm
 matrix
 midsagittal plane
-negative feedback loop
-osteon
-positive feedback loop
+homeostasis
 pseudostratified
-sagittal plane
-set point
-simple epithelia
-squamous epithelia
-standard metabolic rate
-SMR
-stratified epithelia
-thermoregulation
-torpor
-trabecula
-transitional epithelia
-transverse plane
-horizontal plane
+apodemes
 ventral cavity

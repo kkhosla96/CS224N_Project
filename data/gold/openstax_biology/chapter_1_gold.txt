@@ -1,52 +1,52 @@
-abstract
-applied science
+science
 atom
-basic science 
-biochemistry
-biology
-biosphere
 botany
-cell
-community
-conclusion
-control
-deductive reasoning
-descriptive science
-discusion
-ecosystem
-eukaryote
+discussion
+paleontology
+plagiarism
+molecule
+organ system
+physical sciences
+phylogenetic tree
+life sciences
+natural science
+review articles
+molecular biology
+theory
+population
+results
+abstract
+basic science
 evolution
+biosphere
+control
 falsifiable
-homeostasis
-hypothesis
+deductive reasoning
+organ
+scientific method
+applied science
+introduction
+conclusion
+eukaryotes
+tissues
+descriptive science
+macromolecule
+biology
+zoology
+biochemistry
+ecosystem
 hypothesis-based science
 inductive reasoning
-introduction
-life science
-macromolecule
 materials and methods
-microbiology
-molecular biology
-molecule
-natural science
-neurobiology
-organ
-organ system
-organelle
-organism
-paleontology
-peer-reviewed manuscript
-phylogenetic tree
-physical science
-plagiarism
-population
-prokaryote
-results
-review article
-science
-scientific method
+prokaryotes
 serendipity
-theory
-tissue
+organism
+hypothesis
+microbiology
+peer-reviewed manuscripts
+cell
+community
 variable
-zoology
+homeostasis
+neurobiology
+organelle

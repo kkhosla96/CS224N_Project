@@ -1,22 +1,22 @@
-alternation of generations
 chiasmata
-cohesin
-crossover
-diploid-dominant
+meiosis II
 fertilization
+cohesin
+life cycle
+interkinesis
+meiosis
+sporophyte
+somatic cell
+synaptonemal complex
+spore
+alternation of generations
 gametophyte
+meiosis I
+synapsis
 germ cells
 haploid-dominant
-interkinesis
-life cycle
-meiosis
-meiosis I
-meiosis II
-recombination nodules
 reduction division
-somatic cell
-spore
-sporophyte
-synapsis
-synaptonemal complex
+diploid-dominant
+crossover
+recombination nodules
 tetrad

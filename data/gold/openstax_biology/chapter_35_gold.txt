@@ -1,81 +1,81 @@
-acetylcholine
-action potentia
-Alzheimer’s disease
-amygdala
-arachnoid mater
-astrocyte
-attention deficit hyperactivity disorder
-ADHD
-autism spectrum disorder
-ASD
-autonomic nervous system
-axon
-axon hillock
-axon terminal
-basal ganglia
-basal nuclei
-brainstem
-cerebellum
-cerebral cortex
-cerebrospinal fluid
-CSF
-choroid plexus
-cingulate gyrus
-corpus callosum
-cranial nerve
-dendrite
-depolarization
-dura mater
-ependymal
-epilepsy
-excitatory postsynaptic potential
-EPSP
-frontal lobe
-glia
-gyrus
-hippocampus
-hyperpolarization
-hypothalamus
-inhibitory postsynaptic potential
-IPSP
-limbic system
-long-term depression
-LTD
-long-term potentiation
-LTP
-major depression
-membrane potential
-meninge
-microglia
-myelin
-neurodegenerative disorder
-neuron
-nodes of Ranvier
-norepinephrine
-occipital lobe
-oligodendrocyte
-parasympathetic nervous system
-parietal lobe
-Parkinson’s disease
-pia mater
 proprioception
-radial glia
-refractory period
-saltatory conduction
-satellite glia
+IPSP
 schizophrenia
+parietal lobe
+synaptic cleft
+ventricle
+axon hillock
+action potential
+attention deficit hyperactivity disorder
+hippocampus
+major depression
 Schwann cell
-sensory-somatic nervous system
-somatosensation
+neuron
+CSF
+cerebrospinal fluid
+hypothalamus
+limbic system
+basal ganglia
+ADHD
+cerebral cortex
+LTP
+hyperpolarization
+cingulate gyrus
+nodes of Ranvier
+pia mater
+LTD
+myelin
+axon terminal
+Parkinson’s disease
+refractory period
+occipital lobe
+acetylcholine
+arachnoid mater
+depolarization
+frontal lobe
+gyrus
+long-term potentiation
 spinal cord
-spinal nerve
 sulcus
+threshold of excitation
+EPSP
+oligodendrocyte
+neurodegenerative disorders
+astrocytes
+somatosensation
+ASD
+axon
+radial glia
+Alzheimer’s disease
+sensory-somatic nervous system
+ependymal
+meninges
+membrane potential
+parasympathetic nervous system
+synaptic vesicles
+norepinephrine
+satellite glia
+autonomic nervous system
+amygdala
+cranial nerve
+thalamus
+synapse
+temporal lobe
+long-term depression
+microglia
+excitatory postsynaptic potential
+autism spectrum disorder
+choroid plexus
+inhibitory postsynaptic potentials
+spinal nerves
+dendrite
+epilepsy
+dura mater
+basal nuclei
 summation
 sympathetic nervous system
-synapse
-synaptic cleft
-synaptic vesicle
-temporal lobe
-thalamus
-threshold of excitation
-ventricle
+corpus callosum
+cerebellum
+glia
+brainstem
+saltatory conduction

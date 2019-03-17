@@ -73,4 +73,41 @@ The pressure of the blood flow in the body is produced by the hydrostatic pressu
 Figure 40.19 Blood pressure is related to the blood velocity in the arteries and arterioles. In the capillaries and veins, the blood pressure continues to decease but velocity increases.
 Blood Pressure Regulation
 Cardiac output is the volume of blood pumped by the heart in one minute. It is calculated by multiplying the number of heart contractions that occur per minute (heart rate) times the stroke volume (the volume of blood pumped into the aorta per contraction of the left ventricle). Therefore, cardiac output can be increased by increasing heart rate, as when exercising. However, cardiac output can also be increased by increasing stroke volume, such as if the heart contracts with greater strength. Stroke volume can also be increased by speeding blood circulation through the body so that more blood enters the heart between contractions. During heavy exertion, the blood vessels relax and increase in diameter, offsetting the increased heart rate and ensuring adequate oxygenated blood gets to the muscles. Stress triggers a decrease in the diameter of the blood vessels, consequently increasing blood pressure. These changes can also be caused by nerve signals or hormones, and even standing up or lying down can have a great effect on blood pressure.
-
+Overview of the Circulatory System
+In most animals, the circulatory system is used to transport blood through the body. Some primitive animals use diffusion
+for the exchange of water, nutrients, and gases. However, complex organisms use the circulatory system to carry gases,
+nutrients, and waste through the body. Circulatory systems may be open (mixed with the interstitial fluid) or closed
+(separated from the interstitial fluid). Closed circulatory systems are a characteristic of vertebrates; however, there are
+significant differences in the structure of the heart and the circulation of blood between the different vertebrate groups due
+to adaptions during evolution and associated differences in anatomy. Fish have a two-chambered heart with unidirectional
+circulation. Amphibians have a three-chambered heart, which has some mixing of the blood, and they have double
+circulation. Most non-avian reptiles have a three-chambered heart, but have little mixing of the blood; they have double
+circulation. Mammals and birds have a four-chambered heart with no mixing of the blood and double circulation.
+Components of the Blood
+Specific components of the blood include red blood cells, white blood cells, platelets, and the plasma, which contains
+coagulation factors and serum. Blood is important for regulation of the body’s pH, temperature, osmotic pressure, the
+circulation of nutrients and removal of waste, the distribution of hormones from endocrine glands, and the elimination of
+excess heat; it also contains components for blood clotting. Red blood cells are specialized cells that contain hemoglobin
+and circulate through the body delivering oxygen to cells. White blood cells are involved in the immune response to
+identify and target invading bacteria, viruses, and other foreign organisms; they also recycle waste components, such as
+old red blood cells. Platelets and blood clotting factors cause the change of the soluble protein fibrinogen to the insoluble
+protein fibrin at a wound site forming a plug. Plasma consists of 90 percent water along with various substances, such as
+coagulation factors and antibodies. The serum is the plasma component of the blood without the coagulation factors.
+Mammalian Heart and Blood Vessels
+The heart muscle pumps blood through three divisions of the circulatory system: coronary, pulmonary, and systemic.
+There is one atrium and one ventricle on the right side and one atrium and one ventricle on the left side. The pumping of
+the heart is a function of cardiomyocytes, distinctive muscle cells that are striated like skeletal muscle but pump
+rhythmically and involuntarily like smooth muscle. The internal pacemaker starts at the sinoatrial node, which is located
+near the wall of the right atrium. Electrical charges pulse from the SA node causing the two atria to contract in unison;
+then the pulse reaches the atrioventricular node between the right atrium and right ventricle. A pause in the electric signal
+allows the atria to empty completely into the ventricles before the ventricles pump out the blood. The blood from the heart
+is carried through the body by a complex network of blood vessels; arteries take blood away from the heart, and veins
+bring blood back to the heart.
+Blood Flow and Blood Pressure Regulation
+Blood primarily moves through the body by the rhythmic movement of smooth muscle in the vessel wall and by the action
+of the skeletal muscle as the body moves. Blood is prevented from flowing backward in the veins by one-way valves.
+Blood flow through the capillary beds is controlled by precapillary sphincters to increase and decrease flow depending on
+the body’s needs and is directed by nerve and hormone signals. Lymph vessels take fluid that has leaked out of the blood
+to the lymph nodes where it is cleaned before returning to the heart. During systole, blood enters the arteries, and the artery
+walls stretch to accommodate the extra blood. During diastole, the artery walls return to normal. The blood pressure of the
+systole phase and the diastole phase gives the two pressure readings for blood pressure.
