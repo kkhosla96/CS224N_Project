@@ -1,92 +1,93 @@
-abscisic acid
-abscission
-adventitious root
-amyloplast
-apical bud
-apical meristem
-auxin
-axillary bud
-bark
-bulb
-Casparian strip
-chromophore
-collenchyma cell
-companion cell
-compound leaf
-corm
-cortex
-cryptochrome
-cuticle
-cytokinin
-dermal tissue
-endodermis
-epidermis
-ethylene
-fibrous root system
-gibberellin
 ground tissue
-guard cells
-intercalary meristem
-internode
-jasmonates
-lamina
-lateral meristem
-lenticel
-megapascal
-meristem
-meristematic tissue
+ethylene
+sclerenchyma cells
 negative gravitropism
-node
-oligosaccharin
-palmately compound leaf
-parenchyma cell
-pericycle
-periderm
-permanent tissue
+vessel element
+whorled
 petiole
-photomorphogenesis
-photoperiodism
-phototropin
-phototropism
-phyllotaxy
-phytochrome
-pinnately compound leaf
-pith
-positive gravitropism
-primary growth
-rhizome
-root cap
-root hair
-root system
-runner
-sclerenchyma cell
-secondary growth
-sessile
-shoot system
-sieve-tube cell
-simple leaf
-sink
+tracheid
+lateral meristem
+abscisic acid
+palmately compound leaf
+vascular stele
+adventitious roots
 source
-statolith
-stele
-stipule
+internode
+companion cells
+cryptochromes
+photomorphogenesis
+lenticels
+vascular bundle
+photoperiodism
+water potential
+phototropism
+sink
+runners
+cytokinin
+statoliths
+transpiration
+intercalary meristems
+permanent tissue
+parenchyma cells
+abscission
+collenchyma cell
+epidermis
+tubers
+rhizome
+corm
+gravitropism
+root cap
+sieve-tube cell
+gibberellins
 stolon
-strigolactone
+megapascals
+chromophore
+compound leaf
+apical bud
+meristem
+stipules
+cuticle
+root hair
+bark
+trichomes
+cortex
+guard cells
+phototropin
+jasmonates
+node
+dermal tissue
+thigmotropism
+lamina
+periderm
+pith
 tap root system
+stele
+primary growth
+bulb
+root system
+endodermis
+sessile
 tendril
 thigmomorphogenesis
 thigmonastic
-thigmotropism
-thorn
-tracheid
+auxin
+oligosaccharins
+strigolactones
+amyloplasts
+positive gravitropism
+apical meristem
+Pinnately compound leaves
 translocation
-transpiration
-trichome
-tuber
-vascular bundle
-vascular stele
-vascular tissue
 venation
-vessel element
-water potential
-whorled
+vascular tissue
+axillary bud
+phytochrome
+thorns
+simple leaf
+Casparian strip
+secondary growth
+phyllotaxy
+shoot system
+pericycle
+meristematic tissue
+fibrous root system

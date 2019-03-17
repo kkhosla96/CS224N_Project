@@ -1,29 +1,29 @@
-adaptation
-adaptive radiation
 allopatric speciation
-allopolyploid
-aneuploidy
-autopolyploid
-behavioral isolation
-convergent evolution
 dispersal
-divergent evolution
-gametic barrier
-gradual speciation model
-habitat isolation
-homologous structures
-hybrid
-hybrid zone
-natural selection
-postzygotic barrier
-prezygotic barrier
-punctuated equilibrium
-reinforcement
-reproductive isolation
-speciation
-species
-sympatric speciation
 temporal isolation
-variation
-vestigial structure
+reproductive isolation
+vestigial structures
+habitat isolation
+allopolyploid
+speciation
+autopolyploid
+hybrid
+divergent evolution
+hybrid zone
+punctuated equilibrium
+adaptation
 vicariance
+gametic barrier
+postzygotic barrier
+convergent evolution
+aneuploidy
+sympatric speciation
+homologous structures
+gradual speciation model
+natural selection
+reinforcement
+species
+behavioral isolation
+prezygotic barrier
+adaptive radiation
+variation

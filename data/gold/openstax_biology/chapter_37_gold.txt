@@ -1,87 +1,84 @@
-acromegaly
-Addison’s disease
-adenylate cyclase
-adrenal cortex
-adrenal gland
-adrenal medulla
-adrenocorticotropic hormone
-aldosterone
-alpha cell
-amino acid-derived hormone
-androgen
-anterior pituitary
-antidiuretic hormone
-atrial natriuretic peptide
-beta cell
-calcitonin
-colloid
-corticosteroid
-cortisol
-Cushing’s disease
-diabetes insipidus
-diabetes mellitus
-diabetogenic effect
-down-regulation
-endocrine gland
-epinephrine
-erythropoietin
-estrogens
-first messenger
-follicle-stimulating hormone
-G-protein
-gigantism
-glucagon
-glucocorticoid
-gluconeogenesis
-glucose-sparing effect
-glycogenolysis
-goiter
-gonadotropin
-growth hormone
-growth hormone-inhibiting hormone
-growth hormone-releasing hormone
-hormonal stimuli
-hormone receptor
-humoral stimuli
-hyperglycemia
-hyperthyroidism
-hypoglycemia
-hypophyseal portal system
-hypothyroidism
-insulin
-insulin-like growth factor
-intracellular hormone receptor
-islets of Langerhans
-isthmus
-leptin
-lipid-derived hormone
-mineralocorticoid
-neural stimuli
-norepinephrine
-osmoreceptor
 oxytocin
-pancreas
-parafollicular cell
-parathyroid gland
-parathyroid hormone
-peptide hormone
-phosphodiesterase
-pituitary dwarfism
-pituitary gland
-pituitary stalk
-plasma membrane hormone receptor
-posterior pituitary
-prolactin
-prolactin-inhibiting hormone
-prolactin-releasing hormone
-renin
-thymus
-thyroglobulin
-thyroid gland
+hypothyroidism
+neural stimuli
+amino acid-derived hormones
+anterior pituitary
 thyroid-stimulating hormone
-thyroxine
-triiodothyronine
 up-regulation
-
-
-
+down-regulation
+erythropoietin
+pancreas
+alpha cells
+parathyroid gland
+endocrine glands
+mineralocorticoid
+intracellular hormone receptors
+cortisol
+epinephrine
+plasma membrane hormone receptors
+thyroxine
+prolactin-releasing hormone
+adenylyl cyclase
+prolactin-inhibiting hormone
+estrogens
+triiodothyronine
+androgen
+growth hormone-releasing hormone
+beta cells
+diabetes mellitus
+diabetes insipidus
+glucagon
+goiter
+pituitary gland
+antidiuretic hormone
+thyroglobulin
+renin
+hypophyseal portal system
+pituitary stalk
+leptin
+phosphodiesterase
+osmoreceptor
+prolactin
+colloid
+gonadotropin
+gigantism
+thyroid gland
+adrenal cortex
+adrenal medulla
+glucose-sparing effect
+adrenal gland
+diabetogenic effect
+calcitonin
+glucocorticoids
+isthmus
+lipid-derived hormones
+adrenocorticotropic hormone
+atrial natriuretic peptide
+aldosterone
+islets of Langerhans
+first messenger
+peptide hormones
+G-protein
+hyperglycemia
+insulin-like growth factors
+thymus
+posterior pituitary
+hyperthyroidism
+pituitary dwarfism
+glycogenolysis
+growth hormone-inhibiting hormone
+insulin
+parathyroid hormone
+parafollicular cells
+acromegaly
+hormonal stimuli
+gluconeogenesis
+hormone receptors
+hypoglycemia
+humoral stimuli
+norepinephrine
+Addison’s disease
+follicle-stimulating hormone
+corticosteroid
+growth hormone
+Cushing’s disease

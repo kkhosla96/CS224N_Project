@@ -1,53 +1,53 @@
-acidophile
-alkaliphile
-ammonification
-anaerobic
-anoxic
-antibiotic
-biofilm
-biological nitrogen fixation
-bioremediation
-biotechnology
-Black Death
-botulism
-CA-MRSA
-capsule
-chemotroph
-conjugation
-cyanobacteria
-decomposer
-gentrification
-emerging disease
-endemic disease
-epidemic
-extremophile
-foodborne disease
-Gram negative
-Gram positive
-halophile
-hydrothermal vent
-hyperthermophile
-microbial mat
-MRSA
-nitrification
-nitrogen fixation
-nodule
-nutrient
-osmophile
-pandemic
-peptidoglycan
-phototroph
-pilus
-pseudopeptidoglycan
-psychrophile
-radioresistant
-resuscitation
-S-layer
 serotype
-stromatolite
-teichoic acid
-thermophile
+decomposers
+phototrophs
+CA-MRSA
 transduction
-transformation
 viable-but-non-culturable (VBNC) state
+psychrophiles
+nutrient
+biotechnology
+bioremediation
+resuscitation
+acidophiles
+halophiles
+botulism
+hydrothermal vent
+nitrogen fixation
+conjugation
+endemic disease
 zoonosis
+biological nitrogen fixation
+anoxic
+S-layer
+Gram negative
+MRSA
+antibiotic
+thermophiles
+pandemic
+alkaliphiles
+ammonification
+transformation
+foodborne disease
+emerging disease
+denitrification
+nodule
+anaerobic
+pilus
+osmophiles
+microbial mat
+epidemic
+nitrification
+stromatolite
+chemotrophs
+capsule
+cyanobacteria
+hyperthermophiles
+peptidoglycan
+Gram positive
+pseudopeptidoglycan
+radioresistant
+biofilm
+extremophile
+Black Death
+teichoic acids

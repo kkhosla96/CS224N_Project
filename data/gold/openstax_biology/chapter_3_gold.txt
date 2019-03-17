@@ -1,51 +1,51 @@
-α-helix
-amino acid
-β-pleated sheet
-biological macromolecule
-carbohydrate
-cellulose
-chaperone
-chitin
-dehydration synthesis
-denaturation
-deoxyribonucleic acid
-disaccharide
-enzyme
-glycogen
-glycosidic bond
-hormone
+wax
+steroid
+ribonucleic acid
+polynucleotide
 hydrolysis
-lipid
-messenger RNA
-monomer
-monosaccharide
+starch
+enzyme
+triacylglycerol
+translation
+protein
+saturated fatty acid
+primary structure
+biological macromolecule
 nucleic acid
-nucleotide
-omega fat
-peptide bond
+purine
+carbohydrate
 phosphodiester
+tertiary structure
+amino acid
+hormone
+pyrimidine
+ribosomal RNA
+polypeptide
 phospholipid
 polymer
-polynucleotide
-polypeptide
-polysaccharide
-primary structure
-protein
-purine
-pyrimidine
-quaternary structure
-ribonucleic acid
-ribosomal RNA
-saturated fatty acid
-secondary structure
-starch
-steroid
-tertiary structure
+omega
+monomer
+messenger RNA
+dehydration synthesis
+deoxyribonucleic acid
+chitin
+triglycerides
 trans fat
-transcription
+chaperones
+nucleotide
+denaturation
+peptide bond
+quaternary structure
+disaccharide
+secondary structure
+glycosidic bond
 transfer RNA
-translation
-triacylglycerol
-triglyceride
+lipids
+transcription
+β-pleated sheet
+α-helix
+glycogen
+monosaccharide
+polysaccharide
 unsaturated fatty acid
-wax
+cellulose

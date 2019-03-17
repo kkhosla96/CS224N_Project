@@ -1,52 +1,52 @@
-adaptive immunity
-affinity
-allergy
+cell-mediated immune response
+cytokine
 antibody
+adaptive immunity
+host
+autoimmune response
+eosinophil
+lymph
+natural killer cells
+epitope
+autoimmunity
+MHC II molecules
+pathogen
+immune tolerance
+inflammation
+pattern recognition receptors
+mucosa-associated lymphoid tissue
+complement system
+affinity
+perforin
+dendritic cell
+helper T lymphocytes
+T cell
+basophil
+granzyme
+macrophage
+plasma cell
+clonal selection
+innate immunity
+hypersensitivities
 antigen
+mast cell
+allergy
+passive immunity
+monocyte
+opsonization
+Treg cells
+avidity
+humoral immune response
+effector cells
+lymphocyte
+immunodeficiency
+cytotoxic T lymphocytes
+MHC I molecules
+B cell
+interferon
 antigen-presenting cell
 autoantibody
-autoimmune response
-autoimmunity
-avidity
-B cell
-basophil
-cell-mediated immune response
-clonal selection
-complement system
 cross reactivity
-cytokine
-cytotoxic T lymphocyte
-dendritic cell
-effector cell
-eosinophil
-epitope
-granzyme
-helper T lymphocyte
-host
-humoral immune response
-hypersensitivities
-immune tolerance
-immunodeficiency
-inflammation
-innate immunity
-interferon
-lymph
-lymphocyte
-macrophage
-MHC I molecules
-MHC II molecules
-mast cell
-memory cell
-monocyte
-mucosa-associated lymphoid tissue
-natural killer cell
+pathogen-associated molecular patterns
 neutrophil
-opsonization
-passive immunity
-pathogen
-pathogen-associated molecular pattern
-pattern recognition receptor
-perforin
-plasma cell
-Treg cell
-T cell
+memory cell

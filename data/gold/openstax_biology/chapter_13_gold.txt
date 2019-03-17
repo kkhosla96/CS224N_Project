@@ -1,21 +1,20 @@
-aneuploid
-autosome
-centimorgan
+monosomy
+parental types
 Chromosomal Theory of Inheritance
-chromosome inversion
-euploid
+trisomy
 homologous recombination
 karyogram
-karyotype
-monosomy
 nondisjunction
 nonparental type
-recombinant type
+euploid
 paracentric
-parental types
 pericentric
-polyploid
-recombination frequency
-translocation
-trisomy
+karyotype
 X inactivation
+translocation
+aneuploid
+chromosome inversion
+autosome
+recombination frequency
+centimorgans
+polyploid
