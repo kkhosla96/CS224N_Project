@@ -1,0 +1,87 @@
+Kirby-Bauer disk diffusion test
+pentamidine
+selective toxicity
+tinea
+ivermectin
+synthetic antimicrobial
+reverse transcriptase inhibitors
+intubation
+metronidazole
+trimethoprim
+albendazole
+glycopeptides
+PID
+semisynthetic antimicrobial
+Etest
+healthcare-associated infections
+artemisinin
+sulfonamides
+erythromycin
+broad-spectrum antimicrobial
+conjunctivitis
+lymph nodes
+β-lactams
+bacteremia
+extended-spectrum β-lactamases
+antibiogram
+aminoglycosides
+rimantadine
+extensively drug-resistant
+VRE
+protease inhibitors
+imidazoles
+colistin
+aspergillosis
+minimal inhibitory concentration
+pelvic inflammatory disease
+tinea pedis
+vancomycin-intermediate
+babesiosis
+tinea cruris
+macrolides
+allylamines
+superinfection
+bacitracin
+mebendazole
+fusion inhibitors
+benzimidazoles
+parenteral route
+minimal bactericidal concentration
+portal of entry
+oxazolidinones
+cytomegalovirus infections
+integrase inhibitors
+triazoles
+polyenes
+narrow-spectrum antimicrobial
+cephalosporins
+amphotericin B
+strongyloidiasis
+nalidixic acid
+tinea corporis
+terbinafine
+antimetabolites
+β-lactamases
+lincosamides
+acyclovir
+vancomycin-resistant enterococci
+ESBLs
+MDR
+dosage
+daptomycin
+cross-resistance
+route of administration
+quinolines
+multidrug-resistant microbes
+lincomycin
+praziquantel
+tetracyclines
+pleconaril
+polymyxins
+amantadine
+clindamycin
+epidemiology
+natural antibiotic
+MBC
+coccidioidomycosis
+fluconazole

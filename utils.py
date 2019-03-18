@@ -89,6 +89,8 @@ def term_to_regex(term):
 	re_string = term.lower()
 	re_string = re_string.replace('(', r'\(')
 	re_string = re_string.replace(')', r'\)')
+	re_string = re_string.replace('[', r'\[')
+	re_string = re_string.replace(']', r'\]')
 	re_string = re_string.replace('+', r'\+')
 	re_string = r"(?<!\w)%s(?!\w)" % re_string
 	return re_string

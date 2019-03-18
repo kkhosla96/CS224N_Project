@@ -1,0 +1,62 @@
+fluorogen
+direct fluorescent antibody test
+infectious mononucleosis
+polyclonal antibodies
+indirect ELISA
+precipitin
+plantibodies
+immunohistochemistry
+test specificity
+affinity maturation
+complement fixation test
+monoclonal antibodies
+immunofiltration
+viral hemagglutination inhibition assay
+indirect antiglobulin test
+direct agglutination assay
+fluorescent antibody (FA) techniques
+IAT
+direct Coombs’ test
+immunoelectrophoresis
+direct antihuman globulin test
+direct hemagglutination assay
+sandwich ELISA
+direct ELISA
+radial immunodiffusion
+mAbs
+Ouchterlony assay
+chromogenic substrate
+humanized monoclonal antibodies
+immunochromatographic assays
+antibody screen
+fluorescent enzyme immunoassays
+microtiter plates
+DFA tests
+precipitin ring test
+equivalence zone
+flow cytometry
+IEP
+antiserum
+Coombs’ reagent
+false negative
+false positive
+double immunodiffusion
+IHC
+flocculant
+hybridoma
+indirect Coombs’ test
+seroconversion
+indirect agglutination assay
+FACS
+lateral flow test
+test sensitivity
+avidity
+immunostaining
+indirect fluorescent antibody test
+immunocytochemistry
+fluorophore
+FEIA
+cross-match
+ICC
+VDRL
+fluorescence-activated cell sorter

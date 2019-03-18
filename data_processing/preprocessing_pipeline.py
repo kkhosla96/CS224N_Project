@@ -20,7 +20,7 @@ if ".." not in sys.path:
 from utils import normalize, clean_tokens_gen, term_to_regex, custom_seg
 from candidate_extraction import noun_phrase_chunk
 from glossary_processing import find_missing_gold_chapter
-import pdb
+from pdb import set_trace as debug
 
 SENTENCES_FOLDER =  "../data/textbook_sentences"
 CANDIDATES_FOLDER = "../data/candidates"

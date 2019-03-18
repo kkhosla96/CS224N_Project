@@ -1,10 +1,9 @@
 454 sequencing
-pyroprocessing
-5' cap
+pyrosequencing
+5’ cap
 70S ribosome
 80S ribosome
-A site
-aminoacyl site
+A (aminoacyl) site
 A-B exotoxin
 ABO blood group system
 absorbance
@@ -65,7 +64,6 @@ amantadine
 amensalism
 Ames test
 amino acid
-aminoacyl-tRNA synthetase
 aminoglycosides
 amoebiasis
 amoebic dysentery
@@ -74,8 +72,6 @@ amphitrichous
 amphotericin B
 amplitude
 anabolism
-anaerobe chamber
-anaerobe jar
 anaerobic respiration
 analytical epidemiology
 anaphylactic shock
@@ -167,7 +163,6 @@ basal body
 base sequence
 basic dye
 basidia
-basidium
 basidiocarps
 basidiospores
 basophils
@@ -227,7 +222,7 @@ carbuncle
 carcinogen
 case-control study
 cat-scratch disease
-catabolic activator protein
+catabolite activator protein
 CAP
 cAMP receptor
 catabolism
@@ -293,8 +288,6 @@ citric acid cycle
 class switching
 clindamycin
 clone
-clusters of differentiation
-CD
 coagulase
 coarse focusing knob
 coccidioidomycosis
@@ -325,7 +318,6 @@ complementary base pairs
 complementary DNA
 cDNA
 complex media
-complex virus
 compound microscope
 condenser lens
 conditional mutation
@@ -365,7 +357,7 @@ cryptococcosis
 cryptosporidiosis
 culture density
 culture medium
-cutaneous mycosis
+cutaneous mycoses
 cyanobacteria
 cyclic AMP
 cAMP
@@ -406,7 +398,6 @@ degranulation
 dehydration synthesis
 deletion
 Deltaproteobacteria
-denatured protein
 dendrites
 dengue fever
 dental calculus
@@ -422,7 +413,7 @@ desiccation
 desquamation
 diapedesis
 diaphragm
-differential interference-contrast microscope
+differential interference contrast microscope
 differential media
 differential staining
 diffraction
@@ -516,8 +507,7 @@ enteroinvasive
 enteropathogenic
 enterotoxigenic
 enterotoxin
-Entner-Doudorof pathway
-ED pathway
+Entner-Doudoroff (ED) pathway
 enveloped virus
 enzyme
 enzyme immunoassay
@@ -561,20 +551,18 @@ exon
 exonuclease
 exotoxin
 experimental epidemiology
-experimental study
 exposure
 extended-spectrum β-lactamases
 ESBLs
-extensively drug resistant
+extensively drug-resistant
 extracellular matrix
 extracellular polymeric substances
 EPS
 extrachromosomal DNA
 extravasation
-F cell
+F+ cell
 recipient cell
 F pilus
-F pili
 F plasmid
 fertility factor
 Fab region
@@ -583,8 +571,7 @@ false negative
 false positive
 fastidious organism
 fatty acid
-fatty acid methyl ester analysis
-FAME analysis
+fatty acid methyl ester (FAME) analysis
 Fc region
 feedback inhibition
 fermentation
@@ -599,7 +586,7 @@ flagellum
 flagella
 flavin adenine dinucleotide
 FAD
-FADH
+FADH2
 flight mass spectrometry
 MALDI-TOF
 flocculant
@@ -611,8 +598,7 @@ fluorescence microscope
 fluorescence-activated cell sorter
 FACS
 fluorescent
-fluorescent antibody techniques
-FA techniques
+fluorescent antibody (FA) techniques
 fluorescent enzyme immunoassay
 FEIA
 fluorochromes
@@ -733,7 +719,7 @@ holoenzyme
 holozoic
 homolactic fermentation
 hookworm infection
-horizontal direct transmission
+horizontal direct contact transmission
 horizontal gene transfer
 host range
 HTST
@@ -782,7 +768,7 @@ immunoglobulin
 immunohistochemistry
 IHC
 immunology
-immunostain
+immunostaining
 impetigo
 in vitro
 in vivo
@@ -811,7 +797,7 @@ infectious mononucleosis
 inflammation
 influenza
 initiation factors
-initiation of DNA replication
+initiation of replication
 initiation of transcription
 initiation of translation
 inoculum
@@ -934,7 +920,7 @@ maturation
 mature naïve T cell
 maximum growth pH
 maximum growth temperature
-maximum permissible oxygen concentration
+maximum permissive oxygen concentration
 measles
 mebendazole
 mechanical transmission
@@ -988,7 +974,7 @@ minimal inhibitory concentration
 MIC
 minimum growth pH
 minimum growth temperature
-minimum permissible oxygen concentration
+minimum permissive oxygen concentration
 missense mutation
 mitochondrial matrix
 mitochondrion
@@ -1052,15 +1038,14 @@ NK cells
 natural passive immunity
 naïve mature B cell
 necrotizing fasciitis
-negative single-strand RNA
--ssRNA
+negative (−) single-strand RNA
 negative stain
 Nematoda
 neonatal herpes
 neonatal meningitis
 neonatal tetanus
 neurocysticercosis
-neuromycosis
+neuromycoses
 neuron
 neuropathy
 neurotoxoplasmosis
@@ -1143,8 +1128,7 @@ oxazolidinones
 oxidation reaction
 oxidative phosphorylation
 oxygenic photosynthesis
-P site
-peptidyl site
+P (peptidyl) site
 palatine tonsil
 pandemic disease
 papilloma
@@ -1194,7 +1178,7 @@ persister
 pertussis
 pertussis toxin
 petechiae
-Petroff-Hausser counting chamber
+Petroff-Hausser chamber
 Peyer’s patches
 phagemid
 phagocytosis
@@ -1212,8 +1196,7 @@ phosphodiester bonds
 phosphogluconate pathway
 phospholipase
 phospholipid
-phospholipid-derived fatty acids analysis
-PLFA analysis
+phospholipid-derived fatty acids (PLFA) analysis
 phosphorescence
 photosynthesis
 photosynthetic pigment
@@ -1272,7 +1255,7 @@ polysome
 polysaccharide
 portal of entry
 portal of exit
-positive strand
+positive-strand
 positive stain
 pour plate method
 praziquantel
@@ -1302,7 +1285,6 @@ prokaryotic cell
 promoter
 propagated spread
 prophage
-prospective study
 prostate gland
 prostatitis
 protease
@@ -1385,7 +1367,6 @@ restriction endonuclease
 restriction enzyme
 restriction fragment length polymorphism
 retort
-retrospective study
 retrovirus
 reverse transcriptase
 reverse transcriptase inhibitor
@@ -1540,7 +1521,7 @@ strongyloidiasis
 structural formula
 structural isomers
 subacute bacterial endocarditis
-subclinical disease
+subclinical infection
 subcutaneous mycosis
 substrate
 substrate-level phosphorylation
@@ -1571,7 +1552,7 @@ systemic inflammatory response syndrome
 SIRS
 systemic lupus erythematosus
 SLE
-systemic mycosis
+systemic mycoses
 T lymphocyte
 T-cell receptors
 TCR
@@ -1674,7 +1655,7 @@ tularemia
 tumbles
 tumbling
 tumor
-tumor-inducing plasmid
+tumor-inducing (Ti) plasmid
 turbidity
 two-photon microscope
 tympanic membrane
@@ -1684,7 +1665,7 @@ type II hypersensitivity
 type III hypersensitivity
 type IV hypersensitivity
 typhoid fever
-UHT pasteurization
+ultra-high-temperature (UHT) pasteurization
 ulcer
 ultramicrotome
 unit membrane
@@ -1716,7 +1697,7 @@ vector
 vegetative cell
 vehicle transmission
 vein
-vertical direct transmission
+vertical direct contact transmission
 vertical gene transfer
 viable cell
 viable plate count

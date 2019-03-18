@@ -1,0 +1,63 @@
+death phase
+generation time
+culture density
+optimum growth temperature
+Petroff-Hausser chamber
+membrane filtration technique
+fastidious organisms
+psychrophile
+lag phase
+viable cell
+spread plate method
+tolerance
+lyophilization
+turbidity
+complex media
+persister
+minimum growth temperature
+decline phase
+halotolerant
+MPN
+autoinducer
+quorum sensing
+pour plate method
+thioglycolate medium
+enrichment cultures
+differential media
+alkaliphile
+CFU
+minimum growth pH
+maximum growth temperature
+superoxide dismutase
+direct microscopic cell count
+neutrophile
+thioglycolate tube culture
+adhesion
+extracellular polymeric substances
+nitrogenous bases
+doubling time
+optimum growth pH
+psychrotrophs
+capnophile
+minimum permissive oxygen concentration
+serial dilution
+selective media
+colony-forming unit
+maximum permissive oxygen concentration
+maximum growth pH
+peroxidase
+log phase
+reactive oxygen species
+barophiles
+chemically defined media
+thymine
+viable plate count
+microaerophile
+origin of replication
+most probable number
+membrane filtration
+optimum oxygen concentration
+water activity
+intrinsic growth rate
+candle jar
+autoclave
