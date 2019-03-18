@@ -28,6 +28,7 @@ def init_vector_map(unigrams):
 	return vector_map
 
 def calculate_vectors(sentences, vector_map):
+	bc = BertClient()
 	i = 0
 	while i < len(sentences):
 		sentence_batch = sentences[i:i + BATCH_SIZE]
@@ -42,7 +43,6 @@ def calculate_vectors(sentences, vector_map):
 		i += BATCH_SIZE
 
 def write_vectors(sentences, unigrams, vector_file_path):
-	bc = BertClient()
 	vector_map = init_vector_map(unigrams) # stores unigram -> [num_occurences, total_vector]
 	calculate_vectors(sentences, vector_map)
 	vector_file = open(vector_file_path, 'w')
