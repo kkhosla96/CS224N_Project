@@ -1,0 +1,53 @@
+asepsis
+noncritical item
+critical item
+use-dilution test
+viricides
+neutrophils
+mumps
+sanitization
+quaternary ammonium salts
+sterile field
+disinfection
+degerming
+fungistatic
+semicritical item
+measles
+phenol coefficient
+TDT
+D-value
+carbapenem-resistant Enterobacteriaceae
+bactericides
+quats
+supercritical fluid
+commercial sterilization
+sonication
+peroxygen
+HEPA filter
+bisbiguanide
+alkylating agent
+tincture
+mucous membranes
+foodborne diseases
+microbial death curve
+zone of inhibition
+gingivitis
+iodophor
+dry-heat sterilization
+in-use test
+retorts
+bacteriostatic
+TDP
+disk-diffusion method
+HTST
+decimal reduction time
+aseptic technique
+ultra-high-temperature (UHT) pasteurization
+antisepsis
+ophthalmia neonatorum
+sterilant
+phenolics
+CRE
+DRT
+pyelonephritis
+moist-heat sterilization
