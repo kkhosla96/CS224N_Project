@@ -4,10 +4,10 @@ import pickle
 num_positive = 30
 num_negative = 200
 
-gold_set_file = "../data/gold/openstax_biology/openstax_biology_gold_lemmatized.pkl"
-candidates_set_file = "../data/candidates/openstax_biology/openstax_biology_sentences_np.pkl"
-seed_set_path = "../data/seed_sets/openstax_biology_seed.txt"
-seed_set_pkl = "../data/seed_sets/openstax_biology_seed.pkl"
+gold_set_file = "../data/gold/openstax_microbiology/all_golds_preprocessed.pkl"
+candidates_set_file = "../data/candidates/openstax_biology/all_candidates_preprocessed.pkl"
+seed_set_path = "../data/seed_sets/openstax_microbiology_seed.txt"
+seed_set_pkl = "../data/seed_sets/openstax_microbiology_seed.pkl"
 
 gold_fh = open(gold_set_file, "rb")
 candidate_fh = open(candidates_set_file, "rb")
