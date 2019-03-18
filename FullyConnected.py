@@ -69,7 +69,7 @@ class FullyConnected(nn.Module):
 			self.y_train = self.y_train.cuda()
 
 		loss_function = nn.BCELoss()
-		optimizer = optim.SGD(self.parameters(), lr, momentum)
+		optimizer = optim.SGD(self.parameters(), lr, momentum, weight_decay=1e-3)
 
 		batch_starting_index = 0
 		number_examples = len(self.X_train)
