@@ -166,9 +166,11 @@ class DeepCNN(nn.Module):
 		self.vocab = vocab
 		self.length_of_term = vocab.get_term_length()
 		self.word_embed_size = embedding_layer.weight.size()[1]
-		self.in_channels = self.word_embed_size
 		self.initial_out_channels = 64 
 		self.embedding_layer = embedding_layer
+		dimensionality_reduce = 300
+		self.dimensionality_reduction = nn.Linear(self.word_embed_size, dimensionality_reduce)
+		self.in_channels = dimensionality_reduce 
 		self.gpu = gpu
 
 		grams = [nn.Conv1d(self.in_channels, self.initial_out_channels, kernel_size) for kernel_size in range(2, self.length_of_term + 1)]
@@ -182,6 +184,7 @@ class DeepCNN(nn.Module):
 		self.linear = nn.Linear((gram_output_dimension_total - 3) * (self.initial_out_channels - 3) * self.second_out_channels, 1)
 		self.dropout = nn.Dropout(p=.5)
 		if self.gpu:
+			self.dimensionality_reduction
 			self.grams.cuda()
 			self.max1.cuda()
 			self.relu.cuda()
@@ -196,6 +199,7 @@ class DeepCNN(nn.Module):
 		if self.gpu:
 			indices = indices.cuda()
 		embeddings = self.embedding_layer(indices)
+		embeddings = self.dimensionality_reduction(embeddings)
 		embeddings = torch.transpose(embeddings, 1, 2)
 		feature_maps = [self.grams[idx].forward(embeddings) for idx in range(len(self.grams))]
 		cat = torch.cat(feature_maps, dim=2)

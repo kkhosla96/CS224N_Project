@@ -262,11 +262,11 @@ def supervised_learning(args):
 
 	cnn = DeepCNN(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=200, verbose=True)
+	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=30, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	file_stem = "./experiment_results/supervised_learning_deep_bert/"
+	file_stem = "./experiment_results/supervised_learning_deep_bert_dr/"
 	save_file_txt = file_stem + "predictions.txt" 
 	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
