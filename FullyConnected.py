@@ -20,12 +20,13 @@ class FullyConnected(nn.Module):
 		self.gpu = gpu
 
 		self.embedding_layer = embedding_layer
-		first_layer_neurons = self.length_of_term * self.word_embed_size
+		first_layer_neurons = self.length_of_term * 300
 		second_layer_neurons = int(1.25 * first_layer_neurons)
 		third_layer_neurons = int(first_layer_neurons)
 		fourth_layer_neurons = int(.66 * first_layer_neurons)
 		layer_sizes = [first_layer_neurons, second_layer_neurons, third_layer_neurons, fourth_layer_neurons]
 		self.model = nn.Sequential()
+		self.model.add_module("dimensionality_reduction", nn.Linear(self.word_embed_size * self.length_of_term, first_layer_neurons))
 		self.model.add_module("dropout1", nn.Dropout(p=.5))
 		self.model.add_module("linear1", nn.Linear(first_layer_neurons, second_layer_neurons))
 		self.model.add_module("relu1", nn.ReLU())
@@ -68,7 +69,7 @@ class FullyConnected(nn.Module):
 			self.y_train = self.y_train.cuda()
 
 		loss_function = nn.BCELoss()
-		optimizer = optim.SGD(self.parameters(), lr, momentum)
+		optimizer = optim.SGD(self.parameters(), lr, momentum, weight_decay=1e-3)
 
 		batch_starting_index = 0
 		number_examples = len(self.X_train)

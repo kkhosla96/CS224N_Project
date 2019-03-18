@@ -255,18 +255,18 @@ def supervised_learning(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_biology/bertvectors.vec"
+	word_vector_file = "./data/vectors/openstax_biology/averagebertvectors.vec"
 	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
 
 	cnn = DeepCNN(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=200, verbose=True)
+	losses = cnn.train_on_data(X_train, y_train, lr=.01, num_epochs=150, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	file_stem = "./experiment_results/supervised_learning_deep_bert/"
+	file_stem = "./experiment_results/supervised_learning_deep_averagebert_dr/"
 	save_file_txt = file_stem + "predictions.txt" 
 	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
@@ -432,19 +432,20 @@ def supervised_learning_fullyconnected(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_biology/bertvectors.vec"
+	word_vector_file = "./data/vectors/openstax_biology/averagebertvectors.vec"
 	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
 
 	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=500, verbose=True)
+	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=250, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	save_file_txt = "./experiment_results/supervised_learning_fullyconnected_bert/predictions.txt"
-	save_file_pkl = "./experiment_results/supervised_learning_fullyconnected_bert/predictions.pkl"
+	file_stem = "./experiment_results/supervised_learning_fullyconnected_averagebert_dr/"
+	save_file_txt = file_stem + "predictions.txt"
+	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
 	if not os.path.exists(directory):
 		os.makedirs(directory)
@@ -475,7 +476,7 @@ def supervised_learning_fullyconnected(args):
 	print(accuracy)
 	print(precision)
 	print(recall)
-	save_plot = "./experiment_results/supervised_learning_fullyconnected_bert/training_loss.png"
+	save_plot = "training_loss.png"
 	if os.path.isfile(save_plot):
 		os.remove(save_plot)
 	fig, ax  = plt.subplots(nrows=1, ncols=1)
