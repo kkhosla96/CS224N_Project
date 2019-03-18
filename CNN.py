@@ -184,7 +184,7 @@ class DeepCNN(nn.Module):
 		self.linear = nn.Linear((gram_output_dimension_total - 3) * (self.initial_out_channels - 3) * self.second_out_channels, 1)
 		self.dropout = nn.Dropout(p=.5)
 		if self.gpu:
-			self.dimensionality_reduction
+			self.dimensionality_reduction.cuda()
 			self.grams.cuda()
 			self.max1.cuda()
 			self.relu.cuda()
