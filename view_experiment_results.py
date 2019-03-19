@@ -1,7 +1,7 @@
 import pickle
 
 predictions_file_stem = "./experiment_results/%s"
-file_ender = "supervised_learning_deep_averagebert_dr/predictions.pkl"
+file_ender = "supervised_learning_deep/predictions.pkl"
 
 results = pickle.load(open(predictions_file_stem % file_ender, "rb"))
 
