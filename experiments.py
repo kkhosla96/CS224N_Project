@@ -221,8 +221,8 @@ def deepcnn_fullyconnected_cotraining(args):
 	print(recall)
 
 def supervised_learning(args):
-	candidates = "./data/candidates/openstax_biology/all_candidates_preprocessed.txt"
-	gold_file = "./data/gold/openstax_biology/all_golds_preprocessed.txt"
+	candidates = "./data/candidates/openstax_microbiology/all_candidates_preprocessed.txt"
+	gold_file = "./data/gold/openstax_microbiology/all_golds_preprocessed.txt"
 
 	negative = set([line.strip() for line in open(candidates)])
 	positive = set([line.strip() for line in open(gold_file)])
@@ -255,7 +255,7 @@ def supervised_learning(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_biology/averagebertvectors.vec"
+	word_vector_file = "./data/vectors/openstax_microbiology/microbiology_bertvectors.vec"
 	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
@@ -266,7 +266,7 @@ def supervised_learning(args):
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	file_stem = "./experiment_results/supervised_learning_deep_averagebert_dr/"
+	file_stem = "./experiment_results/supervised_learning_deep_averagebert_dr_microbiology/"
 	save_file_txt = file_stem + "predictions.txt" 
 	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
