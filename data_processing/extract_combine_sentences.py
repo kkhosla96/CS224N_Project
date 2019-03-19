@@ -15,7 +15,7 @@ def main():
 	textbook_name = sys.argv[1]
 	all_sents = []
 	for i in range(1,num_chapters+1):
-		file = data_dir + textbook_name + "/" + textbook_name + "_chapter_" + str(i) + "_sentences.txt"
+		file = data_dir + textbook_name + "/" + "chapter_" + str(i) + "_sentences.txt"
 		doc_text = io.open(file, "r", encoding='utf-8').read().replace('\n', ' ')
 		doc = nlp(doc_text)
 		for j, sent in enumerate(doc.sents):

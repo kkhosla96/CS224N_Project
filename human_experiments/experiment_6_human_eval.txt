@@ -1,0 +1,80 @@
+Here are three groups of terms, each produced by a different model.
+Model 1: ['recessive pattern', 'internal receptor', 'cycad', 'aminoacyl', 'substratum']
+Model 2: ['ribosome', 'micelle', 'mesoderm', 'quorum', 'fecundity']
+Model 3: ['birth rate', 'enterocoelom', 'nectar', 'mesophyll', 'zoology']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['lily', 'psii psi', 'saturated fatty acid', 'erk', 'average size']
+Model 2: ['phosphorylation', 'byproduct', 'polymerization', 'cleavage', 'nitrification']
+Model 3: ['caecilian', 'mollusca', 'beta cell', 'venous po two', 'grazing food web']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['configuration', 'cross reactivity', 'csf', 'ace', 'reproductive cloning']
+Model 2: ['avidity', 'calyx', 'gizzard', 'proteome', 'genotype']
+Model 3: ['transcription', 'population', 'plasmolysis', 'pseudostratifi', 'gastric phase']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['uv ray', 'superficial', 'pressure thoracic cavity', 'animal virus', 'nucleosomes']
+Model 2: ['homeostasis', 'proteome', 'fibrocartilage', 'depolarization', 'viroid']
+Model 3: ['connective tissue', 'swim bladder', 'lung capacity', 'audition', 'node of ranvi']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['exergonic', 'asexual', 'sporopollenin', 'transcriptional level', 'punctuated equilibrium']
+Model 2: ['eyespot', 'permissive', 'one - child policy', 'anterior pituitary', 'endocrine gland release hormone']
+Model 3: ['tuber', 'pancreas', 'germ cell', 'inner cell mass', 'vasopressin']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['chemoautotrophs', 'transpiration', 'receptive field', 'covalent bond', 'exergonic reaction']
+Model 2: ['simple ivf', 'enhancer', 'peritubular', 'chlorophyta', 'anterior pituitary']
+Model 3: ['neurodegenerative disorders', 'corona', 'somite', 'opposition', 'hypersensitivity']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['nucleosomes', 'paracrine', 'actin', 'auxin', 'mycorrhiza']
+Model 2: ['nitrification', 'cephalothorax', 'cecotrophe', 'chromophore', 'intersexual selection']
+Model 3: ['root', 'desmosome', 'sucrase', 'shotgun sequencing', 'pseudopeptidoglycan']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['directional selection', 'cell lymphocyte', 'dodder', 'clade', 'sepal']
+Model 2: ['polymerization', 'micelle', 'mesoderm', 'homeostasis', 'chlorophyta']
+Model 3: ['hydrothermal vent', 'conispiral', 'strobilus', 'anticodon', 'acromegaly']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['reproductive cloning', 'enzyme linked receptor', 'classroom', 'hypocotyl', 'protein signature']
+Model 2: ['hypothyroidism', 'anterior pituitary', 'phylogenetic chart', 'peritubular', 'genotype']
+Model 3: ['binary fission', 'epiphyte', 'amnion', 'organism', 'dna methylation']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['segregation', 'quorum sensing', 'food reserve', 'venule', 'configuration']
+Model 2: ['olfaction', 'calyx', 'enterocoelom', 'anthropoid', 'blastula']
+Model 3: ['parathyroid hormone', 'microglia', 'inorganic compound', 'protraction', 'mitosis']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
