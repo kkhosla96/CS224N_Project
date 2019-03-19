@@ -1,0 +1,80 @@
+Here are three groups of terms, each produced by a different model.
+Model 1: ['resistance mechanism', 'organism genus', 'herd', 'polylinker', 'ultra low']
+Model 2: ['activator', 'lymphoblast', 'gingivitis', 'deoxyribonucleotide', 'double immunodiffusion']
+Model 3: ['fragmentation', 'secondary response', 'selective iga deficiency', 'endergonic reaction', 'synapse']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['thyroiditis', 'called', 'low gram positive', 'bond atom', 'nucleoid']
+Model 2: ['mrna transcript', 'scanning tunneling microscope', 'initiation of replication', 'trna', 'eukaryote']
+Model 3: ['culture medium', 'nasopharynx', 'vaginitis', 'enzyme - link immunosorbent assay', 'mad cow disease']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['anti rh factor', 'avidity', 'element blood', 'dna probe', 'trichiasis']
+Model 2: ['peptide bond', 'adapter', 'spontaneous mutation', 'mrna transcript', 'microarray']
+Model 3: ['extensively drug - resistant', 'neuromycose', 'abo blood group system', 'mouse', 'biological transmission']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['hcv', 'endoscope', 'prism', 'organism genus', 'cytoskeleton']
+Model 2: ['hdv', 'chikungunya fever', 'lymphoblast', 'adapter', 'dioecious']
+Model 3: ['oxidation reaction', 'treponemal serologic test', 'gonorrhea', 'epigenetic regulation', 'sticky end']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['defense discussed', 'contained kingdom', 'independent reaction', 'nontreponemal', 'plant true breeding']
+Model 2: ['anthrax', 'vancomycin', 'arachnoid mater', 'dna gyrase', 'natural killer cells']
+Model 3: ['gene therapy', 'acidic dye', 'ppp', "koplik 's spot", 'cysticercus']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['passive immunity', 'pt', 'endoscope', 'chronic inflammation', 'immunocompromised people']
+Model 2: ['magnification', 'vacuole', 'sonication', 'natural killer cells', 'endogenous pyrogen']
+Model 3: ['larynx', 'holozoic', 'serotype', 'phototroph', 'haploid']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['tertiary quaternary', 'deeply branching bacteria', 'static', 'inflammation conjunctiva', 'propionic']
+Model 2: ['thymocyte', 'double immunodiffusion', 'tdp', 'disulfide bond', 'phagemid']
+Model 3: ['induce mutation', 'generalize transduction', 'colony - form unit', 'etest', 'conjugate protein']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['helper virus', 'cell', 'antimicrobial peptide amp', 'polarized light', 'increased vascular permeability']
+Model 2: ['noncyclic photophosphorylation', 'endogenous pyrogen', 'urethritis', 'trna', 'dioecious']
+Model 3: ['supercritical fluid', 'protozoan', 'chagas disease', 'pharynx', 'drug resistance']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['produced gram positive', 'carolus linnaeus', 'immunoelectrophoresis', 'cytoskeleton', 'mannose binding']
+Model 2: ['lincosamide', 'clindamycin', 'fimbriae', 'adapter', 'anthrax']
+Model 3: ['polar tubule', 'carbohydrate', 'mcs', 'peroxygen', 'x - link agammaglobulinemia']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
+Here are three groups of terms, each produced by a different model.
+Model 1: ['binomial', 'coli', 'immunostaining', 'learning center', 'thallus']
+Model 2: ['dermis', 'inactivation', 'dna gyrase', 'mature transcript', 'atovaquone']
+Model 3: ['sweat gland', 'nicotine adenine dinucleotide', 'case - control study', 'ribulose bisphosphate carboxylase', 'okazaki fragment']
+Please rank the quality of the glossary terms produced by the three models from lowest to highest using a comma separated sequence of numbers (ex: 3,1,2): 
+
+
+
