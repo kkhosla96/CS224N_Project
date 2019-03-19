@@ -273,6 +273,8 @@ def supervised_learning(args):
 	if not os.path.exists(directory):
 		os.makedirs(directory)
 
+	torch.save(cnn.state_dict(), file_stem + "model.pt")
+
 	results = cnn.predict(X_test)
 	for i in range(len(results)):
 		is_positive = ' '.join(results[i][0]) in positive_set
