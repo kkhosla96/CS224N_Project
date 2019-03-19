@@ -1,0 +1,25 @@
+paraphyletic
+convergent evolution
+systematics
+binomial nomenclature
+taxon
+maximum likelihood
+clade
+phylogeny
+evolutionary reversal
+opsin
+homoplasy
+ancestral trait
+derived trait
+outgroup
+node
+polyphyletic
+gizzard
+self-incompatible
+parsimony
+amino acid replacements
+ingroup
+molecular clock
+monophyletic
+shared derived trait
+synapomorphy

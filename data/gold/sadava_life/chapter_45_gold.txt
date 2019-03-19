@@ -1,0 +1,39 @@
+nodes of Ranvier
+CNS
+patch clamping
+LTP
+hyperpolarization
+long-term potentiation
+PNS
+afferent
+postsynaptic cell
+depolarization
+chemical synapse
+metabotropic receptors
+amygdala
+synapse
+electrical synapse
+oligodendrocytes
+interneurons
+neural networks
+presynaptic neuron
+chemically gated channels
+saltatory conduction
+resting potential
+olfactory
+neuromuscular junction
+ionotropic receptors
+dendrite
+peripheral nervous system
+brainstem
+axon hillock
+efferent
+sensory neurons
+microglia
+spatial summation
+mechanically gated channels
+blood–brain barrier
+glia
+Schwann cell
+temporal summation
+cerebral cortex

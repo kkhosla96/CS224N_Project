@@ -1,0 +1,40 @@
+HIV
+initiation site
+polyribosome
+intron
+consensus sequences
+spliceosome
+stop codon
+small nuclear ribonucleoprotein particles
+start codon
+splicing
+polysome
+promoter
+RNA splicing
+tRNA
+snRNP
+degenerate
+glycosylation
+exon
+recognition sequence
+proteolysis
+docking protein
+messenger RNA
+initiation complex
+transfer RNA
+microRNAs
+cleavage
+pro-
+RNAis
+G cap
+poly A tail
+elongation
+anticodon
+codon
+RNA polymerase
+nucleic acid hybridization
+hybridize
+terminator
+mutagen
+bp
+pre-mRNA

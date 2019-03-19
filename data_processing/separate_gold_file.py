@@ -71,8 +71,8 @@ def dump_terms_to_files(term_dict, textbook_name, num_chapters):
 			pickle.dump(term_set, f)
 
 def main():
-	gold_chapter_dict, changes, gold_terms = build_chapter_dict("openstax_microbiology", 26, {}, True)
-	dump_terms_to_files(gold_chapter_dict, "openstax_microbiology", 26)
+	gold_chapter_dict, changes, gold_terms = build_chapter_dict("sadava_life", 59, {}, True)
+	dump_terms_to_files(gold_chapter_dict, "sadava_life", 59)
 
 if __name__ == '__main__':
 	main()
