@@ -213,11 +213,11 @@ class DeepCNN(nn.Module):
 		dropped = self.dropout(flat)
 		scores = self.linear(dropped)
 		scores = scores.squeeze(dim=1)
-		# probs = torch.sigmoid(scores) 
-		return scores 
+		probs = torch.sigmoid(scores) 
+		return probs
 
 	def predict(self, terms):
-		probs = torch.sigmoid(self.forward(terms))
+		probs = self.forward(terms)
 		ret = []
 		for index in range(len(probs)):
 			prob = probs[index].item()
@@ -233,7 +233,7 @@ class DeepCNN(nn.Module):
 		if (self.gpu):
 			self.y_train = self.y_train.cuda()
 
-		loss_function = nn.BCEWithLogitsLoss(pos_weight=torch.tensor([1/30.]).cuda())
+		loss_function = nn.BCELoss()
 		optimizer = optim.SGD(self.parameters(), lr, momentum, weight_decay=1e-3)
 
 		batch_starting_index = 0
