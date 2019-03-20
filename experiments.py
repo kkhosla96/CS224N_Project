@@ -222,8 +222,8 @@ def deepcnn_fullyconnected_cotraining(args):
 	print(recall)
 
 def supervised_learning(args):
-	candidates = "./data/candidates/openstax_micro_and_bio/all_candidates_preprocessed.txt"
-	gold_file = "./data/gold/openstax_micro_and_bio/all_golds_preprocessed.txt"
+	candidates = "./data/candidates/openstax_biology/all_candidates_preprocessed.txt"
+	gold_file = "./data/gold/openstax_biology/all_golds_preprocessed.txt"
 
 	negative = set([line.strip() for line in open(candidates)])
 	positive = set([line.strip() for line in open(gold_file)])
@@ -261,7 +261,7 @@ def supervised_learning(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_micro_and_bio/openstax_micro_and_bio_bertvectors.vec"
+	word_vector_file = "./data/vectors/openstax_biology/biology_bertvectors.vec"
 	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
@@ -272,7 +272,7 @@ def supervised_learning(args):
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	file_stem = "./experiment_results/supervised_learning_deep_averagebert_dr_micro_and_bio_weighted/"
+	file_stem = "./paper_results/supervised_deep_biology/"
 	save_file_txt = file_stem + "predictions.txt" 
 	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
@@ -305,6 +305,12 @@ def supervised_learning(args):
 	accuracy = accuracy_count / len(classes)
 	precision = precision_recall_count / number_predicted_positive
 	recall = precision_recall_count / number_positive_in_test
+
+	stats_file = file_stem + "stats.txt"
+	with open(stats_file, 'w') as f:
+		f.write(str(accuracy) + "\n")
+		f.write(str(precision) + "\n")
+		f.write(str(recall) + "\n")
 
 	print(accuracy)
 	print(precision)
@@ -440,23 +446,25 @@ def supervised_learning_fullyconnected(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_biology/averagebertvectors.vec"
+	word_vector_file = "./data/vectors/openstax_biology/biology_bertvectors.vec"
 	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
 
 	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=250, verbose=True)
+	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=200, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	file_stem = "./experiment_results/supervised_learning_fullyconnected_averagebert_dr/"
+	file_stem = "./paper_results/supervised_fc_biology/"
 	save_file_txt = file_stem + "predictions.txt"
 	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
 	if not os.path.exists(directory):
 		os.makedirs(directory)
+
+	torch.save(net.state_dict(), file_stem + "model.pt")
 
 	results = net.predict(X_test)
 	for i in range(len(results)):
@@ -478,16 +486,26 @@ def supervised_learning_fullyconnected(args):
 			accuracy_count += 1
 		if classes[i] == 1 and y_test[i] == 1:
 			precision_recall_count += 1
+
 	accuracy = accuracy_count / len(classes)
 	precision = precision_recall_count / number_predicted_positive
 	recall = precision_recall_count / number_positive_in_test
+
+	stats_file = file_stem + "stats.txt"
+	with open(stats_file, 'w') as f:
+		f.write(str(accuracy) + "\n")
+		f.write(str(precision) + "\n")
+		f.write(str(recall) + "\n")
+
 	print(accuracy)
 	print(precision)
 	print(recall)
+
 	save_plot = "training_loss.png"
 	if os.path.isfile(save_plot):
 		os.remove(save_plot)
 	fig, ax  = plt.subplots(nrows=1, ncols=1)
+
 	ax.plot(losses)
 	fig.savefig(save_plot)
 	# plt.plot()
