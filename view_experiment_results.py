@@ -2,12 +2,23 @@ import pickle
 import sys
 import os
 
-PREDICTIONS_FOLDER = "experiment_results"
+PREDICTIONS_FOLDER = "paper_results"
 PREDICTIONS_FILE = "predictions.pkl"
+COTRAINING_FILE = "cotraining_results.pkl"
+CNN_FILE = "cnn/cnn_results.pkl"
+FC_FILE = "fc/fc_results.pkl"
 
 
-def main(experiment_name):
-	file_path = os.path.join(PREDICTIONS_FOLDER, experiment_name, PREDICTIONS_FILE)
+def main(experiment_name, cotraining, model=None):
+	result_file = None
+	if cotraining:
+		if model is None:
+			result_file = COTRAINING_FILE
+		else:
+			result_file = CNN_FILE if model=="cnn" else FC_FILE
+	else:
+		result_file = PREDICTIONS_FILE
+	file_path = os.path.join(PREDICTIONS_FOLDER, experiment_name, result_file)
 	results = pickle.load(open(file_path, "rb"))
 
 	classes = [t[2] for t in results]
@@ -36,7 +47,11 @@ def main(experiment_name):
 	print("F1: {}".format(2 * precision * recall / (precision + recall)))
 
 if __name__ == "__main__":
-	if len(sys.argv) != 2:
-		print("Usage: python view_experiment_results.py <experiment_name>")
+	if len(sys.argv) < 2:
+		print("Usage: python view_experiment_results.py <experiment_name> [--cotraining] [model_name]")
 	else:
-		main(sys.argv[1])
+		cotraining = len(sys.argv) >= 3 and sys.argv[2] == "--cotraining"
+		model = None
+		if cotraining and len(sys.argv) == 4:
+			model = sys.argv[3]
+		main(sys.argv[1], cotraining, model)

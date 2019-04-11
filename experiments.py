@@ -115,11 +115,11 @@ def deepcnn_fullyconnected_cotraining(args):
 	see if we can accomplish something by using cotraining with both the fully connected and deep cnn.
 	'''
 
-	unlabelled_file = "./data/candidates/openstax_biology/openstax_biology_sentences_np.txt"
-	seed_file = "./data/seed_sets/openstax_biology_seed.txt"
+	unlabelled_file = "./data/candidates/openstax_microbiology/all_candidates_preprocessed.txt"
+	seed_file = "./data/seed_sets/openstax_microbiology_seed.txt"
 
-	word_vector_file = "./data/vectors/openstax_biology_vectors.vec"
-	wvp = WordVectorParser(word_vector_file)
+	word_vector_file = "./data/vectors/openstax_microbiology/microbiology_bertvectors.vec"
+	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
 
@@ -127,7 +127,7 @@ def deepcnn_fullyconnected_cotraining(args):
 	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
 	models = [cnn, net]
 
-	file_stem = "./experiment_results/deepcnn_fullyconnected_cotraining/"
+	file_stem = "./paper_results/cotraining_microbiology/"
 	output_data_files = [file_stem + "cnn/data_files/final_set.pkl", file_stem + "fc/data_files/final_set.pkl"]
 	output_label_files = [file_stem + "cnn/label_files/final_labels.pkl", file_stem + "fc/label_files/final_labels.pkl"]
 
@@ -135,7 +135,7 @@ def deepcnn_fullyconnected_cotraining(args):
 		for model in models:
 			model.cuda()
 
-	cotrainer = general_experiment(unlabelled_file, seed_file, output_data_files, output_label_files, models, num_iterations=1)
+	cotrainer = general_experiment(unlabelled_file, seed_file, output_data_files, output_label_files, models, num_iterations=150)
 
 	torch.save(models[0].state_dict(), file_stem + "cnn/cnn.pt")
 	torch.save(models[1].state_dict(), file_stem + "fc/fc.pt")
@@ -146,7 +146,7 @@ def deepcnn_fullyconnected_cotraining(args):
 	net_labeled = set([' '.join(term) for term in net_labeled])
 	cotraining_labeled_set = cnn_labeled | net_labeled
 
-	gold_file = "./data/gold/openstax_biology/openstax_biology_gold_lemmatized.txt"
+	gold_file = "./data/gold/openstax_microbiology/all_golds_preprocessed.txt"
 	seed_set = set([line.strip()[:-1].strip() for line in open(seed_file)])
 
 	positive = set([line.strip() for line in open(gold_file)])
@@ -161,8 +161,8 @@ def deepcnn_fullyconnected_cotraining(args):
 	positive_set = copy(positive)
 	negative_set = copy(negative)
 
-	negative = list(negative)
-	positive = list(positive)
+	negative = list(negative)[int(.9 * len(negative)):]
+	positive = list(positive)[int(.9 * len(positive)):]
 
 	# we are going to evaluate on the rest of the data
 	data = positive + negative
@@ -209,11 +209,11 @@ def deepcnn_fullyconnected_cotraining(args):
 			precision_recall_count += 1
 
 	accuracy = accuracy_count / len(classes)
-	precision = precision_recall_count / number_predicted_positive
+	precision = precision_recall_count / number_predicted_positive if number_predicted_positive > 0 else 0
 	recall = precision_recall_count / len(positive)
 
 	with open(file_stem + "cotraining_results.txt", 'w') as f:
-		for t in classes:
+		for t in cotraining_results:
 			f.write(str(t) + "\n")
 	pickle.dump(cotraining_results, open(file_stem + "cotraining_results.pkl", 'wb'))
 
@@ -261,7 +261,7 @@ def supervised_learning(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_micro_and_bio/openstax_micro_and_bio_bertvectors.vec"
+	word_vector_file = "./data/vectors/openstax_micro_and_bio/micro_and_bio_bertvectors.vec"
 	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
@@ -272,7 +272,7 @@ def supervised_learning(args):
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	file_stem = "./experiment_results/supervised_learning_deep_averagebert_dr_micro_and_bio_weighted/"
+	file_stem = "./paper_results/supervised_deep_micro_and_bio/"
 	save_file_txt = file_stem + "predictions.txt" 
 	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
@@ -305,6 +305,12 @@ def supervised_learning(args):
 	accuracy = accuracy_count / len(classes)
 	precision = precision_recall_count / number_predicted_positive
 	recall = precision_recall_count / number_positive_in_test
+
+	stats_file = file_stem + "stats.txt"
+	with open(stats_file, 'w') as f:
+		f.write(str(accuracy) + "\n")
+		f.write(str(precision) + "\n")
+		f.write(str(recall) + "\n")
 
 	print(accuracy)
 	print(precision)
@@ -406,8 +412,8 @@ def supervised_learning_lstm(args):
 	plt.show()
 
 def supervised_learning_fullyconnected(args):
-	candidates = "./data/candidates/openstax_biology/all_candidates_preprocessed.txt"
-	gold_file = "./data/gold/openstax_biology/all_golds_preprocessed.txt"
+	candidates = "./data/candidates/sadava_life/all_candidates_preprocessed.txt"
+	gold_file = "./data/gold/sadava_life/all_golds_preprocessed.txt"
 
 	negative = set([line.strip() for line in open(candidates)])
 	positive = set([line.strip() for line in open(gold_file)])
@@ -440,23 +446,25 @@ def supervised_learning_fullyconnected(args):
 	X_test = positive_test + negative_test
 	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
 
-	word_vector_file = "./data/vectors/openstax_biology/averagebertvectors.vec"
+	word_vector_file = "./data/vectors/sadava_life/sadava_bertvectors.vec"
 	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
 	vocab = wvp.get_vocab()
 	embedding_layer = wvp.get_embedding_layer()
 
 	net = FullyConnected(vocab, embedding_layer, gpu=args["--cuda"])
 	start = time.time()
-	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=250, verbose=True)
+	losses = net.train_on_data(X_train, y_train, lr=.01, num_epochs=200, verbose=True)
 	end = time.time()
 	print("it took %s seconds to train the data" % str(end - start))
 
-	file_stem = "./experiment_results/supervised_learning_fullyconnected_averagebert_dr/"
+	file_stem = "./paper_results/supervised_fc_sadava/"
 	save_file_txt = file_stem + "predictions.txt"
 	save_file_pkl = file_stem + "predictions.pkl"
 	directory = os.path.dirname(save_file_txt)
 	if not os.path.exists(directory):
 		os.makedirs(directory)
+
+	torch.save(net.state_dict(), file_stem + "model.pt")
 
 	results = net.predict(X_test)
 	for i in range(len(results)):
@@ -478,17 +486,127 @@ def supervised_learning_fullyconnected(args):
 			accuracy_count += 1
 		if classes[i] == 1 and y_test[i] == 1:
 			precision_recall_count += 1
+
 	accuracy = accuracy_count / len(classes)
-	precision = precision_recall_count / number_predicted_positive
+	precision = precision_recall_count / number_predicted_positive if number_predicted_positive > 0 else 0
 	recall = precision_recall_count / number_positive_in_test
+
+	stats_file = file_stem + "stats.txt"
+	with open(stats_file, 'w') as f:
+		f.write(str(accuracy) + "\n")
+		f.write(str(precision) + "\n")
+		f.write(str(recall) + "\n")
+
 	print(accuracy)
 	print(precision)
 	print(recall)
+
 	save_plot = "training_loss.png"
 	if os.path.isfile(save_plot):
 		os.remove(save_plot)
 	fig, ax  = plt.subplots(nrows=1, ncols=1)
+
 	ax.plot(losses)
 	fig.savefig(save_plot)
 	# plt.plot()
 	# plt.show()
+
+def transfer_learning(args):
+	model_to_use = "./paper_results/supervised_deep_biology/model.pt"
+	word_vector_file = "./data/vectors/openstax_biology/biology_bertvectors.vec"
+	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
+	vocab = wvp.get_vocab()
+	embedding_layer = wvp.get_embedding_layer()
+	cnn = DeepCNN(vocab, embedding_layer)
+	cnn.load_state_dict(torch.load(model_to_use))
+
+	candidates = "./data/candidates/sadava_life/all_candidates_preprocessed.txt"
+	gold_file = "./data/gold/sadava_life/all_golds_preprocessed.txt"
+
+	negative = set([line.strip() for line in open(candidates)])
+	positive = set([line.strip() for line in open(gold_file)])
+	negative = negative - positive
+
+	positive_set = copy(positive)
+	negative_set = copy(negative)
+
+	negative = list(negative)
+	positive = list(positive)
+
+	random.seed(42)
+	random.shuffle(negative)
+	random.shuffle(positive)
+	random.seed(time.time())
+
+	number_positive_in_train = int(.9 * len(positive))
+	number_positive_in_test = len(positive) - number_positive_in_train
+	positive_train = positive[:number_positive_in_train]
+	positive_test = positive[number_positive_in_train:]
+
+	number_negative_in_train = int(.9 * len(negative))
+	number_negative_in_test = len(negative) - number_negative_in_train
+	negative_train = negative[:number_negative_in_train]
+	negative_test = negative[number_negative_in_train : number_negative_in_train + number_negative_in_test]
+
+	positive_train = [x.split() for x in positive_train]
+	positive_test = [x.split() for x in positive_test]
+	negative_train = [x.split() for x in negative_train]
+	negative_test = [x.split() for x in negative_test]
+
+	X_train = positive_train + negative_train
+	y_train = [1] * number_positive_in_train + [0] * number_negative_in_train
+
+	X_test = positive_test + negative_test
+	y_test = [1] * number_positive_in_test + [0] * number_negative_in_test
+
+	word_vector_file = "./data/vectors/sadava_life/sadava_bertvectors.vec"
+	wvp = WordVectorParser(word_vector_file, word_vector_length=768)
+	vocab = wvp.get_vocab()
+	embedding_layer = wvp.get_embedding_layer()
+
+	cnn.vocab = vocab
+	cnn.embedding_layer = embedding_layer
+
+	file_stem = "./paper_results/transfer_learning_bio_to_sadava/"
+	save_file_txt = file_stem + "predictions.txt"
+	save_file_pkl = file_stem + "predictions.pkl"
+	directory = os.path.dirname(save_file_txt)
+	if not os.path.exists(directory):
+		os.makedirs(directory)
+
+	results = cnn.predict(X_test)
+	for i in range(len(results)):
+		is_positive = ' '.join(results[i][0]) in positive_set
+		t = results[i]
+		results[i] = (*t, 1 if is_positive else 0)
+	with open(save_file_txt, 'w') as f:
+		for t in results:
+			f.write(str(t) + "\n")
+	pickle.dump(results, open(save_file_pkl, 'wb'))
+
+
+	classes = [t[2] for t in results]
+	number_predicted_positive = sum(classes)
+	accuracy_count = 0
+	precision_recall_count = 0
+	for i in range(len(classes)):
+		if classes[i] == y_test[i]:
+			accuracy_count += 1
+		if classes[i] == 1 and y_test[i] == 1:
+			precision_recall_count += 1
+
+	accuracy = accuracy_count / len(classes)
+	precision = precision_recall_count / number_predicted_positive if number_predicted_positive > 0 else 0
+	recall = precision_recall_count / number_positive_in_test
+
+	stats_file = file_stem + "stats.txt"
+	with open(stats_file, 'w') as f:
+		f.write(str(accuracy) + "\n")
+		f.write(str(precision) + "\n")
+		f.write(str(recall) + "\n")
+
+	print(accuracy)
+	print(precision)
+	print(recall)	
+
+
