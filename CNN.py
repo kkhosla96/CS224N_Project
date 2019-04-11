@@ -36,7 +36,8 @@ class ListModule(nn.Module):
 	def __len__(self):
 		return len(self._modules)
 
-
+for i in range(10:
+	print("hello")
 
 class CNN(nn.Module):
 	"""
@@ -199,19 +200,32 @@ class DeepCNN(nn.Module):
 		if self.gpu:
 			indices = indices.cuda()
 		embeddings = self.embedding_layer(indices)
+		print(embeddings.size())
 		embeddings = self.dimensionality_reduction(embeddings)
+		print(embeddings.size())
 		embeddings = torch.transpose(embeddings, 1, 2)
+		print(embeddings.size())
 		feature_maps = [self.grams[idx].forward(embeddings) for idx in range(len(self.grams))]
+		print([fm.size() for fm in feature_maps])
 		cat = torch.cat(feature_maps, dim=2)
+		print(cat.size())
 		cat = torch.transpose(cat, 1, 2)
+		print(cat.size())
 		maxd = self.max1(cat)
+		print(maxd.size())
 		relud = self.relu(maxd)
+		print(relud.size())
 		unsqueezed = torch.unsqueeze(relud, dim=1)
+		print(unsqueezed.size())
 		convd = self.conv(unsqueezed)
+		print(convd.size())
 		maxd2 = self.max2(convd)
+		print(maxd2.size())
 		flat = maxd2.view(maxd2.size()[0], -1)
+		print(flat.size())
 		dropped = self.dropout(flat)
 		scores = self.linear(dropped)
+		print(scores.size())
 		scores = scores.squeeze(dim=1)
 		probs = torch.sigmoid(scores) 
 		return probs
