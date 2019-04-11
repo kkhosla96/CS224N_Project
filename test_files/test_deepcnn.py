@@ -14,7 +14,7 @@ embeddings = torch.nn.Embedding(number_words, embed_size)
 print(embeddings.weight.type())
 vocab = Vocab("sample_vocabulary.txt", 4)
 cnn = DeepCNN(vocab, embeddings)
-terms = [["this", "vocabulary"], ["it", "bitch"], ["hello"]]
+terms = [["this", "vocabulary"], ["it", "friend"], ["hello"]]
 f = cnn.forward(terms)
 print(f)
 print(f.size())
