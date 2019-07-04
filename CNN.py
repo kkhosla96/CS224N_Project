@@ -36,9 +36,6 @@ class ListModule(nn.Module):
 	def __len__(self):
 		return len(self._modules)
 
-for i in range(10:
-	print("hello")
-
 class CNN(nn.Module):
 	"""
 	A simple CNN network to determine if a term is a glossary term.
